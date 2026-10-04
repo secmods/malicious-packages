@@ -828,6 +828,7 @@
 {"name":"candyurl","id":"MAL-2023-2537","published":"2023-02-23T19:03:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"candyvisa","id":"MAL-2023-2538","published":"2023-02-24T16:51:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"canvas-crawler","id":"MAL-2025-2943","versions":["0.1"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"caoxiltts","id":"MAL-2026-17471","versions":["0.1.0","0.1.1"],"published":"2026-10-03T19:41:50Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"capmoneercloudclient","id":"MAL-2024-4845","aliases":["SNYK-PYTHON-CAPMONEERCLOUDCLIENT-6513385"],"versions":["1.0.0"],"published":"2024-06-25T13:33:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"capmonsstercloudcliennt","id":"MAL-2024-4846","aliases":["SNYK-PYTHON-CAPMONSSTERCLOUDCLIENNT-6513243"],"versions":["1.0.0"],"published":"2024-06-25T13:33:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"capmonsstercloudclient","id":"MAL-2024-4847","aliases":["SNYK-PYTHON-CAPMONSSTERCLOUDCLIENT-6513512"],"versions":["1.0.0"],"published":"2024-06-25T13:33:03Z","modified":"2026-10-02T05:38:49Z"}
@@ -1607,6 +1608,7 @@
 {"name":"decompopt","id":"MAL-2024-10448","versions":["912.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"decoratoroperations","id":"MAL-2025-41658","versions":["0.0.3"],"published":"2025-08-28T07:10:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"decoris","id":"MAL-2026-14554","versions":["0.3.0","0.3.3"],"published":"2026-08-27T13:11:08Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"dedh-devops-automation","id":"MAL-2026-17455","versions":["0.0.1","5.0.0","5.6.0","5.6.1","5.6.999","5.8.0","5.8.1","5.9.0"],"published":"2026-10-02T14:10:14Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"deepface-weight","id":"MAL-2026-14158","versions":["0.1.4"],"published":"2026-08-18T22:54:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"deepface-weights","id":"MAL-2026-14132","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-08-18T21:48:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"deepmountains-rce","id":"MAL-2025-41659","versions":["0.0.1"],"published":"2025-08-28T07:10:57Z","modified":"2026-10-02T05:38:49Z"}
@@ -1877,6 +1879,7 @@
 {"name":"ebell","id":"MAL-2024-12263","versions":["0.1"],"published":"2024-07-28T23:19:33Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ebsocket-client","id":"MAL-2023-1820","published":"2023-02-11T11:24:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ebsockets","id":"MAL-2023-1821","published":"2023-02-09T19:18:10Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"echogen","id":"MAL-2026-17462","versions":["1.0.0"],"published":"2026-10-03T05:03:06Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"edcv","id":"MAL-2023-2693","published":"2023-02-25T16:03:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"edgame","id":"MAL-2023-2694","published":"2023-02-25T16:12:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"edgehttp","id":"MAL-2024-5104","versions":["1.0"],"published":"2024-06-25T13:35:07Z","modified":"2026-10-02T05:38:49Z"}
@@ -3769,6 +3772,7 @@
 {"name":"infourl","id":"MAL-2023-3806","published":"2023-02-24T16:45:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"infovirtual","id":"MAL-2023-3807","published":"2023-02-24T16:48:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"infovm","id":"MAL-2023-3808","published":"2023-02-24T16:39:06Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"infrabench","id":"MAL-2026-17469","versions":["0.1.0","0.1.1","0.2.0"],"published":"2026-10-03T16:21:40Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"init2winit","id":"MAL-2026-1989","versions":["9.9.9"],"published":"2026-03-20T10:37:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"initer","id":"MAL-2025-6524","versions":["0.2.1","0.2.2","0.2.5","0.2.6"],"published":"2025-05-09T20:14:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"initializer","id":"MAL-2024-5261","versions":["0.1.0"],"published":"2024-06-25T13:36:24Z","modified":"2026-10-02T05:38:49Z"}
@@ -11365,6 +11369,15 @@
 {"name":"voicemetterr","id":"MAL-2025-191921","versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5"],"published":"2025-11-21T19:23:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"voipms-service","id":"MAL-2025-191922","versions":["0.1"],"published":"2025-03-09T19:00:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"voto3","id":"MAL-2024-11746","versions":["0.1","0.2","0.2.0","0.3","0.3.0","0.7.0","0.9.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"voxcpmeval","id":"MAL-2026-17465","versions":["0.1.0"],"published":"2026-10-03T13:18:34Z","modified":"2026-10-04T04:01:54Z"}
+{"name":"voxcpmintel","id":"MAL-2026-17468","versions":["0.1.0"],"published":"2026-10-03T14:00:06Z","modified":"2026-10-04T04:01:54Z"}
+{"name":"voxcpmkit","id":"MAL-2026-17466","versions":["0.1.0"],"published":"2026-10-03T12:24:50Z","modified":"2026-10-04T04:01:54Z"}
+{"name":"voxcpmruntime","id":"MAL-2026-17470","versions":["0.1.0"],"published":"2026-10-03T14:42:59Z","modified":"2026-10-04T04:01:54Z"}
+{"name":"voxcpmtts3","id":"MAL-2026-17463","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-10-03T04:47:46Z","modified":"2026-10-04T04:01:54Z"}
+{"name":"voxcpmui3","id":"MAL-2026-17464","versions":["0.1.0"],"published":"2026-10-03T10:46:57Z","modified":"2026-10-04T04:01:54Z"}
+{"name":"voxcpmui4","id":"MAL-2026-17467","versions":["0.2.0"],"published":"2026-10-03T11:51:12Z","modified":"2026-10-04T04:01:54Z"}
+{"name":"voxel-tts","id":"MAL-2026-17461","versions":["0.5.0","0.5.1"],"published":"2026-10-03T04:38:14Z","modified":"2026-10-04T04:01:54Z"}
+{"name":"voxeval","id":"MAL-2026-17457","versions":["0.4.2","0.4.3","0.4.4","0.4.5"],"published":"2026-10-02T21:28:42Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"vper","id":"MAL-2023-2348","published":"2023-02-09T19:00:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vpyer","id":"MAL-2023-2349","published":"2023-02-09T19:00:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vramx","id":"MAL-2025-6614","versions":["1.6.2","1.6.3"],"published":"2025-07-16T19:46:51Z","modified":"2026-10-02T05:38:49Z"}

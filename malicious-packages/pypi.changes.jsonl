@@ -1,0 +1,13 @@
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"caoxiltts","id":"MAL-2026-17471","versions":["0.1.0","0.1.1"],"published":"2026-10-03T19:41:50Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"dedh-devops-automation","id":"MAL-2026-17455","versions":["0.0.1","5.0.0","5.6.0","5.6.1","5.6.999","5.8.0","5.8.1","5.9.0"],"published":"2026-10-02T14:10:14Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"echogen","id":"MAL-2026-17462","versions":["1.0.0"],"published":"2026-10-03T05:03:06Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"infrabench","id":"MAL-2026-17469","versions":["0.1.0","0.1.1","0.2.0"],"published":"2026-10-03T16:21:40Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"voxcpmeval","id":"MAL-2026-17465","versions":["0.1.0"],"published":"2026-10-03T13:18:34Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"voxcpmintel","id":"MAL-2026-17468","versions":["0.1.0"],"published":"2026-10-03T14:00:06Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"voxcpmkit","id":"MAL-2026-17466","versions":["0.1.0"],"published":"2026-10-03T12:24:50Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"voxcpmruntime","id":"MAL-2026-17470","versions":["0.1.0"],"published":"2026-10-03T14:42:59Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"voxcpmtts3","id":"MAL-2026-17463","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-10-03T04:47:46Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"voxcpmui3","id":"MAL-2026-17464","versions":["0.1.0"],"published":"2026-10-03T10:46:57Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"voxcpmui4","id":"MAL-2026-17467","versions":["0.2.0"],"published":"2026-10-03T11:51:12Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"voxel-tts","id":"MAL-2026-17461","versions":["0.5.0","0.5.1"],"published":"2026-10-03T04:38:14Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"voxeval","id":"MAL-2026-17457","versions":["0.4.2","0.4.3","0.4.4","0.4.5"],"published":"2026-10-02T21:28:42Z"}

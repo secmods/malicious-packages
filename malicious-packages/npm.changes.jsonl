@@ -1,0 +1,9 @@
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"@smwebserver/static","id":"MAL-2026-17456","versions":["99.9.1"],"published":"2026-10-02T18:36:13Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"@woodpecker-web-shared/components","id":"MAL-2026-16354","aliases":["GHSA-44hm-95r4-wcrf"],"published":"2026-09-21T17:20:37Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"bnppf-flag-icons","id":"MAL-2026-16350","aliases":["GHSA-34p9-xxp2-hv3g"],"published":"2026-09-21T16:41:57Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"hardhat-zet","id":"MAL-2026-17234","aliases":["GHSA-mw8r-6m3f-qmg8"],"published":"2026-09-28T22:07:01Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"mfahelper","id":"MAL-2026-17308","aliases":["GHSA-9f55-6cf9-3pgw"],"versions":["1.0.0"],"published":"2026-09-30T01:00:23Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"translate-base-font","id":"MAL-2026-17458","aliases":["GHSA-grv5-7wp6-vw6h"],"published":"2026-10-02T21:26:23Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"turbo-ws","id":"MAL-2026-16440","aliases":["GHSA-3933-m2c5-xfm8"],"versions":["1.0.0"],"published":"2026-09-23T01:58:25Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"ui-base-colors","id":"MAL-2026-17459","aliases":["GHSA-qgqx-3mhx-jwx3"],"published":"2026-10-02T21:26:23Z"}
+{"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"ui.dist.min.js","id":"MAL-2026-17460","aliases":["GHSA-325f-rjxf-3gm9"],"published":"2026-10-02T21:26:23Z"}
