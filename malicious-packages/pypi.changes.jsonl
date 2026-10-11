@@ -1,3 +1,15 @@
+{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"agent-vx","id":"MAL-2026-17755","versions":["0.1.0"],"published":"2026-10-10T11:19:48Z"}
+{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"agentaix","id":"MAL-2026-17752","versions":["0.1.0","0.2.0"],"published":"2026-10-10T07:57:16Z"}
+{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"anthropic-sdk","id":"MAL-2026-17472","versions":["0.1.0"],"published":"2026-10-04T19:09:32Z"}
+{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"erc7730-hackathon","id":"MAL-2026-17628","versions":["99.0.0"],"published":"2026-10-05T20:44:32Z"}
+{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"ig-gox","id":"MAL-2026-17712","versions":["1.0.0"],"published":"2026-10-09T09:21:11Z"}
+{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"kafka-helmsman","id":"MAL-2026-17702","versions":["99.0.1","99.0.2","99.0.3","99.0.4","99.0.5","99.0.6"],"published":"2026-10-08T21:15:56Z"}
+{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"kafka-roller","id":"MAL-2026-17703","versions":["99.0.0","99.0.1","99.0.2","99.0.3","99.0.4","99.0.5","99.0.6"],"published":"2026-10-08T20:52:03Z"}
+{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"lore-cs","id":"MAL-2026-17639","versions":["1.0.0"],"published":"2026-10-06T21:13:57Z"}
+{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"media-manager5","id":"MAL-2026-17753","versions":["0.1.0"],"published":"2026-10-10T08:02:44Z"}
+{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"pafer","id":"MAL-2026-17756","versions":["0.9.7","0.9.8"],"published":"2026-10-10T11:11:35Z"}
+{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"webreader","id":"MAL-2026-17757","versions":["2.3.8"],"published":"2026-10-10T11:07:02Z"}
+{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"zencleaner","id":"MAL-2026-17629","versions":["1.0.0","1.0.3","1.0.3.1"],"published":"2026-10-03T22:47:45Z"}
 {"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"caoxiltts","id":"MAL-2026-17471","versions":["0.1.0","0.1.1"],"published":"2026-10-03T19:41:50Z"}
 {"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"dedh-devops-automation","id":"MAL-2026-17455","versions":["0.0.1","5.0.0","5.6.0","5.6.1","5.6.999","5.8.0","5.8.1","5.9.0"],"published":"2026-10-02T14:10:14Z"}
 {"op":"upsert","modified":"2026-10-04T04:01:54Z","name":"echogen","id":"MAL-2026-17462","versions":["1.0.0"],"published":"2026-10-03T05:03:06Z"}

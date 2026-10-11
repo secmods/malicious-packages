@@ -16,5 +16,6 @@
 {"name":"replit_ruspty","id":"MAL-2025-49350","versions":["1.0.0"],"published":"2025-11-04T04:53:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"rustdecimal","id":"MAL-2022-1","aliases":["GHSA-7pwq-f4pq-78gm"],"published":"2022-08-11T15:43:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"semantic-search-client","id":"MAL-2026-3102","versions":["99.0.1"],"published":"2026-04-27T17:20:59Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"sharpnes","id":"MAL-2026-17713","published":"2026-10-09T00:00:00Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"supertag","id":"MAL-2026-3129","versions":["99.1.1"],"published":"2026-04-28T13:36:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tinymember","id":"MAL-2026-14340","published":"2026-08-20T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
