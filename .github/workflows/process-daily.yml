@@ -2,8 +2,8 @@ name: Process Malware Packages
 
 on:
   schedule:
-    # Run once a week (Sunday 00:00 UTC)
-    - cron: '0 0 * * 0'
+    # Run hourly (at minute 0 UTC)
+    - cron: '0 * * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
@@ -62,12 +62,12 @@ jobs:
             --latest \
             --notes "Snapshot of malicious-packages/ at generated_at=${generated} (${records} packages). Extracting creates the malicious-packages/ directory. Incremental clients should use manifest.json and the changes files instead of downloading this archive on every sync."
 
-      - name: Delete feed releases older than 14 days
+      - name: Delete feed releases older than 5 days
         if: success()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          cutoff=$(date -u -d '14 days ago' +%Y-%m-%dT%H:%M:%SZ)
+          cutoff=$(date -u -d '5 days ago' +%Y-%m-%dT%H:%M:%SZ)
           # Keep the newest feed release even if it is older than the cutoff, so
           # releases/latest/download/malicious-packages.tar.gz keeps resolving.
           gh release list --limit 200 --json tagName,publishedAt \
