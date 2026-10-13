@@ -3074,6 +3074,7 @@
 {"name":"flyteplugins-nsight","id":"MAL-2026-14583","versions":["2.6.10"],"published":"2026-08-27T21:48:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"flyteplugins-redis","id":"MAL-2026-14584","versions":["2.6.10"],"published":"2026-08-27T21:48:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fonafx","id":"MAL-2025-191733","versions":["0.1","0.2","0.3"],"published":"2025-07-04T09:57:46Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"fontcase","id":"MAL-2026-17862","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-10-13T19:30:53Z","modified":"2026-10-13T22:01:50Z"}
 {"name":"foop","id":"MAL-2025-927","versions":["60.0.0"],"published":"2024-12-01T16:23:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"forecolor5","id":"MAL-2024-5147","aliases":["SNYK-PYTHON-FORECOLOR5-6129558"],"versions":["0.0.1","0.0.2","0.0.3","0.0.4","0.0.6","0.0.9","0.1.0","0.1.1","0.1.5"],"published":"2024-06-25T13:35:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"forecolors7","id":"MAL-2024-5148","aliases":["SNYK-PYTHON-FORECOLORS7-6129548"],"versions":["7.6.9","8.0.0"],"published":"2024-06-25T13:35:28Z","modified":"2026-10-02T05:38:49Z"}
@@ -3710,7 +3711,7 @@
 {"name":"idscord-py","id":"MAL-2023-1879","published":"2023-02-11T12:06:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"idscord-webhook","id":"MAL-2023-1880","published":"2023-02-11T12:03:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"idtotoken","id":"MAL-2024-5255","versions":["0.0.1"],"published":"2024-06-25T13:36:21Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ig-gox","id":"MAL-2026-17712","versions":["1.0.0"],"published":"2026-10-09T09:21:11Z","modified":"2026-10-11T03:39:29Z"}
+{"name":"ig-gox","id":"MAL-2026-17712","versions":["1.0.0"],"published":"2026-10-09T02:53:23Z","modified":"2026-10-13T22:01:50Z"}
 {"name":"ighack","id":"MAL-2026-1410","versions":["3.0"],"published":"2026-03-13T10:47:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ignore-ssl","id":"MAL-2025-2968","versions":["0.0.1"],"published":"2025-03-28T13:05:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"igtpython","id":"MAL-2023-1881","published":"2023-02-11T12:33:05Z","modified":"2026-10-02T05:38:49Z"}
@@ -5226,6 +5227,7 @@
 {"name":"minecpu","id":"MAL-2023-4758","published":"2023-02-24T16:51:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"minecraft-utilities-api","id":"MAL-2024-5367","versions":["0.3.6","0.3.9","0.4.1","0.4.2"],"published":"2024-06-25T13:37:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"minecraft-ytreceiver","id":"MAL-2026-14516","versions":["0.1.0","0.2.0","0.3.0","0.4.0","0.5.0"],"published":"2026-08-25T19:28:57Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"minecraftaccfinder","id":"MAL-2026-17809","versions":["0.1.0","0.1.1","0.1.2","0.3.0","0.3.1","0.4.0","2.0.0","3.0.0"],"published":"2026-10-12T09:29:22Z","modified":"2026-10-13T22:01:50Z"}
 {"name":"minecraftmodes","id":"MAL-2026-15937","versions":["0.3.3"],"published":"2026-09-06T10:37:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"minecraftskyblockapi","id":"MAL-2024-5368","versions":["0.2.2","0.2.3"],"published":"2024-06-25T13:37:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"minecv","id":"MAL-2023-4759","published":"2023-02-24T16:39:15Z","modified":"2026-10-02T05:38:49Z"}
@@ -5490,6 +5492,7 @@
 {"name":"nowsys","id":"MAL-2024-5418","versions":["0.1.0"],"published":"2024-06-25T13:37:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"np6helperhttper","id":"MAL-2024-5419","aliases":["SNYK-PYTHON-NP6HELPERHTTPER-6421767"],"versions":["0.1"],"published":"2024-06-25T13:37:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"np6helperhttptest","id":"MAL-2024-5420","aliases":["SNYK-PYTHON-NP6HELPERHTTPTEST-6421766"],"versions":["0.1","0.2","0.3","0.4","0.5","0.6"],"published":"2024-06-25T13:37:41Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"npp-ml","id":"MAL-2026-17847","versions":["0.1.10","0.1.7","0.1.8","0.1.9"],"published":"2026-10-12T20:17:47Z","modified":"2026-10-13T22:01:50Z"}
 {"name":"nshack","id":"MAL-2024-5421","versions":["1.0","1.1"],"published":"2024-06-25T13:37:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"nspacercesolve","id":"MAL-2025-191805","versions":["0.0.1","0.0.2","0.0.3","0.0.4","0.0.5","0.0.6","0.0.7"],"published":"2025-11-22T15:22:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"nspack","id":"MAL-2026-2115","versions":["0.1.0","0.1.2","0.1.3","0.1.4","0.1.5","0.1.6","0.1.8","0.1.9"],"published":"2026-03-20T15:28:57Z","modified":"2026-10-02T05:38:49Z"}
@@ -7166,6 +7169,7 @@
 {"name":"py-xord","id":"MAL-2024-5635","aliases":["SNYK-PYTHON-PYXORD-6513194"],"versions":["1.0.0"],"published":"2024-06-25T13:39:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py23crypt","id":"MAL-2024-5636","versions":["0.1.5","0.1.6"],"published":"2024-06-25T13:39:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py2colors","id":"MAL-2024-5637","versions":["0.0.0"],"published":"2024-06-25T13:39:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"py2ops","id":"MAL-2026-17807","versions":["2.2"],"published":"2026-10-09T16:02:15Z","modified":"2026-10-13T22:01:50Z"}
 {"name":"py32cly","id":"MAL-2024-5638","versions":["0.1.0"],"published":"2024-06-25T13:39:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py32flayer","id":"MAL-2024-5639","versions":["0.1.6"],"published":"2024-06-25T13:39:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py32obf","id":"MAL-2024-5640","versions":["0.1.6"],"published":"2024-06-25T13:39:26Z","modified":"2026-10-02T05:38:49Z"}
@@ -9744,6 +9748,7 @@
 {"name":"syscryptolibv1","id":"MAL-2024-6076","aliases":["SNYK-PYTHON-SYSCRYPTOLIBV1-5932243"],"versions":["1.0.0"],"published":"2024-06-25T13:43:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"syscryptpackagev1","id":"MAL-2024-6077","aliases":["SNYK-PYTHON-SYSCRYPTPACKAGEV1-5932158"],"versions":["1.0.0","1.1.0"],"published":"2024-06-25T13:43:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sysdatalib","id":"MAL-2024-6078","versions":["0.0.2"],"published":"2024-06-25T13:43:07Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"sysdiagd","id":"MAL-2026-17861","versions":["1.2.1","1.2.2","1.2.3"],"published":"2026-10-13T18:40:17Z","modified":"2026-10-13T22:01:50Z"}
 {"name":"sysfontinglib","id":"MAL-2024-6079","aliases":["SNYK-PYTHON-SYSFONTINGLIB-5932115"],"versions":["1.0.0","1.1.0"],"published":"2024-06-25T13:43:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sysfontingpkgv1","id":"MAL-2024-6080","aliases":["SNYK-PYTHON-SYSFONTINGPKGV1-5932235"],"versions":["1.0.0","1.1.0"],"published":"2024-06-25T13:43:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sysfunc","id":"MAL-2025-991","versions":["0.1","0.2","0.3","0.4","0.5","0.6","0.7","0.8"],"published":"2024-12-26T12:24:34Z","modified":"2026-10-02T05:38:49Z"}

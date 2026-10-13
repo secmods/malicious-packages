@@ -1,8 +1,13 @@
+{"op":"upsert","modified":"2026-10-13T22:01:50Z","name":"fontcase","id":"MAL-2026-17862","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-10-13T19:30:53Z"}
+{"op":"upsert","modified":"2026-10-13T22:01:50Z","name":"ig-gox","id":"MAL-2026-17712","versions":["1.0.0"],"published":"2026-10-09T02:53:23Z"}
+{"op":"upsert","modified":"2026-10-13T22:01:50Z","name":"minecraftaccfinder","id":"MAL-2026-17809","versions":["0.1.0","0.1.1","0.1.2","0.3.0","0.3.1","0.4.0","2.0.0","3.0.0"],"published":"2026-10-12T09:29:22Z"}
+{"op":"upsert","modified":"2026-10-13T22:01:50Z","name":"npp-ml","id":"MAL-2026-17847","versions":["0.1.10","0.1.7","0.1.8","0.1.9"],"published":"2026-10-12T20:17:47Z"}
+{"op":"upsert","modified":"2026-10-13T22:01:50Z","name":"py2ops","id":"MAL-2026-17807","versions":["2.2"],"published":"2026-10-09T16:02:15Z"}
+{"op":"upsert","modified":"2026-10-13T22:01:50Z","name":"sysdiagd","id":"MAL-2026-17861","versions":["1.2.1","1.2.2","1.2.3"],"published":"2026-10-13T18:40:17Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"agent-vx","id":"MAL-2026-17755","versions":["0.1.0"],"published":"2026-10-10T11:19:48Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"agentaix","id":"MAL-2026-17752","versions":["0.1.0","0.2.0"],"published":"2026-10-10T07:57:16Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"anthropic-sdk","id":"MAL-2026-17472","versions":["0.1.0"],"published":"2026-10-04T19:09:32Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"erc7730-hackathon","id":"MAL-2026-17628","versions":["99.0.0"],"published":"2026-10-05T20:44:32Z"}
-{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"ig-gox","id":"MAL-2026-17712","versions":["1.0.0"],"published":"2026-10-09T09:21:11Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"kafka-helmsman","id":"MAL-2026-17702","versions":["99.0.1","99.0.2","99.0.3","99.0.4","99.0.5","99.0.6"],"published":"2026-10-08T21:15:56Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"kafka-roller","id":"MAL-2026-17703","versions":["99.0.0","99.0.1","99.0.2","99.0.3","99.0.4","99.0.5","99.0.6"],"published":"2026-10-08T20:52:03Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"lore-cs","id":"MAL-2026-17639","versions":["1.0.0"],"published":"2026-10-06T21:13:57Z"}
