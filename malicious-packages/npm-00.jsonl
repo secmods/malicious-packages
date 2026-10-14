@@ -777,6 +777,7 @@
 {"name":"@abgular/core","id":"MAL-2026-17532","versions":["22.2.1"],"published":"2026-10-05T03:32:45Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"@abi-labs-frontend/standards","id":"MAL-2026-2329","aliases":["GHSA-hqxv-wmmr-v5h3"],"versions":["9.99.15"],"published":"2026-03-24T15:23:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ably-forks/crypto-js","id":"MAL-2024-2033","aliases":["GHSA-j65q-j3j4-22vw"],"versions":["3.999.0"],"published":"2024-06-25T12:18:21Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@accenturecodefoundry/mfe-pot-shared-ui-scds-core","id":"MAL-2026-17867","versions":["99.99.2","99.99.4","99.99.41"],"published":"2026-10-13T13:37:54Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"@access-risk/browser-remedy-react","id":"MAL-2026-5520","versions":["99.0.0","99.1.1"],"published":"2026-06-10T18:26:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@accesshsc/access-forms-engine","id":"MAL-2025-2489","aliases":["GHSA-4288-74wg-6qwx","SNYK-JS-ACCESSHSCACCESSFORMSENGINE-9486033"],"published":"2025-03-18T05:38:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@accessibility-insights/eslint-plugin","id":"MAL-2025-6899","versions":["9.9.9","9.9.99"],"published":"2025-08-17T22:55:51Z","modified":"2026-10-02T05:38:49Z"}
@@ -6143,6 +6144,7 @@
 {"name":"@koop-components/common","id":"MAL-2022-385","aliases":["GHSA-x3vc-rm8j-3h9h"],"published":"2022-06-20T20:26:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kp-admin/history","id":"MAL-2024-9036","versions":["20.0.0","20.0.1","20.0.2","20.0.3","20.0.4"],"published":"2024-09-28T23:40:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kp-admin/main","id":"MAL-2024-9032","versions":["20.0.0"],"published":"2024-09-28T22:58:50Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@kre64/hello-npm-test","id":"MAL-2026-17868","aliases":["GHSA-c43r-xf4h-m548"],"versions":["1.0.0"],"published":"2026-10-14T00:09:17Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"@krentzen/buffer-reverse","id":"MAL-2026-6536","versions":["1.0.3"],"published":"2026-06-26T20:21:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ks-cqc/fingerprint-generator","id":"MAL-2026-16523","versions":["1.99.99"],"published":"2026-09-22T17:06:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ks-cqc/h5-sig4","id":"MAL-2026-16524","versions":["2.99.99"],"published":"2026-09-22T17:06:18Z","modified":"2026-10-02T05:38:49Z"}
@@ -78992,7 +78994,7 @@
 {"name":"gemini-callisto-regulus-hercules","id":"MAL-2025-142893","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gemini-cli-a2a-server","id":"MAL-2026-14244","versions":["1.0.0"],"published":"2026-08-19T03:50:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gemini-cli-vscode-ide-companion","id":"MAL-2026-2764","versions":["99.99.9"],"published":"2026-04-16T09:58:22Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"gemini-computer-use","id":"MAL-2026-16355","versions":["0.1.2"],"published":"2026-09-21T17:21:03Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"gemini-computer-use","id":"MAL-2026-16355","versions":["0.1.2","0.4.3"],"published":"2026-09-21T17:21:03Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"gemini-csv-cryonics-castor","id":"MAL-2025-187133","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gemini-csv-gacrux-andromeda","id":"MAL-2025-187134","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gemini-dactyl-archaeogenetics-morgan","id":"MAL-2025-187135","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
@@ -146199,6 +146201,8 @@
 {"name":"passrdigitalportal","id":"MAL-2025-2888","versions":["100.1.5"],"published":"2025-03-28T12:54:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"passsport1","id":"MAL-2026-11344","aliases":["GHSA-whq9-wwww-4g3q"],"published":"2026-07-31T00:52:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"passtpor","id":"MAL-2026-11345","aliases":["GHSA-j9c9-vv76-9f83"],"published":"2026-07-31T00:52:45Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"passwordcracker","id":"MAL-2026-17864","published":"2026-10-10T00:14:23Z","modified":"2026-10-14T01:27:44Z"}
+{"name":"passwordcrackv2","id":"MAL-2026-17865","published":"2026-10-09T22:04:05Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"past-blue-hippopotamus","id":"MAL-2025-69840","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"past-lime-warbler","id":"MAL-2025-69841","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"past-olive-tern","id":"MAL-2025-69842","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
@@ -200206,8 +200210,3 @@
 {"name":"uninlua","id":"MAL-2025-37819","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"uninstall-acamar-supervisor-cassini","id":"MAL-2025-148951","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"uninstall-apollo-gacrux-dependencies","id":"MAL-2025-148952","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uninstall-axios-node-sass-exec","id":"MAL-2025-148953","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uninstall-browserify-ganymede-postcss-loader","id":"MAL-2025-148954","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uninstall-comet-orbit-oauth","id":"MAL-2025-148955","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uninstall-enceladus-luna-testcafe","id":"MAL-2025-46459","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uninstall-figures-epimetheus-auriga","id":"MAL-2025-148956","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}

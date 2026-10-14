@@ -1342,6 +1342,7 @@
 {"name":"credential-python-sdk","id":"MAL-2025-2950","aliases":["SNYK-PYTHON-CREDENTIALPYTHONSDK-12201349"],"versions":["0.0.3"],"published":"2025-02-25T18:18:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"credential-sdk","id":"MAL-2024-5000","versions":["0.0.1","0.0.2","0.0.3"],"published":"2024-06-25T13:34:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"credit-decision-metrics","id":"MAL-2026-653","versions":["9.1.0"],"published":"2026-02-02T14:42:50Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"crelic-bqwheel-52f66a3f1d","id":"MAL-2026-17863","versions":["0.0.1"],"published":"2026-10-13T22:46:32Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"crowdnav","id":"MAL-2025-41642","versions":["1.0"],"published":"2025-08-28T07:10:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"crowdstrike-foundry","id":"MAL-2025-912","versions":["20.1.0","20.2.0","20.3.0"],"published":"2024-12-01T16:23:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"crpt","id":"MAL-2025-191707","versions":["1.0.0"],"published":"2025-07-12T18:44:15Z","modified":"2026-10-02T05:38:49Z"}
@@ -7763,6 +7764,7 @@
 {"name":"pyyaml-selenium","id":"MAL-2023-1398","versions":["1.15.3"],"published":"2023-05-20T14:00:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyycodestyle","id":"MAL-2023-2139","published":"2023-02-11T12:30:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyygame","id":"MAL-2023-2140","published":"2023-02-10T20:27:01Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"pyyi","id":"MAL-2026-17866","versions":["2.4.1"],"modified":"2026-10-14T01:27:44Z"}
 {"name":"pyyinstaller","id":"MAL-2023-2141","published":"2023-02-10T17:33:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyysocks","id":"MAL-2023-2142","published":"2023-02-11T12:15:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyython-binance","id":"MAL-2023-2143","published":"2023-02-10T20:33:02Z","modified":"2026-10-02T05:38:49Z"}

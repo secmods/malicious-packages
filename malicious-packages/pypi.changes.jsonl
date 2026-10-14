@@ -1,3 +1,5 @@
+{"op":"upsert","modified":"2026-10-14T01:27:44Z","name":"crelic-bqwheel-52f66a3f1d","id":"MAL-2026-17863","versions":["0.0.1"],"published":"2026-10-13T22:46:32Z"}
+{"op":"upsert","modified":"2026-10-14T01:27:44Z","name":"pyyi","id":"MAL-2026-17866","versions":["2.4.1"]}
 {"op":"upsert","modified":"2026-10-13T22:01:50Z","name":"fontcase","id":"MAL-2026-17862","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-10-13T19:30:53Z"}
 {"op":"upsert","modified":"2026-10-13T22:01:50Z","name":"ig-gox","id":"MAL-2026-17712","versions":["1.0.0"],"published":"2026-10-09T02:53:23Z"}
 {"op":"upsert","modified":"2026-10-13T22:01:50Z","name":"minecraftaccfinder","id":"MAL-2026-17809","versions":["0.1.0","0.1.1","0.1.2","0.3.0","0.3.1","0.4.0","2.0.0","3.0.0"],"published":"2026-10-12T09:29:22Z"}

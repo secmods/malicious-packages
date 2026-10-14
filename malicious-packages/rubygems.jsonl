@@ -800,7 +800,7 @@
 {"name":"blinkist_airbrake-scrubber","id":"MAL-2024-6785","versions":["4.1.1"],"published":"2024-06-25T13:49:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"blinkman-twitter-search","id":"MAL-2024-6786","versions":["0.1.0"],"published":"2024-06-25T13:49:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bliundler","id":"MAL-2026-16723","versions":["1.0.0","1.0.23197"],"published":"2026-09-22T16:15:35Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"block-explorer-api","id":"MAL-2026-17780","versions":["0.9.1"],"published":"2026-10-11T13:46:34Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"block-explorer-api","id":"MAL-2026-17780","versions":["0.9.1"],"published":"2026-10-11T07:05:27Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"blockchain-sync-utils","id":"MAL-2026-17588","published":"2026-10-05T07:30:41Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"blumdler","id":"MAL-2026-16724","versions":["1.0.0","1.0.70382"],"published":"2026-09-22T16:15:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"blundlef","id":"MAL-2026-16725","versions":["1.0.0","1.0.61792"],"published":"2026-09-22T16:15:37Z","modified":"2026-10-02T05:38:49Z"}
@@ -1405,7 +1405,7 @@
 {"name":"designtestabc01","id":"MAL-2026-7612","aliases":["GHSA-r53x-57pc-49fr"],"versions":["0.0.1"],"published":"2026-07-07T11:52:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"designtestproxyxyzabc","id":"MAL-2026-7613","aliases":["GHSA-3w32-pcrf-h5h8"],"versions":["0.0.1","0.0.2"],"published":"2026-07-07T11:52:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"devino-sms","id":"MAL-2024-6862","aliases":["GHSA-xvmh-jxhh-7747"],"versions":["0.0.2"],"published":"2024-06-25T13:50:34Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"dex-router-abis","id":"MAL-2026-17784","versions":["0.9.1"],"published":"2026-10-11T13:45:11Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"dex-router-abis","id":"MAL-2026-17784","versions":["0.9.1"],"published":"2026-10-11T07:15:27Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"dextester","id":"MAL-2025-1010","aliases":["GHSA-4qgm-58v4-v4v2"],"versions":["9.9.9"],"published":"2025-02-03T17:08:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"diet_earthsmoke","id":"MAL-2025-46903","versions":["0.3.1"],"published":"2025-09-01T09:47:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"diff-analysis","id":"MAL-2025-46904","versions":["0.1.0.r8ff4356"],"published":"2025-09-01T09:47:29Z","modified":"2026-10-02T05:38:49Z"}
@@ -1500,7 +1500,7 @@
 {"name":"enc30809","id":"MAL-2026-7671","aliases":["GHSA-m6rr-8vp5-v274"],"versions":["0.0.1"],"published":"2026-07-07T11:52:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"endosome","id":"MAL-2024-6890","aliases":["GHSA-q278-jcmj-m9m8"],"versions":["22.55.0"],"published":"2024-06-25T13:50:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"enpit-weather","id":"MAL-2024-6891","aliases":["GHSA-6qvw-q9jr-9jpj"],"versions":["0.1.0"],"published":"2024-06-25T13:50:51Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"erc20-approve-audit","id":"MAL-2026-17785","versions":["0.9.1"],"published":"2026-10-11T13:46:43Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"erc20-approve-audit","id":"MAL-2026-17785","versions":["0.9.1"],"published":"2026-10-11T07:35:30Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"et_azure_insights","id":"MAL-2024-6892","aliases":["GHSA-63xp-gjr8-8g5m"],"versions":["0.4.0","0.5.0","0.7.0","0.8.0"],"published":"2024-06-25T13:50:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"eth-address-utils","id":"MAL-2026-17597","published":"2026-10-05T07:10:37Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"eth-gas-oracle","id":"MAL-2026-17786","versions":["0.9.1"],"published":"2026-10-11T13:49:22Z","modified":"2026-10-13T22:01:50Z"}
@@ -1510,7 +1510,7 @@
 {"name":"ethereum-tx-helper","id":"MAL-2026-17601","published":"2026-10-05T07:55:38Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"evenote-thrift","id":"MAL-2025-3021","aliases":["GHSA-xh6q-rw2r-gxhv"],"versions":["1.25.8","10.0.0","10.2.0","10.3.0","10.4.0","10.5.0","10.6.0","10.7.0","10.8.0","9.9.9"],"published":"2025-03-28T13:06:36Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"evil_gem","id":"MAL-2025-2208","versions":["0.1.0"],"published":"2025-03-06T19:08:43Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"evm-tx-decoder","id":"MAL-2026-17787","versions":["0.9.1"],"published":"2026-10-11T13:47:20Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"evm-tx-decoder","id":"MAL-2026-17787","versions":["0.9.1"],"published":"2026-10-11T07:35:27Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"execute-with_rescue_with_airbrake","id":"MAL-2024-6893","aliases":["GHSA-w464-grpr-6p26"],"versions":["0.0.3"],"published":"2024-06-25T13:50:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"exfiltesttrigger6","id":"MAL-2026-7672","aliases":["GHSA-wjcm-3wrq-mgph"],"versions":["0.0.6"],"published":"2026-07-07T11:52:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"exfiltestwand","id":"MAL-2026-7673","aliases":["GHSA-7gcr-whcg-c8f8"],"versions":["0.0.1"],"published":"2026-07-07T11:52:45Z","modified":"2026-10-02T05:38:49Z"}
@@ -1589,7 +1589,7 @@
 {"name":"galvinhsiu-active-cart","id":"MAL-2024-6926","aliases":["GHSA-63f7-qvhf-67w8"],"versions":["0.0.20"],"published":"2024-06-25T13:51:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"game-shuffle_cards","id":"MAL-2024-6927","aliases":["GHSA-3q4g-2v8r-v899"],"versions":["1.0.5"],"published":"2024-06-25T13:51:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gamer-stats","id":"MAL-2024-6928","aliases":["GHSA-rjg3-94xw-grxq"],"versions":["0.2.5"],"published":"2024-06-25T13:51:11Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"gas-refuel-bridge","id":"MAL-2026-17788","versions":["0.9.1"],"published":"2026-10-11T13:45:36Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"gas-refuel-bridge","id":"MAL-2026-17788","versions":["0.9.1"],"published":"2026-10-11T06:55:26Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"gemnasium-gitlab-service","id":"MAL-2024-6929","aliases":["GHSA-wggv-fp48-h6pm"],"versions":["0.1.0","0.1.1","0.1.2","0.2.1","0.2.2","0.2.3","0.2.4","0.2.5","0.2.6","0.3.0","0.6.0","6.0.7","7.0.0","7.0.1","7.0.3","8.0.0"],"published":"2024-06-25T13:51:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gemx559383abc","id":"MAL-2026-7709","aliases":["GHSA-wv2r-vqc9-97r3"],"versions":["0.0.1"],"published":"2026-07-07T11:53:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gemxpush21778549590","id":"MAL-2026-7710","aliases":["GHSA-q2pm-43jj-6rw9"],"versions":["0.0.1","0.0.2"],"published":"2026-07-07T11:53:09Z","modified":"2026-10-02T05:38:49Z"}
@@ -1647,7 +1647,7 @@
 {"name":"has-changelogs","id":"MAL-2024-6940","aliases":["GHSA-qhc3-g4jq-5v5q"],"versions":["0.2.0"],"published":"2024-06-25T13:51:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"has-logs","id":"MAL-2024-6941","aliases":["GHSA-pwv9-qhfc-wxg7"],"versions":["0.7.0"],"published":"2024-06-25T13:51:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"haybales","id":"MAL-2025-192906","aliases":["GHSA-r2cm-m2p4-r229"],"versions":["90002.0"],"published":"2025-12-23T08:40:55Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"hd-wallet-generator","id":"MAL-2026-17789","versions":["0.9.1"],"published":"2026-10-11T13:45:45Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"hd-wallet-generator","id":"MAL-2026-17789","versions":["0.9.1"],"published":"2026-10-11T07:25:28Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"hdkey-derive-helper","id":"MAL-2026-17602","published":"2026-10-05T07:10:41Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"hello-kelvinst","id":"MAL-2024-6942","aliases":["GHSA-h7vm-g7qx-pjv6"],"versions":["0.0.1"],"published":"2024-06-25T13:51:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hfc","id":"MAL-2024-6943","aliases":["GHSA-mfpc-gxhg-h2fg"],"versions":["2.9.0"],"published":"2024-06-25T13:51:21Z","modified":"2026-10-02T05:38:49Z"}
@@ -2255,7 +2255,7 @@
 {"name":"newswandweekjan3","id":"MAL-2026-8136","aliases":["GHSA-6hhc-cx74-h8p4"],"versions":["0.0.1"],"published":"2026-07-07T11:57:29Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"newswandweekjan4","id":"MAL-2026-8137","aliases":["GHSA-q3c8-9wpm-jprr"],"versions":["0.0.1"],"published":"2026-07-07T11:57:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"newswandweekjan5","id":"MAL-2026-8138","aliases":["GHSA-jwpw-f2hx-rpm5"],"versions":["0.0.1"],"published":"2026-07-07T11:57:31Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"nft-metadata-resolver","id":"MAL-2026-17792","versions":["0.9.1"],"published":"2026-10-11T13:48:27Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"nft-metadata-resolver","id":"MAL-2026-17792","versions":["0.9.1"],"published":"2026-10-11T07:25:28Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"nhtsa-vin","id":"MAL-2024-6996","aliases":["GHSA-8h9j-7w6f-2856"],"versions":["0.0.8"],"published":"2024-06-25T13:51:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"no-fun","id":"MAL-2026-16411","versions":["999.99.99"],"published":"2026-09-22T21:01:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"nwcid311","id":"MAL-2026-8139","aliases":["GHSA-p389-5qfj-w4q6"],"versions":["0.0.1"],"published":"2026-07-07T11:57:31Z","modified":"2026-10-02T05:38:49Z"}
@@ -2554,7 +2554,7 @@
 {"name":"pdfmeno1","id":"MAL-2026-8423","aliases":["GHSA-f3q8-hg6q-j43f"],"versions":["0.0.1"],"published":"2026-07-07T12:00:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pdfpalais1","id":"MAL-2026-8424","aliases":["GHSA-w64f-37w5-6mgp"],"versions":["0.0.1"],"published":"2026-07-07T12:00:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pdftoilet1","id":"MAL-2026-8425","aliases":["GHSA-r3cm-w9hw-3rhc"],"versions":["0.0.1"],"published":"2026-07-07T12:00:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"perp-funding-rates","id":"MAL-2026-17793","versions":["0.9.1"],"published":"2026-10-11T13:48:06Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"perp-funding-rates","id":"MAL-2026-17793","versions":["0.9.1"],"published":"2026-10-11T07:05:31Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"pg_result_init","id":"MAL-2025-191667","versions":["2.0.9"],"published":"2025-12-02T15:12:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"piko-clean-hub","id":"MAL-2026-15764","versions":["0.0.1"],"published":"2026-08-24T16:15:39Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"piko-clean-mod","id":"MAL-2026-15765","versions":["0.0.1"],"published":"2026-08-24T16:15:40Z","modified":"2026-10-02T05:38:49Z"}
@@ -2778,7 +2778,7 @@
 {"name":"secondhand_spider","id":"MAL-2024-7020","aliases":["GHSA-wcr3-hh3j-84x8"],"versions":["0.0.1"],"published":"2024-06-25T13:52:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"secrequeryabc","id":"MAL-2026-8587","aliases":["GHSA-4283-p7px-p8g6"],"versions":["0.0.1"],"published":"2026-07-07T12:01:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"secret-scanning-proto","id":"MAL-2025-46942","versions":["99.99.99"],"published":"2025-09-01T09:53:34Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"seed-phrase-validator","id":"MAL-2026-17794","versions":["0.9.1"],"published":"2026-10-11T13:46:51Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"seed-phrase-validator","id":"MAL-2026-17794","versions":["0.9.1"],"published":"2026-10-11T07:35:30Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"seeing-is_believing","id":"MAL-2024-7021","aliases":["GHSA-g59c-7vq5-jrr3"],"versions":["3.6.1"],"published":"2024-06-25T13:52:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"selenium-spider","id":"MAL-2024-7022","aliases":["GHSA-94j8-2wc4-mfvc"],"versions":["0.1.2"],"published":"2024-06-25T13:52:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"service-catalog-client","id":"MAL-2025-46943","versions":["0.7.0"],"published":"2025-09-01T09:53:36Z","modified":"2026-10-02T05:38:49Z"}
@@ -3015,7 +3015,7 @@
 {"name":"sm8285iqre","id":"MAL-2026-8817","aliases":["GHSA-rj7g-mxm9-5j43"],"versions":["0.0.1"],"published":"2026-07-07T12:04:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sm8290nhgm","id":"MAL-2026-8818","aliases":["GHSA-rg49-9vvv-mqvp"],"versions":["0.0.1"],"published":"2026-07-07T12:04:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sm8295yubf","id":"MAL-2026-8819","aliases":["GHSA-mxjc-jx6c-4cv8"],"versions":["0.0.1"],"published":"2026-07-07T12:04:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"sol-mint-utils","id":"MAL-2026-17795","versions":["0.9.1"],"published":"2026-10-11T13:49:30Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"sol-mint-utils","id":"MAL-2026-17795","versions":["0.9.1"],"published":"2026-10-11T06:55:26Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"solaan-ruby","id":"MAL-2026-17610","published":"2026-10-05T08:25:35Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"sometestproxyywayle","id":"MAL-2026-8820","aliases":["GHSA-hcrx-38rg-66h9"],"versions":["0.0.1"],"published":"2026-07-07T12:04:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"southdot","id":"MAL-2026-8821","aliases":["GHSA-pc5r-9p53-4g4v"],"versions":["0.0.1"],"published":"2026-07-07T12:04:15Z","modified":"2026-10-02T05:38:49Z"}
@@ -3113,7 +3113,7 @@
 {"name":"st5770a8","id":"MAL-2026-8899","aliases":["GHSA-78w7-22pp-429q"],"versions":["0.0.1"],"published":"2026-07-07T12:05:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"st8708c5","id":"MAL-2026-8900","aliases":["GHSA-wg6p-wc4f-w32g"],"versions":["0.0.1"],"published":"2026-07-07T12:05:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"st89a5c8","id":"MAL-2026-8901","aliases":["GHSA-974g-vwx4-8x4c"],"versions":["0.0.1"],"published":"2026-07-07T12:05:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"staking-apr-fetcher","id":"MAL-2026-17796","versions":["0.9.1"],"published":"2026-10-11T13:48:43Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"staking-apr-fetcher","id":"MAL-2026-17796","versions":["0.9.1"],"published":"2026-10-11T07:35:32Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"stc6a044","id":"MAL-2026-8902","aliases":["GHSA-6gmf-wmpp-gxmp"],"versions":["0.0.1"],"published":"2026-07-07T12:05:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"std5805a","id":"MAL-2026-8903","aliases":["GHSA-rq69-4x27-cg4c"],"versions":["0.0.1"],"published":"2026-07-07T12:05:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"steelproxycab","id":"MAL-2026-8904","aliases":["GHSA-59c8-mggj-g6qv"],"versions":["0.0.1"],"published":"2026-07-07T12:05:06Z","modified":"2026-10-02T05:38:49Z"}
@@ -3250,10 +3250,10 @@
 {"name":"tmpojrljqbwjgabc","id":"MAL-2026-9000","aliases":["GHSA-jjh7-4343-6hfx"],"versions":["0.0.1"],"published":"2026-07-07T12:06:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tmptestsfvagomq","id":"MAL-2026-9001","aliases":["GHSA-wmjc-q9c6-cjqf"],"versions":["0.0.1"],"published":"2026-07-07T12:06:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tmpxyz984024x","id":"MAL-2026-9002","aliases":["GHSA-56cq-5x6h-q9hg"],"versions":["0.0.1"],"published":"2026-07-07T12:06:01Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ton-jetton-tools","id":"MAL-2026-17797","versions":["0.9.1"],"published":"2026-10-11T13:45:55Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"ton-jetton-tools","id":"MAL-2026-17797","versions":["0.9.1"],"published":"2026-10-11T07:15:29Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"treelights-client","id":"MAL-2025-46945","versions":["2.0.0.r8bfa33a"],"published":"2025-09-01T09:50:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tron-rb","id":"MAL-2026-17611","published":"2026-10-05T09:30:00Z","modified":"2026-10-11T03:39:29Z"}
-{"name":"tron-trc20-utils","id":"MAL-2026-17798","versions":["0.9.1"],"published":"2026-10-11T13:48:19Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"tron-trc20-utils","id":"MAL-2026-17798","versions":["0.9.1"],"published":"2026-10-11T07:25:29Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"trya1zz","id":"MAL-2026-9003","aliases":["GHSA-8rjv-chpm-63m6"],"versions":["0.0.1"],"published":"2026-07-07T12:06:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"trya2zz","id":"MAL-2026-9004","aliases":["GHSA-grw7-hm58-6g7p"],"versions":["0.0.1"],"published":"2026-07-07T12:06:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"trya3zz","id":"MAL-2026-9005","aliases":["GHSA-h84x-7rj3-pcjh"],"versions":["0.0.1"],"published":"2026-07-07T12:06:03Z","modified":"2026-10-02T05:38:49Z"}
@@ -3418,9 +3418,9 @@
 {"name":"wagwn6txtab","id":"MAL-2026-9138","aliases":["GHSA-v2vp-wfmv-xw2h"],"versions":["0.0.1"],"published":"2026-07-07T12:07:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"waitwhg1778555688","id":"MAL-2026-9139","aliases":["GHSA-jjqr-j946-5cmw"],"versions":["0.0.1"],"published":"2026-07-07T12:07:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wallet-backup-tool","id":"MAL-2026-17614","published":"2026-10-05T07:10:38Z","modified":"2026-10-11T03:39:29Z"}
-{"name":"wallet-balance-scanner","id":"MAL-2026-17799","versions":["0.9.1"],"published":"2026-10-11T13:47:11Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"wallet-balance-scanner","id":"MAL-2026-17799","versions":["0.9.1"],"published":"2026-10-11T07:25:27Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"wallet-crypto-utils","id":"MAL-2026-17615","published":"2026-10-05T07:30:45Z","modified":"2026-10-11T03:39:29Z"}
-{"name":"wallet-hd-derive","id":"MAL-2026-17800","versions":["0.9.1"],"published":"2026-10-11T13:47:58Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"wallet-hd-derive","id":"MAL-2026-17800","versions":["0.9.1"],"published":"2026-10-11T07:05:31Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"wandbzrroot","id":"MAL-2026-9140","aliases":["GHSA-5gcx-g4qh-27h8"],"versions":["0.0.1"],"published":"2026-07-07T12:07:29Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wandbzrx","id":"MAL-2026-9141","aliases":["GHSA-56f2-hfqr-c4w8"],"versions":["0.0.1"],"published":"2026-07-07T12:07:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wandcalh","id":"MAL-2026-9142","aliases":["GHSA-hh7g-jp59-6v6q"],"versions":["0.0.1"],"published":"2026-07-07T12:07:30Z","modified":"2026-10-02T05:38:49Z"}
@@ -3824,7 +3824,7 @@
 {"name":"xlambcal1","id":"MAL-2026-9531","aliases":["GHSA-6vxc-25mx-h4m7"],"versions":["0.0.1"],"published":"2026-07-07T12:11:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xlambpdfconv","id":"MAL-2026-9532","aliases":["GHSA-4rh5-739m-p8hw"],"versions":["0.0.1"],"published":"2026-07-07T12:11:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xlambserv1","id":"MAL-2026-9533","aliases":["GHSA-vh5j-cf58-fhqh"],"versions":["0.0.1"],"published":"2026-07-07T12:11:23Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"xrp-ledger-utils","id":"MAL-2026-17802","versions":["0.9.1"],"published":"2026-10-11T13:49:05Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"xrp-ledger-utils","id":"MAL-2026-17802","versions":["0.9.1"],"published":"2026-10-11T06:55:27Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"xso61778568189","id":"MAL-2026-9534","aliases":["GHSA-4v9q-xmp7-gr2m"],"versions":["0.0.1"],"published":"2026-07-07T12:11:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xso71778568189","id":"MAL-2026-9535","aliases":["GHSA-8fpc-x24x-vjvg"],"versions":["0.0.1"],"published":"2026-07-07T12:11:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xso81778568189","id":"MAL-2026-9536","aliases":["GHSA-769p-vmmg-3hff"],"versions":["0.0.1"],"published":"2026-07-07T12:11:25Z","modified":"2026-10-02T05:38:49Z"}

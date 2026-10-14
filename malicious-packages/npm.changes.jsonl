@@ -1,3 +1,8 @@
+{"op":"upsert","modified":"2026-10-14T01:27:44Z","name":"@accenturecodefoundry/mfe-pot-shared-ui-scds-core","id":"MAL-2026-17867","versions":["99.99.2","99.99.4","99.99.41"],"published":"2026-10-13T13:37:54Z"}
+{"op":"upsert","modified":"2026-10-14T01:27:44Z","name":"@kre64/hello-npm-test","id":"MAL-2026-17868","aliases":["GHSA-c43r-xf4h-m548"],"versions":["1.0.0"],"published":"2026-10-14T00:09:17Z"}
+{"op":"upsert","modified":"2026-10-14T01:27:44Z","name":"gemini-computer-use","id":"MAL-2026-16355","versions":["0.1.2","0.4.3"],"published":"2026-09-21T17:21:03Z"}
+{"op":"upsert","modified":"2026-10-14T01:27:44Z","name":"passwordcracker","id":"MAL-2026-17864","published":"2026-10-10T00:14:23Z"}
+{"op":"upsert","modified":"2026-10-14T01:27:44Z","name":"passwordcrackv2","id":"MAL-2026-17865","published":"2026-10-09T22:04:05Z"}
 {"op":"upsert","modified":"2026-10-13T22:01:50Z","name":"@airbnb-extended/typescript-config","id":"MAL-2026-17184","aliases":["GHSA-4jfx-2j46-9rqq"],"published":"2026-09-25T14:14:40Z"}
 {"op":"upsert","modified":"2026-10-13T22:01:50Z","name":"@alipclutch/libsignal-node","id":"MAL-2026-17818","aliases":["GHSA-94v2-6899-2c3c"],"published":"2026-10-12T15:44:56Z"}
 {"op":"upsert","modified":"2026-10-13T22:01:50Z","name":"@astracode/byles-new","id":"MAL-2026-17340","aliases":["GHSA-4m9q-pfvv-6w4g"],"published":"2026-10-12T15:33:44Z"}
