@@ -1,3 +1,10 @@
+{"op":"upsert","modified":"2026-10-14T06:50:37Z","name":"@mntv-analysis/ui","id":"MAL-2026-17869","published":"2026-10-13T00:00:00Z"}
+{"op":"upsert","modified":"2026-10-14T06:50:37Z","name":"@mntv-analysis/ui-components","id":"MAL-2026-17870","published":"2026-10-13T00:00:00Z"}
+{"op":"upsert","modified":"2026-10-14T06:50:37Z","name":"@mntv-analysis/workspaces-components","id":"MAL-2026-17871","published":"2026-10-13T00:00:00Z"}
+{"op":"upsert","modified":"2026-10-14T06:50:37Z","name":"@newspage/lib-ng-async-routes-ui","id":"MAL-2026-17872","published":"2026-10-13T00:00:00Z"}
+{"op":"upsert","modified":"2026-10-14T06:50:37Z","name":"@newspage/libx-amount","id":"MAL-2026-17873","published":"2026-10-13T00:00:00Z"}
+{"op":"upsert","modified":"2026-10-14T06:50:37Z","name":"@user-interface-common/common-styles","id":"MAL-2026-17874","published":"2026-10-13T00:00:00Z"}
+{"op":"upsert","modified":"2026-10-14T06:50:37Z","name":"monkey-tags-ip","id":"MAL-2026-17875","published":"2026-10-13T00:00:00Z"}
 {"op":"upsert","modified":"2026-10-14T01:27:44Z","name":"@accenturecodefoundry/mfe-pot-shared-ui-scds-core","id":"MAL-2026-17867","versions":["99.99.2","99.99.4","99.99.41"],"published":"2026-10-13T13:37:54Z"}
 {"op":"upsert","modified":"2026-10-14T01:27:44Z","name":"@kre64/hello-npm-test","id":"MAL-2026-17868","aliases":["GHSA-c43r-xf4h-m548"],"versions":["1.0.0"],"published":"2026-10-14T00:09:17Z"}
 {"op":"upsert","modified":"2026-10-14T01:27:44Z","name":"gemini-computer-use","id":"MAL-2026-16355","versions":["0.1.2","0.4.3"],"published":"2026-09-21T17:21:03Z"}
