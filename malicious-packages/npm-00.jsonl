@@ -31455,7 +31455,7 @@
 {"name":"babel-plugin-transform3react-remove-prop-t8pes","id":"MAL-2022-1408","aliases":["GHSA-5r37-9xp3-f98g"],"published":"2022-08-19T03:55:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"babel-plugin-transfvrm-rvntime","id":"MAL-2022-1409","aliases":["GHSA-vf87-fvmm-5c4c"],"published":"2022-08-19T03:55:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"babel-plugin-version","id":"MAL-2026-4129","aliases":["GHSA-q294-f83f-877x"],"versions":["0.3.3","0.4.3"],"published":"2026-05-19T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"babel-polyfill-plugin-corejs2","id":"MAL-2026-14426","versions":["1.0.1"],"published":"2026-08-24T16:45:38Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"babel-polyfill-plugin-corejs2","id":"MAL-2026-14426","aliases":["GHSA-9g6r-83hw-6cq2"],"published":"2026-08-24T16:45:38Z","modified":"2026-10-15T00:10:39Z"}
 {"name":"babel-polyflil","id":"MAL-2022-1410","aliases":["GHSA-fmjh-55pj-7wjg"],"published":"2022-08-19T03:55:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"babel-preset-animoto-components","id":"MAL-2025-15301","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"babel-preset-app","id":"MAL-2024-12177","aliases":["GHSA-vg4c-9gqq-wqfp","SNYK-JS-BABELPRESETAPP-10172569"],"published":"2024-12-31T23:37:50Z","modified":"2026-10-02T05:38:49Z"}
@@ -68211,7 +68211,7 @@
 {"name":"eth-node-utils","id":"MAL-2025-47179","aliases":["GHSA-9646-j2rv-m33j","SNYK-JS-ETHNODEUTILS-12670871"],"published":"2025-09-15T01:45:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"eth-pino","id":"MAL-2026-15554","versions":["2.0.3"],"published":"2026-08-29T02:13:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"eth-query-utils","id":"MAL-2026-15982","aliases":["GHSA-c33f-ppxr-8r7j"],"published":"2026-09-05T19:26:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"eth-react-provider","id":"MAL-2026-14300","versions":["1.0.0"],"published":"2026-08-19T10:14:36Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"eth-react-provider","id":"MAL-2026-14300","aliases":["GHSA-rr86-r66c-qc54"],"published":"2026-08-19T10:14:36Z","modified":"2026-10-15T00:10:39Z"}
 {"name":"eth-react-redirection","id":"MAL-2026-10127","versions":["1.0.0","1.0.1","1.0.2"],"published":"2026-07-10T15:19:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"eth-rpceerrors","id":"MAL-2024-10505","aliases":["GHSA-2fxw-wph7-g8p5"],"published":"2024-11-08T00:27:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"eth-rperrors","id":"MAL-2024-10506","aliases":["GHSA-74xh-44mf-fj54"],"published":"2024-11-07T01:23:09Z","modified":"2026-10-02T05:38:49Z"}

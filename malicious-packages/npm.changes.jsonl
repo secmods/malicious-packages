@@ -1,3 +1,5 @@
+{"op":"upsert","modified":"2026-10-15T00:10:39Z","name":"babel-polyfill-plugin-corejs2","id":"MAL-2026-14426","aliases":["GHSA-9g6r-83hw-6cq2"],"published":"2026-08-24T16:45:38Z"}
+{"op":"upsert","modified":"2026-10-15T00:10:39Z","name":"eth-react-provider","id":"MAL-2026-14300","aliases":["GHSA-rr86-r66c-qc54"],"published":"2026-08-19T10:14:36Z"}
 {"op":"upsert","modified":"2026-10-14T21:03:21Z","name":"@xxxfnbs21/hello-demo","id":"MAL-2026-17876","aliases":["GHSA-hf57-6wg3-343x"],"versions":["0.0.0-stage","0.1.0","0.1.1","0.1.2","0.1.3","0.1.5","0.1.6","0.1.8"],"published":"2026-10-14T17:40:39Z"}
 {"op":"upsert","modified":"2026-10-14T06:50:37Z","name":"@mntv-analysis/ui","id":"MAL-2026-17869","published":"2026-10-13T00:00:00Z"}
 {"op":"upsert","modified":"2026-10-14T06:50:37Z","name":"@mntv-analysis/ui-components","id":"MAL-2026-17870","published":"2026-10-13T00:00:00Z"}
