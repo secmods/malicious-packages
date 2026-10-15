@@ -1,3 +1,4 @@
+{"name":"unimunaf-safiagiaf-cuagaifagu","id":"MAL-2025-179373","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimunaf-safiaiaf-cuaaagu","id":"MAL-2025-179374","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimunaf-safiaiaf-cuagaagu","id":"MAL-2025-179375","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimunaf-safiaiaf-cuagafagu","id":"MAL-2025-179376","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
@@ -1866,6 +1867,7 @@
 {"name":"util-buffers","id":"MAL-2025-3773","aliases":["GHSA-c64p-h7wc-j7gh"],"published":"2025-05-12T06:37:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"util-bus","id":"MAL-2022-6870","aliases":["GHSA-whhj-xxjv-mrrr"],"published":"2022-06-20T20:22:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"util-dynamodb","id":"MAL-2024-9896","versions":["213.21.24"],"published":"2024-10-16T13:41:11Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"util-foriepft","id":"MAL-2026-17878","versions":["1.0.0"],"modified":"2026-10-15T05:22:29Z"}
 {"name":"util-format-url","id":"MAL-2024-9897","versions":["213.21.24"],"published":"2024-10-16T13:41:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"util-raml-code-generator","id":"MAL-2022-6871","aliases":["GHSA-p7gr-4q88-9c8q"],"published":"2022-06-20T20:17:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"util-stream","id":"MAL-2024-9898","versions":["213.21.24"],"published":"2024-10-16T13:41:14Z","modified":"2026-10-02T05:38:49Z"}

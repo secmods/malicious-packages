@@ -4829,6 +4829,7 @@
 {"name":"@flex-ng/error-component","id":"MAL-2026-10221","aliases":["GHSA-pw64-8rr7-9h66"],"published":"2026-07-06T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@flex-ng/filter-pipe","id":"MAL-2026-10222","aliases":["GHSA-4wmg-pwv3-88v4"],"published":"2026-07-06T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@flex-ng/header-component","id":"MAL-2026-10223","aliases":["GHSA-4xgj-9m4q-8g8v"],"published":"2026-07-06T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@flexmr/ui","id":"MAL-2026-17879","versions":["99.99.99"],"published":"2026-10-13T20:15:56Z","modified":"2026-10-15T05:22:29Z"}
 {"name":"@flight-common/components","id":"MAL-2025-42122","versions":["1.2.9213"],"published":"2025-08-27T07:40:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@flight-common/models","id":"MAL-2025-42123","versions":["1.2.9213"],"published":"2025-08-27T07:40:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@flight-common/services","id":"MAL-2025-42124","versions":["1.2.9213"],"published":"2025-08-27T07:45:29Z","modified":"2026-10-02T05:38:49Z"}
@@ -156970,7 +156971,7 @@
 {"name":"px-colors-design","id":"MAL-2025-30908","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"px8my","id":"MAL-2026-10104","aliases":["GHSA-9869-r2r5-fff6"],"versions":["1.0.13","1.0.22","1.0.23","1.0.24","1.0.25","1.0.26","1.0.27","1.0.28","1.0.29","1.0.30","1.0.31","1.0.32","1.0.33","1.0.34","1.0.35","1.0.36","1.0.37","1.0.38","1.0.39","1.0.40","1.0.41","1.0.42","1.0.43","1.0.44","1.0.45","1.0.46","1.0.47","1.0.48","1.0.49","1.0.50","1.0.51","1.0.52","1.0.53","1.0.54"],"published":"2026-07-09T23:08:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pxinetd","id":"MAL-2025-30909","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"pxnpm","id":"MAL-2026-17710","versions":["7.0.0","7.0.0-beta.6","7.0.0-beta.8"],"published":"2026-10-09T13:32:13Z","modified":"2026-10-11T03:39:29Z"}
+{"name":"pxnpm","id":"MAL-2026-17710","versions":["7.0.0","7.0.0-beta.6","7.0.0-beta.8","7.0.1","7.0.2"],"published":"2026-10-09T13:32:13Z","modified":"2026-10-15T05:22:29Z"}
 {"name":"pxpure8","id":"MAL-2026-10105","versions":["1.0.2"],"published":"2026-07-09T23:09:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pxqdseamwocglrkz","id":"MAL-2025-30910","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pxs-map","id":"MAL-2024-2905","versions":["99.99.99","99.99.991"],"published":"2024-06-25T12:56:49Z","modified":"2026-10-02T05:38:49Z"}
@@ -200208,4 +200209,3 @@
 {"name":"unimuna-safiagiaf-cuagaifagu","id":"MAL-2025-179370","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimuna-safiagiaf-cuagaifau","id":"MAL-2025-179371","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimuna-safiagiaf-cuga","id":"MAL-2025-179372","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimunaf-safiagiaf-cuagaifagu","id":"MAL-2025-179373","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}

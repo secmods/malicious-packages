@@ -1,3 +1,6 @@
+{"op":"upsert","modified":"2026-10-15T05:22:29Z","name":"@flexmr/ui","id":"MAL-2026-17879","versions":["99.99.99"],"published":"2026-10-13T20:15:56Z"}
+{"op":"upsert","modified":"2026-10-15T05:22:29Z","name":"pxnpm","id":"MAL-2026-17710","versions":["7.0.0","7.0.0-beta.6","7.0.0-beta.8","7.0.1","7.0.2"],"published":"2026-10-09T13:32:13Z"}
+{"op":"upsert","modified":"2026-10-15T05:22:29Z","name":"util-foriepft","id":"MAL-2026-17878","versions":["1.0.0"]}
 {"op":"upsert","modified":"2026-10-15T00:10:39Z","name":"babel-polyfill-plugin-corejs2","id":"MAL-2026-14426","aliases":["GHSA-9g6r-83hw-6cq2"],"published":"2026-08-24T16:45:38Z"}
 {"op":"upsert","modified":"2026-10-15T00:10:39Z","name":"eth-react-provider","id":"MAL-2026-14300","aliases":["GHSA-rr86-r66c-qc54"],"published":"2026-08-19T10:14:36Z"}
 {"op":"upsert","modified":"2026-10-14T21:03:21Z","name":"@xxxfnbs21/hello-demo","id":"MAL-2026-17876","aliases":["GHSA-hf57-6wg3-343x"],"versions":["0.0.0-stage","0.1.0","0.1.1","0.1.2","0.1.3","0.1.5","0.1.6","0.1.8"],"published":"2026-10-14T17:40:39Z"}
@@ -373,7 +376,6 @@
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"popover-anchor-polyfill","id":"MAL-2026-17517","versions":["1.0.0"],"published":"2026-10-04T23:26:32Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"postcss-gap-fallback-util","id":"MAL-2026-17518","versions":["1.0.0"],"published":"2026-10-04T23:26:45Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"promises-dotenv3","id":"MAL-2026-17519","versions":["1.0.0"],"published":"2026-10-04T23:26:12Z"}
-{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"pxnpm","id":"MAL-2026-17710","versions":["7.0.0","7.0.0-beta.6","7.0.0-beta.8"],"published":"2026-10-09T13:32:13Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"random-certs","id":"MAL-2026-17644","aliases":["GHSA-2cfv-92gp-9f6m"],"published":"2026-10-07T12:51:24Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"razamodsxasepxyz","id":"MAL-2026-17742","aliases":["GHSA-f3vq-wx4x-jv6w"],"published":"2026-10-09T14:55:31Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"revine","id":"MAL-2026-17709","aliases":["GHSA-gr77-3hqf-674h"],"versions":["2.4.0"],"published":"2026-10-08T22:06:55Z"}
