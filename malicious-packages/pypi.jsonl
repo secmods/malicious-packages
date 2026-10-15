@@ -6987,6 +6987,7 @@
 {"name":"py-revercontrol","id":"MAL-2023-5617","published":"2023-02-25T23:39:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py-revisaram","id":"MAL-2023-5618","published":"2023-02-27T15:27:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py-slugify","id":"MAL-2026-6976","versions":["0.8.2"],"published":"2026-07-08T12:05:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"py-sock2","id":"MAL-2026-17881","versions":["0.1.0"],"published":"2026-10-15T08:20:44Z","modified":"2026-10-15T10:28:39Z"}
 {"name":"py-solana-cli","id":"MAL-2024-10110","versions":["1.2","1.2.4","1.3","1.4"],"published":"2024-10-16T14:47:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py-solanautil","id":"MAL-2025-4229","versions":["2.1.3","2.1.4","2.1.5","2.1.6","2.1.7"],"published":"2025-05-22T12:33:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py-splitcontrolrand","id":"MAL-2023-5619","published":"2023-02-27T02:42:16Z","modified":"2026-10-02T05:38:49Z"}
@@ -7167,6 +7168,7 @@
 {"name":"py-vmstudy","id":"MAL-2023-5791","published":"2023-02-25T17:15:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py-vmvm","id":"MAL-2023-5792","published":"2023-02-25T16:57:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py-vord","id":"MAL-2024-5634","aliases":["SNYK-PYTHON-PYVORD-6513422"],"versions":["1.0.0"],"published":"2024-06-25T13:39:23Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"py-worm","id":"MAL-2026-17883","versions":["0.1.0","2.0.0","2.0.1"],"published":"2026-10-15T08:29:24Z","modified":"2026-10-15T10:28:39Z"}
 {"name":"py-xord","id":"MAL-2024-5635","aliases":["SNYK-PYTHON-PYXORD-6513194"],"versions":["1.0.0"],"published":"2024-06-25T13:39:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py23crypt","id":"MAL-2024-5636","versions":["0.1.5","0.1.6"],"published":"2024-06-25T13:39:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py2colors","id":"MAL-2024-5637","versions":["0.0.0"],"published":"2024-06-25T13:39:25Z","modified":"2026-10-02T05:38:49Z"}
