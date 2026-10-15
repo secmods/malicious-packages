@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-10-15T22:44:15Z","name":"proxyrobika","id":"MAL-2026-17889","versions":["0.1.0"],"published":"2026-10-15T20:33:51Z"}
 {"op":"upsert","modified":"2026-10-15T15:23:49Z","name":"getpubip","id":"MAL-2026-17884","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-10-15T10:13:20Z"}
 {"op":"upsert","modified":"2026-10-15T15:23:49Z","name":"proxy-rubikis","id":"MAL-2026-17887","versions":["0.1.0"],"published":"2026-10-15T11:35:20Z"}
 {"op":"upsert","modified":"2026-10-15T15:23:49Z","name":"proxyrubika","id":"MAL-2026-17885","versions":["0.1.0"],"published":"2026-10-15T10:35:36Z"}

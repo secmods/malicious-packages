@@ -4830,6 +4830,7 @@
 {"name":"@flex-ng/filter-pipe","id":"MAL-2026-10222","aliases":["GHSA-4wmg-pwv3-88v4"],"published":"2026-07-06T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@flex-ng/header-component","id":"MAL-2026-10223","aliases":["GHSA-4xgj-9m4q-8g8v"],"published":"2026-07-06T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@flexmr/ui","id":"MAL-2026-17879","versions":["99.99.99"],"published":"2026-10-13T20:15:56Z","modified":"2026-10-15T05:22:29Z"}
+{"name":"@flexmr/utils","id":"MAL-2026-17888","versions":["1.0.0","3.0.12"],"published":"2026-10-14T03:01:21Z","modified":"2026-10-15T22:44:15Z"}
 {"name":"@flight-common/components","id":"MAL-2025-42122","versions":["1.2.9213"],"published":"2025-08-27T07:40:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@flight-common/models","id":"MAL-2025-42123","versions":["1.2.9213"],"published":"2025-08-27T07:40:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@flight-common/services","id":"MAL-2025-42124","versions":["1.2.9213"],"published":"2025-08-27T07:45:29Z","modified":"2026-10-02T05:38:49Z"}
@@ -200208,4 +200209,3 @@
 {"name":"unimuna-safiagiaf-cuagaif","id":"MAL-2025-179368","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimuna-safiagiaf-cuagaifa","id":"MAL-2025-179369","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimuna-safiagiaf-cuagaifagu","id":"MAL-2025-179370","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimuna-safiagiaf-cuagaifau","id":"MAL-2025-179371","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
