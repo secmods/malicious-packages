@@ -1,3 +1,10 @@
+{"op":"upsert","modified":"2026-10-16T22:17:33Z","name":"@beloved-lenora/opencode-btw","id":"MAL-2026-17903","aliases":["GHSA-xv54-6gmc-3xph"],"published":"2026-10-16T18:49:06Z"}
+{"op":"upsert","modified":"2026-10-16T22:17:33Z","name":"@beloved-lenora/opencode-goal","id":"MAL-2026-17904","aliases":["GHSA-c78h-wwhq-g6j8"],"published":"2026-10-16T18:49:06Z"}
+{"op":"upsert","modified":"2026-10-16T22:17:33Z","name":"@beloved-lenora/opencode-orchestrator","id":"MAL-2026-17905","aliases":["GHSA-7wq2-8pc2-wm26"],"published":"2026-10-16T18:49:06Z"}
+{"op":"upsert","modified":"2026-10-16T22:17:33Z","name":"@beloved-lenora/opencode-shared-rpc","id":"MAL-2026-17906","aliases":["GHSA-8c9g-fwgq-rqq5"],"published":"2026-10-16T18:49:06Z"}
+{"op":"upsert","modified":"2026-10-16T22:17:33Z","name":"@beloved-lenora/opencode-shell-guard","id":"MAL-2026-17907","aliases":["GHSA-pm76-w63j-7j29"],"published":"2026-10-16T18:49:06Z"}
+{"op":"upsert","modified":"2026-10-16T22:17:33Z","name":"@beloved-lenora/opencode-stats","id":"MAL-2026-17908","aliases":["GHSA-f4h2-68pg-ffhj"],"published":"2026-10-16T18:49:06Z"}
+{"op":"upsert","modified":"2026-10-16T22:17:33Z","name":"@beloved-lenora/opencode-todo","id":"MAL-2026-17909","aliases":["GHSA-9rjq-6mhc-46c5"],"published":"2026-10-16T18:49:06Z"}
 {"op":"upsert","modified":"2026-10-16T15:03:19Z","name":"@xatancchii/natabaileys","id":"MAL-2026-17901","aliases":["GHSA-cgq9-cff6-pf33"],"published":"2026-10-16T13:02:31Z"}
 {"op":"upsert","modified":"2026-10-16T15:03:19Z","name":"parxleys","id":"MAL-2026-17902","aliases":["GHSA-rg3c-8x72-6pmc"],"published":"2026-10-16T12:55:55Z"}
 {"op":"upsert","modified":"2026-10-16T10:15:56Z","name":"@accenturecodefoundry/mfe-pot-shared-ui-scds-core","id":"MAL-2026-17867","versions":["99.99.2","99.99.4","99.99.41","99.99.43"],"published":"2026-10-13T13:37:54Z"}

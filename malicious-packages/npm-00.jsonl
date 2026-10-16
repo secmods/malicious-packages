@@ -1793,6 +1793,13 @@
 {"name":"@bellaxchuu/xbails","id":"MAL-2026-17679","aliases":["GHSA-mwq7-c4ww-fpfq"],"published":"2026-10-08T13:37:02Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"@bellaxchuu/xtrxbails","id":"MAL-2026-17350","aliases":["GHSA-5f6x-qj83-2895"],"published":"2026-10-08T13:37:03Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"@bellaxchuu/yarnbails","id":"MAL-2026-17680","aliases":["GHSA-mff5-fqw5-7vhj"],"published":"2026-10-08T13:37:02Z","modified":"2026-10-11T03:39:29Z"}
+{"name":"@beloved-lenora/opencode-btw","id":"MAL-2026-17903","aliases":["GHSA-xv54-6gmc-3xph"],"published":"2026-10-16T18:49:06Z","modified":"2026-10-16T22:17:33Z"}
+{"name":"@beloved-lenora/opencode-goal","id":"MAL-2026-17904","aliases":["GHSA-c78h-wwhq-g6j8"],"published":"2026-10-16T18:49:06Z","modified":"2026-10-16T22:17:33Z"}
+{"name":"@beloved-lenora/opencode-orchestrator","id":"MAL-2026-17905","aliases":["GHSA-7wq2-8pc2-wm26"],"published":"2026-10-16T18:49:06Z","modified":"2026-10-16T22:17:33Z"}
+{"name":"@beloved-lenora/opencode-shared-rpc","id":"MAL-2026-17906","aliases":["GHSA-8c9g-fwgq-rqq5"],"published":"2026-10-16T18:49:06Z","modified":"2026-10-16T22:17:33Z"}
+{"name":"@beloved-lenora/opencode-shell-guard","id":"MAL-2026-17907","aliases":["GHSA-pm76-w63j-7j29"],"published":"2026-10-16T18:49:06Z","modified":"2026-10-16T22:17:33Z"}
+{"name":"@beloved-lenora/opencode-stats","id":"MAL-2026-17908","aliases":["GHSA-f4h2-68pg-ffhj"],"published":"2026-10-16T18:49:06Z","modified":"2026-10-16T22:17:33Z"}
+{"name":"@beloved-lenora/opencode-todo","id":"MAL-2026-17909","aliases":["GHSA-9rjq-6mhc-46c5"],"published":"2026-10-16T18:49:06Z","modified":"2026-10-16T22:17:33Z"}
 {"name":"@benasin_2/frontend-logger","id":"MAL-2024-8027","aliases":["GHSA-4p22-4g4c-6j9h"],"published":"2024-08-26T01:28:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@beproduct/nestjs-auth","id":"MAL-2026-3433","aliases":["GHSA-cqpw-mfqj-f2j7"],"versions":["0.1.10","0.1.11","0.1.12","0.1.13","0.1.14","0.1.15","0.1.16","0.1.17","0.1.18","0.1.19","0.1.2","0.1.3","0.1.4","0.1.5","0.1.6","0.1.7","0.1.8","0.1.9"],"published":"2026-05-12T00:30:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@berkshirehathaway/fetlife-assets","id":"MAL-2022-117","aliases":["GHSA-fqwj-hf29-jpmh"],"published":"2022-06-20T18:19:59Z","modified":"2026-10-02T05:38:49Z"}
@@ -200196,12 +200203,3 @@
 {"name":"unimna-satiagobif-naigis","id":"MAL-2025-179347","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-satiagobifag-naigis","id":"MAL-2025-179348","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-satiagobifago-naigis","id":"MAL-2025-179349","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satiagobifagof-naigis","id":"MAL-2025-179350","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satiagobifagof-naioagis","id":"MAL-2025-179351","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satiagobifagof-naiogis","id":"MAL-2025-179352","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satiagoifagof-naioagis","id":"MAL-2025-179353","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satigigof-naioagis","id":"MAL-2025-179354","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satigof-naioagis","id":"MAL-2025-179355","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satigoifagof-naioagis","id":"MAL-2025-179356","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satigoifgof-naioagis","id":"MAL-2025-179357","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satigoigof-naioagis","id":"MAL-2025-179358","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
