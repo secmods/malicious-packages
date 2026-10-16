@@ -7773,7 +7773,7 @@
 {"name":"pyyaml-selenium","id":"MAL-2023-1398","versions":["1.15.3"],"published":"2023-05-20T14:00:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyycodestyle","id":"MAL-2023-2139","published":"2023-02-11T12:30:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyygame","id":"MAL-2023-2140","published":"2023-02-10T20:27:01Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"pyyi","id":"MAL-2026-17866","versions":["2.4.1"],"modified":"2026-10-14T01:27:44Z"}
+{"name":"pyyi","id":"MAL-2026-17866","versions":["2.4","2.4.1","2.4.2"],"published":"2026-10-16T15:57:23Z","modified":"2026-10-16T19:06:13Z"}
 {"name":"pyyinstaller","id":"MAL-2023-2141","published":"2023-02-10T17:33:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyysocks","id":"MAL-2023-2142","published":"2023-02-11T12:15:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyython-binance","id":"MAL-2023-2143","published":"2023-02-10T20:33:02Z","modified":"2026-10-02T05:38:49Z"}
