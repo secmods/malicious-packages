@@ -1,3 +1,14 @@
+{"op":"upsert","modified":"2026-10-16T05:14:13Z","name":"@celestial-community/baileys","id":"MAL-2026-17438","aliases":["GHSA-5ghv-64gv-gv29"],"published":"2026-10-16T01:07:51Z"}
+{"op":"upsert","modified":"2026-10-16T05:14:13Z","name":"@developmentyora/baileyss","id":"MAL-2026-17439","aliases":["GHSA-v8xh-mr86-2fpq"],"published":"2026-10-16T01:09:29Z"}
+{"op":"upsert","modified":"2026-10-16T05:14:13Z","name":"@developmentyora/yorakids","id":"MAL-2026-17890","aliases":["GHSA-xgr5-84p3-qqmf"],"published":"2026-10-16T01:09:29Z"}
+{"op":"upsert","modified":"2026-10-16T05:14:13Z","name":"asistenyorstore","id":"MAL-2026-17891","aliases":["GHSA-qgh5-36wr-3vvw"],"published":"2026-10-16T01:09:28Z"}
+{"op":"upsert","modified":"2026-10-16T05:14:13Z","name":"bungoma","id":"MAL-2026-17389","aliases":["GHSA-jj55-mvw9-496r"],"published":"2026-10-09T17:50:23Z"}
+{"op":"upsert","modified":"2026-10-16T05:14:13Z","name":"buyerdashboard","id":"MAL-2026-17893","versions":["45.3.4"],"published":"2026-10-15T13:28:14Z"}
+{"op":"upsert","modified":"2026-10-16T05:14:13Z","name":"idlive-face-capture-web-development","id":"MAL-2026-17894","versions":["78.8.1"],"published":"2026-10-15T12:04:28Z"}
+{"op":"upsert","modified":"2026-10-16T05:14:13Z","name":"kiyoramarkets","id":"MAL-2026-17396","aliases":["GHSA-23wg-cgvp-f8w7"],"published":"2026-10-08T05:32:18Z"}
+{"op":"upsert","modified":"2026-10-16T05:14:13Z","name":"web-pixels-manager","id":"MAL-2026-17895","versions":["76.2.4"],"published":"2026-10-15T13:01:07Z"}
+{"op":"upsert","modified":"2026-10-16T05:14:13Z","name":"xapi-lib","id":"MAL-2026-17896","versions":["88.2.3","88.2.5","90.2.1","90.3.1"],"published":"2026-10-15T13:07:26Z"}
+{"op":"upsert","modified":"2026-10-16T05:14:13Z","name":"xmd-baileys","id":"MAL-2026-17892","aliases":["GHSA-m3qf-j9rf-pqrh"],"published":"2026-10-16T01:10:07Z"}
 {"op":"upsert","modified":"2026-10-15T22:44:15Z","name":"@flexmr/utils","id":"MAL-2026-17888","versions":["1.0.0","3.0.12"],"published":"2026-10-14T03:01:21Z"}
 {"op":"upsert","modified":"2026-10-15T10:28:39Z","name":"tailwindcss-form","id":"MAL-2026-16282","aliases":["GHSA-c8m9-qwg6-5cv9"],"published":"2026-09-18T04:31:16Z"}
 {"op":"upsert","modified":"2026-10-15T10:28:39Z","name":"tailwindcss-uniform","id":"MAL-2026-17882","aliases":["GHSA-r7f7-6833-rxh9"],"published":"2026-10-15T07:43:14Z"}
@@ -263,7 +274,6 @@
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"bottino-baileys","id":"MAL-2026-17673","aliases":["GHSA-5f2x-3c4c-wh5p"],"published":"2026-10-08T13:26:06Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"brat-generator","id":"MAL-2026-17674","aliases":["GHSA-m45c-2rh6-33g6"],"published":"2026-10-08T13:31:42Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"browser-metrics-plugin.contrib","id":"MAL-2026-17640","versions":["0.0.1","1.0.0","1.0.1","1.1.0","2.0.1","99.0.1"],"published":"2026-10-07T00:01:40Z"}
-{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"bungoma","id":"MAL-2026-17389","published":"2026-10-09T17:50:23Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"cantarella-baileys","id":"MAL-2026-17390","aliases":["GHSA-w79v-3845-fc9f"],"published":"2026-10-08T13:17:37Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"captchetat-angularv8","id":"MAL-2026-17637","aliases":["GHSA-7crr-x792-cp3w"],"published":"2026-10-06T11:35:45Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"cdn-img-fetch","id":"MAL-2026-17320","aliases":["GHSA-v3rj-w7v4-jcfx"],"published":"2026-09-30T04:38:16Z"}
@@ -360,7 +370,6 @@
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"internallib_v875","id":"MAL-2026-17635","versions":["1.0.1"],"published":"2026-10-06T03:56:26Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"internallib_v923","id":"MAL-2026-17562","versions":["1.0.3"],"published":"2026-10-05T03:31:57Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"itsmeeaizat-bailey","id":"MAL-2026-17311","aliases":["GHSA-r64h-xc26-m8ww"],"published":"2026-09-30T01:46:43Z"}
-{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"kiyoramarkets","id":"MAL-2026-17396","published":"2026-10-08T05:32:18Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"lite-mater","id":"MAL-2026-17511","versions":["1.0.0"],"published":"2026-10-04T23:27:22Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"lite-matte","id":"MAL-2026-17512","versions":["1.0.0"],"published":"2026-10-04T23:27:39Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"lite-matterr","id":"MAL-2026-17513","versions":["1.0.0"],"published":"2026-10-04T23:27:32Z"}

@@ -1,3 +1,10 @@
+{"name":"unimuna-safiagiaf-afgucuga","id":"MAL-2025-179364","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"unimuna-safiagiaf-afucuga","id":"MAL-2025-179365","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"unimuna-safiagiaf-cga","id":"MAL-2025-179366","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"unimuna-safiagiaf-cuaga","id":"MAL-2025-179367","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"unimuna-safiagiaf-cuagaif","id":"MAL-2025-179368","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"unimuna-safiagiaf-cuagaifa","id":"MAL-2025-179369","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"unimuna-safiagiaf-cuagaifagu","id":"MAL-2025-179370","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimuna-safiagiaf-cuagaifau","id":"MAL-2025-179371","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimuna-safiagiaf-cuga","id":"MAL-2025-179372","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimunaf-safiagiaf-cuagaifagu","id":"MAL-2025-179373","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
@@ -9585,6 +9592,7 @@
 {"name":"web-pairing-kit","id":"MAL-2023-960","aliases":["GHSA-xj9p-rxrw-446f"],"published":"2023-01-10T16:16:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"web-palette-react","id":"MAL-2025-48515","published":"2025-10-17T03:28:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"web-pixels-extension","id":"MAL-2025-38973","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"web-pixels-manager","id":"MAL-2026-17895","versions":["76.2.4"],"published":"2026-10-15T13:01:07Z","modified":"2026-10-16T05:14:13Z"}
 {"name":"web-playback-sdk-sample-app","id":"MAL-2022-7071","aliases":["GHSA-j3x7-8g79-v7mg"],"published":"2022-05-31T13:16:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"web-pool","id":"MAL-2026-5577","aliases":["GHSA-x58x-qmg9-8q8v"],"versions":["2.3.5"],"published":"2026-06-11T05:10:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"web-pop","id":"MAL-2026-10575","versions":["2.3.5"],"published":"2026-07-14T05:57:46Z","modified":"2026-10-02T05:38:49Z"}
@@ -13668,6 +13676,7 @@
 {"name":"xanthus-xerxes-zenith-semantic-ui","id":"MAL-2025-149639","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xanthus-zenobia-entanglement-prompts","id":"MAL-2025-190361","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xanthus-zephyr-deimos-superagent","id":"MAL-2025-149640","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"xapi-lib","id":"MAL-2026-17896","versions":["88.2.3","88.2.5","90.2.1","90.3.1"],"published":"2026-10-15T13:07:26Z","modified":"2026-10-16T05:14:13Z"}
 {"name":"xapi_test","id":"MAL-2025-890","versions":["1.1.0"],"published":"2025-02-03T17:06:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xarc-webpack-cli","id":"MAL-2026-4352","aliases":["GHSA-2xcr-5qfc-fq54"],"published":"2026-05-25T22:00:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xascmlwhokkitdpz","id":"MAL-2022-7261","aliases":["GHSA-prjp-cv2w-ch2h"],"published":"2022-07-11T20:15:49Z","modified":"2026-10-02T05:38:49Z"}
@@ -14989,6 +14998,7 @@
 {"name":"xlsx-enhanced","id":"MAL-2026-4802","aliases":["GHSA-j5gx-8qjw-gp5q"],"published":"2026-05-26T11:56:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xlsx-to-json-lh","id":"MAL-2025-39873","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xman-internal","id":"MAL-2023-972","aliases":["GHSA-2hwq-6c2x-mv2c"],"published":"2023-02-28T03:08:07Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"xmd-baileys","id":"MAL-2026-17892","aliases":["GHSA-m3qf-j9rf-pqrh"],"published":"2026-10-16T01:10:07Z","modified":"2026-10-16T05:14:13Z"}
 {"name":"xmdzdom","id":"MAL-2022-7282","aliases":["GHSA-x3xx-m98m-9qvx"],"published":"2022-08-19T03:55:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xmenddddl","id":"MAL-2025-191603","versions":["999.999.999"],"published":"2025-12-01T13:30:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xml-aether-eleventy-apollo","id":"MAL-2025-149727","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
