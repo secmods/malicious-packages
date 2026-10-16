@@ -12587,6 +12587,7 @@
 {"name":"@x-clients/features","id":"MAL-2026-703","published":"2026-02-03T15:41:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@x-mlbtv/client-utils","id":"MAL-2025-3227","aliases":["GHSA-88ww-p98w-jmv8"],"published":"2025-04-17T04:13:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@x-team/strapi","id":"MAL-2026-15685","versions":["3.6.11","3.7.0","3.7.1"],"published":"2026-08-24T16:34:17Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@xatancchii/natabaileys","id":"MAL-2026-17901","aliases":["GHSA-cgq9-cff6-pf33"],"published":"2026-10-16T13:02:31Z","modified":"2026-10-16T15:03:19Z"}
 {"name":"@xatancchii/velycxbail","id":"MAL-2026-17383","published":"2026-10-04T23:23:32Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"@xayz/baileys","id":"MAL-2026-17384","aliases":["GHSA-fwcp-q8x6-4fc2"],"published":"2026-10-08T13:31:42Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"@xayz/brat-generator","id":"MAL-2026-17671","aliases":["GHSA-566x-rwjp-9274"],"published":"2026-10-08T13:31:42Z","modified":"2026-10-11T03:39:29Z"}
@@ -146089,6 +146090,7 @@
 {"name":"parwo-poke97","id":"MAL-2025-164074","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"parwo-poke98","id":"MAL-2025-164075","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"parwo-poke99","id":"MAL-2025-164076","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"parxleys","id":"MAL-2026-17902","aliases":["GHSA-rg3c-8x72-6pmc"],"published":"2026-10-16T12:55:55Z","modified":"2026-10-16T15:03:19Z"}
 {"name":"parynnon-notthedevs","id":"MAL-2025-106925","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pascoresend","id":"MAL-2025-584","aliases":["GHSA-fh59-q7pm-xmvp"],"published":"2025-01-25T18:50:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pasdgta-notthedevs","id":"MAL-2025-106926","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -200203,5 +200205,3 @@
 {"name":"unimna-satigoifagof-naioagis","id":"MAL-2025-179356","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-satigoifgof-naioagis","id":"MAL-2025-179357","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-satigoigof-naioagis","id":"MAL-2025-179358","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satiigof-naioagis","id":"MAL-2025-179359","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satiof-naioagis","id":"MAL-2025-179360","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
