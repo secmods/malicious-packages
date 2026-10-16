@@ -777,7 +777,7 @@
 {"name":"@abgular/core","id":"MAL-2026-17532","versions":["22.2.1"],"published":"2026-10-05T03:32:45Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"@abi-labs-frontend/standards","id":"MAL-2026-2329","aliases":["GHSA-hqxv-wmmr-v5h3"],"versions":["9.99.15"],"published":"2026-03-24T15:23:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ably-forks/crypto-js","id":"MAL-2024-2033","aliases":["GHSA-j65q-j3j4-22vw"],"versions":["3.999.0"],"published":"2024-06-25T12:18:21Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@accenturecodefoundry/mfe-pot-shared-ui-scds-core","id":"MAL-2026-17867","versions":["99.99.2","99.99.4","99.99.41"],"published":"2026-10-13T13:37:54Z","modified":"2026-10-14T01:27:44Z"}
+{"name":"@accenturecodefoundry/mfe-pot-shared-ui-scds-core","id":"MAL-2026-17867","versions":["99.99.2","99.99.4","99.99.41","99.99.43"],"published":"2026-10-13T13:37:54Z","modified":"2026-10-16T10:15:56Z"}
 {"name":"@access-risk/browser-remedy-react","id":"MAL-2026-5520","versions":["99.0.0","99.1.1"],"published":"2026-06-10T18:26:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@accesshsc/access-forms-engine","id":"MAL-2025-2489","aliases":["GHSA-4288-74wg-6qwx","SNYK-JS-ACCESSHSCACCESSFORMSENGINE-9486033"],"published":"2025-03-18T05:38:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@accessibility-insights/eslint-plugin","id":"MAL-2025-6899","versions":["9.9.9","9.9.99"],"published":"2025-08-17T22:55:51Z","modified":"2026-10-02T05:38:49Z"}
@@ -4830,8 +4830,10 @@
 {"name":"@flex-ng/error-component","id":"MAL-2026-10221","aliases":["GHSA-pw64-8rr7-9h66"],"published":"2026-07-06T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@flex-ng/filter-pipe","id":"MAL-2026-10222","aliases":["GHSA-4wmg-pwv3-88v4"],"published":"2026-07-06T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@flex-ng/header-component","id":"MAL-2026-10223","aliases":["GHSA-4xgj-9m4q-8g8v"],"published":"2026-07-06T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@flexmr/survey-client","id":"MAL-2026-17898","versions":["1.0.0","1.0.12","10.0.12","2.0.12","3.0.12"],"published":"2026-10-16T06:54:39Z","modified":"2026-10-16T10:15:56Z"}
+{"name":"@flexmr/survey-conversation","id":"MAL-2026-17899","versions":["1.0.0","1.0.12","10.0.12","2.0.12","3.0.12"],"published":"2026-10-16T06:55:02Z","modified":"2026-10-16T10:15:56Z"}
 {"name":"@flexmr/ui","id":"MAL-2026-17879","versions":["99.99.99"],"published":"2026-10-13T20:15:56Z","modified":"2026-10-15T05:22:29Z"}
-{"name":"@flexmr/utils","id":"MAL-2026-17888","versions":["1.0.0","3.0.12"],"published":"2026-10-14T03:01:21Z","modified":"2026-10-15T22:44:15Z"}
+{"name":"@flexmr/utils","id":"MAL-2026-17888","versions":["1.0.0","1.0.12","10.0.12","2.0.12","3.0.12"],"published":"2026-10-14T03:01:21Z","modified":"2026-10-16T10:15:56Z"}
 {"name":"@flight-common/components","id":"MAL-2025-42122","versions":["1.2.9213"],"published":"2025-08-27T07:40:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@flight-common/models","id":"MAL-2025-42123","versions":["1.2.9213"],"published":"2025-08-27T07:40:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@flight-common/services","id":"MAL-2025-42124","versions":["1.2.9213"],"published":"2025-08-27T07:45:29Z","modified":"2026-10-02T05:38:49Z"}
@@ -200203,6 +200205,3 @@
 {"name":"unimna-satigoigof-naioagis","id":"MAL-2025-179358","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-satiigof-naioagis","id":"MAL-2025-179359","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-satiof-naioagis","id":"MAL-2025-179360","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimnaf-safif-cuagu","id":"MAL-2025-179361","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimuna-safiagiaf-acuga","id":"MAL-2025-179362","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimuna-safiagiaf-afcuga","id":"MAL-2025-179363","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}

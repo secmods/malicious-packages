@@ -3128,6 +3128,7 @@
 {"name":"friendly-greeting-tools","id":"MAL-2026-17416","versions":["0.1.0","0.1.1","0.2","0.3","0.3.1","0.3.2","0.3.3","0.3.4","0.3.5","0.3.6","0.3.7"],"published":"2026-09-30T14:38:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"friendly-tools","id":"MAL-2026-17419","versions":["0.1","0.2"],"published":"2026-10-01T12:04:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"friendlyproxies","id":"MAL-2024-5165","versions":["1.0"],"published":"2024-06-25T13:35:37Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"fromthehotel-poems","id":"MAL-2026-17897","versions":["0.1.0"],"published":"2026-10-16T05:58:04Z","modified":"2026-10-16T10:15:56Z"}
 {"name":"fromwherebitch","id":"MAL-2025-191735","versions":["0.1.3"],"published":"2025-09-03T15:12:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"frqetrade","id":"MAL-2023-1850","published":"2023-02-09T18:42:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"frqtrade","id":"MAL-2023-1851","published":"2023-02-09T18:42:08Z","modified":"2026-10-02T05:38:49Z"}
