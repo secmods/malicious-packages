@@ -1,3 +1,5 @@
+{"op":"upsert","modified":"2026-10-17T05:09:18Z","name":"itsa-react-focuscontainer","id":"MAL-2026-17910","aliases":["GHSA-8c34-p746-v5rq"],"versions":["16.0.10"],"published":"2026-10-16T23:28:24Z"}
+{"op":"upsert","modified":"2026-10-17T05:09:18Z","name":"itsa-react-maskedinput","id":"MAL-2026-17911","aliases":["GHSA-hhr5-rjw6-9hr5"],"versions":["16.1.2"],"published":"2026-10-16T23:29:58Z"}
 {"op":"upsert","modified":"2026-10-16T22:17:33Z","name":"@beloved-lenora/opencode-btw","id":"MAL-2026-17903","aliases":["GHSA-xv54-6gmc-3xph"],"published":"2026-10-16T18:49:06Z"}
 {"op":"upsert","modified":"2026-10-16T22:17:33Z","name":"@beloved-lenora/opencode-goal","id":"MAL-2026-17904","aliases":["GHSA-c78h-wwhq-g6j8"],"published":"2026-10-16T18:49:06Z"}
 {"op":"upsert","modified":"2026-10-16T22:17:33Z","name":"@beloved-lenora/opencode-orchestrator","id":"MAL-2026-17905","aliases":["GHSA-7wq2-8pc2-wm26"],"published":"2026-10-16T18:49:06Z"}
