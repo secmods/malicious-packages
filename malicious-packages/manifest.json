@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0.0",
-  "generated_at": "2026-10-16T22:17:33Z",
+  "generated_at": "2026-10-17T00:52:55Z",
   "upstream_repo": "https://github.com/ossf/malicious-packages.git",
   "upstream_commit": "72e06bde0b6d3aca87b62ba439605c0ec4a9fd3b",
   "changes_since": "2026-10-02T05:38:49Z",
