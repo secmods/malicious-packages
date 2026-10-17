@@ -1840,6 +1840,7 @@
 {"name":"dreamgen","id":"MAL-2026-5313","versions":["1.8.1"],"published":"2026-06-06T06:13:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dremel","id":"MAL-2026-2301","versions":["9.9.9"],"published":"2026-03-30T16:06:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"driftme","id":"MAL-2024-12259","versions":["1.0"],"published":"2024-11-29T18:14:43Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"driftwavets","id":"MAL-2026-17912","versions":["0.1.0"],"published":"2026-10-17T17:05:38Z","modified":"2026-10-17T18:55:49Z"}
 {"name":"ds-lime","id":"MAL-2025-6497","versions":["0.0.1"],"published":"2025-07-31T19:14:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dscord-py","id":"MAL-2023-1813","published":"2023-02-11T12:06:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dscord-webhook","id":"MAL-2023-1814","published":"2023-02-11T12:00:03Z","modified":"2026-10-02T05:38:49Z"}
@@ -1922,6 +1923,7 @@
 {"name":"elleuchdhsolvepwn","id":"MAL-2026-1900","versions":["1.0.0"],"published":"2026-03-18T12:13:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"embeddings-validation","id":"MAL-2024-5110","versions":["99.9.9"],"published":"2024-06-25T13:35:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"embeds","id":"MAL-2024-11581","versions":["0.0.1","0.0.2","0.0.3"],"published":"2024-09-04T21:25:32Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"emberlytts","id":"MAL-2026-17913","versions":["0.1.0"],"published":"2026-10-17T17:04:22Z","modified":"2026-10-17T18:55:49Z"}
 {"name":"embiggen","id":"MAL-2026-5314","versions":["0.11.97"],"published":"2026-06-06T06:13:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"emd-ext","id":"MAL-2026-2532","versions":["0.0.1"],"published":"2026-04-10T15:33:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"emergentintegrations","id":"MAL-2026-2702","versions":["0.0.1","0.1.0","0.1.1","0.1.2","0.1.4","0.1.5"],"published":"2026-04-16T14:03:42Z","modified":"2026-10-02T05:38:49Z"}
@@ -3287,6 +3289,7 @@
 {"name":"gitython","id":"MAL-2023-1874","published":"2023-02-11T12:33:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gkjzjh146","id":"MAL-2023-1365","versions":["1.3"],"published":"2023-05-14T05:20:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"glass-of-water","id":"MAL-2026-4751","versions":["1.0.1","1.0.3"],"published":"2026-05-19T21:07:17Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"glassbeakasr","id":"MAL-2026-17914","versions":["0.1.0"],"published":"2026-10-17T17:04:38Z","modified":"2026-10-17T18:55:49Z"}
 {"name":"glean-indexing-api-client","id":"MAL-2025-4220","versions":["1.0.0"],"published":"2025-05-10T17:59:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"glob-to-regexp","id":"MAL-2025-6510","versions":["2.1.1"],"published":"2024-09-06T11:29:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"globally","id":"MAL-2026-2171","versions":["99.0.0"],"published":"2026-03-25T05:05:53Z","modified":"2026-10-02T05:38:49Z"}
@@ -5490,6 +5493,7 @@
 {"name":"notoken887","id":"MAL-2024-11648","versions":["0.1.0","0.1.1","1.1.5","1.1.6","1.1.8","1.1.9","1.2","1.21","1.22","1.22.1","1.22.3","1.22.4","1.22.5","1.22.6","1.22.7","1.22.8","1.22.9","1.23.0","1.23.1","1.23.3","1.23.4","1.23.5","1.23.6","1.23.7","1.23.9","1.24.2","1.24.3","1.24.4","1.24.5","1.24.6","1.24.7","1.24.8","1.24.9","1.25.1","1.25.2","1.25.3","1.25.5","1.25.6","1.25.7","1.25.9","1.26.1","1.26.10","1.26.11","1.26.12","1.26.13","1.26.14","1.26.15","1.26.16","1.26.17","1.26.18","1.26.19","1.26.2","1.26.20","1.26.21","1.26.22","1.26.23","1.26.24","1.26.25","1.26.26","1.26.27","1.26.28","1.26.29","1.26.3","1.26.30","1.26.31","1.26.32","1.26.33","1.26.34","1.26.35","1.26.36","1.26.37","1.26.39","1.26.4","1.26.40","1.26.6.2.3","1.26.6.2.3.1","1.26.7","1.26.8","1.26.9"],"published":"2024-12-09T06:50:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"notrandompacketname","id":"MAL-2026-7456","versions":["0.1.10","0.1.11","0.1.12"],"published":"2026-07-07T11:49:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"notsogood","id":"MAL-2023-1435","versions":["0.0.2"],"published":"2023-08-10T14:31:05Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"novalithtts","id":"MAL-2026-17915","versions":["0.1.0"],"published":"2026-10-17T17:05:13Z","modified":"2026-10-17T18:55:49Z"}
 {"name":"novatwo","id":"MAL-2025-1985","versions":["0.1"],"published":"2025-02-02T22:24:54Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"noway-back","id":"MAL-2025-947","versions":["1.0.0"],"published":"2024-12-16T10:40:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"nowcl","id":"MAL-2024-5417","versions":["0.1.0"],"published":"2024-06-25T13:37:39Z","modified":"2026-10-02T05:38:49Z"}
@@ -7483,6 +7487,7 @@
 {"name":"pyqt6darktheme","id":"MAL-2026-6960","versions":["0.1.0"],"published":"2026-07-08T04:25:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyqtcolor","id":"MAL-2024-5765","aliases":["SNYK-PYTHON-PYQTCOLOR-6129546"],"versions":["1.9","2.0","2.5","2.6","2.7","2.8","2.9"],"published":"2024-06-25T13:40:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyqubee","id":"MAL-2025-128","versions":["11.35.1","12.1.1"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"pyrechoasr","id":"MAL-2026-17916","versions":["0.1.0"],"published":"2026-10-17T17:05:54Z","modified":"2026-10-17T18:55:49Z"}
 {"name":"pyregions-snowflake","id":"MAL-2026-2109","versions":["3.9.1","3.9.10","3.9.2","3.9.4","3.9.5","3.9.6","3.9.7","3.9.8","3.9.9"],"published":"2026-03-23T14:08:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyrelmove","id":"MAL-2024-5766","versions":["0.0.13"],"published":"2024-06-25T13:40:36Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyreqs3","id":"MAL-2024-5767","versions":["0.0.1"],"published":"2024-06-25T13:40:36Z","modified":"2026-10-02T05:38:49Z"}
@@ -7794,6 +7799,7 @@
 {"name":"quant-backtest-helpers","id":"MAL-2026-5152","versions":["1.0.1"],"published":"2026-06-02T04:59:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"quantiumbase","id":"MAL-2024-5846","aliases":["SNYK-PYTHON-QUANTIUMBASE-5820012"],"versions":["0.7.0","0.8.1"],"published":"2024-06-25T13:41:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"quantumania","id":"MAL-2026-1912","versions":["0.0.3"],"published":"2026-03-18T12:17:56Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"quasitonnts","id":"MAL-2026-17917","versions":["0.1.0"],"published":"2026-10-17T17:03:49Z","modified":"2026-10-17T18:55:49Z"}
 {"name":"quatre","id":"MAL-2026-7465","versions":["3.0.0"],"published":"2026-07-07T11:50:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"quatres","id":"MAL-2026-4829","versions":["3.0.1"],"published":"2026-05-27T01:54:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"queeuees","id":"MAL-2026-17286","versions":["0.0.1"],"published":"2026-09-29T20:42:09Z","modified":"2026-10-02T05:38:49Z"}
@@ -10107,6 +10113,7 @@
 {"name":"tomli-dzw","id":"MAL-2024-11729","versions":["1.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tommygtst","id":"MAL-2024-6162","versions":["0.1.0"],"published":"2024-06-25T13:43:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tomproxies","id":"MAL-2024-6163","versions":["1.0"],"published":"2024-06-25T13:43:47Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"tonemaptts","id":"MAL-2026-17918","versions":["0.1.0"],"published":"2026-10-17T17:06:12Z","modified":"2026-10-17T18:55:49Z"}
 {"name":"toneo","id":"MAL-2025-995","versions":["1.4.3"],"published":"2025-02-03T17:07:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tonetext","id":"MAL-2025-191906","versions":["0.1.1","0.2.1"],"published":"2025-03-12T22:30:33Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tonki","id":"MAL-2025-996","versions":["1.0.0"],"published":"2025-02-03T17:08:00Z","modified":"2026-10-02T05:38:49Z"}
@@ -11134,6 +11141,7 @@
 {"name":"uidesign","id":"MAL-2024-10180","versions":["0.0.1"],"published":"2024-09-04T21:25:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"uihuihiuhiuhiu","id":"MAL-2024-6174","versions":["0.0.1"],"published":"2024-06-25T13:43:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"uitil","id":"MAL-2026-1036","versions":["0.1.4","0.1.5"],"published":"2026-01-16T21:32:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"ukraine69","id":"MAL-2026-17919","versions":["1.2.0","1.2.1","1.2.2","1.2.3","1.2.5","1.2.6","1.2.7","1.2.8"],"published":"2026-10-17T16:53:55Z","modified":"2026-10-17T18:55:49Z"}
 {"name":"ultimate-ai-power","id":"MAL-2026-5458","versions":["1.0.0"],"published":"2026-06-09T16:53:29Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ultraad","id":"MAL-2023-7745","published":"2023-02-23T23:42:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ultracandy","id":"MAL-2023-7746","published":"2023-02-23T23:48:09Z","modified":"2026-10-02T05:38:49Z"}
@@ -11396,6 +11404,7 @@
 {"name":"vmvm","id":"MAL-2023-7898","published":"2023-02-23T23:36:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"voicemetterr","id":"MAL-2025-191921","versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5"],"published":"2025-11-21T19:23:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"voipms-service","id":"MAL-2025-191922","versions":["0.1"],"published":"2025-03-09T19:00:53Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"voltswannts","id":"MAL-2026-17920","versions":["0.1.0"],"published":"2026-10-17T17:04:54Z","modified":"2026-10-17T18:55:49Z"}
 {"name":"voto3","id":"MAL-2024-11746","versions":["0.1","0.2","0.2.0","0.3","0.3.0","0.7.0","0.9.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"voxcpmeval","id":"MAL-2026-17465","versions":["0.1.0"],"published":"2026-10-03T13:18:34Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"voxcpmintel","id":"MAL-2026-17468","versions":["0.1.0"],"published":"2026-10-03T14:00:06Z","modified":"2026-10-04T04:01:54Z"}
