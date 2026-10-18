@@ -9647,6 +9647,7 @@
 {"name":"@pixiv-vroid-hub/vroid-hub-viewer","id":"MAL-2022-503","aliases":["GHSA-mfj4-98mp-86rv"],"published":"2022-06-02T10:47:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@pkg-m/m","id":"MAL-2023-8745","versions":["1.3.9","1.4.0"],"published":"2023-12-26T21:00:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@pkgr/core","id":"MAL-2025-6021","versions":["0.2.8"],"published":"2025-07-21T06:24:05Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@pkgship/frpc-linux-arm64","id":"MAL-2026-17922","aliases":["GHSA-753f-gx8g-q88w"],"versions":["0.71.0"],"published":"2026-10-18T21:10:43Z","modified":"2026-10-18T21:59:49Z"}
 {"name":"@planetlabs/admin-ng","id":"MAL-2026-6637","aliases":["GHSA-4x72-8x46-jqmw"],"published":"2026-06-29T16:53:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@plangrid-private/babel-preset-react-app","id":"MAL-2024-1801","versions":["1.0.0"],"published":"2024-06-25T12:21:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@plangrid-private/demo-components","id":"MAL-2024-2071","versions":["1.0.0"],"published":"2024-06-25T12:21:52Z","modified":"2026-10-02T05:38:49Z"}
@@ -200200,5 +200201,3 @@
 {"name":"unimna-satgob-naigubis","id":"MAL-2025-179342","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-satgob-naiubis","id":"MAL-2025-179343","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-satgub-naiguanab","id":"MAL-2025-179344","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satiagob-naigis","id":"MAL-2025-179345","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satiagobi-naigis","id":"MAL-2025-179346","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
