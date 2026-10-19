@@ -1,3 +1,11 @@
+{"name":"unimna-satgb-naigub","id":"MAL-2025-179334","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"unimna-satgb-naigubi","id":"MAL-2025-179335","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"unimna-satgb-naigubis","id":"MAL-2025-179336","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"unimna-satgb-naigunbis","id":"MAL-2025-179337","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"unimna-satgob-naiagunubis","id":"MAL-2025-179338","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"unimna-satgob-naigis","id":"MAL-2025-179339","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"unimna-satgob-naigsubis","id":"MAL-2025-179340","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"unimna-satgob-naigsuis","id":"MAL-2025-179341","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-satgob-naigubis","id":"MAL-2025-179342","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-satgob-naiubis","id":"MAL-2025-179343","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-satgub-naiguanab","id":"MAL-2025-179344","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
@@ -14355,7 +14363,7 @@
 {"name":"xcode-staple","id":"MAL-2024-3969","versions":["1.0.1"],"published":"2024-06-25T13:22:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xcoode-staple","id":"MAL-2024-3970","versions":["1.0.3"],"published":"2024-06-25T13:22:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xcryption","id":"MAL-2026-15916","versions":["1.0.0","1.0.1","1.0.2","1.0.3"],"published":"2026-09-04T05:18:47Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"xcvrenzcompany","id":"MAL-2026-17452","modified":"2026-10-02T05:38:49Z"}
+{"name":"xcvrenzcompany","id":"MAL-2026-17452","aliases":["GHSA-5f99-96jc-hg98"],"published":"2026-10-19T06:22:45Z","modified":"2026-10-19T08:11:19Z"}
 {"name":"xd-test-gallery","id":"MAL-2025-39600","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xdater","id":"MAL-2025-48951","aliases":["GHSA-66hc-2r75-vwxf","SNYK-JS-XDATER-13733929"],"published":"2025-10-29T01:46:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xdaxx","id":"MAL-2026-13468","versions":["1.0.1"],"published":"2026-08-06T19:28:26Z","modified":"2026-10-02T05:38:49Z"}
@@ -15426,12 +15434,12 @@
 {"name":"xyz-maps-core","id":"MAL-2022-7305","aliases":["GHSA-3rfr-qv26-q572"],"published":"2022-06-20T20:20:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xyzttt","id":"MAL-2026-1981","aliases":["GHSA-q46m-r8wj-v4p9"],"published":"2026-03-20T04:54:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xyztttxyz","id":"MAL-2026-1982","aliases":["GHSA-p427-hrfp-pc52"],"published":"2026-03-20T04:54:45Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"xzbails","id":"MAL-2026-17410","modified":"2026-10-02T05:38:49Z"}
+{"name":"xzbails","id":"MAL-2026-17410","aliases":["GHSA-6853-2fcq-h2jm"],"published":"2026-10-19T06:22:45Z","modified":"2026-10-19T08:11:19Z"}
 {"name":"xzepdx-devapptea","id":"MAL-2025-111137","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xzvbailey","id":"MAL-2026-16278","versions":["1.0.0"],"published":"2026-09-18T02:57:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xzvbails","id":"MAL-2026-17411","modified":"2026-10-02T05:38:49Z"}
 {"name":"xzvbailsx","id":"MAL-2026-16279","versions":["1.0.0"],"published":"2026-09-18T02:57:57Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"xzvexpzcbailey","id":"MAL-2026-17412","modified":"2026-10-02T05:38:49Z"}
+{"name":"xzvexpzcbailey","id":"MAL-2026-17412","aliases":["GHSA-73c8-rgvx-fw82"],"published":"2026-10-19T06:22:45Z","modified":"2026-10-19T08:11:19Z"}
 {"name":"y-dot","id":"MAL-2024-3974","aliases":["SNYK-JS-YDOT-3336130"],"versions":["1.16.8","1.16.9","1.8.16","1.8.17","1.8.8","1.8.9","2.7.3"],"published":"2024-06-25T13:22:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"y-team-header","id":"MAL-2025-40086","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"y0ngy0","id":"MAL-2025-71689","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
@@ -20667,7 +20675,7 @@
 {"name":"zergio","id":"MAL-2025-40949","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zerizt","id":"MAL-2025-71767","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zero-authorize-compile-yaml-process","id":"MAL-2025-46878","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"zero-baileys","id":"MAL-2026-16280","versions":["2.7.0"],"published":"2026-09-18T02:54:59Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"zero-baileys","id":"MAL-2026-16280","aliases":["GHSA-v486-jrrq-rhwx"],"published":"2026-09-18T02:54:59Z","modified":"2026-10-19T08:11:19Z"}
 {"name":"zero-daemon-small-fire-pi","id":"MAL-2025-190473","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zero-develop-component-library","id":"MAL-2026-1880","versions":["99.99.2"],"published":"2026-03-18T13:17:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zero-epsilon-bash-cache-query","id":"MAL-2025-190474","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
@@ -20715,6 +20723,7 @@
 {"name":"zeroth_warbler_z3n","id":"MAL-2025-118476","published":"2025-11-11T15:19:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zeroth_wren-silentdev","id":"MAL-2025-111538","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zeroth_wren_dumbs","id":"MAL-2025-111539","published":"2025-11-11T07:26:13Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"zeroz-baileys","id":"MAL-2026-17933","aliases":["GHSA-fwfc-f4gp-qrcq"],"published":"2026-10-19T06:27:07Z","modified":"2026-10-19T08:11:19Z"}
 {"name":"zest-carrot-sco5","id":"MAL-2025-40955","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zest-gorilla-x1gi","id":"MAL-2025-40956","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zest-product","id":"MAL-2026-4738","aliases":["GHSA-qm6m-33hv-fvwv"],"published":"2026-05-21T12:47:23Z","modified":"2026-10-02T05:38:49Z"}
