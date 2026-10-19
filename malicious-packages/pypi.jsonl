@@ -11313,6 +11313,7 @@
 {"name":"vfsrcetest","id":"MAL-2025-4257","versions":["1.1"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vibrant","id":"MAL-2023-8770","versions":["1.0.0"],"published":"2023-12-25T22:45:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vielcord","id":"MAL-2025-47510","versions":["0.0.7.5"],"published":"2025-09-22T02:12:23Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"vinted-mocked-apis","id":"MAL-2026-17943","versions":["99.0.0"],"published":"2026-10-19T15:36:16Z","modified":"2026-10-19T15:57:19Z"}
 {"name":"viplotlib","id":"MAL-2024-11744","versions":["1.0.0","1.0.1"],"published":"2024-10-03T15:11:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"virtualcc","id":"MAL-2023-7815","published":"2023-02-24T23:09:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"virtualcontrol","id":"MAL-2023-7816","published":"2023-02-24T23:09:10Z","modified":"2026-10-02T05:38:49Z"}

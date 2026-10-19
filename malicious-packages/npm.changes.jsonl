@@ -1,3 +1,13 @@
+{"op":"upsert","modified":"2026-10-19T15:57:19Z","name":"array-inline","id":"MAL-2026-17942","aliases":["GHSA-4rc9-v9wp-xwrp"],"published":"2026-10-19T12:38:56Z"}
+{"op":"upsert","modified":"2026-10-19T15:57:19Z","name":"array-inline-transform","id":"MAL-2026-17934","aliases":["GHSA-5hpf-6www-ff38"],"published":"2026-10-19T12:34:40Z"}
+{"op":"upsert","modified":"2026-10-19T15:57:19Z","name":"dsjklweuvhgsdcq","id":"MAL-2026-17935","aliases":["GHSA-h7g6-q4c3-g8fr"],"published":"2026-10-19T12:24:06Z"}
+{"op":"upsert","modified":"2026-10-19T15:57:19Z","name":"html-to-gutenberg","id":"MAL-2026-6359","aliases":["GHSA-2gqj-wrf5-35w8"],"versions":["4.2.11","4.2.12","4.2.13","4.2.14","4.2.15","4.2.16","4.2.17","4.2.18","4.2.19","4.2.20","4.2.21","4.2.22","4.2.24","4.2.25","4.2.26"],"published":"2026-06-24T01:51:00Z"}
+{"op":"upsert","modified":"2026-10-19T15:57:19Z","name":"mx3dxhgic8xhd6","id":"MAL-2026-17936","aliases":["GHSA-cqch-q2w2-r565"],"published":"2026-10-19T12:24:05Z"}
+{"op":"upsert","modified":"2026-10-19T15:57:19Z","name":"mxckjdgweuxpsiohd","id":"MAL-2026-17937","aliases":["GHSA-p2wp-j4r7-rcq5"],"published":"2026-10-19T12:24:05Z"}
+{"op":"upsert","modified":"2026-10-19T15:57:19Z","name":"nsdhjuiwqxmhsf1","id":"MAL-2026-17938","aliases":["GHSA-mrcc-xr4x-hmjf"],"published":"2026-10-19T12:24:05Z"}
+{"op":"upsert","modified":"2026-10-19T15:57:19Z","name":"ticketcathayoct12","id":"MAL-2026-17939","aliases":["GHSA-g7mg-3h9r-c8h3"],"published":"2026-10-19T12:24:05Z"}
+{"op":"upsert","modified":"2026-10-19T15:57:19Z","name":"vjkpwjxbvndelta","id":"MAL-2026-17940","aliases":["GHSA-j4h8-xxcj-28g7"],"published":"2026-10-19T12:24:05Z"}
+{"op":"upsert","modified":"2026-10-19T15:57:19Z","name":"zxhgssiyluwxchn","id":"MAL-2026-17941","aliases":["GHSA-54qq-xhj8-pcjc"],"published":"2026-10-19T12:24:05Z"}
 {"op":"upsert","modified":"2026-10-19T08:11:19Z","name":"@fcsmc/commercial-analytics","id":"MAL-2026-17928","versions":["99.9.1"],"published":"2026-10-19T03:01:08Z"}
 {"op":"upsert","modified":"2026-10-19T08:11:19Z","name":"@fmr-ap149494/apex-base-component","id":"MAL-2026-17929","versions":["99.9.1"],"published":"2026-10-19T03:11:13Z"}
 {"op":"upsert","modified":"2026-10-19T08:11:19Z","name":"aemath-baileys","id":"MAL-2026-17930","aliases":["GHSA-rc7v-fm82-xp4x"],"published":"2026-10-19T06:27:07Z"}

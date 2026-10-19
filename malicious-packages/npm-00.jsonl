@@ -28015,6 +28015,8 @@
 {"name":"array-eta-sudo-new-cron","id":"MAL-2025-185567","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"array-frames","id":"MAL-2026-15969","aliases":["GHSA-24hx-4mc8-g9q7"],"published":"2026-09-06T03:02:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"array-hash-view-balance-authenticate","id":"MAL-2025-14861","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"array-inline","id":"MAL-2026-17942","aliases":["GHSA-4rc9-v9wp-xwrp"],"published":"2026-10-19T12:38:56Z","modified":"2026-10-19T15:57:19Z"}
+{"name":"array-inline-transform","id":"MAL-2026-17934","aliases":["GHSA-5hpf-6www-ff38"],"published":"2026-10-19T12:34:40Z","modified":"2026-10-19T15:57:19Z"}
 {"name":"array-join-seperators","id":"MAL-2025-14862","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"array-length-validator","id":"MAL-2025-3567","aliases":["GHSA-v787-746f-9hx8","SNYK-JS-ARRAYLENGTHVALIDATOR-10006691"],"published":"2025-05-01T04:39:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"array-load-sandbox-code-cache","id":"MAL-2025-185568","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
@@ -60985,6 +60987,7 @@
 {"name":"dsilva-react-module-seed","id":"MAL-2026-11283","aliases":["GHSA-qrv2-rr4v-8g54"],"published":"2026-07-30T22:49:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dsilynor-notthedevs","id":"MAL-2025-101792","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dsjdsdksfndfdfiodsfdsfd1212","id":"MAL-2025-41553","versions":["3.3.1","3.3.2"],"published":"2025-08-28T07:26:47Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"dsjklweuvhgsdcq","id":"MAL-2026-17935","aliases":["GHSA-h7g6-q4c3-g8fr"],"published":"2026-10-19T12:24:06Z","modified":"2026-10-19T15:57:19Z"}
 {"name":"dslash-parser","id":"MAL-2025-18940","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dslive","id":"MAL-2025-18941","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dsnippets","id":"MAL-2025-18942","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -90183,7 +90186,7 @@
 {"name":"html-patcher","id":"MAL-2025-22751","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"html-report","id":"MAL-2025-4562","aliases":["GHSA-f9mf-7f86-5mh3"],"published":"2025-05-26T06:10:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"html-to-base64-image","id":"MAL-2025-47317","aliases":["GHSA-wc2m-xq5r-98mg"],"versions":["1.0.2"],"published":"2025-09-16T04:57:21Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"html-to-gutenberg","id":"MAL-2026-6359","aliases":["GHSA-2gqj-wrf5-35w8"],"versions":["4.2.11","4.2.12","4.2.13","4.2.14","4.2.15","4.2.16","4.2.17","4.2.18","4.2.19","4.2.20","4.2.21","4.2.22"],"published":"2026-06-24T01:51:00Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"html-to-gutenberg","id":"MAL-2026-6359","aliases":["GHSA-2gqj-wrf5-35w8"],"versions":["4.2.11","4.2.12","4.2.13","4.2.14","4.2.15","4.2.16","4.2.17","4.2.18","4.2.19","4.2.20","4.2.21","4.2.22","4.2.24","4.2.25","4.2.26"],"published":"2026-06-24T01:51:00Z","modified":"2026-10-19T15:57:19Z"}
 {"name":"html-webpack-plugin-4","id":"MAL-2025-47677","versions":["10.0.1"],"published":"2025-09-26T09:33:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"html-webpack-plugin-astro-blitz-procyon","id":"MAL-2025-143356","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"html-webpack-plugin-atlas-global-lacerta","id":"MAL-2025-187372","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
@@ -129244,8 +129247,10 @@
 {"name":"mx-frontend","id":"MAL-2026-7325","aliases":["GHSA-9j4c-xcrm-qgrx"],"versions":["99.9.9"],"published":"2026-07-07T13:00:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mx-icon","id":"MAL-2023-7913","aliases":["GHSA-v835-qv29-9x98","SNYK-JS-MXICON-5862632"],"published":"2023-08-25T09:33:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mx-www-locales-common","id":"MAL-2026-16536","versions":["99.0.0"],"published":"2026-09-22T17:33:05Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"mx3dxhgic8xhd6","id":"MAL-2026-17936","aliases":["GHSA-cqch-q2w2-r565"],"published":"2026-10-19T12:24:05Z","modified":"2026-10-19T15:57:19Z"}
 {"name":"mxc-jsbridge","id":"MAL-2025-4443","aliases":["GHSA-mx56-jfc6-36v6"],"published":"2025-05-26T02:57:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mxc-klinecharts","id":"MAL-2025-4444","aliases":["GHSA-4rj4-ghqq-xh95"],"published":"2025-05-26T02:57:49Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"mxckjdgweuxpsiohd","id":"MAL-2026-17937","aliases":["GHSA-p2wp-j4r7-rcq5"],"published":"2026-10-19T12:24:05Z","modified":"2026-10-19T15:57:19Z"}
 {"name":"mxdriver","id":"MAL-2026-16383","versions":["0.0.1","0.0.2"],"published":"2026-09-22T14:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mxfbjcytisrkuzva","id":"MAL-2022-4743","aliases":["GHSA-gcvc-h4rw-hrh5"],"published":"2022-07-11T20:21:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mxitpug","id":"MAL-2025-26941","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -137919,6 +137924,7 @@
 {"name":"nrwl","id":"MAL-2024-9735","versions":["213.21.24"],"published":"2024-10-16T13:08:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ns-nfactor","id":"MAL-2022-4959","aliases":["GHSA-4hv4-pfgq-x7m5"],"published":"2022-06-20T20:21:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ns-sha3","id":"MAL-2025-27865","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"nsdhjuiwqxmhsf1","id":"MAL-2026-17938","aliases":["GHSA-mrcc-xr4x-hmjf"],"published":"2026-10-19T12:24:05Z","modified":"2026-10-19T15:57:19Z"}
 {"name":"nsdhqhlqqka","id":"MAL-2025-3290","aliases":["GHSA-8x9f-x84c-7fjq"],"published":"2025-04-23T05:21:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"nsemea-address-lib-poc","id":"MAL-2025-3530","aliases":["GHSA-2cmj-2q82-3rwc"],"published":"2025-04-29T06:04:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"nsemea-alias-lib-poc","id":"MAL-2025-3531","aliases":["GHSA-r9mr-2299-c4f2"],"published":"2025-04-29T06:04:34Z","modified":"2026-10-02T05:38:49Z"}
@@ -192916,6 +192922,7 @@
 {"name":"tick-forge","id":"MAL-2026-13385","aliases":["GHSA-rjvw-v893-2f7g"],"published":"2026-08-05T13:16:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ticket-parser2","id":"MAL-2023-889","aliases":["GHSA-mqj9-f5g9-8x6c"],"published":"2023-01-30T10:11:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ticket-parser2-py3","id":"MAL-2023-890","aliases":["GHSA-3vvw-jvrv-pq7v"],"published":"2023-01-30T10:11:58Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"ticketcathayoct12","id":"MAL-2026-17939","aliases":["GHSA-g7mg-3h9r-c8h3"],"published":"2026-10-19T12:24:05Z","modified":"2026-10-19T15:57:19Z"}
 {"name":"tickets-tutorial","id":"MAL-2025-5733","aliases":["GHSA-45rp-7742-fwh5"],"published":"2025-07-08T23:58:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tickncook-robot","id":"MAL-2026-24","aliases":["GHSA-p52r-cmjv-v6mr"],"published":"2026-01-02T22:06:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ticktricktrack-stm","id":"MAL-2025-36889","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -200189,12 +200196,3 @@
 {"name":"unimna-safi-afcua","id":"MAL-2025-179322","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-safi-afucuga","id":"MAL-2025-179323","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-safiag-afucuga","id":"MAL-2025-179324","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-safiagiaf-afgucuga","id":"MAL-2025-179325","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-safiagif-afucuga","id":"MAL-2025-179326","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-safig-afucuga","id":"MAL-2025-179327","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-sai-acua","id":"MAL-2025-179328","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-saiof-naioagis","id":"MAL-2025-179329","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-saof-naioagis","id":"MAL-2025-179330","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satgb-naiagunbis","id":"MAL-2025-179331","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satgb-naiagunubis","id":"MAL-2025-179332","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satgb-naiguab","id":"MAL-2025-179333","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}

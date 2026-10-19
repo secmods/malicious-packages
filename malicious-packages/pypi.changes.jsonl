@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-10-19T15:57:19Z","name":"vinted-mocked-apis","id":"MAL-2026-17943","versions":["99.0.0"],"published":"2026-10-19T15:36:16Z"}
 {"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"fabdeploycheck","id":"MAL-2026-17926","versions":["0.1.1"],"published":"2026-10-19T02:26:39Z"}
 {"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"fabtoolkit","id":"MAL-2026-17927","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-10-19T02:26:31Z"}
 {"op":"upsert","modified":"2026-10-18T17:51:40Z","name":"leakdeep","id":"MAL-2026-17921","versions":["2.4.1","2.4.5","2.5.0","2.5.2","2.6.0","2.6.2","2.6.4","2.6.6","3.0.0"],"published":"2026-10-18T01:45:23Z"}
