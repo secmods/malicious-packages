@@ -2944,9 +2944,11 @@
 {"name":"f5-logger","id":"MAL-2025-192608","versions":["99.0.0"],"published":"2025-12-18T19:50:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"f5rest","id":"MAL-2025-192609","versions":["99.0.0"],"published":"2025-12-18T19:50:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"faaladorcli","id":"MAL-2026-1351","versions":["99.0.1"],"published":"2026-03-11T23:31:55Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"fabdeploycheck","id":"MAL-2026-17926","versions":["0.1.1"],"published":"2026-10-19T02:26:39Z","modified":"2026-10-19T02:42:54Z"}
 {"name":"fabrice","id":"MAL-2024-10573","published":"2024-11-11T10:31:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fabricee","id":"MAL-2024-11586","versions":["1.0.0"],"published":"2024-12-09T06:50:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fabrlce","id":"MAL-2024-11587","versions":["1.0.0"],"published":"2024-12-09T06:50:13Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"fabtoolkit","id":"MAL-2026-17927","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-10-19T02:26:31Z","modified":"2026-10-19T02:42:54Z"}
 {"name":"facebook-scrapper","id":"MAL-2024-5127","versions":["0.0.1.dev0"],"published":"2024-06-25T13:35:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"facebookresearch","id":"MAL-2026-2175","versions":["99.0.0"],"published":"2026-03-25T05:06:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fadlearner","id":"MAL-2024-11588","versions":["912.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}

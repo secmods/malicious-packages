@@ -1483,6 +1483,8 @@
 {"name":"@apachesling/slingpackager","id":"MAL-2025-42188","published":"2025-09-05T16:38:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@apachesling/slingpost","id":"MAL-2025-42189","published":"2025-09-05T16:38:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@apex-ui/core","id":"MAL-2023-7946","aliases":["GHSA-6gwq-8w3v-g4mc"],"published":"2023-08-29T05:16:40Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@apexacc/audit","id":"MAL-2026-17923","modified":"2026-10-19T02:42:54Z"}
+{"name":"@apexacc/cli","id":"MAL-2026-17924","modified":"2026-10-19T02:42:54Z"}
 {"name":"@apexcraft/nano-key","id":"MAL-2026-6210","aliases":["GHSA-8x7w-vjr2-7q4m"],"published":"2026-06-19T15:12:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@apexfdn/apex","id":"MAL-2026-10979","aliases":["GHSA-w63r-vpcf-2wwf"],"versions":["1.0.1","1.0.10","1.0.11","1.0.12","1.0.13","1.0.14","1.0.15","1.0.16","1.0.17","1.0.18","1.0.19","1.0.2","1.0.20","1.0.21","1.0.22","1.0.23","1.0.24","1.0.25","1.0.26","1.0.27","1.0.28","1.0.29","1.0.3","1.0.30","1.0.31","1.0.32","1.0.4","1.0.5","1.0.6","1.0.7","1.0.8","1.0.9"],"published":"2026-07-21T21:00:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@apexfnd/apex","id":"MAL-2026-11121","versions":["1.0.0","1.0.1","1.0.3","1.0.4"],"published":"2026-07-28T13:35:21Z","modified":"2026-10-02T05:38:49Z"}
@@ -4855,6 +4857,7 @@
 {"name":"@flutteruki-gaming/eslint-config-flutteruki-gaming","id":"MAL-2024-11812","versions":["1.8.0"],"published":"2024-12-11T14:46:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@flutteruki-gaming/gfe-prismic","id":"MAL-2025-42509","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@flutteruki-gaming/test-eslint-config-flutteruki-gaming","id":"MAL-2024-11813","versions":["1.6.0","1.6.1","1.6.2"],"published":"2024-12-11T14:15:50Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@fluxionii/baileys","id":"MAL-2026-17925","aliases":["GHSA-98x4-5hvc-62qx"],"published":"2026-10-19T00:21:53Z","modified":"2026-10-19T02:42:54Z"}
 {"name":"@fm-plugin/dynamic-module-provider","id":"MAL-2025-7936","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@fmcc-web-platform/platform-experience-lib","id":"MAL-2025-7937","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@fmcc-web-platform/react-components","id":"MAL-2025-7938","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -9429,7 +9432,7 @@
 {"name":"@osmura/treeify","id":"MAL-2026-6542","published":"2026-06-26T21:41:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@oss-ui/capsig-legacy","id":"MAL-2025-9149","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ossillate/testfoo-my","id":"MAL-2024-7078","versions":["0.0.1"],"published":"2024-06-25T12:21:29Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@ostyado/baileys","id":"MAL-2026-17372","modified":"2026-10-02T05:38:49Z"}
+{"name":"@ostyado/baileys","id":"MAL-2026-17372","aliases":["GHSA-v73c-2rgc-m2jx"],"published":"2026-10-19T00:21:53Z","modified":"2026-10-19T02:42:54Z"}
 {"name":"@otaxayuns/baileys","id":"MAL-2026-2934","aliases":["GHSA-4vx6-qhj8-f6cr"],"published":"2026-04-20T06:21:33Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@otvet/advertising","id":"MAL-2022-484","aliases":["GHSA-7jcf-pmrr-hh76"],"published":"2022-06-20T20:20:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@otvet/muse-ui","id":"MAL-2022-485","aliases":["GHSA-q9r6-xpgw-vhv7"],"published":"2022-06-20T20:20:20Z","modified":"2026-10-02T05:38:49Z"}
@@ -200198,6 +200201,3 @@
 {"name":"unimna-satgob-naigis","id":"MAL-2025-179339","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-satgob-naigsubis","id":"MAL-2025-179340","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unimna-satgob-naigsuis","id":"MAL-2025-179341","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satgob-naigubis","id":"MAL-2025-179342","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satgob-naiubis","id":"MAL-2025-179343","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unimna-satgub-naiguanab","id":"MAL-2025-179344","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}

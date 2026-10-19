@@ -1,3 +1,7 @@
+{"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"@apexacc/audit","id":"MAL-2026-17923"}
+{"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"@apexacc/cli","id":"MAL-2026-17924"}
+{"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"@fluxionii/baileys","id":"MAL-2026-17925","aliases":["GHSA-98x4-5hvc-62qx"],"published":"2026-10-19T00:21:53Z"}
+{"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"@ostyado/baileys","id":"MAL-2026-17372","aliases":["GHSA-v73c-2rgc-m2jx"],"published":"2026-10-19T00:21:53Z"}
 {"op":"upsert","modified":"2026-10-18T21:59:49Z","name":"@pkgship/frpc-linux-arm64","id":"MAL-2026-17922","aliases":["GHSA-753f-gx8g-q88w"],"versions":["0.71.0"],"published":"2026-10-18T21:10:43Z"}
 {"op":"upsert","modified":"2026-10-17T05:09:18Z","name":"itsa-react-focuscontainer","id":"MAL-2026-17910","aliases":["GHSA-8c34-p746-v5rq"],"versions":["16.0.10"],"published":"2026-10-16T23:28:24Z"}
 {"op":"upsert","modified":"2026-10-17T05:09:18Z","name":"itsa-react-maskedinput","id":"MAL-2026-17911","aliases":["GHSA-hhr5-rjw6-9hr5"],"versions":["16.1.2"],"published":"2026-10-16T23:29:58Z"}
