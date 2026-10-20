@@ -2952,6 +2952,7 @@
 {"name":"fabtoolkit","id":"MAL-2026-17927","versions":["0.1.0","0.1.1","0.1.2","0.2.1"],"published":"2026-10-19T02:26:31Z","modified":"2026-10-20T19:41:27Z"}
 {"name":"facebook-scrapper","id":"MAL-2024-5127","versions":["0.0.1.dev0"],"published":"2024-06-25T13:35:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"facebookresearch","id":"MAL-2026-2175","versions":["99.0.0"],"published":"2026-03-25T05:06:56Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"facewareretargeter","id":"MAL-2026-18110","versions":["9.9.9"],"published":"2026-10-20T20:48:43Z","modified":"2026-10-20T22:45:18Z"}
 {"name":"fadlearner","id":"MAL-2024-11588","versions":["912.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"faest","id":"MAL-2024-12269","versions":["0.14.6"],"published":"2024-09-25T16:44:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fairness-bias","id":"MAL-2026-2170","versions":["99.0.0"],"published":"2026-03-25T05:05:53Z","modified":"2026-10-02T05:38:49Z"}
@@ -3537,6 +3538,8 @@
 {"name":"hhonestjson","id":"MAL-2024-12286","versions":["0.1.3"],"published":"2024-08-23T22:55:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hhxy","id":"MAL-2025-932","versions":["0.1","0.2.1","0.2.2","0.2.3","0.2.4"],"published":"2025-02-03T17:07:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hidden-powershell-runner-ax7","id":"MAL-2025-192659","versions":["0.1.0","0.1.1"],"published":"2025-12-19T08:23:06Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"hijiko-pilaka","id":"MAL-2026-18111","versions":["1.0.0"],"published":"2026-10-20T20:50:18Z","modified":"2026-10-20T22:45:18Z"}
+{"name":"hijok-lampam","id":"MAL-2026-18112","versions":["1.0.0"],"published":"2026-10-20T20:59:36Z","modified":"2026-10-20T22:45:18Z"}
 {"name":"hironobunigo","id":"MAL-2025-41684","versions":["1.0"],"published":"2025-08-28T07:11:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hive-os-settings","id":"MAL-2026-2665","versions":["2.33.0"],"published":"2026-04-14T14:27:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hive-setting","id":"MAL-2026-2623","versions":["2.33.0"],"published":"2026-04-13T16:27:32Z","modified":"2026-10-02T05:38:49Z"}
@@ -3890,6 +3893,7 @@
 {"name":"jec","id":"MAL-2026-5684","versions":["39.0.1"],"published":"2026-06-12T13:07:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"jfqyotpnvb","id":"MAL-2024-5279","versions":["0.0.1"],"published":"2024-06-25T13:36:33Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"jie-utility-package","id":"MAL-2026-3022","versions":["1.5.0"],"published":"2026-04-23T17:48:51Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"jiklpo-tsunari-kay","id":"MAL-2026-18113","versions":["1.0.0"],"published":"2026-10-20T20:53:18Z","modified":"2026-10-20T22:45:18Z"}
 {"name":"jinja22","id":"MAL-2025-41693","versions":["1.1.0"],"published":"2025-08-28T07:11:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"jirawrapped","id":"MAL-2025-6529","versions":["0.1.0","0.2.0","0.3.1"],"published":"2025-07-02T10:07:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"jksandbox","id":"MAL-2024-5280","versions":["99.0"],"published":"2024-06-25T13:36:34Z","modified":"2026-10-02T05:38:49Z"}
@@ -11036,6 +11040,7 @@
 {"name":"treadtools","id":"MAL-2024-11733","versions":["1.0.0","1.0.1"],"published":"2024-12-09T06:51:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"treeherder-submitter","id":"MAL-2025-191910","versions":["0.0.1"],"published":"2025-07-28T15:45:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"trickery","id":"MAL-2026-3698","versions":["1.0.0","1.0.1"],"published":"2026-05-13T18:41:37Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"trijigo-kalip","id":"MAL-2026-18114","versions":["1.0.0"],"published":"2026-10-20T20:59:05Z","modified":"2026-10-20T22:45:18Z"}
 {"name":"triple-equal","id":"MAL-2025-41786","versions":["10.0.5"],"published":"2025-07-29T08:39:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"triple-equals","id":"MAL-2025-6328","versions":["10.0.1","10.0.2"],"published":"2025-07-28T15:10:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tristanelbg","id":"MAL-2024-6168","versions":["0.1.4"],"published":"2024-06-25T13:43:49Z","modified":"2026-10-02T05:38:49Z"}

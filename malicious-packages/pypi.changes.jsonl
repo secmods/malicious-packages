@@ -1,3 +1,8 @@
+{"op":"upsert","modified":"2026-10-20T22:45:18Z","name":"facewareretargeter","id":"MAL-2026-18110","versions":["9.9.9"],"published":"2026-10-20T20:48:43Z"}
+{"op":"upsert","modified":"2026-10-20T22:45:18Z","name":"hijiko-pilaka","id":"MAL-2026-18111","versions":["1.0.0"],"published":"2026-10-20T20:50:18Z"}
+{"op":"upsert","modified":"2026-10-20T22:45:18Z","name":"hijok-lampam","id":"MAL-2026-18112","versions":["1.0.0"],"published":"2026-10-20T20:59:36Z"}
+{"op":"upsert","modified":"2026-10-20T22:45:18Z","name":"jiklpo-tsunari-kay","id":"MAL-2026-18113","versions":["1.0.0"],"published":"2026-10-20T20:53:18Z"}
+{"op":"upsert","modified":"2026-10-20T22:45:18Z","name":"trijigo-kalip","id":"MAL-2026-18114","versions":["1.0.0"],"published":"2026-10-20T20:59:05Z"}
 {"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"fabtoolkit","id":"MAL-2026-17927","versions":["0.1.0","0.1.1","0.1.2","0.2.1"],"published":"2026-10-19T02:26:31Z"}
 {"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"pyyi","id":"MAL-2026-17866","versions":["2.4","2.4.1","2.4.2","2.5.0","2.5.1","2.5.2","2.5.3","2.5.4","2.5.5"],"published":"2026-10-16T15:57:23Z"}
 {"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"research-probe-6150c1c915","id":"MAL-2026-18097","versions":["0.1.0"],"published":"2026-10-20T15:52:54Z"}
