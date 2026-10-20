@@ -1,3 +1,8 @@
+{"op":"upsert","modified":"2026-10-20T05:28:26Z","name":"ccl-global-shopping","id":"MAL-2026-18061","versions":["99.9.1"],"published":"2026-10-20T03:43:48Z"}
+{"op":"upsert","modified":"2026-10-20T05:28:26Z","name":"fanarena-common","id":"MAL-2026-18063","versions":["99.9.1"],"published":"2026-10-20T03:55:45Z"}
+{"op":"upsert","modified":"2026-10-20T05:28:26Z","name":"ing-feat-itsme-oidc-authentication","id":"MAL-2026-5780","versions":["99.9.1","99.99.99"],"published":"2026-06-15T15:10:24Z"}
+{"op":"upsert","modified":"2026-10-20T05:28:26Z","name":"sc-announcer","id":"MAL-2026-18064","versions":["99.9.1"],"published":"2026-10-20T04:11:06Z"}
+{"op":"upsert","modified":"2026-10-20T05:28:26Z","name":"sc-wizard","id":"MAL-2026-18062","versions":["99.9.1"],"published":"2026-10-20T03:31:02Z"}
 {"op":"upsert","modified":"2026-10-20T00:00:16Z","name":"@an1mshnpmb9c84920/gat-scope-target-125ec19a","id":"MAL-2026-18046","aliases":["GHSA-87gv-mmww-whrr"],"published":"2026-10-19T22:19:38Z"}
 {"op":"upsert","modified":"2026-10-20T00:00:16Z","name":"@an1mshnpmb9c84920/oidc-cross-cafb9d929e","id":"MAL-2026-18047","aliases":["GHSA-mmr7-9m67-9qh5"],"published":"2026-10-19T22:19:37Z"}
 {"op":"upsert","modified":"2026-10-20T00:00:16Z","name":"@an1mshnpmb9c84920/pipe-compat-m19r8","id":"MAL-2026-18048","aliases":["GHSA-hxmq-p768-mjhf"],"published":"2026-10-19T22:19:37Z"}

@@ -41680,6 +41680,7 @@
 {"name":"ccip-resolver","id":"MAL-2025-5026","versions":["0.2.10"],"published":"2025-06-12T02:14:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ccip-starter-kit-hardhat","id":"MAL-2026-2739","versions":["99.0.1"],"published":"2026-04-16T09:48:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ccl-component-resources","id":"MAL-2024-1959","aliases":["GHSA-892p-5g9m-p64x"],"published":"2024-06-25T12:32:40Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"ccl-global-shopping","id":"MAL-2026-18061","versions":["99.9.1"],"published":"2026-10-20T03:43:48Z","modified":"2026-10-20T05:28:26Z"}
 {"name":"ccl-modal","id":"MAL-2024-957","versions":["2.3.0"],"published":"2024-02-02T16:40:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ccl-product-carousel","id":"MAL-2024-1081","aliases":["GHSA-q5xg-2w99-45xw","SNYK-JS-CCLPRODUCTCAROUSEL-6422281"],"published":"2024-03-12T10:33:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ccl-styles-2016","id":"MAL-2024-1960","versions":["1.7.0"],"published":"2024-06-25T12:32:42Z","modified":"2026-10-02T05:38:49Z"}
@@ -71911,6 +71912,7 @@
 {"name":"famous_whale_z3n","id":"MAL-2025-119979","published":"2025-11-11T20:11:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"famshot","id":"MAL-2026-11309","aliases":["GHSA-v3p3-vv86-m2vx"],"published":"2026-07-30T22:21:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fanada","id":"MAL-2025-20216","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"fanarena-common","id":"MAL-2026-18063","versions":["99.9.1"],"published":"2026-10-20T03:55:45Z","modified":"2026-10-20T05:28:26Z"}
 {"name":"fanc6og","id":"MAL-2022-2964","aliases":["GHSA-j84v-x357-pmfp"],"published":"2022-08-19T03:55:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fancode-fc-tools","id":"MAL-2023-324","aliases":["GHSA-cf6v-g3gc-3vj8"],"published":"2023-04-12T02:02:36Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fancode-web-app","id":"MAL-2026-2130","aliases":["GHSA-f6pq-884h-rjxq"],"published":"2026-03-24T12:48:28Z","modified":"2026-10-02T05:38:49Z"}
@@ -95302,7 +95304,7 @@
 {"name":"ing-feat-grants-granting","id":"MAL-2024-1587","versions":["200.0.0"],"published":"2024-06-12T09:40:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ing-feat-grants-management","id":"MAL-2024-1324","aliases":["GHSA-rjmg-cr38-ccm8"],"published":"2024-05-04T04:56:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ing-feat-inbox","id":"MAL-2025-1135","aliases":["GHSA-8gm9-47cm-4287","SNYK-JS-INGFEATINBOX-8685151"],"published":"2025-02-03T08:29:10Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ing-feat-itsme-oidc-authentication","id":"MAL-2026-5780","versions":["99.99.99"],"published":"2026-06-15T15:10:24Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"ing-feat-itsme-oidc-authentication","id":"MAL-2026-5780","versions":["99.9.1","99.99.99"],"published":"2026-06-15T15:10:24Z","modified":"2026-10-20T05:28:26Z"}
 {"name":"ing-feat-kyc-consent","id":"MAL-2025-192934","aliases":["GHSA-r682-hfrx-mp6j"],"published":"2025-12-25T18:55:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ing-feat-loans-simulator","id":"MAL-2025-3999","aliases":["GHSA-hq2w-x6p3-gm94","SNYK-JS-INGFEATLOANSSIMULATOR-10188428"],"published":"2025-05-19T07:48:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ing-feat-lu-luxtrust-oaw-authentication","id":"MAL-2023-525","aliases":["GHSA-wxpq-5c4x-56rr"],"published":"2023-06-29T23:26:50Z","modified":"2026-10-02T05:38:49Z"}
@@ -170384,6 +170386,7 @@
 {"name":"sbtydhovriufmpqx","id":"MAL-2022-5947","aliases":["GHSA-8vx6-cqmh-3j8r"],"published":"2022-07-11T20:31:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sbx-mask","id":"MAL-2026-2132","aliases":["GHSA-r934-qgg3-v7fg"],"versions":["1.0.0","1.0.1","1.0.2"],"published":"2026-03-24T13:09:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sc-add-to-cart","id":"MAL-2022-5948","aliases":["GHSA-gpcp-pjcm-jvpp"],"published":"2022-06-20T20:09:56Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"sc-announcer","id":"MAL-2026-18064","versions":["99.9.1"],"published":"2026-10-20T04:11:06Z","modified":"2026-10-20T05:28:26Z"}
 {"name":"sc-appreg","id":"MAL-2025-32759","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sc-bing","id":"MAL-2022-5949","aliases":["GHSA-fm54-jjcx-xj5j"],"published":"2022-06-20T20:09:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sc-bunyan-logstash-amqp","id":"MAL-2025-32760","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -170407,6 +170410,7 @@
 {"name":"sc-qucak","id":"MAL-2024-9826","versions":["1.0.0"],"published":"2024-10-16T13:17:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sc-rates-table","id":"MAL-2025-32761","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sc-twitter","id":"MAL-2025-2049","aliases":["GHSA-pgjm-vjx4-xppp"],"published":"2025-03-03T07:33:20Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"sc-wizard","id":"MAL-2026-18062","versions":["99.9.1"],"published":"2026-10-20T03:31:02Z","modified":"2026-10-20T05:28:26Z"}
 {"name":"sc.amqp","id":"MAL-2025-32762","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sc.logging","id":"MAL-2025-32763","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sc5","id":"MAL-2025-4019","aliases":["GHSA-6hv9-5qc8-rjgh","SNYK-JS-SC5-10188433"],"published":"2025-05-19T07:48:28Z","modified":"2026-10-02T05:38:49Z"}
@@ -200152,7 +200156,3 @@
 {"name":"unicocheck-ios","id":"MAL-2026-5831","versions":["9.9.9"],"published":"2026-06-15T11:36:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unicorefx","id":"MAL-2025-37745","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unicorn-5exuw-uq4h2-serenity-project","id":"MAL-2025-37746","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unicorn-5o0wt-dbtzy-terra-project","id":"MAL-2025-37747","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unicorn-bisda-9270v-zen-project","id":"MAL-2025-37748","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unicorn-boulder-quw837-project","id":"MAL-2025-37749","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unicorn-cloud-vvv674-project","id":"MAL-2025-37750","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
