@@ -5728,6 +5728,7 @@
 {"name":"packagescraping","id":"MAL-2024-5449","versions":["0.9.0"],"published":"2024-06-25T13:37:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"packed-w3shi","id":"MAL-2025-191809","versions":["0.0.1"],"published":"2025-08-08T15:40:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pafer","id":"MAL-2026-17756","versions":["0.9.7","0.9.8"],"published":"2026-10-10T11:11:35Z","modified":"2026-10-11T03:39:29Z"}
+{"name":"pafex","id":"MAL-2026-18094","versions":["2.3"],"published":"2026-10-20T13:23:10Z","modified":"2026-10-20T15:25:26Z"}
 {"name":"paintpy","id":"MAL-2024-5450","aliases":["SNYK-PYTHON-PAINTPY-3179268"],"versions":["2.0"],"published":"2024-06-25T13:37:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pam98wyfupa98w","id":"MAL-2025-191810","versions":["0.0.1"],"published":"2025-11-14T17:24:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"panads","id":"MAL-2023-1934","published":"2023-02-10T20:21:05Z","modified":"2026-10-02T05:38:49Z"}
@@ -8196,6 +8197,7 @@
 {"name":"res-adapter","id":"MAL-2024-11692","versions":["912.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"research-learn","id":"MAL-2025-6577","versions":["0.0.1"],"published":"2025-07-31T19:16:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"researchpoc","id":"MAL-2026-504","versions":["99.99.9"],"published":"2026-01-25T10:54:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"resion","id":"MAL-2026-18095","versions":["22.0.1"],"published":"2026-10-20T13:16:36Z","modified":"2026-10-20T15:25:26Z"}
 {"name":"resplit","id":"MAL-2023-5928","published":"2023-02-25T16:12:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ressend","id":"MAL-2024-5938","versions":["0.8"],"published":"2024-06-25T13:42:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ressy","id":"MAL-2024-5939","versions":["0.8"],"published":"2024-06-25T13:42:00Z","modified":"2026-10-02T05:38:49Z"}
@@ -9932,6 +9934,7 @@
 {"name":"test-tetdssa","id":"MAL-2025-41773","versions":["1.0.0"],"published":"2025-08-28T07:12:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test-tool-devdevrl-hackerone","id":"MAL-2024-12361","versions":["1.0.0"],"published":"2024-08-23T22:55:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test-typo-pypi","id":"MAL-2024-6108","versions":["1.1.18","1.1.7"],"published":"2024-06-25T13:43:22Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"test-workalendar-internal","id":"MAL-2026-18092","versions":["0.0.1","0.0.2","0.0.3"],"published":"2026-10-20T13:00:38Z","modified":"2026-10-20T15:25:26Z"}
 {"name":"test128123612","id":"MAL-2024-11723","versions":["0.1"],"published":"2024-12-09T06:51:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test24234","id":"MAL-2024-10170","aliases":["SNYK-PYTHON-TEST24234-5508577"],"versions":["0.1","0.4"],"published":"2024-10-16T14:52:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test421","id":"MAL-2025-48899","versions":["1.0.1"],"published":"2025-10-23T19:17:13Z","modified":"2026-10-02T05:38:49Z"}
@@ -11639,6 +11642,8 @@
 {"name":"wisecloudsecrets","id":"MAL-2026-1143","versions":["1.4.0"],"published":"2026-03-02T18:48:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wmi-toolbox","id":"MAL-2024-6214","versions":["0.1.0"],"published":"2024-06-25T13:44:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"woowoowo","id":"MAL-2025-47812","versions":["0.1.1"],"published":"2025-08-21T09:12:06Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"workalender","id":"MAL-2026-18096","versions":["17.1.0.dev0"],"published":"2026-10-20T13:36:11Z","modified":"2026-10-20T15:25:26Z"}
+{"name":"workcalender","id":"MAL-2026-18093","versions":["17.1.0.dev0"],"published":"2026-10-20T13:05:17Z","modified":"2026-10-20T15:25:26Z"}
 {"name":"workingitme","id":"MAL-2026-2308","versions":["1.0.0"],"published":"2026-03-31T03:40:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"workingitmehelpit","id":"MAL-2026-3664","versions":["1.0.0"],"published":"2026-05-13T16:32:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"worldhello","id":"MAL-2025-5174","versions":["1.0.0"],"published":"2025-06-17T16:36:03Z","modified":"2026-10-02T05:38:49Z"}

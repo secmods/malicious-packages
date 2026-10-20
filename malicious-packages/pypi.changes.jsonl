@@ -1,3 +1,8 @@
+{"op":"upsert","modified":"2026-10-20T15:25:26Z","name":"pafex","id":"MAL-2026-18094","versions":["2.3"],"published":"2026-10-20T13:23:10Z"}
+{"op":"upsert","modified":"2026-10-20T15:25:26Z","name":"resion","id":"MAL-2026-18095","versions":["22.0.1"],"published":"2026-10-20T13:16:36Z"}
+{"op":"upsert","modified":"2026-10-20T15:25:26Z","name":"test-workalendar-internal","id":"MAL-2026-18092","versions":["0.0.1","0.0.2","0.0.3"],"published":"2026-10-20T13:00:38Z"}
+{"op":"upsert","modified":"2026-10-20T15:25:26Z","name":"workalender","id":"MAL-2026-18096","versions":["17.1.0.dev0"],"published":"2026-10-20T13:36:11Z"}
+{"op":"upsert","modified":"2026-10-20T15:25:26Z","name":"workcalender","id":"MAL-2026-18093","versions":["17.1.0.dev0"],"published":"2026-10-20T13:05:17Z"}
 {"op":"upsert","modified":"2026-10-20T00:00:16Z","name":"asurion","id":"MAL-2026-18045","versions":["99.0.0"],"published":"2026-10-19T21:22:38Z"}
 {"op":"upsert","modified":"2026-10-19T15:57:19Z","name":"vinted-mocked-apis","id":"MAL-2026-17943","versions":["99.0.0"],"published":"2026-10-19T15:36:16Z"}
 {"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"fabdeploycheck","id":"MAL-2026-17926","versions":["0.1.1"],"published":"2026-10-19T02:26:39Z"}
