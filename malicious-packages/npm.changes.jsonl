@@ -1,3 +1,10 @@
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"@securihackbot/depconf-stage-1792484738","id":"MAL-2026-18105","versions":["1.0.0"],"published":"2026-10-20T18:45:40Z"}
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"formatting-subtitles-for-claude","id":"MAL-2026-18099","aliases":["GHSA-xxr7-33gg-pcg6"],"published":"2026-10-20T15:59:30Z"}
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"memories-core-web","id":"MAL-2026-18106","versions":["99.0.0"],"published":"2026-10-20T18:45:24Z"}
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"nwfp-build-config","id":"MAL-2026-18107","aliases":["GHSA-fj85-27r8-hgfg"],"versions":["0.0.0-stage","1.0.0"],"published":"2026-10-20T18:14:53Z"}
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"rootaccessxvv-bbmarker","id":"MAL-2026-18108","versions":["1.0.2"],"published":"2026-10-20T18:45:46Z"}
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"rs-lookout-sandbox-poc","id":"MAL-2026-18109","versions":["1.0.1"],"published":"2026-10-20T18:45:31Z"}
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"unicode-title-normalizer","id":"MAL-2026-18100","aliases":["GHSA-66rv-6q99-h89g"],"published":"2026-10-20T15:59:30Z"}
 {"op":"upsert","modified":"2026-10-20T10:32:01Z","name":"@platform-services/hrm-mfe-core","id":"MAL-2026-18091","versions":["99.9.1"],"published":"2026-10-20T06:40:45Z"}
 {"op":"upsert","modified":"2026-10-20T10:32:01Z","name":"animate-tailwind-kit","id":"MAL-2026-18065","versions":["3.0.1","3.0.4"],"published":"2026-10-19T00:00:00Z"}
 {"op":"upsert","modified":"2026-10-20T10:32:01Z","name":"animate-twcss-bridge","id":"MAL-2026-18066","versions":["2.0.6"],"published":"2026-10-19T00:00:00Z"}

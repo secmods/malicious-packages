@@ -1,3 +1,11 @@
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"fabtoolkit","id":"MAL-2026-17927","versions":["0.1.0","0.1.1","0.1.2","0.2.1"],"published":"2026-10-19T02:26:31Z"}
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"pyyi","id":"MAL-2026-17866","versions":["2.4","2.4.1","2.4.2","2.5.0","2.5.1","2.5.2","2.5.3","2.5.4","2.5.5"],"published":"2026-10-16T15:57:23Z"}
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"research-probe-6150c1c915","id":"MAL-2026-18097","versions":["0.1.0"],"published":"2026-10-20T15:52:54Z"}
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"security-research-startup-snapshot-810764b303","id":"MAL-2026-18098","versions":["0.1.0"],"published":"2026-10-20T15:54:20Z"}
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"semmver","id":"MAL-2026-18101","versions":["1.0.0"],"published":"2026-10-20T18:20:25Z"}
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"semveer","id":"MAL-2026-18102","versions":["1.0.0"],"published":"2026-10-20T18:20:32Z"}
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"semverr","id":"MAL-2026-18103","versions":["1.0.0"],"published":"2026-10-20T18:20:18Z"}
+{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"semvver","id":"MAL-2026-18104","versions":["1.0.0"],"published":"2026-10-20T18:20:39Z"}
 {"op":"upsert","modified":"2026-10-20T15:25:26Z","name":"pafex","id":"MAL-2026-18094","versions":["2.3"],"published":"2026-10-20T13:23:10Z"}
 {"op":"upsert","modified":"2026-10-20T15:25:26Z","name":"resion","id":"MAL-2026-18095","versions":["22.0.1"],"published":"2026-10-20T13:16:36Z"}
 {"op":"upsert","modified":"2026-10-20T15:25:26Z","name":"test-workalendar-internal","id":"MAL-2026-18092","versions":["0.0.1","0.0.2","0.0.3"],"published":"2026-10-20T13:00:38Z"}
@@ -6,7 +14,6 @@
 {"op":"upsert","modified":"2026-10-20T00:00:16Z","name":"asurion","id":"MAL-2026-18045","versions":["99.0.0"],"published":"2026-10-19T21:22:38Z"}
 {"op":"upsert","modified":"2026-10-19T15:57:19Z","name":"vinted-mocked-apis","id":"MAL-2026-17943","versions":["99.0.0"],"published":"2026-10-19T15:36:16Z"}
 {"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"fabdeploycheck","id":"MAL-2026-17926","versions":["0.1.1"],"published":"2026-10-19T02:26:39Z"}
-{"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"fabtoolkit","id":"MAL-2026-17927","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-10-19T02:26:31Z"}
 {"op":"upsert","modified":"2026-10-18T17:51:40Z","name":"leakdeep","id":"MAL-2026-17921","versions":["2.4.1","2.4.5","2.5.0","2.5.2","2.6.0","2.6.2","2.6.4","2.6.6","3.0.0"],"published":"2026-10-18T01:45:23Z"}
 {"op":"upsert","modified":"2026-10-17T18:55:49Z","name":"driftwavets","id":"MAL-2026-17912","versions":["0.1.0"],"published":"2026-10-17T17:05:38Z"}
 {"op":"upsert","modified":"2026-10-17T18:55:49Z","name":"emberlytts","id":"MAL-2026-17913","versions":["0.1.0"],"published":"2026-10-17T17:04:22Z"}
@@ -17,7 +24,6 @@
 {"op":"upsert","modified":"2026-10-17T18:55:49Z","name":"tonemaptts","id":"MAL-2026-17918","versions":["0.1.0"],"published":"2026-10-17T17:06:12Z"}
 {"op":"upsert","modified":"2026-10-17T18:55:49Z","name":"ukraine69","id":"MAL-2026-17919","versions":["1.2.0","1.2.1","1.2.2","1.2.3","1.2.5","1.2.6","1.2.7","1.2.8"],"published":"2026-10-17T16:53:55Z"}
 {"op":"upsert","modified":"2026-10-17T18:55:49Z","name":"voltswannts","id":"MAL-2026-17920","versions":["0.1.0"],"published":"2026-10-17T17:04:54Z"}
-{"op":"upsert","modified":"2026-10-16T19:06:13Z","name":"pyyi","id":"MAL-2026-17866","versions":["2.4","2.4.1","2.4.2"],"published":"2026-10-16T15:57:23Z"}
 {"op":"upsert","modified":"2026-10-16T15:03:19Z","name":"marocolor","id":"MAL-2026-17900","versions":["1.0.0"],"published":"2026-10-16T10:38:53Z"}
 {"op":"upsert","modified":"2026-10-16T10:15:56Z","name":"fromthehotel-poems","id":"MAL-2026-17897","versions":["0.1.0"],"published":"2026-10-16T05:58:04Z"}
 {"op":"upsert","modified":"2026-10-15T22:44:15Z","name":"proxyrobika","id":"MAL-2026-17889","versions":["0.1.0"],"published":"2026-10-15T20:33:51Z"}

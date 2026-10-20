@@ -2949,7 +2949,7 @@
 {"name":"fabrice","id":"MAL-2024-10573","published":"2024-11-11T10:31:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fabricee","id":"MAL-2024-11586","versions":["1.0.0"],"published":"2024-12-09T06:50:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fabrlce","id":"MAL-2024-11587","versions":["1.0.0"],"published":"2024-12-09T06:50:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"fabtoolkit","id":"MAL-2026-17927","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-10-19T02:26:31Z","modified":"2026-10-19T02:42:54Z"}
+{"name":"fabtoolkit","id":"MAL-2026-17927","versions":["0.1.0","0.1.1","0.1.2","0.2.1"],"published":"2026-10-19T02:26:31Z","modified":"2026-10-20T19:41:27Z"}
 {"name":"facebook-scrapper","id":"MAL-2024-5127","versions":["0.0.1.dev0"],"published":"2024-06-25T13:35:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"facebookresearch","id":"MAL-2026-2175","versions":["99.0.0"],"published":"2026-03-25T05:06:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fadlearner","id":"MAL-2024-11588","versions":["912.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
@@ -7783,7 +7783,7 @@
 {"name":"pyyaml-selenium","id":"MAL-2023-1398","versions":["1.15.3"],"published":"2023-05-20T14:00:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyycodestyle","id":"MAL-2023-2139","published":"2023-02-11T12:30:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyygame","id":"MAL-2023-2140","published":"2023-02-10T20:27:01Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"pyyi","id":"MAL-2026-17866","versions":["2.4","2.4.1","2.4.2"],"published":"2026-10-16T15:57:23Z","modified":"2026-10-16T19:06:13Z"}
+{"name":"pyyi","id":"MAL-2026-17866","versions":["2.4","2.4.1","2.4.2","2.5.0","2.5.1","2.5.2","2.5.3","2.5.4","2.5.5"],"published":"2026-10-16T15:57:23Z","modified":"2026-10-20T19:41:27Z"}
 {"name":"pyyinstaller","id":"MAL-2023-2141","published":"2023-02-10T17:33:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyysocks","id":"MAL-2023-2142","published":"2023-02-11T12:15:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyython-binance","id":"MAL-2023-2143","published":"2023-02-10T20:33:02Z","modified":"2026-10-02T05:38:49Z"}
@@ -8196,6 +8196,7 @@
 {"name":"rerandom","id":"MAL-2023-5927","published":"2023-02-25T16:33:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"res-adapter","id":"MAL-2024-11692","versions":["912.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"research-learn","id":"MAL-2025-6577","versions":["0.0.1"],"published":"2025-07-31T19:16:17Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"research-probe-6150c1c915","id":"MAL-2026-18097","versions":["0.1.0"],"published":"2026-10-20T15:52:54Z","modified":"2026-10-20T19:41:27Z"}
 {"name":"researchpoc","id":"MAL-2026-504","versions":["99.99.9"],"published":"2026-01-25T10:54:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"resion","id":"MAL-2026-18095","versions":["22.0.1"],"published":"2026-10-20T13:16:36Z","modified":"2026-10-20T15:25:26Z"}
 {"name":"resplit","id":"MAL-2023-5928","published":"2023-02-25T16:12:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -8436,6 +8437,7 @@
 {"name":"securedrop-workstation-dom0-config","id":"MAL-2026-604","versions":["99.9.9"],"published":"2026-01-29T13:50:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"security-alerts-sdk","id":"MAL-2026-6327","versions":["1.0.0","1.0.1","1.0.2","1.0.3"],"published":"2026-06-23T15:50:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"security-automation-job","id":"MAL-2024-11703","versions":["99.99.99"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"security-research-startup-snapshot-810764b303","id":"MAL-2026-18098","versions":["0.1.0"],"published":"2026-10-20T15:54:20Z","modified":"2026-10-20T19:41:27Z"}
 {"name":"security-util-py","id":"MAL-2023-10","versions":["0.0.5","0.0.6"],"published":"2023-05-15T12:11:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"seelenium","id":"MAL-2023-2230","published":"2023-02-10T12:54:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"seelnium","id":"MAL-2023-2231","published":"2023-02-10T12:54:14Z","modified":"2026-10-02T05:38:49Z"}
@@ -9335,7 +9337,11 @@
 {"name":"selnium","id":"MAL-2023-2243","published":"2023-02-10T12:54:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"semdb","id":"MAL-2024-5984","aliases":["SNYK-PYTHON-SEMDB-5885081"],"versions":["0.1"],"published":"2024-06-25T13:42:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"semdber","id":"MAL-2024-5985","aliases":["SNYK-PYTHON-SEMDBER-5885067"],"versions":["4.12"],"published":"2024-06-25T13:42:23Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"semmver","id":"MAL-2026-18101","versions":["1.0.0"],"published":"2026-10-20T18:20:25Z","modified":"2026-10-20T19:41:27Z"}
 {"name":"semurgdb","id":"MAL-2024-5986","aliases":["SNYK-PYTHON-SEMURGDB-5885076"],"versions":["0.1"],"published":"2024-06-25T13:42:23Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"semveer","id":"MAL-2026-18102","versions":["1.0.0"],"published":"2026-10-20T18:20:32Z","modified":"2026-10-20T19:41:27Z"}
+{"name":"semverr","id":"MAL-2026-18103","versions":["1.0.0"],"published":"2026-10-20T18:20:18Z","modified":"2026-10-20T19:41:27Z"}
+{"name":"semvver","id":"MAL-2026-18104","versions":["1.0.0"],"published":"2026-10-20T18:20:39Z","modified":"2026-10-20T19:41:27Z"}
 {"name":"sendtowev","id":"MAL-2024-11704","versions":["0.1","0.2","0.3","0.4"],"published":"2024-09-17T21:01:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sensadway","id":"MAL-2025-6582","versions":["0.1","0.2","0.3","0.4","0.5"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sentinel-tool","id":"MAL-2026-2516","versions":["0.1","0.2","0.3","0.4","0.5","0.6"],"published":"2026-04-08T16:31:08Z","modified":"2026-10-02T05:38:49Z"}
