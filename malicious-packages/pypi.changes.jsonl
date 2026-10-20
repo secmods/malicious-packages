@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-10-20T00:00:16Z","name":"asurion","id":"MAL-2026-18045","versions":["99.0.0"],"published":"2026-10-19T21:22:38Z"}
 {"op":"upsert","modified":"2026-10-19T15:57:19Z","name":"vinted-mocked-apis","id":"MAL-2026-17943","versions":["99.0.0"],"published":"2026-10-19T15:36:16Z"}
 {"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"fabdeploycheck","id":"MAL-2026-17926","versions":["0.1.1"],"published":"2026-10-19T02:26:39Z"}
 {"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"fabtoolkit","id":"MAL-2026-17927","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-10-19T02:26:31Z"}

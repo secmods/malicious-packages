@@ -350,6 +350,7 @@
 {"name":"astrono2mio","id":"MAL-2025-1962","versions":["0.6"],"published":"2025-02-08T20:07:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"astronomio","id":"MAL-2025-1963","versions":["0.5"],"published":"2025-02-08T20:07:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"astronomios","id":"MAL-2025-1964","versions":["0.6"],"published":"2025-02-08T20:07:23Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"asurion","id":"MAL-2026-18045","versions":["99.0.0"],"published":"2026-10-19T21:22:38Z","modified":"2026-10-20T00:00:16Z"}
 {"name":"async-dispatcher","id":"MAL-2024-4783","versions":["1.2.1","1.2.2","1.2.4","1.2.5"],"published":"2024-06-25T13:32:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"async-http-tools","id":"MAL-2026-3702","versions":["0.70.125"],"published":"2026-05-13T20:09:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"async-substrate-interface-sub","id":"MAL-2026-1894","versions":["1.5.156","1.5.157"],"published":"2026-03-18T12:11:16Z","modified":"2026-10-02T05:38:49Z"}
