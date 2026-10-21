@@ -5337,6 +5337,7 @@
 {"name":"morty-package","id":"MAL-2026-595","versions":["0.0.0a1"],"published":"2026-01-28T19:48:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mousemovement","id":"MAL-2024-5377","versions":["0.0.0"],"published":"2024-06-25T13:37:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"movers","id":"MAL-2024-5378","versions":["1.2"],"published":"2024-06-25T13:37:21Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"moveworks-capi-starter","id":"MAL-2026-18122","versions":["0.0.0","0.2.0"],"published":"2026-10-21T11:27:55Z","modified":"2026-10-21T12:30:58Z"}
 {"name":"moveworks-pipeline-test","id":"MAL-2026-803","versions":["2.0.0"],"published":"2026-02-06T11:36:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"moxel-python-driver","id":"MAL-2025-6550","versions":["0.0.1"],"published":"2025-07-31T19:15:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mozautomation","id":"MAL-2026-5819","versions":["2.2160.0"],"published":"2026-06-15T17:36:23Z","modified":"2026-10-02T05:38:49Z"}

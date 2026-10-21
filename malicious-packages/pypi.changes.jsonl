@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-10-21T12:30:58Z","name":"moveworks-capi-starter","id":"MAL-2026-18122","versions":["0.0.0","0.2.0"],"published":"2026-10-21T11:27:55Z"}
 {"op":"upsert","modified":"2026-10-21T01:04:56Z","name":"debbug","id":"MAL-2026-18116","versions":["1.0.0"],"published":"2026-10-20T23:01:11Z"}
 {"op":"upsert","modified":"2026-10-21T01:04:56Z","name":"deebug","id":"MAL-2026-18117","versions":["1.0.0"],"published":"2026-10-20T22:59:53Z"}
 {"op":"upsert","modified":"2026-10-21T01:04:56Z","name":"semer","id":"MAL-2026-18118","versions":["1.0.0"],"published":"2026-10-20T23:02:04Z"}
