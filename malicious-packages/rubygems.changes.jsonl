@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-10-21T23:52:32Z","name":"zzhelloworld_socktest","id":"MAL-2026-18126","versions":["0.1.5","0.1.6","0.1.7","0.1.8","0.1.9","0.2.0","0.2.1"],"published":"2026-10-21T21:47:07Z"}
 {"op":"upsert","modified":"2026-10-14T01:27:44Z","name":"block-explorer-api","id":"MAL-2026-17780","versions":["0.9.1"],"published":"2026-10-11T07:05:27Z"}
 {"op":"upsert","modified":"2026-10-14T01:27:44Z","name":"dex-router-abis","id":"MAL-2026-17784","versions":["0.9.1"],"published":"2026-10-11T07:15:27Z"}
 {"op":"upsert","modified":"2026-10-14T01:27:44Z","name":"erc20-approve-audit","id":"MAL-2026-17785","versions":["0.9.1"],"published":"2026-10-11T07:35:30Z"}

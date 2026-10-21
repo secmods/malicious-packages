@@ -4246,6 +4246,7 @@
 {"name":"zzfadgivar11","id":"MAL-2026-9947","aliases":["GHSA-g379-wg6x-fjh2","SNYK-RUBY-ZZTXTWTMP11-18017593"],"versions":["0.0.1"],"published":"2026-07-07T12:15:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zzfadgivar12","id":"MAL-2026-9948","aliases":["GHSA-54hm-p5mv-4hjw","SNYK-RUBY-ZZTXTWTMP11-18017593"],"versions":["0.0.1"],"published":"2026-07-07T12:15:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zzfadgivar13","id":"MAL-2026-9949","aliases":["GHSA-q6c5-3cwj-5vvw","SNYK-RUBY-ZZTXTWTMP11-18017593"],"versions":["0.0.1"],"published":"2026-07-07T12:15:31Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"zzhelloworld_socktest","id":"MAL-2026-18126","versions":["0.1.5","0.1.6","0.1.7","0.1.8","0.1.9","0.2.0","0.2.1"],"published":"2026-10-21T21:47:07Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"zzjinavcsbzr","id":"MAL-2026-9950","aliases":["GHSA-j6gr-82ww-c4qg"],"versions":["0.0.1"],"published":"2026-07-07T12:15:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zzjinavcsfossil","id":"MAL-2026-9951","aliases":["GHSA-7v49-hjpc-v59g","SNYK-RUBY-ZZTXTWTMP11-18017593"],"versions":["0.0.1"],"published":"2026-07-07T12:15:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zzjinavcsgit","id":"MAL-2026-9952","aliases":["GHSA-f527-jgx8-pfqp","SNYK-RUBY-ZZTXTWTMP11-18017593"],"versions":["0.0.1"],"published":"2026-07-07T12:15:33Z","modified":"2026-10-02T05:38:49Z"}

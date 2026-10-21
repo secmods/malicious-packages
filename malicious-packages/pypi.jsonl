@@ -401,6 +401,7 @@
 {"name":"audit-themis-i18n","id":"MAL-2024-12210","versions":["2.3.5"],"published":"2024-08-22T22:25:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"auohttp","id":"MAL-2026-38","versions":["3.13.3"],"published":"2026-01-04T18:49:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"aurafarmer","id":"MAL-2026-4741","versions":["0.3.0"],"published":"2026-05-19T21:52:37Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"aurenatts","id":"MAL-2026-18134","versions":["0.1.0"],"published":"2026-10-21T23:05:04Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"aurm-desktop-client","id":"MAL-2025-1966","versions":["0.38.10","0.38.11","0.39.10","0.39.9"],"published":"2025-03-03T13:44:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"aurm-python-sdk","id":"MAL-2025-1967","versions":["0.1.0","0.1.10","0.1.11","1.0.1","1.0.10","1.0.11","1.0.2","1.0.3","1.1.0","1.1.10","1.1.11","1.1.12","1.1.13","1.1.14","1.1.15","1.1.16"],"published":"2025-03-03T13:44:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"auth-app-streamlit","id":"MAL-2026-15577","versions":["2.1.1"],"published":"2026-08-30T06:31:06Z","modified":"2026-10-02T05:38:49Z"}
@@ -455,6 +456,7 @@
 {"name":"basic-arithmetics","id":"MAL-2024-12214","versions":["1.0.0"],"published":"2024-08-23T22:55:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"batch-shipyard","id":"MAL-2026-2174","versions":["99.0.0"],"published":"2026-03-25T05:04:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"batchran","id":"MAL-2024-10445","versions":["912.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"batchspar","id":"MAL-2026-18135","versions":["0.1.0"],"published":"2026-10-21T23:02:49Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"bautifulsoup","id":"MAL-2023-1588","published":"2023-02-11T12:48:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bautifulsoup4","id":"MAL-2023-1589","published":"2023-02-10T12:45:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bavard-ml-common","id":"MAL-2025-6461","versions":["0.0.1"],"published":"2025-07-31T19:14:19Z","modified":"2026-10-02T05:38:49Z"}
@@ -696,6 +698,7 @@
 {"name":"browser-web","id":"MAL-2024-4833","versions":["1.0"],"published":"2024-06-25T13:32:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"browserdiv","id":"MAL-2022-7422","aliases":["GHSA-2wg3-9fjw-vjvj"],"published":"2022-08-30T19:52:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"brrerrere","id":"MAL-2024-4834","versions":["1.0"],"published":"2024-06-25T13:32:57Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"brummatts","id":"MAL-2026-18136","versions":["0.1.0"],"published":"2026-10-21T23:04:14Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"bruts","id":"MAL-2024-4835","versions":["1.0"],"published":"2024-06-25T13:32:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bs3","id":"MAL-2024-4836","versions":["0.0.1"],"published":"2024-06-25T13:32:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bs5","id":"MAL-2024-4837","versions":["0.0.1"],"published":"2024-06-25T13:32:58Z","modified":"2026-10-02T05:38:49Z"}
@@ -1046,6 +1049,7 @@
 {"name":"code-tracker","id":"MAL-2025-910","versions":["1.0.0"],"published":"2024-12-16T10:40:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"code-transfering-3","id":"MAL-2026-445","versions":["0.1"],"published":"2026-01-21T20:21:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"code-transfering-4","id":"MAL-2026-446","versions":["0.1"],"published":"2026-01-21T20:20:41Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"codecraze","id":"MAL-2026-18137","versions":["0.1.0"],"published":"2026-10-21T23:08:42Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"codefrequencychecker","id":"MAL-2026-126","versions":["0.0.1","0.0.2","0.0.3","0.0.5","0.0.7"],"published":"2026-01-07T10:05:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"codeoptimizer","id":"MAL-2025-3440","versions":["4.1.1","4.2.1"],"published":"2025-03-23T21:03:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"codeshouhu","id":"MAL-2026-1488","versions":["0.1.3","0.1.4","0.1.5","0.1.6","0.1.7","0.1.8","0.1.9","0.2.0","0.2.1","0.2.2"],"published":"2026-03-16T18:00:09Z","modified":"2026-10-02T05:38:49Z"}
@@ -1344,6 +1348,7 @@
 {"name":"credential-sdk","id":"MAL-2024-5000","versions":["0.0.1","0.0.2","0.0.3"],"published":"2024-06-25T13:34:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"credit-decision-metrics","id":"MAL-2026-653","versions":["9.1.0"],"published":"2026-02-02T14:42:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"crelic-bqwheel-52f66a3f1d","id":"MAL-2026-17863","versions":["0.0.1"],"published":"2026-10-13T22:46:32Z","modified":"2026-10-14T01:27:44Z"}
+{"name":"crenelatts","id":"MAL-2026-18138","versions":["0.1.0"],"published":"2026-10-21T23:01:56Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"crowdnav","id":"MAL-2025-41642","versions":["1.0"],"published":"2025-08-28T07:10:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"crowdstrike-foundry","id":"MAL-2025-912","versions":["20.1.0","20.2.0","20.3.0"],"published":"2024-12-01T16:23:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"crpt","id":"MAL-2025-191707","versions":["1.0.0"],"published":"2025-07-12T18:44:15Z","modified":"2026-10-02T05:38:49Z"}
@@ -1677,6 +1682,7 @@
 {"name":"dicord-webhook","id":"MAL-2023-1763","published":"2023-02-11T12:00:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dicsord-py","id":"MAL-2023-1764","published":"2023-02-11T12:06:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dicsord-webhook","id":"MAL-2023-1765","published":"2023-02-11T12:00:10Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"dictanovaasr","id":"MAL-2026-18139","versions":["0.1.0"],"published":"2026-10-21T23:09:26Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"dicuser","id":"MAL-2024-5049","versions":["0.0.1","0.0.2","0.0.3","0.0.4","0.0.5"],"published":"2024-06-25T13:34:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dider","id":"MAL-2024-5050","versions":["1.0"],"published":"2024-06-25T13:34:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dify-api","id":"MAL-2026-248","versions":["2.0.0"],"published":"2026-01-13T14:21:33Z","modified":"2026-10-02T05:38:49Z"}
@@ -3392,6 +3398,7 @@
 {"name":"gridifies","id":"MAL-2025-193012","versions":["1.0.2"],"published":"2026-02-06T14:04:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gridifys","id":"MAL-2026-732","versions":["1.0.2"],"published":"2026-02-04T07:29:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"grokwrapper","id":"MAL-2026-811","versions":["0.1.0","0.2.0"],"published":"2026-02-08T10:34:16Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"grommatts","id":"MAL-2026-18140","versions":["0.1.0"],"published":"2026-10-21T23:05:14Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"groq-mcp","id":"MAL-2025-6007","versions":["0.0.1","9.9.9"],"published":"2025-07-18T12:26:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"groq-ppe-pkg","id":"MAL-2026-913","versions":["1.0.0"],"published":"2026-02-16T07:09:54Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"grpc-google-bigtable-v2","id":"MAL-2025-4665","versions":["0.11.99"],"published":"2024-09-06T11:29:16Z","modified":"2026-10-02T05:38:49Z"}
@@ -3872,6 +3879,7 @@
 {"name":"ismplejson","id":"MAL-2023-1886","published":"2023-02-11T11:45:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"isred","id":"MAL-2024-5275","versions":["4.1.1","4.1.3","4.1.6","4.1.9"],"published":"2024-06-25T13:36:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"itcoinlib","id":"MAL-2023-1887","published":"2023-02-09T18:57:15Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"iterquarry","id":"MAL-2026-18131","versions":["2.1.1","2.1.2","2.1.3","2.1.4","2.2.0","2.2.1"],"published":"2026-10-21T22:01:58Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"itpython","id":"MAL-2023-1888","published":"2023-02-11T12:33:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"iufgbewroibgfowiebc","id":"MAL-2024-9306","versions":["0.0.1","0.0.2"],"published":"2024-10-16T19:48:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"iwantsafecheckit","id":"MAL-2026-2290","versions":["2.0.0"],"published":"2026-03-29T13:31:21Z","modified":"2026-10-02T05:38:49Z"}
@@ -3905,6 +3913,7 @@
 {"name":"joule-btp-extension","id":"MAL-2026-13732","versions":["0.1.0","0.1.1","0.1.3","0.1.4","0.1.6"],"published":"2026-08-11T11:31:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"joule-sbx-poc","id":"MAL-2026-13756","versions":["0.1.0"],"published":"2026-08-11T19:38:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"journey-test-helloshell","id":"MAL-2026-18124","versions":["0.2.0"],"published":"2026-10-21T18:30:25Z","modified":"2026-10-21T20:57:52Z"}
+{"name":"journey-test-hellospy","id":"MAL-2026-18133","versions":["0.1.1"],"published":"2026-10-21T22:40:42Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"joyboyw","id":"MAL-2025-192322","versions":["1.0.0","1.0.1"],"published":"2025-12-05T13:45:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"jsbip39-decrypt","id":"MAL-2024-5283","versions":["1.0.0"],"published":"2024-06-25T13:36:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"jsonconfig-utils","id":"MAL-2026-849","versions":["1.0.10","1.0.11","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7","1.0.8","1.0.9"],"published":"2026-02-11T06:56:16Z","modified":"2026-10-02T05:38:49Z"}
@@ -4742,6 +4751,7 @@
 {"name":"librere","id":"MAL-2023-4489","published":"2023-02-25T17:15:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"librereplacereplace","id":"MAL-2023-4490","published":"2023-03-02T21:15:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"libreurlping","id":"MAL-2023-4491","published":"2023-02-27T02:39:19Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"libseal","id":"MAL-2026-18132","versions":["1.1.0","1.1.1","1.1.2","1.1.3"],"published":"2026-10-21T22:02:05Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"libsock","id":"MAL-2024-5325","aliases":["SNYK-PYTHON-LIBSOCK-6139261"],"versions":["1.1.0","1.1.3"],"published":"2024-06-25T13:36:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"libsocks5","id":"MAL-2024-5326","aliases":["SNYK-PYTHON-LIBSOCKS5-6139260"],"versions":["1.1.1","1.7.0","1.7.1","1.7.2","1.7.3","1.7.4"],"published":"2024-06-25T13:36:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"libspatialindex","id":"MAL-2025-6536","versions":["10.0.2","11.0.2"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
@@ -4940,7 +4950,7 @@
 {"name":"ligitkidss","id":"MAL-2024-5328","aliases":["SNYK-PYTHON-LIGITKIDSS-5292134"],"versions":["1.0"],"published":"2024-06-25T13:36:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"lindze","id":"MAL-2024-5329","aliases":["SNYK-PYTHON-LINDZE-5885046"],"versions":["0.1"],"published":"2024-06-25T13:36:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"linting","id":"MAL-2026-2177","versions":["99.0.0"],"published":"2026-03-25T05:07:06Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"litellm","id":"MAL-2026-2144","aliases":["PYSEC-2026-2"],"versions":["1.82.7","1.82.8"],"published":"2026-03-24T11:15:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"litellm","id":"MAL-2026-2144","aliases":["PYSEC-2026-2"],"versions":["1.107.0","1.82.7","1.82.8"],"published":"2026-03-24T11:15:14Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"littelbitx0","id":"MAL-2025-42","versions":["1.1.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"lium-4-96","id":"MAL-2026-54","versions":["0.0.3"],"published":"2026-01-05T17:34:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"lium-io-gztensor","id":"MAL-2026-55","versions":["0.0.3","0.0.5","4.96"],"published":"2026-01-05T17:36:06Z","modified":"2026-10-02T05:38:49Z"}
@@ -5204,6 +5214,7 @@
 {"name":"medoen","id":"MAL-2025-47786","versions":["0.1.1"],"published":"2025-08-21T09:14:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mega-sparks","id":"MAL-2024-10586","versions":["92.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"megai","id":"MAL-2024-10593","versions":["92.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"melcuratts","id":"MAL-2026-18141","versions":["0.1.0"],"published":"2026-10-21T23:04:07Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"mem8","id":"MAL-2026-5319","versions":["6.0.1"],"published":"2026-06-06T06:13:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"memlib","id":"MAL-2025-6547","versions":["2.0.0"],"published":"2025-07-16T19:46:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"memorylib","id":"MAL-2025-6548","versions":["2.0.0"],"published":"2025-07-16T19:47:52Z","modified":"2026-10-02T05:38:49Z"}
@@ -5684,6 +5695,7 @@
 {"name":"oracle-lag-sniper","id":"MAL-2026-3223","versions":["1.2.0"],"published":"2026-05-01T22:14:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"oracle-tools","id":"MAL-2024-11650","versions":["0.20.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"orchestr8-platform","id":"MAL-2026-5321","versions":["3.3.2"],"published":"2026-06-06T06:13:57Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"orchestril","id":"MAL-2026-18142","versions":["0.1.0"],"published":"2026-10-21T23:09:08Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"orion-algo-extrapol","id":"MAL-2024-11651","versions":["1.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ort-moe","id":"MAL-2026-3034","versions":["9.0.0"],"published":"2026-04-25T14:47:54Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"os-numpy","id":"MAL-2023-1384","versions":["3.19.4"],"published":"2023-05-20T14:16:12Z","modified":"2026-10-02T05:38:49Z"}
@@ -5839,6 +5851,7 @@
 {"name":"phasedibd","id":"MAL-2026-2533","versions":["0.0.1"],"published":"2026-04-10T15:27:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"phenopacket-store-toolkit","id":"MAL-2026-5322","versions":["0.1.7"],"published":"2026-06-06T06:13:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"phishermanx","id":"MAL-2025-6563","versions":["4.0.1"],"published":"2025-07-31T19:16:00Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"phonoviatts","id":"MAL-2026-18143","versions":["0.1.0"],"published":"2026-10-21T23:04:35Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"photo-extractor","id":"MAL-2026-2488","versions":["2.33.0"],"published":"2026-04-04T16:41:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"physisyphus","id":"MAL-2024-10455","versions":["912.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pi-cord","id":"MAL-2024-5465","versions":["1.0.0"],"published":"2024-06-25T13:38:03Z","modified":"2026-10-02T05:38:49Z"}
@@ -6224,6 +6237,7 @@
 {"name":"proressbar2","id":"MAL-2023-2016","published":"2023-02-11T12:21:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"prorgessbar2","id":"MAL-2023-2017","published":"2023-02-11T12:21:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"prosocks","id":"MAL-2026-17167","versions":["1.0.0","1.0.1","1.0.13","1.0.14","1.0.15","1.0.16","1.0.17","1.0.18","1.0.19","1.0.2","1.0.20","1.0.21","1.0.22","1.0.23","1.0.25","1.0.26","1.0.27","1.0.28","1.0.29","1.0.3","1.0.30","1.0.32","1.0.4","1.0.5","1.0.6","1.0.7","1.0.8","1.0.9"],"published":"2026-09-24T20:27:37Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"prosodinetts","id":"MAL-2026-18144","versions":["0.1.0"],"published":"2026-10-21T23:08:55Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"proto-google-cloud-dlp-v2beta1","id":"MAL-2025-4666","versions":["0.15.99"],"published":"2024-09-06T11:29:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"protoc","id":"MAL-2024-10107","versions":["0.0.1","0.0.2"],"published":"2024-10-16T14:46:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"protocol-stub-generator","id":"MAL-2026-3237","versions":["999.0.0","999.0.1"],"published":"2026-05-02T18:32:13Z","modified":"2026-10-02T05:38:49Z"}
@@ -7827,6 +7841,7 @@
 {"name":"quicktestybesty","id":"MAL-2026-3045","versions":["2.3.0"],"published":"2026-04-26T01:09:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"quickwebbasicauth","id":"MAL-2024-1643","versions":["2.3.2"],"published":"2024-06-19T13:22:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"quicolor","id":"MAL-2025-3462","versions":["10.0.0","10.0.1","10.0.2","10.0.3","10.0.4","10.0.5","10.0.6","10.0.9","9.7.3","9.8.1"],"published":"2025-03-25T09:28:59Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"quillonatts","id":"MAL-2026-18145","versions":["0.1.0"],"published":"2026-10-21T23:03:57Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"quizdom","id":"MAL-2025-3208","versions":["0.1.0","0.2.0","0.3.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qwen-asr-pvt","id":"MAL-2026-10690","versions":["0.0.6"],"published":"2026-07-15T17:53:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qwery-core","id":"MAL-2026-1226","versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7"],"published":"2026-03-03T19:19:13Z","modified":"2026-10-02T05:38:49Z"}
@@ -9390,6 +9405,7 @@
 {"name":"shelipp","id":"MAL-2026-2844","versions":["0.0.1"],"published":"2026-04-17T10:52:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"shellexec","id":"MAL-2024-6001","versions":["1.0.4"],"published":"2024-06-25T13:42:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"shelley","id":"MAL-2025-983","versions":["0.1"],"published":"2025-02-03T17:07:54Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"shellgrip","id":"MAL-2026-18146","versions":["0.1.0"],"published":"2026-10-21T23:03:04Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"sher-net","id":"MAL-2026-2839","versions":["0.0.1"],"published":"2026-04-17T10:45:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sher-server-tool","id":"MAL-2026-2840","versions":["0.0.1"],"published":"2026-04-17T10:48:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sherm","id":"MAL-2024-6002","versions":["0.0.1","1.0"],"published":"2024-06-25T13:42:31Z","modified":"2026-10-02T05:38:49Z"}
@@ -9537,6 +9553,7 @@
 {"name":"solidity-build-guard","id":"MAL-2026-4262","versions":["0.1.0"],"published":"2026-05-22T20:31:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solidity-coverage","id":"MAL-2025-6589","versions":["2.1.1"],"published":"2025-07-31T19:16:29Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solidity-dev","id":"MAL-2026-10194","versions":["1.3.0"],"published":"2026-07-12T08:18:41Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"solivoxtts","id":"MAL-2026-18147","versions":["0.1.0"],"published":"2026-10-21T23:05:54Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"sollana","id":"MAL-2023-2281","published":"2023-02-09T19:00:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solna","id":"MAL-2023-2282","published":"2023-02-09T19:03:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solnaa","id":"MAL-2023-2283","published":"2023-02-09T19:00:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -9930,6 +9947,7 @@
 {"name":"terraformness","id":"MAL-2024-11719","versions":["99.99.99"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tesnorflow","id":"MAL-2023-2311","published":"2023-02-10T17:36:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tesorflow","id":"MAL-2023-2312","published":"2023-02-10T17:39:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"tessivatts","id":"MAL-2026-18148","versions":["0.1.0"],"published":"2026-10-21T23:05:49Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"test-23234231","id":"MAL-2024-6105","aliases":["SNYK-PYTHON-TEST23234231-5508579"],"versions":["0.1","0.9","10","11","232"],"published":"2024-06-25T13:43:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test-async","id":"MAL-2022-7428","aliases":["GHSA-cg89-rrrm-gf58"],"published":"2022-08-30T19:37:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test-for-ppe","id":"MAL-2026-739","versions":["1.0.0"],"published":"2026-02-04T14:57:08Z","modified":"2026-10-02T05:38:49Z"}
@@ -11307,6 +11325,7 @@
 {"name":"vcdiff-py","id":"MAL-2025-47811","versions":["2.1.0","2.2.0"],"published":"2025-08-21T15:31:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vectordb-engine","id":"MAL-2026-4814","versions":["1.0.0"],"published":"2026-05-26T13:08:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"veilcord-tls","id":"MAL-2025-47458","versions":["0.0.7.5","0.0.7.6"],"published":"2025-09-17T04:05:07Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"vellutts","id":"MAL-2026-18149","versions":["0.1.0"],"published":"2026-10-21T23:05:45Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"veloxml-cli","id":"MAL-2026-4862","versions":["0.1.0"],"published":"2026-05-28T20:25:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"venomenallib","id":"MAL-2025-191920","versions":["0.1.1","0.1.2","0.1.3","2.7.0"],"published":"2025-09-09T21:59:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"venv-utils","id":"MAL-2026-3803","versions":["1.0.0","1.0.1","1.0.3"],"published":"2026-05-15T12:29:43Z","modified":"2026-10-02T05:38:49Z"}
@@ -11440,6 +11459,7 @@
 {"name":"voxcpmui4","id":"MAL-2026-17467","versions":["0.2.0"],"published":"2026-10-03T11:51:12Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"voxel-tts","id":"MAL-2026-17461","versions":["0.5.0","0.5.1"],"published":"2026-10-03T04:38:14Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"voxeval","id":"MAL-2026-17457","versions":["0.4.2","0.4.3","0.4.4","0.4.5"],"published":"2026-10-02T21:28:42Z","modified":"2026-10-04T04:01:54Z"}
+{"name":"voxilaratts","id":"MAL-2026-18150","versions":["0.1.0"],"published":"2026-10-21T23:04:23Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"vper","id":"MAL-2023-2348","published":"2023-02-09T19:00:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vpyer","id":"MAL-2023-2349","published":"2023-02-09T19:00:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vramx","id":"MAL-2025-6614","versions":["1.6.2","1.6.3"],"published":"2025-07-16T19:46:51Z","modified":"2026-10-02T05:38:49Z"}
@@ -11820,6 +11840,7 @@
 {"name":"zefkopzekfo","id":"MAL-2024-6254","versions":["0.0.1"],"published":"2024-06-25T13:44:29Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zelixnitro","id":"MAL-2024-6255","versions":["1.0"],"published":"2024-06-25T13:44:29Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zencleaner","id":"MAL-2026-17629","versions":["1.0.0","1.0.3","1.0.3.1"],"published":"2026-10-03T22:47:45Z","modified":"2026-10-11T03:39:29Z"}
+{"name":"zennittts","id":"MAL-2026-18151","versions":["0.1.0"],"published":"2026-10-21T23:05:10Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"zenomenallib","id":"MAL-2025-47814","versions":["2.7.0"],"published":"2025-09-09T21:22:39Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zero123","id":"MAL-2024-11752","versions":["9.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zeubilamouche","id":"MAL-2024-6256","versions":["0.1.4"],"published":"2024-06-25T13:44:30Z","modified":"2026-10-02T05:38:49Z"}
