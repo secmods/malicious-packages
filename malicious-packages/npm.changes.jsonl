@@ -1,3 +1,10 @@
+{"op":"upsert","modified":"2026-10-21T06:42:16Z","name":"@alannxd/baileys","id":"MAL-2026-18120","aliases":["GHSA-7345-fjw8-x55w"],"versions":["2.1.2","2.1.3","2.1.4","3.0.0","3.0.3","4.0.3","4.0.4","4.0.5","5.0.5","5.0.6","6.0.0","6.0.1","6.0.2","6.0.3","6.0.4","6.0.5","6.0.6","6.0.9","6.1.0","6.1.1","6.1.2","6.1.3","6.1.4","6.1.6","6.1.7","6.2.7","6.2.8"],"published":"2026-10-21T03:24:45Z"}
+{"op":"upsert","modified":"2026-10-21T06:42:16Z","name":"@dreamguyxeon/baileyx","id":"MAL-2026-13930","aliases":["GHSA-94fw-5xp7-q2xq"],"published":"2026-08-10T22:30:00Z"}
+{"op":"upsert","modified":"2026-10-21T06:42:16Z","name":"@dreamguyxeon/libsignal-node","id":"MAL-2026-13931","aliases":["GHSA-x3rc-jwjw-pwv6"],"published":"2026-08-10T22:30:00Z"}
+{"op":"upsert","modified":"2026-10-21T06:42:16Z","name":"fnd-stores","id":"MAL-2026-4565","aliases":["GHSA-wx9h-pmqq-rcgg"],"published":"2026-05-21T19:57:35Z"}
+{"op":"upsert","modified":"2026-10-21T06:42:16Z","name":"my-auto-follow","id":"MAL-2026-13932","aliases":["GHSA-3vq8-fp27-44xm"],"published":"2026-08-10T22:30:00Z"}
+{"op":"upsert","modified":"2026-10-21T06:42:16Z","name":"my-auto-follow-eltio","id":"MAL-2026-18121","aliases":["GHSA-xw7m-xxch-j3hp"],"published":"2026-10-21T04:23:18Z"}
+{"op":"upsert","modified":"2026-10-21T06:42:16Z","name":"rootaccessxvv-bbmarker","id":"MAL-2026-18108","versions":["1.0.2"],"published":"2026-10-18T05:50:46Z"}
 {"op":"upsert","modified":"2026-10-20T22:45:18Z","name":"@ziedzzz/demo-canary","id":"MAL-2026-17652","aliases":["GHSA-p7gq-mvm4-4cw4"],"versions":["0.0.0-stage","1.0.0"],"published":"2026-10-08T03:37:45Z"}
 {"op":"upsert","modified":"2026-10-20T22:45:18Z","name":"abbishal-poc-as-dependency","id":"MAL-2026-17653","aliases":["GHSA-pj66-3vwh-cgm2"],"published":"2026-10-08T03:36:37Z"}
 {"op":"upsert","modified":"2026-10-20T22:45:18Z","name":"animatecss-tailwind-bridge","id":"MAL-2026-17666","aliases":["GHSA-3h7p-p7hr-fqf7"],"published":"2026-10-07T18:36:40Z"}
@@ -9,7 +16,6 @@
 {"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"formatting-subtitles-for-claude","id":"MAL-2026-18099","aliases":["GHSA-xxr7-33gg-pcg6"],"published":"2026-10-20T15:59:30Z"}
 {"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"memories-core-web","id":"MAL-2026-18106","versions":["99.0.0"],"published":"2026-10-20T18:45:24Z"}
 {"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"nwfp-build-config","id":"MAL-2026-18107","aliases":["GHSA-fj85-27r8-hgfg"],"versions":["0.0.0-stage","1.0.0"],"published":"2026-10-20T18:14:53Z"}
-{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"rootaccessxvv-bbmarker","id":"MAL-2026-18108","versions":["1.0.2"],"published":"2026-10-20T18:45:46Z"}
 {"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"rs-lookout-sandbox-poc","id":"MAL-2026-18109","versions":["1.0.1"],"published":"2026-10-20T18:45:31Z"}
 {"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"unicode-title-normalizer","id":"MAL-2026-18100","aliases":["GHSA-66rv-6q99-h89g"],"published":"2026-10-20T15:59:30Z"}
 {"op":"upsert","modified":"2026-10-20T10:32:01Z","name":"@platform-services/hrm-mfe-core","id":"MAL-2026-18091","versions":["99.9.1"],"published":"2026-10-20T06:40:45Z"}
