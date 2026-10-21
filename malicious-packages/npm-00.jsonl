@@ -147658,6 +147658,7 @@
 {"name":"pepinole","id":"MAL-2022-5271","aliases":["GHSA-77hj-g46j-cr8h"],"published":"2022-06-20T20:11:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pepper-notthedevs","id":"MAL-2025-107022","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pepsico-ds","id":"MAL-2025-192969","aliases":["GHSA-9xh2-g3jf-q47w"],"published":"2025-12-30T15:57:26Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"peptide-modify","id":"MAL-2026-18123","aliases":["GHSA-h643-5mcg-c726"],"published":"2026-10-21T15:41:59Z","modified":"2026-10-21T17:43:45Z"}
 {"name":"peptideenv","id":"MAL-2026-6860","aliases":["GHSA-x6qh-369w-8jhf"],"versions":["16.6.1","16.6.2","16.6.3","16.6.4","16.6.5","16.6.6"],"published":"2026-07-06T18:56:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"peraichi","id":"MAL-2022-5272","aliases":["GHSA-fr9x-rfx3-p9cg"],"published":"2022-06-20T21:13:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"perales","id":"MAL-2025-29060","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -200145,4 +200146,3 @@
 {"name":"unfortunate_wildfowl_z3n","id":"MAL-2025-97134","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unfortunate_wolf_z3n","id":"MAL-2025-137594","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unfortunate_wren_z3n","id":"MAL-2025-65801","published":"2025-11-11T00:17:57Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ungap","id":"MAL-2022-6777","aliases":["GHSA-7xq8-939g-gh2m"],"published":"2022-06-20T20:24:37Z","modified":"2026-10-02T05:38:49Z"}
