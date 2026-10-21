@@ -1,3 +1,7 @@
+{"op":"upsert","modified":"2026-10-21T01:04:56Z","name":"debbug","id":"MAL-2026-18116","versions":["1.0.0"],"published":"2026-10-20T23:01:11Z"}
+{"op":"upsert","modified":"2026-10-21T01:04:56Z","name":"deebug","id":"MAL-2026-18117","versions":["1.0.0"],"published":"2026-10-20T22:59:53Z"}
+{"op":"upsert","modified":"2026-10-21T01:04:56Z","name":"semer","id":"MAL-2026-18118","versions":["1.0.0"],"published":"2026-10-20T23:02:04Z"}
+{"op":"upsert","modified":"2026-10-21T01:04:56Z","name":"ssemver","id":"MAL-2026-18119","versions":["1.0.0"],"published":"2026-10-20T23:02:41Z"}
 {"op":"upsert","modified":"2026-10-20T22:45:18Z","name":"facewareretargeter","id":"MAL-2026-18110","versions":["9.9.9"],"published":"2026-10-20T20:48:43Z"}
 {"op":"upsert","modified":"2026-10-20T22:45:18Z","name":"hijiko-pilaka","id":"MAL-2026-18111","versions":["1.0.0"],"published":"2026-10-20T20:50:18Z"}
 {"op":"upsert","modified":"2026-10-20T22:45:18Z","name":"hijok-lampam","id":"MAL-2026-18112","versions":["1.0.0"],"published":"2026-10-20T20:59:36Z"}

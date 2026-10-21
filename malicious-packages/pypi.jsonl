@@ -1608,12 +1608,14 @@
 {"name":"ddiscord-py","id":"MAL-2023-1760","published":"2023-02-11T12:03:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ddiscord-webhook","id":"MAL-2023-1761","published":"2023-02-11T12:00:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"deadiff","id":"MAL-2024-10833","versions":["99.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"debbug","id":"MAL-2026-18116","versions":["1.0.0"],"published":"2026-10-20T23:01:11Z","modified":"2026-10-21T01:04:56Z"}
 {"name":"debug-toolbar","id":"MAL-2024-10239","versions":["0.0.1"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"decapod-common","id":"MAL-2026-13386","versions":["0.0.0","1.2.dev1","1.2.dev2"],"published":"2026-08-06T07:14:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"decompopt","id":"MAL-2024-10448","versions":["912.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"decoratoroperations","id":"MAL-2025-41658","versions":["0.0.3"],"published":"2025-08-28T07:10:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"decoris","id":"MAL-2026-14554","versions":["0.3.0","0.3.3"],"published":"2026-08-27T13:11:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dedh-devops-automation","id":"MAL-2026-17455","versions":["0.0.1","5.0.0","5.6.0","5.6.1","5.6.999","5.8.0","5.8.1","5.9.0"],"published":"2026-10-02T14:10:14Z","modified":"2026-10-04T04:01:54Z"}
+{"name":"deebug","id":"MAL-2026-18117","versions":["1.0.0"],"published":"2026-10-20T22:59:53Z","modified":"2026-10-21T01:04:56Z"}
 {"name":"deepface-weight","id":"MAL-2026-14158","versions":["0.1.4"],"published":"2026-08-18T22:54:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"deepface-weights","id":"MAL-2026-14132","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-08-18T21:48:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"deepmountains-rce","id":"MAL-2025-41659","versions":["0.0.1"],"published":"2025-08-28T07:10:57Z","modified":"2026-10-02T05:38:49Z"}
@@ -9341,6 +9343,7 @@
 {"name":"selnium","id":"MAL-2023-2243","published":"2023-02-10T12:54:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"semdb","id":"MAL-2024-5984","aliases":["SNYK-PYTHON-SEMDB-5885081"],"versions":["0.1"],"published":"2024-06-25T13:42:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"semdber","id":"MAL-2024-5985","aliases":["SNYK-PYTHON-SEMDBER-5885067"],"versions":["4.12"],"published":"2024-06-25T13:42:23Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"semer","id":"MAL-2026-18118","versions":["1.0.0"],"published":"2026-10-20T23:02:04Z","modified":"2026-10-21T01:04:56Z"}
 {"name":"semmver","id":"MAL-2026-18101","versions":["1.0.0"],"published":"2026-10-20T18:20:25Z","modified":"2026-10-20T19:41:27Z"}
 {"name":"semurgdb","id":"MAL-2024-5986","aliases":["SNYK-PYTHON-SEMURGDB-5885076"],"versions":["0.1"],"published":"2024-06-25T13:42:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"semveer","id":"MAL-2026-18102","versions":["1.0.0"],"published":"2026-10-20T18:20:32Z","modified":"2026-10-20T19:41:27Z"}
@@ -9628,6 +9631,7 @@
 {"name":"sscikit-learn","id":"MAL-2023-2286","published":"2023-02-10T20:15:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sscrapy","id":"MAL-2023-2287","published":"2023-02-10T17:33:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sselenium","id":"MAL-2023-2288","published":"2023-02-10T12:54:13Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"ssemver","id":"MAL-2026-18119","versions":["1.0.0"],"published":"2026-10-20T23:02:41Z","modified":"2026-10-21T01:04:56Z"}
 {"name":"ssimplejson","id":"MAL-2023-2289","published":"2023-02-11T11:45:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ssolana","id":"MAL-2023-2290","published":"2023-02-09T19:00:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"st-payment","id":"MAL-2026-2522","versions":["99.0.0"],"published":"2026-04-09T13:30:26Z","modified":"2026-10-02T05:38:49Z"}
