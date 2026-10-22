@@ -1,3 +1,14 @@
+{"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"@conduitops/logview-archive","id":"MAL-2026-18183","versions":["1.0.1"],"published":"2026-10-22T06:10:48Z"}
+{"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"data-pipeline-testmetest","id":"MAL-2026-18177","versions":["2.0.1"],"published":"2026-10-21T16:00:00Z"}
+{"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"event-emitter-testmetest","id":"MAL-2026-18178","versions":["1.0.6","1.0.7","4.1.0","5.0.0"],"published":"2026-10-21T16:00:00Z"}
+{"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"formatting-subtitles","id":"MAL-2026-18184","versions":["1.0.2"],"published":"2026-10-22T06:11:06Z"}
+{"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"log-rotate-testmetest","id":"MAL-2026-18185","versions":["1.0.1"],"published":"2026-10-22T06:11:42Z"}
+{"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"log-sink-testmetest","id":"MAL-2026-18179","versions":["1.0.1"],"published":"2026-10-21T17:30:00Z"}
+{"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"net-codec-testmetest","id":"MAL-2026-18186","versions":["1.0.1"],"published":"2026-10-22T06:11:48Z"}
+{"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"pixel-map-testmetest","id":"MAL-2026-18180","versions":["0.0.1","0.0.2","0.0.3"],"published":"2026-10-21T18:00:00Z"}
+{"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"simplewave","id":"MAL-2026-18187","versions":["0.0.2"],"published":"2026-10-22T06:10:14Z"}
+{"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"test-brotli-testmetest","id":"MAL-2026-18181","versions":["1.0.0"],"published":"2026-10-21T18:00:00Z"}
+{"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"test-brotli2-testmetest","id":"MAL-2026-18182","versions":["1.0.0"],"published":"2026-10-21T18:00:00Z"}
 {"op":"upsert","modified":"2026-10-21T23:52:32Z","name":"@sudobility/indexer_client","id":"MAL-2026-18127","versions":["0.0.146"],"published":"2026-10-21T22:21:08Z"}
 {"op":"upsert","modified":"2026-10-21T23:52:32Z","name":"@sudobility/shaperouter_client","id":"MAL-2026-18128","versions":["0.0.14"],"published":"2026-10-21T22:20:51Z"}
 {"op":"upsert","modified":"2026-10-21T23:52:32Z","name":"@sudobility/testomniac_client","id":"MAL-2026-18129","versions":["0.0.131"],"published":"2026-10-21T22:21:18Z"}

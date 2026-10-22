@@ -2364,6 +2364,7 @@
 {"name":"@commute/market-data-chartjs","id":"MAL-2025-191209","aliases":["GHSA-99gc-8v36-q594"],"versions":["2.3.1"],"published":"2025-11-25T00:05:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@company-internal/logger","id":"MAL-2025-6028","aliases":["GHSA-q2wh-9j29-2f62"],"published":"2025-07-17T15:02:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@concerns/i18n","id":"MAL-2026-6606","aliases":["GHSA-rp2m-w359-5cqp"],"published":"2026-06-29T16:53:33Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@conduitops/logview-archive","id":"MAL-2026-18183","versions":["1.0.1"],"published":"2026-10-22T06:10:48Z","modified":"2026-10-22T08:02:08Z"}
 {"name":"@confluence-classic/confluence-authentication","id":"MAL-2025-4056","aliases":["GHSA-gh92-gfjc-p7w6"],"published":"2025-05-21T04:09:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@confluence-classic/confluence-frontend-server","id":"MAL-2025-4057","aliases":["GHSA-4fv4-xcr7-c2wj"],"published":"2025-05-21T04:09:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@confluent-cfet-medusa/dataset-designer","id":"MAL-2025-4148","versions":["1.0.0","10.1.2"],"published":"2025-05-22T12:34:35Z","modified":"2026-10-02T05:38:49Z"}
@@ -52779,6 +52780,7 @@
 {"name":"data-noxcqn","id":"MAL-2025-191573","versions":["1.0.0"],"published":"2025-12-01T13:06:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"data-omicron-static-quick-serialize","id":"MAL-2025-186492","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"data-parser-utils","id":"MAL-2026-6490","aliases":["GHSA-vw6q-xg53-fpxh"],"published":"2026-06-26T00:34:38Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"data-pipeline-testmetest","id":"MAL-2026-18177","versions":["2.0.1"],"published":"2026-10-21T16:00:00Z","modified":"2026-10-22T08:02:08Z"}
 {"name":"data-planning-models","id":"MAL-2025-82","aliases":["GHSA-38cv-x3x8-cwj4","SNYK-JS-DATAPLANNINGMODELS-8622660"],"published":"2025-01-14T00:15:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"data-portal-dwh-apps-fe","id":"MAL-2025-4331","aliases":["GHSA-9qp8-8f85-p779"],"published":"2025-05-23T01:34:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"data-privatelink","id":"MAL-2023-227","aliases":["GHSA-grx4-rcjx-x8mr"],"published":"2023-01-10T10:34:26Z","modified":"2026-10-02T05:38:49Z"}
@@ -68691,6 +68693,7 @@
 {"name":"event-centaurus-unuk-aquarius","id":"MAL-2025-44177","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"event-deimos-mini-css-extract-plugin-mira","id":"MAL-2025-142309","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"event-duplex-node-config-public","id":"MAL-2025-142310","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"event-emitter-testmetest","id":"MAL-2026-18178","versions":["1.0.6","1.0.7","4.1.0","5.0.0"],"published":"2026-10-21T16:00:00Z","modified":"2026-10-22T08:02:08Z"}
 {"name":"event-eslint-airbnb-loop","id":"MAL-2025-142311","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"event-fetch-epimetheus-writable","id":"MAL-2025-142312","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"event-geckodriver-orbit-weywot","id":"MAL-2025-142313","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
@@ -76311,6 +76314,7 @@
 {"name":"formated","id":"MAL-2023-8744","versions":["0.1.0"],"published":"2023-12-26T13:44:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"formatjs-internal-intl","id":"MAL-2025-5744","versions":["1.0.0"],"published":"2025-07-09T16:01:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"formatters.ts","id":"MAL-2026-10683","versions":["14.2.1"],"published":"2026-07-15T15:38:41Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"formatting-subtitles","id":"MAL-2026-18184","versions":["1.0.2"],"published":"2026-10-22T06:11:06Z","modified":"2026-10-22T08:02:08Z"}
 {"name":"formatting-subtitles-for-claude","id":"MAL-2026-18099","aliases":["GHSA-xxr7-33gg-pcg6"],"published":"2026-10-20T15:59:30Z","modified":"2026-10-20T19:41:27Z"}
 {"name":"formboy","id":"MAL-2025-20790","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"formidable-amaranth-anaconda","id":"MAL-2025-68393","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
@@ -115260,6 +115264,8 @@
 {"name":"log-process","id":"MAL-2025-3289","aliases":["GHSA-vf5v-m8qh-5988"],"published":"2025-04-23T04:55:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"log-rendering-error","id":"MAL-2025-25520","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"log-res","id":"MAL-2026-14292","versions":["1.0.3"],"published":"2026-08-19T08:23:09Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"log-rotate-testmetest","id":"MAL-2026-18185","versions":["1.0.1"],"published":"2026-10-22T06:11:42Z","modified":"2026-10-22T08:02:08Z"}
+{"name":"log-sink-testmetest","id":"MAL-2026-18179","versions":["1.0.1"],"published":"2026-10-21T17:30:00Z","modified":"2026-10-22T08:02:08Z"}
 {"name":"log-slow-debug-zero-report","id":"MAL-2025-187847","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"log-status","id":"MAL-2022-4376","aliases":["GHSA-px8h-xxwh-f24r"],"published":"2022-09-29T21:47:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"log-styles","id":"MAL-2025-5432","aliases":["GHSA-h7mw-243w-hfr7"],"published":"2025-06-30T14:14:34Z","modified":"2026-10-02T05:38:49Z"}
@@ -133125,6 +133131,7 @@
 {"name":"net-amaranth-finch","id":"MAL-2025-69602","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"net-aqua-antelope","id":"MAL-2025-138893","published":"2025-11-12T03:04:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"net-black-gull","id":"MAL-2025-69603","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"net-codec-testmetest","id":"MAL-2026-18186","versions":["1.0.1"],"published":"2026-10-22T06:11:48Z","modified":"2026-10-22T08:02:08Z"}
 {"name":"net-coral-fly","id":"MAL-2025-69604","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"net-gray-bison","id":"MAL-2025-69605","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"net-ivory-wombat","id":"MAL-2025-69606","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
@@ -148992,6 +148999,7 @@
 {"name":"piwik-pro-angular-tracking","id":"MAL-2022-5346","aliases":["GHSA-93jq-pwrf-g6h6"],"published":"2022-06-20T20:08:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pix2pix","id":"MAL-2025-41595","versions":["1.3.5"],"published":"2025-08-28T07:36:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pixel-bloom","id":"MAL-2025-191580","aliases":["SNYK-JS-PIXELBLOOM-14152280"],"versions":["10.29.1","10.29.11","10.29.4"],"published":"2025-12-01T13:20:52Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"pixel-map-testmetest","id":"MAL-2026-18180","versions":["0.0.1","0.0.2","0.0.3"],"published":"2026-10-21T18:00:00Z","modified":"2026-10-22T08:02:08Z"}
 {"name":"pixel-percent","id":"MAL-2025-3694","aliases":["GHSA-9hpw-3r8p-gxcw"],"published":"2025-05-07T03:53:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pixelary","id":"MAL-2025-2230","aliases":["GHSA-7f7w-5c45-7wqj","SNYK-JS-PIXELARY-9459928"],"published":"2025-03-11T04:30:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pixelblm","id":"MAL-2025-49263","aliases":["GHSA-vmr5-frwv-4v29","SNYK-JS-PIXELBLM-13782847"],"published":"2025-10-30T23:58:26Z","modified":"2026-10-02T05:38:49Z"}
@@ -173853,6 +173861,7 @@
 {"name":"simplerequestnode","id":"MAL-2025-47967","aliases":["GHSA-9h48-3pgv-29vg"],"published":"2025-10-07T02:39:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"simplesamlphp","id":"MAL-2022-6127","aliases":["GHSA-7hq8-c855-gr67"],"published":"2022-06-20T20:23:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"simpletop","id":"MAL-2025-33282","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"simplewave","id":"MAL-2026-18187","versions":["0.0.2"],"published":"2026-10-22T06:10:14Z","modified":"2026-10-22T08:02:08Z"}
 {"name":"simplified-jsbridge","id":"MAL-2024-11095","aliases":["GHSA-5qvv-6xv9-6823","SNYK-JS-SIMPLIFIEDJSBRIDGE-8422846"],"published":"2024-11-27T03:31:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"simplifydigital-generator-webcomponent","id":"MAL-2025-33283","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"simplipayng","id":"MAL-2026-12437","aliases":["GHSA-qw5j-q6g9-pqhf"],"published":"2026-08-05T12:33:59Z","modified":"2026-10-02T05:38:49Z"}
@@ -189127,6 +189136,8 @@
 {"name":"test-aws-xray-sdk-express","id":"MAL-2025-34766","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test-bfosberry","id":"MAL-2025-49242","published":"2025-10-30T17:38:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test-book-final-epsilon-char","id":"MAL-2025-189880","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"test-brotli-testmetest","id":"MAL-2026-18181","versions":["1.0.0"],"published":"2026-10-21T18:00:00Z","modified":"2026-10-22T08:02:08Z"}
+{"name":"test-brotli2-testmetest","id":"MAL-2026-18182","versions":["1.0.0"],"published":"2026-10-21T18:00:00Z","modified":"2026-10-22T08:02:08Z"}
 {"name":"test-bugbounty-package-6","id":"MAL-2026-1862","versions":["99.99.99"],"published":"2026-03-18T13:12:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test-bugbounty-package-9","id":"MAL-2026-1863","versions":["99.99.99"],"published":"2026-03-18T13:12:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test-cache-rehype-backend","id":"MAL-2025-189881","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
@@ -200132,16 +200143,3 @@
 {"name":"unfortunate-orange-gecko","id":"MAL-2025-71282","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unfortunate-scarlet-thrush","id":"MAL-2025-71283","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unfortunate-teal-trout","id":"MAL-2025-71284","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfortunate-yellow-ape","id":"MAL-2025-71285","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfortunate_crayfish_z3n","id":"MAL-2025-97130","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfortunate_dinosaur_0xrequest","id":"MAL-2025-110104","published":"2025-11-11T07:26:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfortunate_gecko-notthedev","id":"MAL-2025-110105","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfortunate_guineafowl_z3n","id":"MAL-2025-97131","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfortunate_limpet_z3n","id":"MAL-2025-110106","published":"2025-11-11T07:31:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfortunate_mockingbird_z3n","id":"MAL-2025-59152","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfortunate_monkey_z3n","id":"MAL-2025-97132","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfortunate_ox_z3n","id":"MAL-2025-137593","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfortunate_rook_z3n","id":"MAL-2025-123858","published":"2025-11-11T20:11:48Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfortunate_scorpion_z3n","id":"MAL-2025-61531","published":"2025-11-10T18:02:22Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfortunate_sheep_z3n","id":"MAL-2025-59153","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfortunate_sturgeon_salmon-23","id":"MAL-2025-112423","published":"2025-11-11T07:47:12Z","modified":"2026-10-02T05:38:49Z"}
