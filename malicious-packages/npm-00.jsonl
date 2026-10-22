@@ -10959,10 +10959,10 @@
 {"name":"@subql/common","id":"MAL-2026-17571","aliases":["GHSA-9333-3c4x-x3h5"],"versions":["5.8.3"],"published":"2026-10-05T12:46:31Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"@subscription-info/bff","id":"MAL-2025-9353","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@subsplash/auth","id":"MAL-2025-5859","aliases":["GHSA-fw2p-jx4v-9g5h"],"published":"2025-07-14T23:35:05Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@sudobility/indexer_client","id":"MAL-2026-18127","versions":["0.0.146"],"published":"2026-10-21T22:21:08Z","modified":"2026-10-21T23:52:32Z"}
-{"name":"@sudobility/shaperouter_client","id":"MAL-2026-18128","versions":["0.0.14"],"published":"2026-10-21T22:20:51Z","modified":"2026-10-21T23:52:32Z"}
-{"name":"@sudobility/testomniac_client","id":"MAL-2026-18129","versions":["0.0.131"],"published":"2026-10-21T22:21:18Z","modified":"2026-10-21T23:52:32Z"}
-{"name":"@sudobility/wildduck_client","id":"MAL-2026-18130","versions":["2.3.102"],"published":"2026-10-21T22:21:01Z","modified":"2026-10-21T23:52:32Z"}
+{"name":"@sudobility/indexer_client","id":"MAL-2026-18127","aliases":["GHSA-xfvr-39v2-q24q"],"versions":["0.0.146"],"published":"2026-10-21T22:21:08Z","modified":"2026-10-22T18:55:12Z"}
+{"name":"@sudobility/shaperouter_client","id":"MAL-2026-18128","aliases":["GHSA-x7g4-jh5c-33xr"],"versions":["0.0.14"],"published":"2026-10-21T22:20:51Z","modified":"2026-10-22T18:55:12Z"}
+{"name":"@sudobility/testomniac_client","id":"MAL-2026-18129","aliases":["GHSA-g7cj-274j-rxqw"],"versions":["0.0.131"],"published":"2026-10-21T22:21:18Z","modified":"2026-10-22T18:55:12Z"}
+{"name":"@sudobility/wildduck_client","id":"MAL-2026-18130","aliases":["GHSA-5ff7-5w72-hm63"],"versions":["2.3.102"],"published":"2026-10-21T22:21:01Z","modified":"2026-10-22T18:55:12Z"}
 {"name":"@sudoughnym/enviro-demo","id":"MAL-2026-6697","aliases":["GHSA-77gf-97j3-jv6p"],"published":"2026-06-30T20:59:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@sudt-faucet/commons","id":"MAL-2025-48471","published":"2025-10-17T03:28:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@sugoma/amogus","id":"MAL-2022-617","aliases":["GHSA-hc9j-g52g-3r5r"],"published":"2022-06-20T20:19:31Z","modified":"2026-10-02T05:38:49Z"}
@@ -200142,4 +200142,3 @@
 {"name":"unfortunate-lime-junglefowl","id":"MAL-2025-71281","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unfortunate-orange-gecko","id":"MAL-2025-71282","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unfortunate-scarlet-thrush","id":"MAL-2025-71283","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfortunate-teal-trout","id":"MAL-2025-71284","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}

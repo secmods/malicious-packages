@@ -1,3 +1,7 @@
+{"op":"upsert","modified":"2026-10-22T18:55:12Z","name":"@sudobility/indexer_client","id":"MAL-2026-18127","aliases":["GHSA-xfvr-39v2-q24q"],"versions":["0.0.146"],"published":"2026-10-21T22:21:08Z"}
+{"op":"upsert","modified":"2026-10-22T18:55:12Z","name":"@sudobility/shaperouter_client","id":"MAL-2026-18128","aliases":["GHSA-x7g4-jh5c-33xr"],"versions":["0.0.14"],"published":"2026-10-21T22:20:51Z"}
+{"op":"upsert","modified":"2026-10-22T18:55:12Z","name":"@sudobility/testomniac_client","id":"MAL-2026-18129","aliases":["GHSA-g7cj-274j-rxqw"],"versions":["0.0.131"],"published":"2026-10-21T22:21:18Z"}
+{"op":"upsert","modified":"2026-10-22T18:55:12Z","name":"@sudobility/wildduck_client","id":"MAL-2026-18130","aliases":["GHSA-5ff7-5w72-hm63"],"versions":["2.3.102"],"published":"2026-10-21T22:21:01Z"}
 {"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"@conduitops/logview-archive","id":"MAL-2026-18183","versions":["1.0.1"],"published":"2026-10-22T06:10:48Z"}
 {"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"data-pipeline-testmetest","id":"MAL-2026-18177","versions":["2.0.1"],"published":"2026-10-21T16:00:00Z"}
 {"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"event-emitter-testmetest","id":"MAL-2026-18178","versions":["1.0.6","1.0.7","4.1.0","5.0.0"],"published":"2026-10-21T16:00:00Z"}
@@ -9,10 +13,6 @@
 {"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"simplewave","id":"MAL-2026-18187","versions":["0.0.2"],"published":"2026-10-22T06:10:14Z"}
 {"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"test-brotli-testmetest","id":"MAL-2026-18181","versions":["1.0.0"],"published":"2026-10-21T18:00:00Z"}
 {"op":"upsert","modified":"2026-10-22T08:02:08Z","name":"test-brotli2-testmetest","id":"MAL-2026-18182","versions":["1.0.0"],"published":"2026-10-21T18:00:00Z"}
-{"op":"upsert","modified":"2026-10-21T23:52:32Z","name":"@sudobility/indexer_client","id":"MAL-2026-18127","versions":["0.0.146"],"published":"2026-10-21T22:21:08Z"}
-{"op":"upsert","modified":"2026-10-21T23:52:32Z","name":"@sudobility/shaperouter_client","id":"MAL-2026-18128","versions":["0.0.14"],"published":"2026-10-21T22:20:51Z"}
-{"op":"upsert","modified":"2026-10-21T23:52:32Z","name":"@sudobility/testomniac_client","id":"MAL-2026-18129","versions":["0.0.131"],"published":"2026-10-21T22:21:18Z"}
-{"op":"upsert","modified":"2026-10-21T23:52:32Z","name":"@sudobility/wildduck_client","id":"MAL-2026-18130","versions":["2.3.102"],"published":"2026-10-21T22:21:01Z"}
 {"op":"upsert","modified":"2026-10-21T23:52:32Z","name":"@worrisome/aaaa","id":"MAL-2026-18125","aliases":["GHSA-fxf3-w84v-3v6g"],"published":"2026-10-21T21:20:33Z"}
 {"op":"upsert","modified":"2026-10-21T23:52:32Z","name":"@worrisome/reutil","id":"MAL-2026-15604","aliases":["GHSA-4f5p-mp5p-863f"],"published":"2026-08-26T14:55:09Z"}
 {"op":"upsert","modified":"2026-10-21T17:43:45Z","name":"peptide-modify","id":"MAL-2026-18123","aliases":["GHSA-h643-5mcg-c726"],"published":"2026-10-21T15:41:59Z"}
