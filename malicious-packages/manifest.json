@@ -1,12 +1,12 @@
 {
   "schema_version": "2.0.0",
-  "generated_at": "2026-10-21T23:52:32Z",
+  "generated_at": "2026-10-22T02:11:22Z",
   "upstream_repo": "https://github.com/ossf/malicious-packages.git",
-  "upstream_commit": "752006e69455c57fd1aea9d6a9a528eb8e522d1a",
+  "upstream_commit": "53b2d11c19bef17e416dcdc912f1a0d7db829a1a",
   "changes_since": "2026-10-02T05:38:49Z",
   "changes_window_days": 180,
   "shard_max_bytes": 26214400,
-  "total_records": 239407,
+  "total_records": 239432,
   "ecosystems": {
     "npm": {
       "files": [
@@ -35,18 +35,18 @@
       "files": [
         {
           "file": "pypi.jsonl",
-          "sha256": "1545fa1b51f0cdcefdc05765376d1d644f5b1a7a2ab03f21e2dbd64b53934c70",
-          "bytes": 1544528,
-          "records": 11870
+          "sha256": "efe53c8e7e5993e9e0c901a66d22c1b448e297c52036ceb7175cd3114f2cdfbf",
+          "bytes": 1547867,
+          "records": 11895
         }
       ],
-      "records": 11870,
-      "bytes": 1544528,
+      "records": 11895,
+      "bytes": 1547867,
       "changes_file": "pypi.changes.jsonl",
-      "changes_sha256": "dd418344d7944daeb66eac9f3aed4c905b2bcc27779e565ab1b2d970f02d83db",
-      "changes_bytes": 16017,
-      "changes_records": 101,
-      "max_modified": "2026-10-21T23:52:32Z"
+      "changes_sha256": "b4e650bf6859e5c7d262affaade4565d77658475d40c67139f9a659433120f12",
+      "changes_bytes": 19706,
+      "changes_records": 126,
+      "max_modified": "2026-10-22T02:11:22Z"
     },
     "go": {
       "files": [
