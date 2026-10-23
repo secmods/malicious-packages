@@ -1,3 +1,18 @@
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@blueskydataplatform/shared-ui","id":"MAL-2026-18212","aliases":["GHSA-6x9m-j5h8-w3vg"],"published":"2026-10-23T02:05:18Z"}
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@cecm-web-sdk/core","id":"MAL-2026-18213","aliases":["GHSA-88qx-q5v7-q7x5"],"published":"2026-10-23T02:05:18Z"}
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@ecg-internal/adobe-dmp-js","id":"MAL-2026-18206","aliases":["GHSA-vcj4-3hxm-4rf3"],"published":"2026-10-23T01:58:53Z"}
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@ecg-internal/aurora-js-formatters","id":"MAL-2026-18207","aliases":["GHSA-9976-3w38-mrmj"],"published":"2026-10-23T02:01:15Z"}
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@ecg-internal/favourites-ui","id":"MAL-2026-18208","aliases":["GHSA-g8hh-8pxg-jr3x"],"published":"2026-10-23T01:59:31Z"}
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@ecg-internal/js-react-i18n","id":"MAL-2026-18209","aliases":["GHSA-5x9g-7rj9-4xc8"],"published":"2026-10-23T02:01:46Z"}
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@ecg-internal/media-util-js-lib","id":"MAL-2026-18210","aliases":["GHSA-hcw5-m6mm-qg3q"],"published":"2026-10-23T02:00:22Z"}
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@ecg-internal/reviews-dialog-ui","id":"MAL-2026-18211","aliases":["GHSA-r47j-grcr-p9h9"],"published":"2026-10-23T01:58:04Z"}
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@grabcad/company-server-shared","id":"MAL-2026-18214","aliases":["GHSA-fpfw-7wv8-x4mh"],"published":"2026-10-23T02:05:19Z"}
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@grabcad/grabcad-shop-shared","id":"MAL-2026-18215","aliases":["GHSA-cc6r-jh8f-6c76"],"published":"2026-10-23T02:05:19Z"}
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@grabcad/preferences-client","id":"MAL-2026-18216","aliases":["GHSA-mfh5-wvcp-2v6v"],"published":"2026-10-23T02:05:19Z"}
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@grabcad/user-license","id":"MAL-2026-18217","aliases":["GHSA-6w2v-744r-g5j5"],"published":"2026-10-23T02:05:19Z"}
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@kibt/www-nuxt-i18n","id":"MAL-2026-17498","aliases":["GHSA-2c7v-rmgw-3xrp"],"published":"2026-10-04T23:18:25Z"}
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@tekmidian/pai","id":"MAL-2026-18205","aliases":["GHSA-xvgg-qjjh-gq34"],"versions":["1.0.10","1.0.8","1.0.9"],"published":"2026-10-23T00:56:39Z"}
+{"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"imgdecode","id":"MAL-2026-18196","aliases":["GHSA-hw69-vrvf-87h5"],"published":"2026-10-22T19:24:45Z"}
 {"op":"upsert","modified":"2026-10-23T00:22:25Z","name":"@factiii/runner","id":"MAL-2026-18204","aliases":["GHSA-9j83-qj34-g5vc"],"versions":["0.28.0"],"published":"2026-10-22T21:37:36Z"}
 {"op":"upsert","modified":"2026-10-22T21:58:09Z","name":"@liauto/darwin-x64","id":"MAL-2026-18190","aliases":["GHSA-pmg6-2w6r-4q4h"],"versions":["0.1.1-b3"],"published":"2026-10-22T18:47:49Z"}
 {"op":"upsert","modified":"2026-10-22T21:58:09Z","name":"@lumen-labs-dev/whisper-node","id":"MAL-2026-18194","aliases":["GHSA-8mqm-233x-2g2j"],"versions":["0.5.1"],"published":"2026-10-22T20:23:37Z"}
@@ -7,7 +22,6 @@
 {"op":"upsert","modified":"2026-10-22T21:58:09Z","name":"@seggy116/next-diff","id":"MAL-2026-18200","aliases":["GHSA-fv2r-964m-pc2m"],"versions":["0.3.0"],"published":"2026-10-22T21:01:16Z"}
 {"op":"upsert","modified":"2026-10-22T21:58:09Z","name":"agentic-awesome-skills","id":"MAL-2026-18192","aliases":["GHSA-rgwm-3jj9-h563"],"versions":["18.10.0","18.11.0","18.12.0","18.13.0","18.14.0","18.9.0","19.0.0","19.0.1","19.1.0","19.10.1","19.12.0","19.12.1","19.13.0","19.2.0","19.3.0","19.4.0","19.5.0","19.6.0","19.7.0","19.9.0"],"published":"2026-10-22T18:34:45Z"}
 {"op":"upsert","modified":"2026-10-22T21:58:09Z","name":"darknode-cli","id":"MAL-2026-18195","aliases":["GHSA-6m47-rc2c-6xpg"],"versions":["2.46.0","2.46.1","2.46.2"],"published":"2026-10-22T20:23:01Z"}
-{"op":"upsert","modified":"2026-10-22T21:58:09Z","name":"imgdecode","id":"MAL-2026-18196","aliases":["GHSA-hw69-vrvf-87h5"],"versions":["1.0.0","1.0.1","1.0.2"],"published":"2026-10-22T19:24:45Z"}
 {"op":"upsert","modified":"2026-10-22T21:58:09Z","name":"kvarzo8f3atestmetest","id":"MAL-2026-18201","aliases":["GHSA-8vpc-rm6r-5m6c"],"published":"2026-10-22T20:37:32Z"}
 {"op":"upsert","modified":"2026-10-22T21:58:09Z","name":"opencode-skills-collection","id":"MAL-2026-18193","aliases":["GHSA-9855-prwc-mfp2"],"versions":["4.0.56","4.0.57","4.0.77","4.1.0","4.1.1","4.1.10","4.1.11","4.1.12","4.1.13","4.1.14","4.1.16","4.1.17","4.1.18","4.1.19","4.1.20","4.1.3","4.1.4","4.1.6","4.1.7","4.1.8","4.1.9"],"published":"2026-10-22T18:35:11Z"}
 {"op":"upsert","modified":"2026-10-22T21:58:09Z","name":"sdk-utils-testmetest","id":"MAL-2026-18202","aliases":["GHSA-m6qq-33mj-mv9w"],"published":"2026-10-22T20:37:32Z"}
@@ -476,7 +490,6 @@
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"@inpeek/odata-angular","id":"MAL-2026-17543","aliases":["GHSA-7p27-jmq6-46ph"],"versions":["99.99.100","99.99.101","99.99.102","99.99.99"],"published":"2026-10-05T03:33:31Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"@itsmee_aizat.id/baileys","id":"MAL-2026-17669","aliases":["GHSA-rm53-f4h3-h259"],"published":"2026-10-08T13:21:50Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"@itsmee_aizat.id/baileys2","id":"MAL-2026-17670","aliases":["GHSA-g6w5-p954-xcfr"],"published":"2026-10-08T13:21:49Z"}
-{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"@kibt/www-nuxt-i18n","id":"MAL-2026-17498","versions":["0.0.1","0.1.0","1.0.0","1.0.1","1.1.0","2.0.1","3.0.0","99.0.1"],"published":"2026-10-04T23:18:25Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"@kxa/xbails","id":"MAL-2026-17363","aliases":["GHSA-7gvw-4c75-pc6p"],"published":"2026-10-06T14:39:02Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"@kxafunc/xbails","id":"MAL-2026-17701","versions":["0.0.8"],"published":"2026-10-08T17:47:11Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"@nagular/core","id":"MAL-2026-17499","versions":["1.0.67"],"published":"2026-10-03T06:47:32Z"}

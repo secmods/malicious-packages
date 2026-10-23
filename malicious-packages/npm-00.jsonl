@@ -1890,6 +1890,7 @@
 {"name":"@blocks-shared/desktop-title","id":"MAL-2025-6027","versions":["2.99.99"],"published":"2025-07-12T04:13:29Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@bluekiri/alexandria","id":"MAL-2024-1740","versions":["5.0.1"],"published":"2024-06-25T12:18:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@bluekiri/alexandria-logitravel","id":"MAL-2024-1741","versions":["6.0.1"],"published":"2024-06-25T12:19:00Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@blueskydataplatform/shared-ui","id":"MAL-2026-18212","aliases":["GHSA-6x9m-j5h8-w3vg"],"published":"2026-10-23T02:05:18Z","modified":"2026-10-23T05:31:15Z"}
 {"name":"@bluewin/utils","id":"MAL-2026-17437","versions":["1.0.0"],"published":"2026-10-01T02:40:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@blurrydespair/libsignal-node","id":"MAL-2026-14404","aliases":["GHSA-rw8r-gxqp-rwfh"],"published":"2026-08-24T12:31:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@bmg-web-features/bmg-user-interaction-tracker","id":"MAL-2026-2989","versions":["999.9999.99"],"published":"2026-04-22T08:45:49Z","modified":"2026-10-02T05:38:49Z"}
@@ -2116,6 +2117,7 @@
 {"name":"@cdh-data-portal-theme/build","id":"MAL-2024-11262","versions":["20.0.0","20.0.1"],"published":"2024-12-08T21:58:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@cdnshell/loader","id":"MAL-2026-14039","versions":["0.0.13","0.0.14","0.0.15","0.0.16","0.0.18","0.0.19","0.0.20"],"published":"2026-08-14T15:18:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@cdplinetest/user-account-spec","id":"MAL-2025-2076","aliases":["GHSA-8j4q-f25p-xgm3","SNYK-JS-CDPLINETESTUSERACCOUNTSPEC-9058199"],"published":"2025-03-04T09:28:28Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@cecm-web-sdk/core","id":"MAL-2026-18213","aliases":["GHSA-88qx-q5v7-q7x5"],"published":"2026-10-23T02:05:18Z","modified":"2026-10-23T05:31:15Z"}
 {"name":"@ceeferenderer/fe-renderer-sdk","id":"MAL-2026-2406","aliases":["GHSA-mw7m-6vvq-q69p"],"published":"2026-03-24T09:03:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ceeferenderer/itg-renderer-sdk","id":"MAL-2026-2407","aliases":["GHSA-3v4h-w4g3-h6r2"],"published":"2026-03-24T09:03:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@celestial-community/baileys","id":"MAL-2026-17438","aliases":["GHSA-5ghv-64gv-gv29"],"published":"2026-10-16T01:07:51Z","modified":"2026-10-16T05:14:13Z"}
@@ -4290,6 +4292,12 @@
 {"name":"@ebay/ui-core-react","id":"MAL-2024-1006","aliases":["GHSA-536f-jp4m-fgrw"],"versions":["6.2.5","9.6.4","9.6.5","9.6.6","9.7.0","9.8.0","9.8.1"],"published":"2024-02-15T15:21:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ebx-auth/ebx-clientauth-frontend-sdk","id":"MAL-2025-7834","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ebx-ui/ebx-ui-component-library-sdk","id":"MAL-2022-224","aliases":["GHSA-qh6g-x4ph-87jc"],"published":"2022-12-07T00:27:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@ecg-internal/adobe-dmp-js","id":"MAL-2026-18206","aliases":["GHSA-vcj4-3hxm-4rf3"],"published":"2026-10-23T01:58:53Z","modified":"2026-10-23T05:31:15Z"}
+{"name":"@ecg-internal/aurora-js-formatters","id":"MAL-2026-18207","aliases":["GHSA-9976-3w38-mrmj"],"published":"2026-10-23T02:01:15Z","modified":"2026-10-23T05:31:15Z"}
+{"name":"@ecg-internal/favourites-ui","id":"MAL-2026-18208","aliases":["GHSA-g8hh-8pxg-jr3x"],"published":"2026-10-23T01:59:31Z","modified":"2026-10-23T05:31:15Z"}
+{"name":"@ecg-internal/js-react-i18n","id":"MAL-2026-18209","aliases":["GHSA-5x9g-7rj9-4xc8"],"published":"2026-10-23T02:01:46Z","modified":"2026-10-23T05:31:15Z"}
+{"name":"@ecg-internal/media-util-js-lib","id":"MAL-2026-18210","aliases":["GHSA-hcw5-m6mm-qg3q"],"published":"2026-10-23T02:00:22Z","modified":"2026-10-23T05:31:15Z"}
+{"name":"@ecg-internal/reviews-dialog-ui","id":"MAL-2026-18211","aliases":["GHSA-r47j-grcr-p9h9"],"published":"2026-10-23T01:58:04Z","modified":"2026-10-23T05:31:15Z"}
 {"name":"@ecommerce-cart-ui/client","id":"MAL-2025-5867","aliases":["GHSA-x7q2-h4r8-pp7m"],"published":"2025-07-15T23:53:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@eda.yandex/web-router","id":"MAL-2022-225","aliases":["GHSA-wf8q-v8m9-x96v"],"published":"2022-06-20T20:19:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@edgecommons/edgecommons","id":"MAL-2026-10762","published":"2026-07-16T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
@@ -5134,6 +5142,10 @@
 {"name":"@gr-exports/body","id":"MAL-2025-191561","versions":["1.0.0","99.0.0"],"published":"2025-12-01T12:57:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@gr-exports/head","id":"MAL-2025-191562","versions":["1.0.0","99.0.0"],"published":"2025-12-01T12:57:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@grab-food/order-sdk-web","id":"MAL-2026-15681","versions":["49.9.9"],"published":"2026-08-24T16:24:13Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@grabcad/company-server-shared","id":"MAL-2026-18214","aliases":["GHSA-fpfw-7wv8-x4mh"],"published":"2026-10-23T02:05:19Z","modified":"2026-10-23T05:31:15Z"}
+{"name":"@grabcad/grabcad-shop-shared","id":"MAL-2026-18215","aliases":["GHSA-cc6r-jh8f-6c76"],"published":"2026-10-23T02:05:19Z","modified":"2026-10-23T05:31:15Z"}
+{"name":"@grabcad/preferences-client","id":"MAL-2026-18216","aliases":["GHSA-mfh5-wvcp-2v6v"],"published":"2026-10-23T02:05:19Z","modified":"2026-10-23T05:31:15Z"}
+{"name":"@grabcad/user-license","id":"MAL-2026-18217","aliases":["GHSA-6w2v-744r-g5j5"],"published":"2026-10-23T02:05:19Z","modified":"2026-10-23T05:31:15Z"}
 {"name":"@grabdefence/trust-feature-bank-ui","id":"MAL-2023-8043","aliases":["GHSA-3w43-83jj-x86j"],"published":"2023-09-05T05:45:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@grafanacloud/plugins-platform-backend","id":"MAL-2025-6250","versions":["1.0.0"],"published":"2025-07-26T08:52:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@grafanacloud/test-utils","id":"MAL-2025-6249","versions":["1.0.0","1.0.2","1.0.3"],"published":"2025-07-26T07:54:37Z","modified":"2026-10-02T05:38:49Z"}
@@ -5965,7 +5977,7 @@
 {"name":"@khaznatech/utils","id":"MAL-2026-13975","versions":["99.0.0"],"published":"2026-08-13T21:08:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kibt/operation-track","id":"MAL-2022-377","aliases":["GHSA-j9pg-wx73-jrrx"],"published":"2022-05-23T10:22:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kibt/weblogger","id":"MAL-2022-378","aliases":["GHSA-ww9c-hf9c-pg54"],"published":"2022-05-23T10:22:10Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@kibt/www-nuxt-i18n","id":"MAL-2026-17498","versions":["0.0.1","0.1.0","1.0.0","1.0.1","1.1.0","2.0.1","3.0.0","99.0.1"],"published":"2026-10-04T23:18:25Z","modified":"2026-10-11T03:39:29Z"}
+{"name":"@kibt/www-nuxt-i18n","id":"MAL-2026-17498","aliases":["GHSA-2c7v-rmgw-3xrp"],"published":"2026-10-04T23:18:25Z","modified":"2026-10-23T05:31:15Z"}
 {"name":"@kiicodeproject/scraper","id":"MAL-2025-8121","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kills_sh/bootstrap","id":"MAL-2026-3275","aliases":["GHSA-gxfc-h756-8jpg"],"published":"2026-05-04T01:43:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kimley-horn/fetlife-assets","id":"MAL-2022-379","aliases":["GHSA-22fw-xr7q-xrh3"],"published":"2022-06-20T18:20:22Z","modified":"2026-10-02T05:38:49Z"}
@@ -11602,6 +11614,7 @@
 {"name":"@tekion/gamma","id":"MAL-2022-629","aliases":["GHSA-2wj2-8g7j-v3qg"],"published":"2022-06-20T20:24:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@tekion/kxt","id":"MAL-2022-630","aliases":["GHSA-pvp6-rvfm-45p8"],"published":"2022-06-20T20:24:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@tekion/test","id":"MAL-2022-631","aliases":["GHSA-5gq4-rc44-9hxj"],"published":"2022-06-20T20:24:27Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@tekmidian/pai","id":"MAL-2026-18205","aliases":["GHSA-xvgg-qjjh-gq34"],"versions":["1.0.10","1.0.8","1.0.9"],"published":"2026-10-23T00:56:39Z","modified":"2026-10-23T05:31:15Z"}
 {"name":"@tel-avive/fetlife-assets","id":"MAL-2022-632","aliases":["GHSA-mvj4-3crf-73r8"],"published":"2022-06-20T18:20:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@telavive/fetlife-assets","id":"MAL-2022-633","aliases":["GHSA-8jxh-755c-v793"],"published":"2022-06-20T18:20:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@telekom-ods/react-ui-kit","id":"MAL-2026-13770","versions":["2.6.0","2.6.9"],"published":"2026-08-11T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
@@ -92967,7 +92980,7 @@
 {"name":"imgame","id":"MAL-2025-23074","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"imgbundle","id":"MAL-2026-17330","aliases":["GHSA-hj6h-6xgx-mpjv"],"versions":["1.0.0","1.0.1","1.0.2"],"published":"2026-09-30T04:50:10Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"imgcycle","id":"MAL-2025-23075","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"imgdecode","id":"MAL-2026-18196","aliases":["GHSA-hw69-vrvf-87h5"],"versions":["1.0.0","1.0.1","1.0.2"],"published":"2026-10-22T19:24:45Z","modified":"2026-10-22T21:58:09Z"}
+{"name":"imgdecode","id":"MAL-2026-18196","aliases":["GHSA-hw69-vrvf-87h5"],"published":"2026-10-22T19:24:45Z","modified":"2026-10-23T05:31:15Z"}
 {"name":"imgfacebook","id":"MAL-2022-3801","aliases":["GHSA-m95g-h77r-wmh7"],"published":"2022-08-30T04:20:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"imgretom","id":"MAL-2025-23076","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"imgur-upload-api","id":"MAL-2024-11144","aliases":["GHSA-w3g4-3qx6-q27j"],"published":"2024-11-29T03:37:46Z","modified":"2026-10-02T05:38:49Z"}
@@ -200117,19 +200130,3 @@
 {"name":"unexpected_gecko_z3n","id":"MAL-2025-110092","published":"2025-11-11T07:31:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unexpected_hawk_z3n","id":"MAL-2025-59151","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unexpected_hornet_aquamarine-64","id":"MAL-2025-112422","published":"2025-11-11T07:47:12Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected_hyena_z3n","id":"MAL-2025-98981","published":"2025-11-11T07:01:22Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected_leopon-apptea","id":"MAL-2025-110093","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected_llama_azure-85","id":"MAL-2025-110094","published":"2025-11-11T07:38:53Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected_macaw_orange-25","id":"MAL-2025-110095","published":"2025-11-11T07:38:53Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected_orangutan_z3n","id":"MAL-2025-97126","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected_ostrich_violet-73","id":"MAL-2025-110096","published":"2025-11-11T07:38:53Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected_owl_z3n","id":"MAL-2025-110097","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected_salmon_z3n","id":"MAL-2025-123855","published":"2025-11-11T20:11:48Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected_turtle_replicate_automation","id":"MAL-2025-110098","published":"2025-11-11T07:26:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfair-beige-raven","id":"MAL-2025-71274","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfair-copper-aardwolf","id":"MAL-2025-71275","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfair-orange-prawn","id":"MAL-2025-71276","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfair-purple-gazelle","id":"MAL-2025-71277","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfair-salmon-fish","id":"MAL-2025-71278","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfair-violet-snipe","id":"MAL-2025-71279","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfair_alpaca_z3n","id":"MAL-2025-91522","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
