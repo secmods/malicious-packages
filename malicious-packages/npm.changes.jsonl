@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-10-23T15:30:30Z","name":"skillward","id":"MAL-2026-18220","aliases":["GHSA-9wgc-5pgr-25p3"],"versions":["0.1.1","0.1.2"],"published":"2026-10-23T13:55:03Z"}
 {"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@blueskydataplatform/shared-ui","id":"MAL-2026-18212","aliases":["GHSA-6x9m-j5h8-w3vg"],"published":"2026-10-23T02:05:18Z"}
 {"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@cecm-web-sdk/core","id":"MAL-2026-18213","aliases":["GHSA-88qx-q5v7-q7x5"],"published":"2026-10-23T02:05:18Z"}
 {"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@ecg-internal/adobe-dmp-js","id":"MAL-2026-18206","aliases":["GHSA-vcj4-3hxm-4rf3"],"published":"2026-10-23T01:58:53Z"}

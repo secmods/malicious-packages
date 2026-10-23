@@ -5625,6 +5625,7 @@
 {"name":"omnigodz-random","id":"MAL-2025-2980","versions":["0.0.0.1"],"published":"2025-03-28T13:05:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"oncecall","id":"MAL-2026-189","versions":["0.1.0"],"published":"2026-01-10T13:00:33Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"onnxruntime-winml","id":"MAL-2025-191806","versions":["1.0.0"],"published":"2025-09-07T21:36:19Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"onsokets","id":"MAL-2026-18219","versions":["0.1.0"],"published":"2026-10-23T12:42:59Z","modified":"2026-10-23T15:30:30Z"}
 {"name":"onyxproxy","id":"MAL-2024-5435","aliases":["SNYK-PYTHON-ONYXPROXY-5295964"],"versions":["1"],"published":"2024-06-25T13:37:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"oopenpyxl","id":"MAL-2023-1919","published":"2023-02-11T11:33:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"oopensea","id":"MAL-2024-10058","versions":["1.0.0"],"published":"2024-06-28T20:16:20Z","modified":"2026-10-02T05:38:49Z"}

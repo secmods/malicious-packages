@@ -175483,6 +175483,7 @@
 {"name":"skills-use","id":"MAL-2025-190783","aliases":["GHSA-vqq7-66xf-8cmr"],"versions":["0.1.1","0.1.2"],"published":"2025-11-24T13:47:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"skills-validator","id":"MAL-2025-3119","aliases":["GHSA-2r32-63wp-x2qv"],"published":"2025-04-03T05:36:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"skillsdb","id":"MAL-2025-33367","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"skillward","id":"MAL-2026-18220","aliases":["GHSA-9wgc-5pgr-25p3"],"versions":["0.1.1","0.1.2"],"published":"2026-10-23T13:55:03Z","modified":"2026-10-23T15:30:30Z"}
 {"name":"skimmdit","id":"MAL-2025-33368","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"skinny-blue-asp","id":"MAL-2025-70648","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"skinny-jade-sawfish","id":"MAL-2025-70649","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
@@ -200128,5 +200129,3 @@
 {"name":"unexpected_ferret_z3n","id":"MAL-2025-110091","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unexpected_flamingo_z3n","id":"MAL-2025-123854","published":"2025-11-11T20:11:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unexpected_gecko_z3n","id":"MAL-2025-110092","published":"2025-11-11T07:31:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected_hawk_z3n","id":"MAL-2025-59151","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected_hornet_aquamarine-64","id":"MAL-2025-112422","published":"2025-11-11T07:47:12Z","modified":"2026-10-02T05:38:49Z"}
