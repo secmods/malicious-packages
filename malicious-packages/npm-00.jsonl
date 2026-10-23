@@ -4768,6 +4768,7 @@
 {"name":"@facetca/calculator","id":"MAL-2024-11267","versions":["3.0.0"],"published":"2024-12-08T21:58:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@facetca/facet-mmleditor","id":"MAL-2024-9056","versions":["3.0.3","3.0.4"],"published":"2024-10-01T13:25:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@facetca/facet-ruler","id":"MAL-2024-11268","versions":["3.0.0"],"published":"2024-12-08T21:58:57Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@factiii/runner","id":"MAL-2026-18204","aliases":["GHSA-9j83-qj34-g5vc"],"versions":["0.28.0"],"published":"2026-10-22T21:37:36Z","modified":"2026-10-23T00:22:25Z"}
 {"name":"@fahmisugeng13/tea_fahmisugeng13","id":"MAL-2025-170606","published":"2025-11-12T18:00:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@fairwords/encryption","id":"MAL-2026-2506","aliases":["GHSA-6rgf-v8fm-jf4g"],"versions":["0.0.5","0.0.6"],"published":"2026-04-08T04:19:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@fairwords/loopback-connector-es","id":"MAL-2026-2507","versions":["1.4.3","1.4.4"],"published":"2026-04-08T04:19:03Z","modified":"2026-10-02T05:38:49Z"}
@@ -200132,5 +200133,3 @@
 {"name":"unfair-salmon-fish","id":"MAL-2025-71278","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unfair-violet-snipe","id":"MAL-2025-71279","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unfair_alpaca_z3n","id":"MAL-2025-91522","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfair_bass_z3n","id":"MAL-2025-117678","published":"2025-11-11T15:19:32Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unfair_cardinal_z3n","id":"MAL-2025-123856","published":"2025-11-11T20:11:48Z","modified":"2026-10-02T05:38:49Z"}

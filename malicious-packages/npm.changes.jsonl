@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-10-23T00:22:25Z","name":"@factiii/runner","id":"MAL-2026-18204","aliases":["GHSA-9j83-qj34-g5vc"],"versions":["0.28.0"],"published":"2026-10-22T21:37:36Z"}
 {"op":"upsert","modified":"2026-10-22T21:58:09Z","name":"@liauto/darwin-x64","id":"MAL-2026-18190","aliases":["GHSA-pmg6-2w6r-4q4h"],"versions":["0.1.1-b3"],"published":"2026-10-22T18:47:49Z"}
 {"op":"upsert","modified":"2026-10-22T21:58:09Z","name":"@lumen-labs-dev/whisper-node","id":"MAL-2026-18194","aliases":["GHSA-8mqm-233x-2g2j"],"versions":["0.5.1"],"published":"2026-10-22T20:23:37Z"}
 {"op":"upsert","modified":"2026-10-22T21:58:09Z","name":"@pkgship/frpc-darwin-amd64","id":"MAL-2026-18191","aliases":["GHSA-fhh5-55p8-29hj"],"versions":["0.71.1"],"published":"2026-10-22T18:46:02Z"}
