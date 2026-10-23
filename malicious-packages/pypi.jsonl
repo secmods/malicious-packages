@@ -7832,6 +7832,7 @@
 {"name":"qdatainstaller","id":"MAL-2026-27","versions":["1.0.1"],"published":"2026-01-03T00:50:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qlinforge","id":"MAL-2026-10091","versions":["0.3.2"],"published":"2026-07-09T16:55:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qoeoe","id":"MAL-2026-15927","versions":["0.1.0"],"published":"2026-09-04T10:27:28Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"qowa","id":"MAL-2026-18218","versions":["0.1.0"],"published":"2026-10-23T08:21:14Z","modified":"2026-10-23T10:37:27Z"}
 {"name":"qrbarcodegen","id":"MAL-2024-5841","versions":["1.0.3"],"published":"2024-06-25T13:41:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qrcodegeneration","id":"MAL-2024-5842","versions":["1.0.3"],"published":"2024-06-25T13:41:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qrcoding","id":"MAL-2024-5843","versions":["1.0.1"],"published":"2024-06-25T13:41:15Z","modified":"2026-10-02T05:38:49Z"}
