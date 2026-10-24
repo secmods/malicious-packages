@@ -1,3 +1,5 @@
+{"op":"upsert","modified":"2026-10-24T06:36:37Z","name":"@liauto/win32-x64","id":"MAL-2026-18247","aliases":["GHSA-32x9-4g9x-5cxj"],"versions":["0.1.2-b2"],"published":"2026-10-24T02:39:26Z"}
+{"op":"upsert","modified":"2026-10-24T06:36:37Z","name":"overarch-windows-x64-yr","id":"MAL-2026-18248","aliases":["GHSA-v5v8-j5gm-pq8v"],"versions":["1.4.0","1.5.0","2.0.0"],"published":"2026-10-24T04:13:43Z"}
 {"op":"upsert","modified":"2026-10-24T01:13:22Z","name":"@k18k/entrypoint-sdk-darwin-arm64","id":"MAL-2026-18243","aliases":["GHSA-8wf7-8825-99q7"],"versions":["0.2.0","0.2.1"],"published":"2026-10-23T22:05:57Z"}
 {"op":"upsert","modified":"2026-10-24T01:13:22Z","name":"@k18k/entrypoint-sdk-darwin-x64","id":"MAL-2026-18244","aliases":["GHSA-j58m-rwhr-923h"],"versions":["0.2.0","0.2.1"],"published":"2026-10-23T21:44:03Z"}
 {"op":"upsert","modified":"2026-10-24T01:13:22Z","name":"@k18k/entrypoint-sdk-linux-x64","id":"MAL-2026-18245","aliases":["GHSA-9fhg-r3w6-g7r4"],"versions":["0.2.0","0.2.1"],"published":"2026-10-23T21:47:09Z"}
