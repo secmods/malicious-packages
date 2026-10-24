@@ -1,6 +1,6 @@
-{"op":"upsert","modified":"2026-10-23T22:42:35Z","name":"@k18k/entrypoint-sdk-darwin-arm64","id":"MAL-2026-18243","aliases":["GHSA-8wf7-8825-99q7"],"versions":["0.2.0"],"published":"2026-10-23T22:05:57Z"}
-{"op":"upsert","modified":"2026-10-23T22:42:35Z","name":"@k18k/entrypoint-sdk-darwin-x64","id":"MAL-2026-18244","aliases":["GHSA-j58m-rwhr-923h"],"versions":["0.2.0"],"published":"2026-10-23T21:44:03Z"}
-{"op":"upsert","modified":"2026-10-23T22:42:35Z","name":"@k18k/entrypoint-sdk-linux-x64","id":"MAL-2026-18245","aliases":["GHSA-9fhg-r3w6-g7r4"],"versions":["0.2.0"],"published":"2026-10-23T21:47:09Z"}
+{"op":"upsert","modified":"2026-10-24T01:13:22Z","name":"@k18k/entrypoint-sdk-darwin-arm64","id":"MAL-2026-18243","aliases":["GHSA-8wf7-8825-99q7"],"versions":["0.2.0","0.2.1"],"published":"2026-10-23T22:05:57Z"}
+{"op":"upsert","modified":"2026-10-24T01:13:22Z","name":"@k18k/entrypoint-sdk-darwin-x64","id":"MAL-2026-18244","aliases":["GHSA-j58m-rwhr-923h"],"versions":["0.2.0","0.2.1"],"published":"2026-10-23T21:44:03Z"}
+{"op":"upsert","modified":"2026-10-24T01:13:22Z","name":"@k18k/entrypoint-sdk-linux-x64","id":"MAL-2026-18245","aliases":["GHSA-9fhg-r3w6-g7r4"],"versions":["0.2.0","0.2.1"],"published":"2026-10-23T21:47:09Z"}
 {"op":"upsert","modified":"2026-10-23T22:42:35Z","name":"orqiva-runtime-win32-x64","id":"MAL-2026-18246","aliases":["GHSA-8j59-g9mq-7hf9"],"versions":["0.1.0"],"published":"2026-10-23T21:50:34Z"}
 {"op":"upsert","modified":"2026-10-23T15:30:30Z","name":"skillward","id":"MAL-2026-18220","aliases":["GHSA-9wgc-5pgr-25p3"],"versions":["0.1.1","0.1.2"],"published":"2026-10-23T13:55:03Z"}
 {"op":"upsert","modified":"2026-10-23T05:31:15Z","name":"@blueskydataplatform/shared-ui","id":"MAL-2026-18212","aliases":["GHSA-6x9m-j5h8-w3vg"],"published":"2026-10-23T02:05:18Z"}

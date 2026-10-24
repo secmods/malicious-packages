@@ -5939,9 +5939,9 @@
 {"name":"@jupiter-sdk/trade","id":"MAL-2025-47430","published":"2025-09-17T20:52:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@justauth/fetlife-assets","id":"MAL-2022-374","aliases":["GHSA-7v7w-j7j4-v8gw"],"published":"2022-06-20T18:20:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@justworkshr/alma","id":"MAL-2025-1203","versions":["99.9.0","99.9.1"],"published":"2025-02-03T17:25:15Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@k18k/entrypoint-sdk-darwin-arm64","id":"MAL-2026-18243","aliases":["GHSA-8wf7-8825-99q7"],"versions":["0.2.0"],"published":"2026-10-23T22:05:57Z","modified":"2026-10-23T22:42:35Z"}
-{"name":"@k18k/entrypoint-sdk-darwin-x64","id":"MAL-2026-18244","aliases":["GHSA-j58m-rwhr-923h"],"versions":["0.2.0"],"published":"2026-10-23T21:44:03Z","modified":"2026-10-23T22:42:35Z"}
-{"name":"@k18k/entrypoint-sdk-linux-x64","id":"MAL-2026-18245","aliases":["GHSA-9fhg-r3w6-g7r4"],"versions":["0.2.0"],"published":"2026-10-23T21:47:09Z","modified":"2026-10-23T22:42:35Z"}
+{"name":"@k18k/entrypoint-sdk-darwin-arm64","id":"MAL-2026-18243","aliases":["GHSA-8wf7-8825-99q7"],"versions":["0.2.0","0.2.1"],"published":"2026-10-23T22:05:57Z","modified":"2026-10-24T01:13:22Z"}
+{"name":"@k18k/entrypoint-sdk-darwin-x64","id":"MAL-2026-18244","aliases":["GHSA-j58m-rwhr-923h"],"versions":["0.2.0","0.2.1"],"published":"2026-10-23T21:44:03Z","modified":"2026-10-24T01:13:22Z"}
+{"name":"@k18k/entrypoint-sdk-linux-x64","id":"MAL-2026-18245","aliases":["GHSA-9fhg-r3w6-g7r4"],"versions":["0.2.0","0.2.1"],"published":"2026-10-23T21:47:09Z","modified":"2026-10-24T01:13:22Z"}
 {"name":"@k18n/creatormarketplace-admin-language","id":"MAL-2026-6550","published":"2026-06-28T06:01:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kahoot-frontend/builder-common","id":"MAL-2025-47524","aliases":["GHSA-gh43-cr5p-v78v"],"published":"2025-09-25T04:10:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kalipto/local","id":"MAL-2026-5922","aliases":["GHSA-653g-2cfx-6gpc"],"published":"2026-06-16T20:07:17Z","modified":"2026-10-02T05:38:49Z"}
