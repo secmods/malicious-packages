@@ -1,3 +1,5 @@
+{"op":"upsert","modified":"2026-10-25T20:12:06Z","name":"@capsense/ccx-welcome-page","id":"MAL-2026-18294","versions":["99.99.100"],"published":"2026-10-25T18:19:29Z"}
+{"op":"upsert","modified":"2026-10-25T20:12:06Z","name":"@capsense/core-ui","id":"MAL-2026-18295","versions":["99.99.100"],"published":"2026-10-25T18:54:07Z"}
 {"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"@drone-js-ext/core","id":"MAL-2026-18276","versions":["99.0.1"],"published":"2026-10-25T15:08:36Z"}
 {"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"@drone-js-ext/vip-badge","id":"MAL-2026-18277","versions":["99.0.1"],"published":"2026-10-25T15:09:29Z"}
 {"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"@eforms/forms-api","id":"MAL-2026-18252","versions":["2.0.0-SNAPSHOT","99.0.0"],"published":"2026-10-25T06:26:03Z"}

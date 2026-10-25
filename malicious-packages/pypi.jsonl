@@ -11885,6 +11885,7 @@
 {"name":"yzip","id":"MAL-2025-192468","versions":["0.1.0"],"published":"2025-12-11T15:53:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zabitog","id":"MAL-2026-654","versions":["9.0.1"],"published":"2026-02-02T14:41:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zafira","id":"MAL-2024-6252","versions":["0.1"],"published":"2024-06-25T13:44:28Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"zagents-message-bus","id":"MAL-2026-18296","versions":["1.0.10","1.0.5","99.99.100","99.99.99"],"published":"2026-10-25T19:14:56Z","modified":"2026-10-25T20:12:06Z"}
 {"name":"zakuchienne","id":"MAL-2025-191940","versions":["0.0.1"],"published":"2025-11-24T06:34:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zakuraweb","id":"MAL-2025-191941","versions":["0.0.1"],"published":"2025-11-12T23:25:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zamino","id":"MAL-2025-191942","versions":["1.0.0","1.1.0"],"published":"2025-06-14T09:18:22Z","modified":"2026-10-02T05:38:49Z"}

@@ -2047,6 +2047,8 @@
 {"name":"@capacitor-bmo/common","id":"MAL-2025-6884","versions":["99.0.0","99.0.1"],"published":"2025-08-15T16:55:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@capdesk/camo","id":"MAL-2024-1859","aliases":["SNYK-JS-CAPDESKCAMO-5666412"],"versions":["100.0.5","101.0.5","99.0.2","99.0.3","99.0.4"],"published":"2024-06-25T12:19:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@capibar.chat/ui-kit","id":"MAL-2026-5031","aliases":["GHSA-rwm6-rvqv-qv7c"],"published":"2026-05-29T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@capsense/ccx-welcome-page","id":"MAL-2026-18294","versions":["99.99.100"],"published":"2026-10-25T18:19:29Z","modified":"2026-10-25T20:12:06Z"}
+{"name":"@capsense/core-ui","id":"MAL-2026-18295","versions":["99.99.100"],"published":"2026-10-25T18:54:07Z","modified":"2026-10-25T20:12:06Z"}
 {"name":"@captivateiq/events","id":"MAL-2024-10310","versions":["1.0.0","19.3.9","20.3.9","21.3.9","22.3.9"],"published":"2024-11-02T20:19:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@captivateiq/handsontable-ciq","id":"MAL-2024-10311","versions":["1.0.0","152.1.5","153.1.5","155.1.5","156.1.5"],"published":"2024-11-02T20:47:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@captivateiq/random","id":"MAL-2024-10312","versions":["1.0.0"],"published":"2024-11-02T21:26:31Z","modified":"2026-10-02T05:38:49Z"}
@@ -200112,5 +200114,3 @@
 {"name":"unemployed_flamingo_z3n","id":"MAL-2025-137590","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unemployed_gibbon_z3n","id":"MAL-2025-81932","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unemployed_hedgehog_z3n","id":"MAL-2025-61525","published":"2025-11-10T18:02:22Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unemployed_macaw_z3n","id":"MAL-2025-97117","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unemployed_moth-smiletea","id":"MAL-2025-110074","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
