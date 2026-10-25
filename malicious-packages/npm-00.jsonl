@@ -135494,6 +135494,7 @@
 {"name":"nodyn","id":"MAL-2025-5511","aliases":["GHSA-4j4h-6ghm-hpg5"],"published":"2025-06-30T09:13:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"nodyne","id":"MAL-2025-4649","aliases":["GHSA-524m-rxwx-4fwf"],"published":"2025-06-04T00:12:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"noe77e","id":"MAL-2026-18033","aliases":["GHSA-3f7v-wqcp-rcj5"],"published":"2026-10-19T15:36:06Z","modified":"2026-10-19T20:49:46Z"}
+{"name":"noelc-css-blender","id":"MAL-2026-18249","aliases":["GHSA-cj2x-975v-jmwf"],"published":"2026-10-24T23:55:21Z","modified":"2026-10-25T05:27:08Z"}
 {"name":"nofyxtwcmpqrikae","id":"MAL-2022-4911","aliases":["GHSA-v364-7cfm-5qw2"],"published":"2022-07-11T21:17:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"nogaptile","id":"MAL-2025-27701","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"nohack-erlinglingba-extra-part1","id":"MAL-2025-45339","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
@@ -183176,6 +183177,7 @@
 {"name":"tailwind-aspect","id":"MAL-2026-15912","versions":["0.4.2"],"published":"2026-09-04T05:19:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tailwind-aspect-styles","id":"MAL-2026-16056","versions":["0.4.2"],"published":"2026-09-08T23:55:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tailwind-autoanimation","id":"MAL-2026-148","aliases":["GHSA-pw37-854x-rf46"],"published":"2026-01-07T23:41:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"tailwind-base-buttons","id":"MAL-2026-18250","aliases":["GHSA-5j43-343m-gggg"],"published":"2026-10-25T00:05:05Z","modified":"2026-10-25T05:27:08Z"}
 {"name":"tailwind-base-theme","id":"MAL-2025-5959","aliases":["GHSA-796w-mg2r-cq64"],"published":"2025-07-15T03:57:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tailwind-book-icon","id":"MAL-2025-47498","aliases":["GHSA-vhcr-pj7h-5883"],"published":"2025-09-22T08:05:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tailwind-chart","id":"MAL-2025-48778","aliases":["GHSA-pf5w-hh72-jq54"],"published":"2025-10-27T06:21:07Z","modified":"2026-10-02T05:38:49Z"}
@@ -183382,6 +183384,7 @@
 {"name":"tailwindcss-svg-helper","id":"MAL-2026-6892","aliases":["GHSA-m4rw-xr9m-h8cr"],"versions":["1.17.9","1.18.0"],"published":"2026-07-06T18:58:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tailwindcss-tailwindcss-dotenv-safe-less-loader","id":"MAL-2025-46192","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tailwindcss-theme-custom","id":"MAL-2026-4225","aliases":["GHSA-79mj-3g96-g96c"],"published":"2026-05-21T16:12:44Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"tailwindcss-theme-kit","id":"MAL-2026-18251","aliases":["GHSA-v5xr-xjx7-ggwf"],"published":"2026-10-24T23:55:21Z","modified":"2026-10-25T05:27:08Z"}
 {"name":"tailwindcss-themers","id":"MAL-2026-4226","aliases":["GHSA-6677-qmcf-whxp"],"published":"2026-05-21T16:12:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tailwindcss-twflare","id":"MAL-2025-49386","aliases":["GHSA-gqfr-8366-x822"],"published":"2025-11-07T04:03:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tailwindcss-typeface-inter","id":"MAL-2026-2312","aliases":["GHSA-3cx6-7g5g-3hhp"],"published":"2026-03-31T14:56:07Z","modified":"2026-10-02T05:38:49Z"}
@@ -200123,6 +200126,3 @@
 {"name":"unexpected-tomato-frog","id":"MAL-2025-139087","published":"2025-11-12T03:04:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unexpected_bandicoot_z3n","id":"MAL-2025-97124","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unexpected_bee_z3n","id":"MAL-2025-110087","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected_bird_z3n","id":"MAL-2025-91521","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected_canidae-excellentdev","id":"MAL-2025-110088","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected_caribou-appteadev","id":"MAL-2025-110089","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}

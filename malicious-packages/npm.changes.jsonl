@@ -1,3 +1,6 @@
+{"op":"upsert","modified":"2026-10-25T05:27:08Z","name":"noelc-css-blender","id":"MAL-2026-18249","aliases":["GHSA-cj2x-975v-jmwf"],"published":"2026-10-24T23:55:21Z"}
+{"op":"upsert","modified":"2026-10-25T05:27:08Z","name":"tailwind-base-buttons","id":"MAL-2026-18250","aliases":["GHSA-5j43-343m-gggg"],"published":"2026-10-25T00:05:05Z"}
+{"op":"upsert","modified":"2026-10-25T05:27:08Z","name":"tailwindcss-theme-kit","id":"MAL-2026-18251","aliases":["GHSA-v5xr-xjx7-ggwf"],"published":"2026-10-24T23:55:21Z"}
 {"op":"upsert","modified":"2026-10-24T06:36:37Z","name":"@liauto/win32-x64","id":"MAL-2026-18247","aliases":["GHSA-32x9-4g9x-5cxj"],"versions":["0.1.2-b2"],"published":"2026-10-24T02:39:26Z"}
 {"op":"upsert","modified":"2026-10-24T06:36:37Z","name":"overarch-windows-x64-yr","id":"MAL-2026-18248","aliases":["GHSA-v5v8-j5gm-pq8v"],"versions":["1.4.0","1.5.0","2.0.0"],"published":"2026-10-24T04:13:43Z"}
 {"op":"upsert","modified":"2026-10-24T01:13:22Z","name":"@k18k/entrypoint-sdk-darwin-arm64","id":"MAL-2026-18243","aliases":["GHSA-8wf7-8825-99q7"],"versions":["0.2.0","0.2.1"],"published":"2026-10-23T22:05:57Z"}
