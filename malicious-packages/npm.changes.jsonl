@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-10-25T10:17:25Z","name":"@eforms/forms-api","id":"MAL-2026-18252","versions":["2.0.0-SNAPSHOT"],"published":"2026-10-25T06:26:03Z"}
 {"op":"upsert","modified":"2026-10-25T05:27:08Z","name":"noelc-css-blender","id":"MAL-2026-18249","aliases":["GHSA-cj2x-975v-jmwf"],"published":"2026-10-24T23:55:21Z"}
 {"op":"upsert","modified":"2026-10-25T05:27:08Z","name":"tailwind-base-buttons","id":"MAL-2026-18250","aliases":["GHSA-5j43-343m-gggg"],"published":"2026-10-25T00:05:05Z"}
 {"op":"upsert","modified":"2026-10-25T05:27:08Z","name":"tailwindcss-theme-kit","id":"MAL-2026-18251","aliases":["GHSA-v5xr-xjx7-ggwf"],"published":"2026-10-24T23:55:21Z"}
