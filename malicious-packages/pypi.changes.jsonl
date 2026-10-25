@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-10-25T14:38:28Z","name":"fontus","id":"MAL-2026-18271","versions":["0.0.1","0.0.2","0.0.3"],"published":"2026-10-25T10:58:27Z"}
 {"op":"upsert","modified":"2026-10-23T19:36:10Z","name":"badgertask","id":"MAL-2026-18222","versions":["0.1.0"],"published":"2026-10-23T15:52:43Z"}
 {"op":"upsert","modified":"2026-10-23T19:36:10Z","name":"brambletask","id":"MAL-2026-18223","versions":["0.1.0"],"published":"2026-10-23T15:52:50Z"}
 {"op":"upsert","modified":"2026-10-23T19:36:10Z","name":"brookworker","id":"MAL-2026-18224","versions":["0.1.0"],"published":"2026-10-23T15:53:10Z"}

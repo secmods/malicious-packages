@@ -4777,7 +4777,7 @@
 {"name":"@facetca/calculator","id":"MAL-2024-11267","versions":["3.0.0"],"published":"2024-12-08T21:58:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@facetca/facet-mmleditor","id":"MAL-2024-9056","versions":["3.0.3","3.0.4"],"published":"2024-10-01T13:25:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@facetca/facet-ruler","id":"MAL-2024-11268","versions":["3.0.0"],"published":"2024-12-08T21:58:57Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@factiii/runner","id":"MAL-2026-18204","aliases":["GHSA-9j83-qj34-g5vc"],"versions":["0.28.0"],"published":"2026-10-22T21:37:36Z","modified":"2026-10-23T00:22:25Z"}
+{"name":"@factiii/runner","id":"MAL-2026-18204","aliases":["GHSA-9j83-qj34-g5vc"],"versions":["0.28.0","0.33.0"],"published":"2026-10-22T21:37:36Z","modified":"2026-10-25T14:38:28Z"}
 {"name":"@fahmisugeng13/tea_fahmisugeng13","id":"MAL-2025-170606","published":"2025-11-12T18:00:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@fairwords/encryption","id":"MAL-2026-2506","aliases":["GHSA-6rgf-v8fm-jf4g"],"versions":["0.0.5","0.0.6"],"published":"2026-04-08T04:19:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@fairwords/loopback-connector-es","id":"MAL-2026-2507","versions":["1.4.3","1.4.4"],"published":"2026-04-08T04:19:03Z","modified":"2026-10-02T05:38:49Z"}
@@ -26633,6 +26633,8 @@
 {"name":"appetize-cli","id":"MAL-2024-11235","aliases":["GHSA-p5jr-vx74-3m4g"],"published":"2024-12-08T05:25:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"appf-react-router-dom","id":"MAL-2025-5667","aliases":["GHSA-qq3m-v56v-g7c8"],"published":"2025-07-08T04:48:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"appinsightsnew","id":"MAL-2025-41370","versions":["1.0.0"],"published":"2025-08-23T14:43:21Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"appit-cordova-admob","id":"MAL-2026-18253","aliases":["GHSA-9w8h-674f-4x2j"],"published":"2026-10-25T09:35:18Z","modified":"2026-10-25T14:38:28Z"}
+{"name":"appit-cordova-plugin-ionic","id":"MAL-2026-18254","aliases":["GHSA-fr38-45mf-vcqf"],"published":"2026-10-25T09:35:18Z","modified":"2026-10-25T14:38:28Z"}
 {"name":"appium-rn-id","id":"MAL-2025-4300","aliases":["GHSA-fhxm-f5qq-wq9j","SNYK-JS-APPIUMRNID-10245733"],"published":"2025-05-23T01:36:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"appkeys","id":"MAL-2025-14673","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"appkit-react-utils","id":"MAL-2026-5057","aliases":["GHSA-fv6c-xqrw-prcr"],"published":"2026-05-29T22:09:14Z","modified":"2026-10-02T05:38:49Z"}
@@ -42021,6 +42023,7 @@
 {"name":"ceres-telesto-bootstrap-optimize-css-assets-webpack-plugin","id":"MAL-2025-140579","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ceres-vega-update-jovian","id":"MAL-2025-140580","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ceres-yonder-global-adonis","id":"MAL-2025-140581","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"cert-infos","id":"MAL-2026-18255","aliases":["GHSA-8mjx-r4j6-3h6g"],"published":"2026-10-25T09:35:17Z","modified":"2026-10-25T14:38:28Z"}
 {"name":"certain-apricot-chipmunk","id":"MAL-2025-93491","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"certain-common-library","id":"MAL-2024-10894","aliases":["GHSA-pvgf-v3qx-mjhg"],"published":"2024-11-23T16:13:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"certain-plum-gamefowl","id":"MAL-2025-67137","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
@@ -50146,6 +50149,7 @@
 {"name":"cordova-plugin-devextremeaddon","id":"MAL-2025-17564","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cordova-plugin-devextremeaddon1","id":"MAL-2025-17565","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cordova-plugin-firebase-lovespace","id":"MAL-2025-17566","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"cordova-plugin-geofence-appit","id":"MAL-2026-18256","aliases":["GHSA-5pw8-3xv5-6cmg"],"published":"2026-10-25T09:35:18Z","modified":"2026-10-25T14:38:28Z"}
 {"name":"cordova-plugin-globalization.moment","id":"MAL-2025-49253","aliases":["GHSA-c34g-794j-jx5r"],"published":"2025-10-30T23:58:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cordova-plugin-ios-no-export-compliance","id":"MAL-2025-17567","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cordova-plugin-onyxbeacon","id":"MAL-2025-17568","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -95780,6 +95784,8 @@
 {"name":"inspector-spacetime","id":"MAL-2022-3851","aliases":["GHSA-w845-j22c-xh7m"],"published":"2022-06-20T20:22:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"inspectstack","id":"MAL-2026-14560","aliases":["GHSA-xjx7-pff2-34gp"],"published":"2026-08-27T14:52:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"inspired","id":"MAL-2025-23243","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"insta-api-wrapper","id":"MAL-2026-18257","aliases":["GHSA-j8vh-32vh-rj39"],"published":"2026-10-25T09:35:19Z","modified":"2026-10-25T14:38:28Z"}
+{"name":"insta-reel-search","id":"MAL-2026-18258","aliases":["GHSA-v2r2-x76j-6fcx"],"published":"2026-10-25T09:35:19Z","modified":"2026-10-25T14:38:28Z"}
 {"name":"instacarro-sellers-appointments-api","id":"MAL-2025-23244","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"instacart-admin","id":"MAL-2025-1851","versions":["999.9.9"],"published":"2025-03-03T13:29:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"instacart-analytics","id":"MAL-2025-1852","versions":["999.9.9"],"published":"2025-03-03T13:29:35Z","modified":"2026-10-02T05:38:49Z"}
@@ -97104,7 +97110,12 @@
 {"name":"ion-package","id":"MAL-2022-3928","aliases":["GHSA-qhvc-q3j5-5xqq"],"published":"2022-12-06T06:08:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ion-schema-sandbox","id":"MAL-2022-3929","aliases":["GHSA-x27c-4h57-pgcc"],"published":"2022-09-19T06:59:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ionic-icon","id":"MAL-2022-3930","aliases":["GHSA-f334-6g7r-h895"],"published":"2022-07-06T18:50:55Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ionic-insta-api-wrapper","id":"MAL-2026-4588","versions":["1.1.2","1.1.3"],"published":"2026-05-21T08:32:53Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"ionic-insta-api-wrapper","id":"MAL-2026-4588","aliases":["GHSA-65qr-q8w8-4q7r"],"published":"2026-05-21T08:32:53Z","modified":"2026-10-25T14:38:28Z"}
+{"name":"ionic-insta-search","id":"MAL-2026-18259","aliases":["GHSA-4fw4-xm5r-mh69"],"published":"2026-10-25T09:35:18Z","modified":"2026-10-25T14:38:28Z"}
+{"name":"ionic-sound-cloud-loader-api","id":"MAL-2026-18260","aliases":["GHSA-g89m-8c48-9x73"],"published":"2026-10-25T09:35:19Z","modified":"2026-10-25T14:38:28Z"}
+{"name":"ionic-tiktok-scraper","id":"MAL-2026-18261","aliases":["GHSA-wwj3-4v8w-w98j"],"published":"2026-10-25T09:35:19Z","modified":"2026-10-25T14:38:28Z"}
+{"name":"ionic-youtube-search","id":"MAL-2026-18262","aliases":["GHSA-7p9r-26fp-m47g"],"published":"2026-10-25T09:35:18Z","modified":"2026-10-25T14:38:28Z"}
+{"name":"ionic-youtube-streams","id":"MAL-2026-18263","aliases":["GHSA-3cc7-77mx-rmj6"],"published":"2026-10-25T09:35:18Z","modified":"2026-10-25T14:38:28Z"}
 {"name":"ionicaiosampleapp","id":"MAL-2025-2442","aliases":["GHSA-4xqv-9xpc-g99j"],"published":"2025-03-16T11:40:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ioniccrd","id":"MAL-2025-23311","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ionicfb","id":"MAL-2025-23312","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -141080,6 +141091,7 @@
 {"name":"oclif-dev","id":"MAL-2025-42049","published":"2025-08-29T18:55:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"oclif-typescript","id":"MAL-2025-42050","published":"2025-08-29T18:55:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ocp-package","id":"MAL-2025-47931","aliases":["GHSA-xqvx-9vjc-857p"],"published":"2025-10-07T00:24:42Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"ocsp-hashes","id":"MAL-2026-18264","aliases":["GHSA-9v69-fx5h-r6p6"],"published":"2026-10-25T09:35:18Z","modified":"2026-10-25T14:38:28Z"}
 {"name":"ocsportal","id":"MAL-2025-28124","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"octans-antares-ursa-inquirer","id":"MAL-2025-145760","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"octans-apollo-google-parcel","id":"MAL-2025-145761","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
@@ -145353,6 +145365,7 @@
 {"name":"p-oauth2","id":"MAL-2024-10708","aliases":["GHSA-455h-rpfq-v888"],"published":"2024-11-14T08:11:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"p-traffic","id":"MAL-2025-28635","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"p0wn","id":"MAL-2025-28636","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"p12-pem","id":"MAL-2026-18265","aliases":["GHSA-74xg-w33f-jpv3"],"published":"2026-10-25T09:35:17Z","modified":"2026-10-25T14:38:28Z"}
 {"name":"p12_front-end-with-react","id":"MAL-2025-28637","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"p224","id":"MAL-2022-5171","aliases":["GHSA-3h38-979p-85qh"],"published":"2022-06-20T20:13:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"p2p-amount-field","id":"MAL-2022-5172","aliases":["GHSA-rr7m-xw42-5848"],"published":"2022-06-20T20:19:32Z","modified":"2026-10-02T05:38:49Z"}
@@ -161108,6 +161121,7 @@
 {"name":"redis-cosmogenic-foundation-xanthus","id":"MAL-2025-31933","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"redis-darkenergy-brane-polaris","id":"MAL-2025-31934","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"redis-despina-process-aquarius","id":"MAL-2025-147097","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"redis-dumper","id":"MAL-2026-18266","aliases":["GHSA-8gg8-xq45-8fx5"],"published":"2026-10-25T09:35:18Z","modified":"2026-10-25T14:38:28Z"}
 {"name":"redis-eleventy-eslint-plugin-typeorm","id":"MAL-2025-147098","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"redis-epimetheus-jabbah-apex","id":"MAL-2025-189109","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"redis-europa-nodejs-rate-limiter","id":"MAL-2025-147099","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
@@ -177507,6 +177521,7 @@
 {"name":"soufianewldnass","id":"MAL-2025-4951","versions":["1.0.1"],"published":"2025-06-13T16:57:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sound-apricot-mammal","id":"MAL-2025-70727","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sound-black-damselfly","id":"MAL-2025-70728","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"sound-cloud-loader-api","id":"MAL-2026-18267","aliases":["GHSA-5f99-52fc-5rc9"],"published":"2026-10-25T09:35:19Z","modified":"2026-10-25T14:38:28Z"}
 {"name":"sound-crimson-aardvark","id":"MAL-2025-70729","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sound-maroon-scallop","id":"MAL-2025-70730","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sound-tomato-hare","id":"MAL-2025-70731","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
@@ -193224,6 +193239,7 @@
 {"name":"tiktok-likes-fans","id":"MAL-2022-6570","aliases":["GHSA-3385-cqfm-9227"],"published":"2022-06-20T20:14:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tiktok-prod","id":"MAL-2025-6964","versions":["1337.0.0"],"published":"2025-08-17T02:34:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tiktok-ui","id":"MAL-2024-12045","aliases":["GHSA-9qj9-px3w-6q8h","SNYK-JS-TIKTOKUI-8535232"],"published":"2024-12-19T10:56:02Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"tiktok-video-scraper","id":"MAL-2026-18268","aliases":["GHSA-5xjv-xr86-9hrv"],"published":"2026-10-25T09:35:19Z","modified":"2026-10-25T14:38:28Z"}
 {"name":"tiktok_4d_webapp","id":"MAL-2025-3122","aliases":["GHSA-qw43-33p9-7r7w"],"published":"2025-04-03T00:50:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tiktok_embed","id":"MAL-2022-6571","aliases":["GHSA-67pc-xp8q-gg73"],"published":"2022-06-20T20:08:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tiktok_embed_v2","id":"MAL-2024-12046","aliases":["GHSA-3cpv-cw63-6mwf","SNYK-JS-TIKTOKEMBEDV2-8536072"],"published":"2024-12-19T13:20:13Z","modified":"2026-10-02T05:38:49Z"}
@@ -200105,23 +200121,3 @@
 {"name":"uneven_bonobo_z3n","id":"MAL-2025-91518","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"uneven_butterfly_z3n","id":"MAL-2025-110082","published":"2025-11-11T07:31:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"uneven_carp_z3n","id":"MAL-2025-91519","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_chameleon_z3n","id":"MAL-2025-130854","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_clam_z3n","id":"MAL-2025-61527","published":"2025-11-10T18:02:22Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_dingo_z3n","id":"MAL-2025-91520","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_echidna_z3n","id":"MAL-2025-97120","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_firefly_z3n","id":"MAL-2025-59149","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_gorilla_z3n","id":"MAL-2025-130855","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_guan_z3n","id":"MAL-2025-97121","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_gull_z3n","id":"MAL-2025-97122","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_hyena_z3n","id":"MAL-2025-59150","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_jellyfish_z3n","id":"MAL-2025-61528","published":"2025-11-10T18:02:22Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_leopard_z3n","id":"MAL-2025-97123","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_mole_z3n","id":"MAL-2025-117676","published":"2025-11-11T15:19:32Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_mongoose_ivory-22","id":"MAL-2025-110083","published":"2025-11-11T07:38:53Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_pheasant-silentdev","id":"MAL-2025-110084","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_rodent_z3n","id":"MAL-2025-110085","published":"2025-11-11T07:31:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_squid_0xrequest","id":"MAL-2025-110086","published":"2025-11-11T07:26:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uneven_thrush_z3n","id":"MAL-2025-61529","published":"2025-11-10T18:02:22Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected-steps","id":"MAL-2024-3260","versions":["3.6.0","3.7.0"],"published":"2024-06-25T13:07:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected-teal-asp","id":"MAL-2025-71273","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unexpected-tomato-frog","id":"MAL-2025-139087","published":"2025-11-12T03:04:12Z","modified":"2026-10-02T05:38:49Z"}
