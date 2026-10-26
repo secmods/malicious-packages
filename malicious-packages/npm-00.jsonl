@@ -51715,6 +51715,7 @@
 {"name":"ctech-nizblah-component","id":"MAL-2025-17810","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ctech-orders-component","id":"MAL-2025-17811","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ctech-shared","id":"MAL-2025-17812","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"ctf-agent","id":"MAL-2026-18335","aliases":["GHSA-2j3v-rjgw-5wgg"],"versions":["0.1.0"],"published":"2026-10-26T20:42:32Z","modified":"2026-10-26T21:59:44Z"}
 {"name":"ctf-flare","id":"MAL-2026-3836","versions":["1.0.0"],"published":"2026-05-18T11:54:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ctf-package-onetimeuseforctf","id":"MAL-2026-2347","versions":["99.99.99","99.99.999","99.991.999","99.992.999","99.993.999"],"published":"2026-03-24T15:41:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ctf2libxmljs2","id":"MAL-2025-191571","versions":["0.30.2"],"published":"2025-12-01T13:06:22Z","modified":"2026-10-02T05:38:49Z"}
@@ -200105,4 +200106,3 @@
 {"name":"understory-editor","id":"MAL-2025-37721","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"undertow-amber-tpr741-project","id":"MAL-2025-37722","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"undertow-falcon-dbg379-project","id":"MAL-2025-37723","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"undertow-honeycomb-peb878-project","id":"MAL-2025-37724","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}

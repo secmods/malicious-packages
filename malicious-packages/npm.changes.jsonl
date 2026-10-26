@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-10-26T21:59:44Z","name":"ctf-agent","id":"MAL-2026-18335","aliases":["GHSA-2j3v-rjgw-5wgg"],"versions":["0.1.0"],"published":"2026-10-26T20:42:32Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@capsense/ccx-welcome-page","id":"MAL-2026-18294","aliases":["GHSA-phgq-4c2g-6xpx"],"published":"2026-10-25T18:19:29Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@capsense/core-ui","id":"MAL-2026-18295","aliases":["GHSA-c2qc-c78r-386v"],"published":"2026-10-25T18:54:07Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@drone-js-ext/core","id":"MAL-2026-18276","aliases":["GHSA-938p-x8vr-2r33"],"published":"2026-10-25T04:52:18Z"}
