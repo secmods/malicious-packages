@@ -1,7 +1,7 @@
-{"op":"upsert","modified":"2026-10-26T00:48:50Z","name":"claudeopuseni","versions":["0.1.0","0.1.1"],"published":"2026-10-25T23:43:00.886686Z"}
-{"op":"upsert","modified":"2026-10-26T00:48:50Z","name":"claudeopusenifile","versions":["0.1.3"],"published":"2026-10-25T23:40:43.395087Z"}
-{"op":"upsert","modified":"2026-10-26T00:48:50Z","name":"claudeopusfile","id":"MAL-2026-18298","versions":["0.1.1","0.1.2"],"published":"2026-10-25T23:35:59.169209Z"}
-{"op":"upsert","modified":"2026-10-26T00:48:50Z","name":"dictmerge-lite","versions":["1.0.0"],"published":"2026-10-26T00:00:52.807841Z"}
+{"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"claudeopuseni","id":"MAL-2026-18299","versions":["0.1.0","0.1.1"],"published":"2026-10-25T23:43:00Z"}
+{"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"claudeopusenifile","id":"MAL-2026-18300","versions":["0.1.3"],"published":"2026-10-25T23:40:43Z"}
+{"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"claudeopusfile","id":"MAL-2026-18298","versions":["0.1.1","0.1.2"],"published":"2026-10-25T23:35:59Z"}
+{"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"dictmerge-lite","id":"MAL-2026-18301","versions":["1.0.0"],"published":"2026-10-26T00:00:52Z"}
 {"op":"upsert","modified":"2026-10-25T22:53:07Z","name":"nebulallm","id":"MAL-2026-18297","versions":["1.4.3"],"published":"2026-10-25T20:15:01Z"}
 {"op":"upsert","modified":"2026-10-25T20:12:06Z","name":"zagents-message-bus","id":"MAL-2026-18296","versions":["1.0.10","1.0.5","99.99.100","99.99.99"],"published":"2026-10-25T19:14:56Z"}
 {"op":"upsert","modified":"2026-10-25T14:38:28Z","name":"fontus","id":"MAL-2026-18271","versions":["0.0.1","0.0.2","0.0.3"],"published":"2026-10-25T10:58:27Z"}
