@@ -1,3 +1,10 @@
+{"op":"upsert","modified":"2026-10-26T11:43:08Z","name":"@apexacc/cli","id":"MAL-2026-17924","published":"2026-10-26T05:25:19Z"}
+{"op":"upsert","modified":"2026-10-26T11:43:08Z","name":"@capsense/ccx-welcome-page","id":"MAL-2026-18294","versions":["99.99.100","99.99.99"],"published":"2026-10-25T18:19:29Z"}
+{"op":"upsert","modified":"2026-10-26T11:43:08Z","name":"@capsense/core-ui","id":"MAL-2026-18295","versions":["99.99.100","99.99.99"],"published":"2026-10-25T18:54:07Z"}
+{"op":"upsert","modified":"2026-10-26T11:43:08Z","name":"@eforms/forms-api","id":"MAL-2026-18252","versions":["1.99.0","1.99.1","2.0.0-SNAPSHOT","2.0.99","2.99.0","2.99.1","99.0.0"],"published":"2026-10-25T06:26:03Z"}
+{"op":"upsert","modified":"2026-10-26T11:43:08Z","name":"@worca/app","id":"MAL-2026-18325","aliases":["GHSA-rmc5-cxrx-5fh9"],"versions":["1.14.0-rc.2","1.14.0-rc.4"],"published":"2026-10-26T07:33:14Z"}
+{"op":"upsert","modified":"2026-10-26T11:43:08Z","name":"publish-poc-base","id":"MAL-2026-18323","versions":["1.0.7"],"published":"2026-10-26T06:31:13Z"}
+{"op":"upsert","modified":"2026-10-26T11:43:08Z","name":"publish-poc-test3","id":"MAL-2026-18324","versions":["1.0.15","1.0.18","1.0.19","1.0.21","1.0.22","1.0.26","1.0.27"],"published":"2026-10-26T06:30:51Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"@drone-js-ext/core","id":"MAL-2026-18276","versions":["1.0.0","2.0.1","3.0.0","99.0.1"],"published":"2026-10-25T04:52:18Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"@drone-js-ext/vip-badge","id":"MAL-2026-18277","versions":["0.0.1","1.0.1","2.0.0","99.0.1"],"published":"2026-10-25T04:50:18Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"@greenlake/auth","id":"MAL-2026-18316","versions":["3.0.0"],"published":"2026-10-23T21:26:30Z"}
@@ -40,9 +47,6 @@
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"react-native-bright-sdk","id":"MAL-2026-18290","versions":["9000.0.0"],"published":"2026-10-22T23:01:30Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"util-foriepft","id":"MAL-2026-17878","aliases":["GHSA-rc7p-6p9r-rfj9"],"published":"2026-10-26T01:34:10Z"}
 {"op":"upsert","modified":"2026-10-25T22:53:07Z","name":"@factiii/runner","id":"MAL-2026-18204","aliases":["GHSA-9j83-qj34-g5vc"],"versions":["0.28.0","0.33.0","0.35.0"],"published":"2026-10-22T21:37:36Z"}
-{"op":"upsert","modified":"2026-10-25T20:12:06Z","name":"@capsense/ccx-welcome-page","id":"MAL-2026-18294","versions":["99.99.100"],"published":"2026-10-25T18:19:29Z"}
-{"op":"upsert","modified":"2026-10-25T20:12:06Z","name":"@capsense/core-ui","id":"MAL-2026-18295","versions":["99.99.100"],"published":"2026-10-25T18:54:07Z"}
-{"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"@eforms/forms-api","id":"MAL-2026-18252","versions":["2.0.0-SNAPSHOT","99.0.0"],"published":"2026-10-25T06:26:03Z"}
 {"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"@factoryz/apollo","id":"MAL-2026-18278","versions":["99.9.1"],"published":"2026-10-25T15:05:42Z"}
 {"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"@fmr-ap153177/apex-kit-icons","id":"MAL-2026-18279","versions":["99.9.1"],"published":"2026-10-25T15:06:38Z"}
 {"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"@futurae-public/adaptive-js","id":"MAL-2026-18280","versions":["99.9.1"],"published":"2026-10-25T14:42:44Z"}
@@ -325,7 +329,6 @@
 {"op":"upsert","modified":"2026-10-19T08:11:19Z","name":"zero-baileys","id":"MAL-2026-16280","aliases":["GHSA-v486-jrrq-rhwx"],"published":"2026-09-18T02:54:59Z"}
 {"op":"upsert","modified":"2026-10-19T08:11:19Z","name":"zeroz-baileys","id":"MAL-2026-17933","aliases":["GHSA-fwfc-f4gp-qrcq"],"published":"2026-10-19T06:27:07Z"}
 {"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"@apexacc/audit","id":"MAL-2026-17923"}
-{"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"@apexacc/cli","id":"MAL-2026-17924"}
 {"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"@fluxionii/baileys","id":"MAL-2026-17925","aliases":["GHSA-98x4-5hvc-62qx"],"published":"2026-10-19T00:21:53Z"}
 {"op":"upsert","modified":"2026-10-19T02:42:54Z","name":"@ostyado/baileys","id":"MAL-2026-17372","aliases":["GHSA-v73c-2rgc-m2jx"],"published":"2026-10-19T00:21:53Z"}
 {"op":"upsert","modified":"2026-10-18T21:59:49Z","name":"@pkgship/frpc-linux-arm64","id":"MAL-2026-17922","aliases":["GHSA-753f-gx8g-q88w"],"versions":["0.71.0"],"published":"2026-10-18T21:10:43Z"}

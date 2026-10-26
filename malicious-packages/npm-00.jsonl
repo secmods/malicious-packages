@@ -1501,7 +1501,7 @@
 {"name":"@apachesling/slingpost","id":"MAL-2025-42189","published":"2025-09-05T16:38:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@apex-ui/core","id":"MAL-2023-7946","aliases":["GHSA-6gwq-8w3v-g4mc"],"published":"2023-08-29T05:16:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@apexacc/audit","id":"MAL-2026-17923","modified":"2026-10-19T02:42:54Z"}
-{"name":"@apexacc/cli","id":"MAL-2026-17924","modified":"2026-10-19T02:42:54Z"}
+{"name":"@apexacc/cli","id":"MAL-2026-17924","published":"2026-10-26T05:25:19Z","modified":"2026-10-26T11:43:08Z"}
 {"name":"@apexcraft/nano-key","id":"MAL-2026-6210","aliases":["GHSA-8x7w-vjr2-7q4m"],"published":"2026-06-19T15:12:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@apexfdn/apex","id":"MAL-2026-10979","aliases":["GHSA-w63r-vpcf-2wwf"],"versions":["1.0.1","1.0.10","1.0.11","1.0.12","1.0.13","1.0.14","1.0.15","1.0.16","1.0.17","1.0.18","1.0.19","1.0.2","1.0.20","1.0.21","1.0.22","1.0.23","1.0.24","1.0.25","1.0.26","1.0.27","1.0.28","1.0.29","1.0.3","1.0.30","1.0.31","1.0.32","1.0.4","1.0.5","1.0.6","1.0.7","1.0.8","1.0.9"],"published":"2026-07-21T21:00:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@apexfnd/apex","id":"MAL-2026-11121","versions":["1.0.0","1.0.1","1.0.3","1.0.4"],"published":"2026-07-28T13:35:21Z","modified":"2026-10-02T05:38:49Z"}
@@ -2047,8 +2047,8 @@
 {"name":"@capacitor-bmo/common","id":"MAL-2025-6884","versions":["99.0.0","99.0.1"],"published":"2025-08-15T16:55:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@capdesk/camo","id":"MAL-2024-1859","aliases":["SNYK-JS-CAPDESKCAMO-5666412"],"versions":["100.0.5","101.0.5","99.0.2","99.0.3","99.0.4"],"published":"2024-06-25T12:19:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@capibar.chat/ui-kit","id":"MAL-2026-5031","aliases":["GHSA-rwm6-rvqv-qv7c"],"published":"2026-05-29T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@capsense/ccx-welcome-page","id":"MAL-2026-18294","versions":["99.99.100"],"published":"2026-10-25T18:19:29Z","modified":"2026-10-25T20:12:06Z"}
-{"name":"@capsense/core-ui","id":"MAL-2026-18295","versions":["99.99.100"],"published":"2026-10-25T18:54:07Z","modified":"2026-10-25T20:12:06Z"}
+{"name":"@capsense/ccx-welcome-page","id":"MAL-2026-18294","versions":["99.99.100","99.99.99"],"published":"2026-10-25T18:19:29Z","modified":"2026-10-26T11:43:08Z"}
+{"name":"@capsense/core-ui","id":"MAL-2026-18295","versions":["99.99.100","99.99.99"],"published":"2026-10-25T18:54:07Z","modified":"2026-10-26T11:43:08Z"}
 {"name":"@captivateiq/events","id":"MAL-2024-10310","versions":["1.0.0","19.3.9","20.3.9","21.3.9","22.3.9"],"published":"2024-11-02T20:19:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@captivateiq/handsontable-ciq","id":"MAL-2024-10311","versions":["1.0.0","152.1.5","153.1.5","155.1.5","156.1.5"],"published":"2024-11-02T20:47:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@captivateiq/random","id":"MAL-2024-10312","versions":["1.0.0"],"published":"2024-11-02T21:26:31Z","modified":"2026-10-02T05:38:49Z"}
@@ -4307,7 +4307,7 @@
 {"name":"@edgecommons/edgecommons","id":"MAL-2026-10762","published":"2026-07-16T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@edgecommons/streamlog-node","id":"MAL-2026-10763","published":"2026-07-16T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@edwardjones/fetlife-assets","id":"MAL-2022-226","aliases":["GHSA-472v-j237-7w59"],"published":"2022-06-20T18:20:06Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@eforms/forms-api","id":"MAL-2026-18252","versions":["2.0.0-SNAPSHOT","99.0.0"],"published":"2026-10-25T06:26:03Z","modified":"2026-10-25T17:56:36Z"}
+{"name":"@eforms/forms-api","id":"MAL-2026-18252","versions":["1.99.0","1.99.1","2.0.0-SNAPSHOT","2.0.99","2.99.0","2.99.1","99.0.0"],"published":"2026-10-25T06:26:03Z","modified":"2026-10-26T11:43:08Z"}
 {"name":"@eg-maps/commons","id":"MAL-2022-227","aliases":["GHSA-vgcp-wh72-r476"],"published":"2022-06-20T20:13:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@egds-tools/types","id":"MAL-2024-7914","aliases":["GHSA-vp9j-xwch-jv2h"],"published":"2024-08-07T23:53:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@egds/lodging","id":"MAL-2024-2636","aliases":["SNYK-JS-EGDSLODGING-5666414"],"versions":["1.0.1","20.2.0","21.2.0","21.3.0"],"published":"2024-06-25T12:19:24Z","modified":"2026-10-02T05:38:49Z"}
@@ -12654,6 +12654,7 @@
 {"name":"@wongapl/sliders","id":"MAL-2025-730","versions":["100.0.0"],"published":"2025-01-31T03:01:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@woodpecker-web-shared/components","id":"MAL-2026-16354","aliases":["GHSA-44hm-95r4-wcrf"],"published":"2026-09-21T17:20:37Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"@woody-mrs-potato/utils-banking","id":"MAL-2024-10227","aliases":["GHSA-6fcx-hj63-4h9j"],"versions":["1.0.0","1.0.1","1.0.10","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7","1.0.8","1.0.9"],"published":"2024-10-24T12:11:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@worca/app","id":"MAL-2026-18325","aliases":["GHSA-rmc5-cxrx-5fh9"],"versions":["1.14.0-rc.2","1.14.0-rc.4"],"published":"2026-10-26T07:33:14Z","modified":"2026-10-26T11:43:08Z"}
 {"name":"@workbench-stack/core","id":"MAL-2026-11961","aliases":["GHSA-qc5f-j5q7-57hf"],"versions":["3.9.8"],"published":"2026-08-04T16:01:39Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@worki/lib-candidate-common","id":"MAL-2022-732","aliases":["GHSA-33xw-cpm5-hx3x"],"published":"2022-06-20T20:24:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@worki/lib-web-common","id":"MAL-2022-733","aliases":["GHSA-6p7x-3vr7-34wr"],"published":"2022-06-20T20:24:03Z","modified":"2026-10-02T05:38:49Z"}
@@ -154906,6 +154907,8 @@
 {"name":"publish-parcel-mysql-hermes","id":"MAL-2025-146799","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"publish-phenomic-phenomic-lint","id":"MAL-2025-146800","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"publish-pipe-antares-shelljs","id":"MAL-2025-146801","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"publish-poc-base","id":"MAL-2026-18323","versions":["1.0.7"],"published":"2026-10-26T06:31:13Z","modified":"2026-10-26T11:43:08Z"}
+{"name":"publish-poc-test3","id":"MAL-2026-18324","versions":["1.0.15","1.0.18","1.0.19","1.0.21","1.0.22","1.0.26","1.0.27"],"published":"2026-10-26T06:30:51Z","modified":"2026-10-26T11:43:08Z"}
 {"name":"publish-polaris-elara-relay","id":"MAL-2025-146802","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"publish-polaris-graphql-rimraf","id":"MAL-2025-146803","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"publish-postcss-blaze-buffer","id":"MAL-2025-146804","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
@@ -200103,8 +200106,3 @@
 {"name":"undertow-violet-eyd299-project","id":"MAL-2025-37728","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"undertow_fpe5b_glub1_verdant","id":"MAL-2025-37729","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"undertow_ma5vr_hp1fp_iris","id":"MAL-2025-37730","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underwood-soluble-pot","id":"MAL-2025-110067","published":"2025-11-11T07:26:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underwood-validator-catalyst","id":"MAL-2025-110068","published":"2025-11-11T07:26:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underwood-wallet-store","id":"MAL-2025-110069","published":"2025-11-11T07:26:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underworld_5fnj1_fldh0_lullaby","id":"MAL-2025-37731","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underworld_6n0gq_tkm5m_iris","id":"MAL-2025-37732","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}

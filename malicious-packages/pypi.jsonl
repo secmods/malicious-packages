@@ -981,6 +981,7 @@
 {"name":"chalk-fancy","id":"MAL-2026-3212","versions":["0.0.0","0.0.3","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7","1.0.8","1.0.9"],"published":"2026-05-01T13:46:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"chalk-harness","id":"MAL-2025-6476","versions":["0.0.1"],"published":"2025-07-31T19:14:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"change-user-agent","id":"MAL-2025-41638","versions":["5.31.6"],"published":"2025-08-28T07:10:46Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"changes-lxc-wrapper","id":"MAL-2026-18326","versions":["0.0.0","0.1.0"],"published":"2026-10-26T08:22:18Z","modified":"2026-10-26T11:43:08Z"}
 {"name":"chaostoolkit-turbulence","id":"MAL-2026-2239","versions":["0.2.1"],"published":"2026-03-26T16:32:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"chartkit-core","id":"MAL-2026-15932","versions":["1.0"],"published":"2026-09-04T19:45:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"chat-prompt-logger","id":"MAL-2025-191699","versions":["1.0.10","1.0.11","1.0.12","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7","1.0.8","1.0.9"],"published":"2025-11-30T00:34:30Z","modified":"2026-10-02T05:38:49Z"}
@@ -5486,6 +5487,7 @@
 {"name":"netping","id":"MAL-2026-3805","versions":["0.2.0","1.1.0"],"published":"2026-05-16T16:58:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"netsec-monitor","id":"MAL-2024-12311","versions":["0.1.5"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"netspear","id":"MAL-2025-5121","versions":["1.0.7"],"published":"2025-05-15T18:11:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"netweavex","id":"MAL-2026-18328","versions":["1.1.0","1.1.1","1.1.2"],"published":"2026-10-26T09:58:20Z","modified":"2026-10-26T11:43:08Z"}
 {"name":"network-utils-simple","id":"MAL-2025-191803","versions":["1.0.0","1.1.0","1.2.1","1.2.2","1.2.3","1.2.4","1.2.5","1.2.6","1.2.7","1.2.8","1.2.9","1.3.0","1.3.2","1.3.3","1.3.4","1.3.5","1.3.6","1.3.7","1.3.8"],"published":"2025-02-14T23:02:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"networkdriver","id":"MAL-2024-5401","aliases":["SNYK-PYTHON-NETWORKDRIVER-5885061"],"versions":["1"],"published":"2024-06-25T13:37:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"networkfix","id":"MAL-2024-5402","aliases":["SNYK-PYTHON-NETWORKFIX-5885083"],"versions":["2"],"published":"2024-06-25T13:37:32Z","modified":"2026-10-02T05:38:49Z"}
@@ -11890,6 +11892,7 @@
 {"name":"yzip","id":"MAL-2025-192468","versions":["0.1.0"],"published":"2025-12-11T15:53:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zabitog","id":"MAL-2026-654","versions":["9.0.1"],"published":"2026-02-02T14:41:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zafira","id":"MAL-2024-6252","versions":["0.1"],"published":"2024-06-25T13:44:28Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"zagents-framework","id":"MAL-2026-18327","versions":["6.25.30.10b5","99.25.30.10b5"],"published":"2026-10-26T08:33:45Z","modified":"2026-10-26T11:43:08Z"}
 {"name":"zagents-message-bus","id":"MAL-2026-18296","versions":["1.0.10","1.0.5","99.99.100","99.99.99"],"published":"2026-10-25T19:14:56Z","modified":"2026-10-25T20:12:06Z"}
 {"name":"zakuchienne","id":"MAL-2025-191940","versions":["0.0.1"],"published":"2025-11-24T06:34:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zakuraweb","id":"MAL-2025-191941","versions":["0.0.1"],"published":"2025-11-12T23:25:46Z","modified":"2026-10-02T05:38:49Z"}

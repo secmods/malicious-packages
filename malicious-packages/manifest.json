@@ -1,52 +1,52 @@
 {
   "schema_version": "2.0.0",
-  "generated_at": "2026-10-26T05:31:48Z",
+  "generated_at": "2026-10-26T11:43:08Z",
   "upstream_repo": "https://github.com/ossf/malicious-packages.git",
-  "upstream_commit": "4ca1d6ed191e4e1bb29aaabeed857b164a05a45a",
+  "upstream_commit": "de698c7bc121888d57d66c6b7b43407f2b50422a",
   "changes_since": "2026-10-02T05:38:49Z",
   "changes_window_days": 180,
   "shard_max_bytes": 26214400,
-  "total_records": 239578,
+  "total_records": 239584,
   "ecosystems": {
     "npm": {
       "files": [
         {
           "file": "npm-00.jsonl",
-          "sha256": "0eac86322cefc6a121c99830ca5832cb9a9a8b8453f5b72117445006db98d241",
-          "bytes": 26214338,
-          "records": 200110
+          "sha256": "c4dbea8f02375a525584b95526206cf914a42c3137e43a57f68ad2d76cd72574",
+          "bytes": 26214318,
+          "records": 200108
         },
         {
           "file": "npm-01.jsonl",
-          "sha256": "85267a84a59a25c2ed4b523e278ed8ec6ce12c952a7b424e543bd1e6e3a3148b",
-          "bytes": 2918151,
-          "records": 22388
+          "sha256": "0da3ae6f5c4e4effb445539d4efb3ee89c1b8684960e475f321c968bcec22107",
+          "bytes": 2918797,
+          "records": 22393
         }
       ],
-      "records": 222498,
-      "bytes": 29132489,
+      "records": 222501,
+      "bytes": 29133115,
       "changes_file": "npm.changes.jsonl",
-      "changes_sha256": "174da697879645db149aa91782aa1f9876e40ad28ef4598efd4074ae346573f5",
-      "changes_bytes": 133676,
-      "changes_records": 771,
-      "max_modified": "2026-10-26T05:31:48Z"
+      "changes_sha256": "555ac93f1251b29856c2320b95eddf4c7ef9469ca7a1ab1414c1f9daa8d291c6",
+      "changes_bytes": 134344,
+      "changes_records": 774,
+      "max_modified": "2026-10-26T11:43:08Z"
     },
     "pypi": {
       "files": [
         {
           "file": "pypi.jsonl",
-          "sha256": "3b2b690b01e6658e1760ac639db7d74c358985692943d1a27b79ac1cc21e4cab",
-          "bytes": 1552598,
-          "records": 11929
+          "sha256": "fa8e46d065ea054c3877144dcc180300d3b9ea94395ebbfc06358eadcfbf5a57",
+          "bytes": 1553062,
+          "records": 11932
         }
       ],
-      "records": 11929,
-      "bytes": 1552598,
+      "records": 11932,
+      "bytes": 1553062,
       "changes_file": "pypi.changes.jsonl",
-      "changes_sha256": "1ece0ba5f7ea577036c2ce4d37f6309e49b9475da935dd88710fc7c47da5ab41",
-      "changes_bytes": 24913,
-      "changes_records": 160,
-      "max_modified": "2026-10-26T05:31:48Z"
+      "changes_sha256": "e8afba252df9e6e4a57202f9d51014598010d26d6c3cb902a25bcc53a1a34954",
+      "changes_bytes": 25419,
+      "changes_records": 163,
+      "max_modified": "2026-10-26T11:43:08Z"
     },
     "go": {
       "files": [
