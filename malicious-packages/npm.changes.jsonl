@@ -1,3 +1,17 @@
+{"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"6161test1234","id":"MAL-2026-2967","aliases":["GHSA-r9qx-xcg2-7wcc"],"published":"2026-04-21T13:55:41Z"}
+{"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"@flexmr/survey-client","id":"MAL-2026-17898","aliases":["GHSA-rh7q-f888-q36c"],"published":"2026-10-16T06:54:39Z"}
+{"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"@flexmr/survey-conversation","id":"MAL-2026-17899","aliases":["GHSA-hc8w-gq4q-fr74"],"published":"2026-10-16T06:55:02Z"}
+{"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"@flexmr/utils","id":"MAL-2026-17888","aliases":["GHSA-hpc9-fxqh-hhf8"],"published":"2026-10-14T03:01:21Z"}
+{"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"@tableau__catalog-messages/database_lower","id":"MAL-2026-2866","aliases":["GHSA-wmfr-2pvv-wmf3"],"published":"2026-04-09T08:55:50Z"}
+{"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"adyen-web-v6","id":"MAL-2026-18344","aliases":["GHSA-r77r-rw3m-rjh5"],"published":"2026-10-27T16:23:53Z"}
+{"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"buttoncontent","id":"MAL-2026-18339","aliases":["GHSA-6crh-vwr2-4qfp"],"published":"2026-10-27T16:17:39Z"}
+{"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"ccl-global-shopping","id":"MAL-2026-18061","aliases":["GHSA-hh3m-f424-g8v5"],"published":"2026-10-20T03:43:48Z"}
+{"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"fetch-hash-cache-atomic","id":"MAL-2026-18340","aliases":["GHSA-w9mp-cvjp-jfqp"],"published":"2026-10-27T15:49:52Z"}
+{"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"macro-kernel-record-reader","id":"MAL-2026-18341","aliases":["GHSA-32g3-f74c-pcxq"],"published":"2026-10-27T15:49:52Z"}
+{"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"paychex-pdftron","id":"MAL-2026-18289","aliases":["GHSA-9mgv-25w8-jwhf"],"published":"2026-10-25T14:42:30Z"}
+{"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"sc-announcer","id":"MAL-2026-18064","aliases":["GHSA-fxw2-4j5q-6hwg"],"published":"2026-10-20T04:11:06Z"}
+{"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"sc-hydrate-carousel-price","id":"MAL-2026-18291","aliases":["GHSA-9gcx-88qx-rxch"],"published":"2026-10-25T15:04:58Z"}
+{"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"string-target-mapper-hash","id":"MAL-2026-18342","aliases":["GHSA-wfcx-722r-fg5h"],"published":"2026-10-27T15:49:52Z"}
 {"op":"upsert","modified":"2026-10-27T12:54:17Z","name":"@azure-growth/signup-ux-components","id":"MAL-2026-18338","versions":["1.2.2","1.2.3"],"published":"2026-10-27T11:09:51Z"}
 {"op":"upsert","modified":"2026-10-27T12:54:17Z","name":"@camera.ui/camera-ui-nvr-windows-amd64","id":"MAL-2026-18337","aliases":["GHSA-2w7v-jwxh-w7wc"],"versions":["1.6.1"],"published":"2026-10-27T07:54:13Z"}
 {"op":"delete","modified":"2026-10-27T12:54:17Z","name":"whalibmob"}
@@ -65,8 +79,6 @@
 {"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"@jm-telefonica/multibrand-components","id":"MAL-2026-18284","versions":["99.9.1"],"published":"2026-10-25T15:05:34Z"}
 {"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"@postex/common","id":"MAL-2026-18285","versions":["99.9.1"],"published":"2026-10-25T15:05:26Z"}
 {"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"event-bus-lite-testmetest","id":"MAL-2026-18292","versions":["0.0.6"],"published":"2026-10-25T16:02:07Z"}
-{"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"paychex-pdftron","id":"MAL-2026-18289","versions":["99.9.1"],"published":"2026-10-25T14:42:30Z"}
-{"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"sc-hydrate-carousel-price","id":"MAL-2026-18291","versions":["99.9.1"],"published":"2026-10-25T15:04:58Z"}
 {"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"w-mousekey","id":"MAL-2026-18293","aliases":["GHSA-gmhr-j769-j6qf"],"versions":["1.0.41","1.0.42"],"published":"2026-10-25T15:51:04Z"}
 {"op":"upsert","modified":"2026-10-25T14:38:28Z","name":"appit-cordova-admob","id":"MAL-2026-18253","aliases":["GHSA-9w8h-674f-4x2j"],"published":"2026-10-25T09:35:18Z"}
 {"op":"upsert","modified":"2026-10-25T14:38:28Z","name":"appit-cordova-plugin-ionic","id":"MAL-2026-18254","aliases":["GHSA-fr38-45mf-vcqf"],"published":"2026-10-25T09:35:18Z"}
@@ -189,10 +201,8 @@
 {"op":"upsert","modified":"2026-10-20T10:32:01Z","name":"tailwindcss-keyframe-kit","id":"MAL-2026-18088","versions":["3.0.0","3.0.1","3.0.2"],"published":"2026-10-19T00:00:00Z"}
 {"op":"upsert","modified":"2026-10-20T10:32:01Z","name":"tailwindcss-motionanimate","id":"MAL-2026-18089","versions":["1.0.1"],"published":"2026-10-19T00:00:00Z"}
 {"op":"upsert","modified":"2026-10-20T10:32:01Z","name":"tailwindcss-visual-kit","id":"MAL-2026-18090","versions":["0.0.0-stage","1.3.6"],"published":"2026-10-19T00:00:00Z"}
-{"op":"upsert","modified":"2026-10-20T05:28:26Z","name":"ccl-global-shopping","id":"MAL-2026-18061","versions":["99.9.1"],"published":"2026-10-20T03:43:48Z"}
 {"op":"upsert","modified":"2026-10-20T05:28:26Z","name":"fanarena-common","id":"MAL-2026-18063","versions":["99.9.1"],"published":"2026-10-20T03:55:45Z"}
 {"op":"upsert","modified":"2026-10-20T05:28:26Z","name":"ing-feat-itsme-oidc-authentication","id":"MAL-2026-5780","versions":["99.9.1","99.99.99"],"published":"2026-06-15T15:10:24Z"}
-{"op":"upsert","modified":"2026-10-20T05:28:26Z","name":"sc-announcer","id":"MAL-2026-18064","versions":["99.9.1"],"published":"2026-10-20T04:11:06Z"}
 {"op":"upsert","modified":"2026-10-20T05:28:26Z","name":"sc-wizard","id":"MAL-2026-18062","versions":["99.9.1"],"published":"2026-10-20T03:31:02Z"}
 {"op":"upsert","modified":"2026-10-20T00:00:16Z","name":"@an1mshnpmb9c84920/gat-scope-target-125ec19a","id":"MAL-2026-18046","aliases":["GHSA-87gv-mmww-whrr"],"published":"2026-10-19T22:19:38Z"}
 {"op":"upsert","modified":"2026-10-20T00:00:16Z","name":"@an1mshnpmb9c84920/oidc-cross-cafb9d929e","id":"MAL-2026-18047","aliases":["GHSA-mmr7-9m67-9qh5"],"published":"2026-10-19T22:19:37Z"}
@@ -354,9 +364,6 @@
 {"op":"upsert","modified":"2026-10-16T15:03:19Z","name":"@xatancchii/natabaileys","id":"MAL-2026-17901","aliases":["GHSA-cgq9-cff6-pf33"],"published":"2026-10-16T13:02:31Z"}
 {"op":"upsert","modified":"2026-10-16T15:03:19Z","name":"parxleys","id":"MAL-2026-17902","aliases":["GHSA-rg3c-8x72-6pmc"],"published":"2026-10-16T12:55:55Z"}
 {"op":"upsert","modified":"2026-10-16T10:15:56Z","name":"@accenturecodefoundry/mfe-pot-shared-ui-scds-core","id":"MAL-2026-17867","versions":["99.99.2","99.99.4","99.99.41","99.99.43"],"published":"2026-10-13T13:37:54Z"}
-{"op":"upsert","modified":"2026-10-16T10:15:56Z","name":"@flexmr/survey-client","id":"MAL-2026-17898","versions":["1.0.0","1.0.12","10.0.12","2.0.12","3.0.12"],"published":"2026-10-16T06:54:39Z"}
-{"op":"upsert","modified":"2026-10-16T10:15:56Z","name":"@flexmr/survey-conversation","id":"MAL-2026-17899","versions":["1.0.0","1.0.12","10.0.12","2.0.12","3.0.12"],"published":"2026-10-16T06:55:02Z"}
-{"op":"upsert","modified":"2026-10-16T10:15:56Z","name":"@flexmr/utils","id":"MAL-2026-17888","versions":["1.0.0","1.0.12","10.0.12","2.0.12","3.0.12"],"published":"2026-10-14T03:01:21Z"}
 {"op":"upsert","modified":"2026-10-16T05:14:13Z","name":"@celestial-community/baileys","id":"MAL-2026-17438","aliases":["GHSA-5ghv-64gv-gv29"],"published":"2026-10-16T01:07:51Z"}
 {"op":"upsert","modified":"2026-10-16T05:14:13Z","name":"@developmentyora/baileyss","id":"MAL-2026-17439","aliases":["GHSA-v8xh-mr86-2fpq"],"published":"2026-10-16T01:09:29Z"}
 {"op":"upsert","modified":"2026-10-16T05:14:13Z","name":"@developmentyora/yorakids","id":"MAL-2026-17890","aliases":["GHSA-xgr5-84p3-qqmf"],"published":"2026-10-16T01:09:29Z"}
