@@ -1,3 +1,6 @@
+{"op":"upsert","modified":"2026-10-27T12:54:17Z","name":"@azure-growth/signup-ux-components","id":"MAL-2026-18338","versions":["1.2.2","1.2.3"],"published":"2026-10-27T11:09:51Z"}
+{"op":"upsert","modified":"2026-10-27T12:54:17Z","name":"@camera.ui/camera-ui-nvr-windows-amd64","id":"MAL-2026-18337","aliases":["GHSA-2w7v-jwxh-w7wc"],"versions":["1.6.1"],"published":"2026-10-27T07:54:13Z"}
+{"op":"delete","modified":"2026-10-27T12:54:17Z","name":"whalibmob"}
 {"op":"upsert","modified":"2026-10-26T21:59:44Z","name":"ctf-agent","id":"MAL-2026-18335","aliases":["GHSA-2j3v-rjgw-5wgg"],"versions":["0.1.0"],"published":"2026-10-26T20:42:32Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@capsense/ccx-welcome-page","id":"MAL-2026-18294","aliases":["GHSA-phgq-4c2g-6xpx"],"published":"2026-10-25T18:19:29Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@capsense/core-ui","id":"MAL-2026-18295","aliases":["GHSA-c2qc-c78r-386v"],"published":"2026-10-25T18:54:07Z"}
