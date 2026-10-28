@@ -1,6 +1,19 @@
+{"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"@factiii/runner","id":"MAL-2026-18204","aliases":["GHSA-9j83-qj34-g5vc"],"versions":["0.16.0","0.17.0","0.17.1","0.18.0","0.18.1","0.19.0","0.20.0","0.20.1","0.21.0","0.22.0","0.22.1","0.23.2","0.25.0","0.26.0","0.26.1","0.26.2","0.28.0","0.33.0","0.35.0"],"published":"2026-10-22T21:37:36Z"}
+{"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"@walknpm/todo-cli","id":"MAL-2026-18320","aliases":["GHSA-p6gj-69gx-r376"],"versions":["2.0.1"],"published":"2026-10-26T00:55:57Z"}
+{"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"black-spindle","id":"MAL-2026-18359","versions":["999.0.0"],"published":"2026-10-28T16:15:41Z"}
+{"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"camelotlabs-config","id":"MAL-2026-3640","aliases":["GHSA-7972-958m-rqjg"],"published":"2026-05-07T00:00:00Z"}
+{"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"camelotlabs-core","id":"MAL-2026-3641","aliases":["GHSA-pf82-f9wr-54vx"],"published":"2026-05-07T00:00:00Z"}
+{"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"camelotlabs-sdk","id":"MAL-2026-3642","aliases":["GHSA-wx8x-c4rg-8rg7"],"published":"2026-05-07T00:00:00Z"}
+{"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"camelotlabs-utils","id":"MAL-2026-3643","aliases":["GHSA-2j2p-88v8-7xrm"],"published":"2026-05-07T00:00:00Z"}
+{"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"camelotlabs-worker","id":"MAL-2026-3644","aliases":["GHSA-4mgg-vrvh-32xg"],"published":"2026-05-07T00:00:00Z"}
+{"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"dsh-plugin-blender-3d","id":"MAL-2026-18321","aliases":["GHSA-hw9g-f63g-4c8x"],"versions":["0.2.1"],"published":"2026-10-26T00:55:34Z"}
+{"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"itsa-react-checkbox","id":"MAL-2026-18360","aliases":["GHSA-46r9-rx5f-hqqf"],"versions":["16.0.5"],"published":"2026-10-28T18:23:12Z"}
+{"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"itsa-utils","id":"MAL-2026-18363","aliases":["GHSA-x788-rmcm-4x49"],"versions":["1.4.2"],"published":"2026-10-28T18:25:37Z"}
+{"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"mock-transactions-sdk","id":"MAL-2026-18361","aliases":["GHSA-357r-x5jp-3p8f"],"published":"2026-10-28T16:54:25Z"}
+{"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"my-empty-package","id":"MAL-2026-10535","aliases":["GHSA-39q9-338w-8vhv"],"versions":["1.0.0"],"published":"2026-07-14T03:57:12Z"}
+{"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"transaction-info-generate-sdk","id":"MAL-2026-18362","aliases":["GHSA-23j5-jj88-v9f3"],"published":"2026-10-28T16:54:25Z"}
 {"op":"upsert","modified":"2026-10-28T14:37:49Z","name":"@capsense/ccx-welcome-page","id":"MAL-2026-18294","aliases":["GHSA-phgq-4c2g-6xpx"],"published":"2026-10-25T17:34:58Z"}
 {"op":"upsert","modified":"2026-10-28T14:37:49Z","name":"@capsense/core-ui","id":"MAL-2026-18295","aliases":["GHSA-c2qc-c78r-386v"],"published":"2026-10-25T17:28:56Z"}
-{"op":"upsert","modified":"2026-10-28T14:37:49Z","name":"@factiii/runner","id":"MAL-2026-18204","aliases":["GHSA-9j83-qj34-g5vc"],"versions":["0.16.0","0.22.0","0.26.2","0.28.0","0.33.0","0.35.0"],"published":"2026-10-22T21:37:36Z"}
 {"op":"upsert","modified":"2026-10-28T14:37:49Z","name":"@testsecuiitytestme/cache-helper","id":"MAL-2026-18358","versions":["1.0.1","1.0.2","1.0.3"]}
 {"op":"upsert","modified":"2026-10-28T07:38:46Z","name":"@azure-growth/signup-ux-components","id":"MAL-2026-18338","versions":["1.2.2","1.2.3","2.9.9"],"published":"2026-10-27T11:00:16Z"}
 {"op":"upsert","modified":"2026-10-28T07:38:46Z","name":"@drone-js-ext/core","id":"MAL-2026-18276","aliases":["GHSA-938p-x8vr-2r33"],"published":"2026-10-25T04:49:18Z"}
@@ -69,7 +82,6 @@
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"@s4yhiitestpoc/scan-echo-b","id":"MAL-2026-18308","aliases":["GHSA-2wfm-2q62-f937"],"published":"2026-10-26T00:13:30Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"@s4yhiitestpoc/scan-https-d","id":"MAL-2026-17766","aliases":["GHSA-96fg-4mp3-2hj5"],"published":"2026-10-11T13:58:59Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"@s4yhiitestpoc/scan-https-dualuse-e","id":"MAL-2026-18309","aliases":["GHSA-5957-rhph-hx5p"],"published":"2026-10-26T00:13:30Z"}
-{"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"@walknpm/todo-cli","id":"MAL-2026-18320","versions":["2.0.1"],"published":"2026-10-26T00:55:57Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"ap3-foundations-ui","id":"MAL-2026-17806","aliases":["GHSA-g9j6-f655-22p6"],"published":"2026-10-12T00:57:37Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"bow-test","id":"MAL-2026-18311","aliases":["GHSA-w53j-w72q-2f32"],"published":"2026-10-26T01:36:46Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"brass-common","id":"MAL-2026-17849","aliases":["GHSA-g6mf-8rwx-xgwh"],"published":"2026-10-13T07:45:45Z"}
@@ -78,7 +90,6 @@
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"css-hnhxwd-polyfill","id":"MAL-2026-18314","aliases":["GHSA-r2cx-wgxm-g93q"],"published":"2026-10-26T01:34:10Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"css-overscroll-contain","id":"MAL-2026-17705","aliases":["GHSA-xjrr-fv8j-9hw7"],"published":"2026-10-08T21:19:11Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"dsh-native","id":"MAL-2026-18315","aliases":["GHSA-x94m-hxm5-m298"],"versions":["1.4.1"],"published":"2026-10-26T02:17:08Z"}
-{"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"dsh-plugin-blender-3d","id":"MAL-2026-18321","versions":["0.2.1"],"published":"2026-10-26T00:55:34Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"monitoring-agent","id":"MAL-2026-17515","aliases":["GHSA-fvjv-j94x-c8wm"],"published":"2026-10-04T23:26:54Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"numbors","id":"MAL-2026-18322","aliases":["GHSA-682c-pwqm-7gxv"],"versions":["1.6.1"],"published":"2026-10-26T02:39:49Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"orderly-plugin-liquidity-heatmap","id":"MAL-2026-17848","aliases":["GHSA-83cj-fp7v-jmfx"],"versions":["0.0.0-stage","1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.6"],"published":"2026-10-11T13:13:56Z"}
