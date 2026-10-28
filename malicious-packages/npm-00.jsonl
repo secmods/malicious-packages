@@ -41790,6 +41790,10 @@
 {"name":"ccs-platform","id":"MAL-2025-48484","published":"2025-10-17T03:28:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ccs-platform-js","id":"MAL-2025-48485","published":"2025-10-17T03:28:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ccs-react-lib","id":"MAL-2024-11326","aliases":["GHSA-4w4g-jxg8-g7j7"],"published":"2024-12-08T23:12:10Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"ccsec-crypto-toolkit","id":"MAL-2026-18347","aliases":["GHSA-2732-c6cp-rx5v"],"published":"2026-10-27T23:04:33Z","modified":"2026-10-28T01:52:26Z"}
+{"name":"ccsec-form-validator","id":"MAL-2026-18348","aliases":["GHSA-r889-j2qv-2jv6"],"published":"2026-10-27T23:04:33Z","modified":"2026-10-28T01:52:26Z"}
+{"name":"ccsseecc-crypto-toolkit","id":"MAL-2026-18349","aliases":["GHSA-v9xw-mxj4-fm5q"],"published":"2026-10-27T23:04:33Z","modified":"2026-10-28T01:52:26Z"}
+{"name":"ccsseecc-form-validator","id":"MAL-2026-18350","aliases":["GHSA-h5wr-j55v-8m79"],"published":"2026-10-27T23:04:33Z","modified":"2026-10-28T01:52:26Z"}
 {"name":"ccsyqj-devapptea","id":"MAL-2025-100298","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ccuuli","id":"MAL-2025-16687","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ccv-token-manager","id":"MAL-2025-4552","aliases":["GHSA-8hvq-xr79-qvwc"],"published":"2025-05-26T06:10:01Z","modified":"2026-10-02T05:38:49Z"}
@@ -51484,8 +51488,11 @@
 {"name":"cscvue-unplugin","id":"MAL-2025-1099","aliases":["GHSA-jrf9-6vhf-mm35"],"published":"2025-02-03T08:44:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"csdn-tree","id":"MAL-2022-2264","aliases":["GHSA-rwqj-r2hx-4hfj"],"published":"2022-05-31T13:33:33Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cse-common-arch--long-running-app--create-vm-cf","id":"MAL-2025-1531","aliases":["GHSA-whg8-gmhv-gh6x"],"published":"2025-02-23T04:37:41Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"csec-crypto-toolkit","id":"MAL-2026-18351","aliases":["GHSA-v383-2358-576w"],"published":"2026-10-27T23:04:33Z","modified":"2026-10-28T01:52:26Z"}
 {"name":"csec-crypto-utils","id":"MAL-2026-7248","aliases":["GHSA-v2jf-8fqq-49vj"],"versions":["4.2.1"],"published":"2026-07-07T12:45:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"csec-form-helpers","id":"MAL-2026-7249","aliases":["GHSA-9rv5-p6m5-2pr4"],"versions":["1.0.0"],"published":"2026-07-07T12:45:52Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"csec-form-validator","id":"MAL-2026-18352","aliases":["GHSA-wh86-6qm8-xgw2"],"published":"2026-10-27T23:04:33Z","modified":"2026-10-28T01:52:26Z"}
+{"name":"csec-form-validatorr","id":"MAL-2026-18353","aliases":["GHSA-ph3g-jrf5-8792"],"published":"2026-10-27T23:04:33Z","modified":"2026-10-28T01:52:26Z"}
 {"name":"csf-web-common","id":"MAL-2025-17777","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"csh","id":"MAL-2025-17778","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"csino-slots","id":"MAL-2024-2034","versions":["2.999.0"],"published":"2024-06-25T12:34:40Z","modified":"2026-10-02T05:38:49Z"}
@@ -200094,12 +200101,3 @@
 {"name":"underlying_constrictor_dumbs","id":"MAL-2025-110063","published":"2025-11-11T07:26:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"underlying_crab_maroon-89","id":"MAL-2025-112421","published":"2025-11-11T07:47:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"underlying_frog_z3n","id":"MAL-2025-81930","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underlying_galliform_z3n","id":"MAL-2025-117672","published":"2025-11-11T15:19:32Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underlying_goose_z3n","id":"MAL-2025-117673","published":"2025-11-11T15:19:32Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underlying_jellyfish_z3n","id":"MAL-2025-110064","published":"2025-11-11T07:31:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underlying_koi_z3n","id":"MAL-2025-97111","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underlying_lemur_z3n","id":"MAL-2025-97112","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underlying_marmot_z3n","id":"MAL-2025-61523","published":"2025-11-10T18:02:22Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underlying_pheasant_z3n","id":"MAL-2025-61524","published":"2025-11-10T18:02:22Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underlying_piranha_z3n","id":"MAL-2025-97113","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underlying_quokka_z3n","id":"MAL-2025-110065","published":"2025-11-11T07:31:13Z","modified":"2026-10-02T05:38:49Z"}
