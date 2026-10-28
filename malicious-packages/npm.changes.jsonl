@@ -1,3 +1,5 @@
+{"op":"upsert","modified":"2026-10-28T23:46:44Z","name":"@zaip-ai/cli","id":"MAL-2026-18364","aliases":["GHSA-ffq4-h5jm-8pqr"],"versions":["6.4.0","6.5.0","7.0.0","7.1.0","7.2.0","7.3.0","7.4.0"],"published":"2026-10-28T20:37:17Z"}
+{"op":"upsert","modified":"2026-10-28T23:46:44Z","name":"b20miner","id":"MAL-2026-18365","aliases":["GHSA-fw7x-6chc-4244"],"versions":["0.3.1"],"published":"2026-10-28T23:16:46Z"}
 {"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"@factiii/runner","id":"MAL-2026-18204","aliases":["GHSA-9j83-qj34-g5vc"],"versions":["0.16.0","0.17.0","0.17.1","0.18.0","0.18.1","0.19.0","0.20.0","0.20.1","0.21.0","0.22.0","0.22.1","0.23.2","0.25.0","0.26.0","0.26.1","0.26.2","0.28.0","0.33.0","0.35.0"],"published":"2026-10-22T21:37:36Z"}
 {"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"@walknpm/todo-cli","id":"MAL-2026-18320","aliases":["GHSA-p6gj-69gx-r376"],"versions":["2.0.1"],"published":"2026-10-26T00:55:57Z"}
 {"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"black-spindle","id":"MAL-2026-18359","versions":["999.0.0"],"published":"2026-10-28T16:15:41Z"}
