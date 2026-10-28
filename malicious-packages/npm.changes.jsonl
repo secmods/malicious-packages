@@ -1,3 +1,9 @@
+{"op":"upsert","modified":"2026-10-28T07:38:46Z","name":"@azure-growth/signup-ux-components","id":"MAL-2026-18338","versions":["1.2.2","1.2.3","2.9.9"],"published":"2026-10-27T11:00:16Z"}
+{"op":"upsert","modified":"2026-10-28T07:38:46Z","name":"@drone-js-ext/core","id":"MAL-2026-18276","aliases":["GHSA-938p-x8vr-2r33"],"published":"2026-10-25T04:49:18Z"}
+{"op":"upsert","modified":"2026-10-28T07:38:46Z","name":"@drone-js-ext/vip-badge","id":"MAL-2026-18277","aliases":["GHSA-h7v8-65vw-r7wh"],"published":"2026-10-25T04:47:18Z"}
+{"op":"upsert","modified":"2026-10-28T07:38:46Z","name":"@webapp-shared/login-vmok","id":"MAL-2026-18356","versions":["1.0.0","1.0.1","1.1.0","2.0.1","3.0.0","99.0.1"],"published":"2026-10-27T17:08:01Z"}
+{"op":"upsert","modified":"2026-10-28T07:38:46Z","name":"csvflow-schema","id":"MAL-2026-18357","versions":["1.0.0"],"published":"2026-10-26T18:22:11Z"}
+{"op":"upsert","modified":"2026-10-28T07:38:46Z","name":"glyphmatrix-fixture","id":"MAL-2026-18355","aliases":["GHSA-vc33-3x34-x6jm"],"versions":["1.0.0","1.0.1"],"published":"2026-10-28T02:16:19Z"}
 {"op":"upsert","modified":"2026-10-28T01:52:26Z","name":"ccsec-crypto-toolkit","id":"MAL-2026-18347","aliases":["GHSA-2732-c6cp-rx5v"],"published":"2026-10-27T23:04:33Z"}
 {"op":"upsert","modified":"2026-10-28T01:52:26Z","name":"ccsec-form-validator","id":"MAL-2026-18348","aliases":["GHSA-r889-j2qv-2jv6"],"published":"2026-10-27T23:04:33Z"}
 {"op":"upsert","modified":"2026-10-28T01:52:26Z","name":"ccsseecc-crypto-toolkit","id":"MAL-2026-18349","aliases":["GHSA-v9xw-mxj4-fm5q"],"published":"2026-10-27T23:04:33Z"}
@@ -21,14 +27,11 @@
 {"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"sc-announcer","id":"MAL-2026-18064","aliases":["GHSA-fxw2-4j5q-6hwg"],"published":"2026-10-20T04:11:06Z"}
 {"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"sc-hydrate-carousel-price","id":"MAL-2026-18291","aliases":["GHSA-9gcx-88qx-rxch"],"published":"2026-10-25T15:04:58Z"}
 {"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"string-target-mapper-hash","id":"MAL-2026-18342","aliases":["GHSA-wfcx-722r-fg5h"],"published":"2026-10-27T15:49:52Z"}
-{"op":"upsert","modified":"2026-10-27T12:54:17Z","name":"@azure-growth/signup-ux-components","id":"MAL-2026-18338","versions":["1.2.2","1.2.3"],"published":"2026-10-27T11:09:51Z"}
 {"op":"upsert","modified":"2026-10-27T12:54:17Z","name":"@camera.ui/camera-ui-nvr-windows-amd64","id":"MAL-2026-18337","aliases":["GHSA-2w7v-jwxh-w7wc"],"versions":["1.6.1"],"published":"2026-10-27T07:54:13Z"}
 {"op":"delete","modified":"2026-10-27T12:54:17Z","name":"whalibmob"}
 {"op":"upsert","modified":"2026-10-26T21:59:44Z","name":"ctf-agent","id":"MAL-2026-18335","aliases":["GHSA-2j3v-rjgw-5wgg"],"versions":["0.1.0"],"published":"2026-10-26T20:42:32Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@capsense/ccx-welcome-page","id":"MAL-2026-18294","aliases":["GHSA-phgq-4c2g-6xpx"],"published":"2026-10-25T18:19:29Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@capsense/core-ui","id":"MAL-2026-18295","aliases":["GHSA-c2qc-c78r-386v"],"published":"2026-10-25T18:54:07Z"}
-{"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@drone-js-ext/core","id":"MAL-2026-18276","aliases":["GHSA-938p-x8vr-2r33"],"published":"2026-10-25T04:52:18Z"}
-{"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@drone-js-ext/vip-badge","id":"MAL-2026-18277","aliases":["GHSA-h7v8-65vw-r7wh"],"published":"2026-10-25T04:50:18Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@eforms/forms-api","id":"MAL-2026-18252","aliases":["GHSA-39p9-96vf-fxjh"],"published":"2026-10-25T06:26:03Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@greenlake/auth","id":"MAL-2026-18316","aliases":["GHSA-h6v3-2957-9j3g"],"published":"2026-10-23T21:26:30Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@greenlake/common-context","id":"MAL-2026-18282","aliases":["GHSA-mm6p-8j6f-9fch"],"published":"2026-10-23T21:31:58Z"}

@@ -1690,7 +1690,7 @@
 {"name":"@azl-react-components/molecules","id":"MAL-2025-7107","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@azl-react-components/svgs","id":"MAL-2025-7108","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@aznb/extension-gather","id":"MAL-2022-93","aliases":["GHSA-w25h-vrxw-g3x6"],"published":"2022-06-20T20:15:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@azure-growth/signup-ux-components","id":"MAL-2026-18338","versions":["1.2.2","1.2.3"],"published":"2026-10-27T11:09:51Z","modified":"2026-10-27T12:54:17Z"}
+{"name":"@azure-growth/signup-ux-components","id":"MAL-2026-18338","versions":["1.2.2","1.2.3","2.9.9"],"published":"2026-10-27T11:00:16Z","modified":"2026-10-28T07:38:46Z"}
 {"name":"@azure-lab-services/ml-ts","id":"MAL-2026-10871","aliases":["GHSA-q87h-8g7w-5938"],"versions":["99.0.0"],"published":"2026-07-20T10:17:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@azure-test2/test2","id":"MAL-2022-94","aliases":["GHSA-35rw-hqqx-48gj"],"published":"2022-06-01T09:08:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@azure-tests/perf-ai-form-recognizer","id":"MAL-2022-95","aliases":["GHSA-rcp5-jc3r-pjh9"],"published":"2022-06-20T20:16:40Z","modified":"2026-10-02T05:38:49Z"}
@@ -4243,8 +4243,8 @@
 {"name":"@dreamguyxeon/libsignal-node","id":"MAL-2026-13931","aliases":["GHSA-x3rc-jwjw-pwv6"],"published":"2026-08-10T22:30:00Z","modified":"2026-10-21T06:42:16Z"}
 {"name":"@driivz/component-library","id":"MAL-2026-7067","aliases":["GHSA-x96j-8c7c-7jpj"],"versions":["99.99.99"],"published":"2026-07-07T12:21:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@drive2/fetlife-assets","id":"MAL-2022-208","aliases":["GHSA-4g87-4w23-f25w"],"published":"2022-06-20T18:20:06Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@drone-js-ext/core","id":"MAL-2026-18276","aliases":["GHSA-938p-x8vr-2r33"],"published":"2026-10-25T04:52:18Z","modified":"2026-10-26T17:46:25Z"}
-{"name":"@drone-js-ext/vip-badge","id":"MAL-2026-18277","aliases":["GHSA-h7v8-65vw-r7wh"],"published":"2026-10-25T04:50:18Z","modified":"2026-10-26T17:46:25Z"}
+{"name":"@drone-js-ext/core","id":"MAL-2026-18276","aliases":["GHSA-938p-x8vr-2r33"],"published":"2026-10-25T04:49:18Z","modified":"2026-10-28T07:38:46Z"}
+{"name":"@drone-js-ext/vip-badge","id":"MAL-2026-18277","aliases":["GHSA-h7v8-65vw-r7wh"],"published":"2026-10-25T04:47:18Z","modified":"2026-10-28T07:38:46Z"}
 {"name":"@dropbox-photo-viewer/electron-app","id":"MAL-2025-47523","aliases":["GHSA-4mh5-g84h-vpx2","SNYK-JS-DROPBOXPHOTOVIEWERELECTRONAPP-13046945"],"published":"2025-09-25T04:10:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@dropbox/fetlife-assets","id":"MAL-2022-209","aliases":["GHSA-vgwp-wxqj-75qj"],"published":"2022-06-20T18:20:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@dropcontact/fetlife-assets","id":"MAL-2022-210","aliases":["GHSA-qqqg-vpxh-w539"],"published":"2022-06-20T18:20:06Z","modified":"2026-10-02T05:38:49Z"}
@@ -12517,6 +12517,7 @@
 {"name":"@web3-util/common","id":"MAL-2026-11233","aliases":["GHSA-wvx6-fwf2-hpp5"],"published":"2026-07-30T22:28:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@web3utils/common","id":"MAL-2026-11234","aliases":["GHSA-q3f3-h8g8-7qc6"],"published":"2026-07-30T22:28:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@webapp-next/store","id":"MAL-2026-3749","versions":["91.1.0"],"published":"2026-05-14T19:25:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@webapp-shared/login-vmok","id":"MAL-2026-18356","versions":["1.0.0","1.0.1","1.1.0","2.0.1","3.0.0","99.0.1"],"published":"2026-10-27T17:08:01Z","modified":"2026-10-28T07:38:46Z"}
 {"name":"@webbdays/tailcall","id":"MAL-2025-9659","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@webbdays/temp2","id":"MAL-2025-9660","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@webcorecomponents/components","id":"MAL-2025-9661","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -51710,6 +51711,7 @@
 {"name":"csv-tool-cli","id":"MAL-2025-191084","aliases":["GHSA-9qmf-jjv3-65x3"],"versions":["1.2.1"],"published":"2025-11-24T22:51:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"csv-uglify-js-protractor-grus","id":"MAL-2025-17806","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"csv-ultra-wezen-astro","id":"MAL-2025-141361","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"csvflow-schema","id":"MAL-2026-18357","versions":["1.0.0"],"published":"2026-10-26T18:22:11Z","modified":"2026-10-28T07:38:46Z"}
 {"name":"csvproj","id":"MAL-2025-17807","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"csvsub","id":"MAL-2025-17808","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"csvtarse","id":"MAL-2022-2268","aliases":["GHSA-p4cg-mr33-3rf3"],"published":"2022-08-19T03:55:07Z","modified":"2026-10-02T05:38:49Z"}
@@ -82216,6 +82218,7 @@
 {"name":"gltfvariantmeld","id":"MAL-2025-3965","aliases":["GHSA-85xr-v57q-3jjq"],"published":"2025-05-13T16:50:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gluedb","id":"MAL-2025-21607","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"glup-debugger-log","id":"MAL-2024-1533","aliases":["GHSA-ww28-j6wf-pgvv"],"published":"2024-06-04T09:47:18Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"glyphmatrix-fixture","id":"MAL-2026-18355","aliases":["GHSA-vc33-3x34-x6jm"],"versions":["1.0.0","1.0.1"],"published":"2026-10-28T02:16:19Z","modified":"2026-10-28T07:38:46Z"}
 {"name":"glyphr","id":"MAL-2026-5269","aliases":["GHSA-c988-j68q-h8h4"],"published":"2026-06-05T14:04:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gm-kilo","id":"MAL-2026-4574","versions":["1.0.0"],"published":"2026-05-20T09:43:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gmail-changer","id":"MAL-2026-10635","versions":["2.0.2"],"published":"2026-07-15T04:20:08Z","modified":"2026-10-02T05:38:49Z"}
@@ -200097,7 +200100,3 @@
 {"name":"underlying-turquoise-cobra","id":"MAL-2025-71259","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"underlying_aardvark_z3n","id":"MAL-2025-130851","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"underlying_aardwolf_z3n","id":"MAL-2025-61522","published":"2025-11-10T18:02:22Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underlying_chameleon_z3n","id":"MAL-2025-137588","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underlying_constrictor_dumbs","id":"MAL-2025-110063","published":"2025-11-11T07:26:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underlying_crab_maroon-89","id":"MAL-2025-112421","published":"2025-11-11T07:47:12Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"underlying_frog_z3n","id":"MAL-2025-81930","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
