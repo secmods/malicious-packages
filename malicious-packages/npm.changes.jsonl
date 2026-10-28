@@ -1,3 +1,7 @@
+{"op":"upsert","modified":"2026-10-28T14:37:49Z","name":"@capsense/ccx-welcome-page","id":"MAL-2026-18294","aliases":["GHSA-phgq-4c2g-6xpx"],"published":"2026-10-25T17:34:58Z"}
+{"op":"upsert","modified":"2026-10-28T14:37:49Z","name":"@capsense/core-ui","id":"MAL-2026-18295","aliases":["GHSA-c2qc-c78r-386v"],"published":"2026-10-25T17:28:56Z"}
+{"op":"upsert","modified":"2026-10-28T14:37:49Z","name":"@factiii/runner","id":"MAL-2026-18204","aliases":["GHSA-9j83-qj34-g5vc"],"versions":["0.16.0","0.22.0","0.26.2","0.28.0","0.33.0","0.35.0"],"published":"2026-10-22T21:37:36Z"}
+{"op":"upsert","modified":"2026-10-28T14:37:49Z","name":"@testsecuiitytestme/cache-helper","id":"MAL-2026-18358","versions":["1.0.1","1.0.2","1.0.3"]}
 {"op":"upsert","modified":"2026-10-28T07:38:46Z","name":"@azure-growth/signup-ux-components","id":"MAL-2026-18338","versions":["1.2.2","1.2.3","2.9.9"],"published":"2026-10-27T11:00:16Z"}
 {"op":"upsert","modified":"2026-10-28T07:38:46Z","name":"@drone-js-ext/core","id":"MAL-2026-18276","aliases":["GHSA-938p-x8vr-2r33"],"published":"2026-10-25T04:49:18Z"}
 {"op":"upsert","modified":"2026-10-28T07:38:46Z","name":"@drone-js-ext/vip-badge","id":"MAL-2026-18277","aliases":["GHSA-h7v8-65vw-r7wh"],"published":"2026-10-25T04:47:18Z"}
@@ -30,8 +34,6 @@
 {"op":"upsert","modified":"2026-10-27T12:54:17Z","name":"@camera.ui/camera-ui-nvr-windows-amd64","id":"MAL-2026-18337","aliases":["GHSA-2w7v-jwxh-w7wc"],"versions":["1.6.1"],"published":"2026-10-27T07:54:13Z"}
 {"op":"delete","modified":"2026-10-27T12:54:17Z","name":"whalibmob"}
 {"op":"upsert","modified":"2026-10-26T21:59:44Z","name":"ctf-agent","id":"MAL-2026-18335","aliases":["GHSA-2j3v-rjgw-5wgg"],"versions":["0.1.0"],"published":"2026-10-26T20:42:32Z"}
-{"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@capsense/ccx-welcome-page","id":"MAL-2026-18294","aliases":["GHSA-phgq-4c2g-6xpx"],"published":"2026-10-25T18:19:29Z"}
-{"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@capsense/core-ui","id":"MAL-2026-18295","aliases":["GHSA-c2qc-c78r-386v"],"published":"2026-10-25T18:54:07Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@eforms/forms-api","id":"MAL-2026-18252","aliases":["GHSA-39p9-96vf-fxjh"],"published":"2026-10-25T06:26:03Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@greenlake/auth","id":"MAL-2026-18316","aliases":["GHSA-h6v3-2957-9j3g"],"published":"2026-10-23T21:26:30Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"@greenlake/common-context","id":"MAL-2026-18282","aliases":["GHSA-mm6p-8j6f-9fch"],"published":"2026-10-23T21:31:58Z"}
@@ -83,7 +85,6 @@
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"react-dropzone-v4","id":"MAL-2026-17758","aliases":["GHSA-cqf2-3c3q-p639"],"published":"2026-10-11T07:35:19Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"react-native-bright-sdk","id":"MAL-2026-18290","versions":["9000.0.0"],"published":"2026-10-22T23:01:30Z"}
 {"op":"upsert","modified":"2026-10-26T05:31:48Z","name":"util-foriepft","id":"MAL-2026-17878","aliases":["GHSA-rc7p-6p9r-rfj9"],"published":"2026-10-26T01:34:10Z"}
-{"op":"upsert","modified":"2026-10-25T22:53:07Z","name":"@factiii/runner","id":"MAL-2026-18204","aliases":["GHSA-9j83-qj34-g5vc"],"versions":["0.28.0","0.33.0","0.35.0"],"published":"2026-10-22T21:37:36Z"}
 {"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"@factoryz/apollo","id":"MAL-2026-18278","versions":["99.9.1"],"published":"2026-10-25T15:05:42Z"}
 {"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"@fmr-ap153177/apex-kit-icons","id":"MAL-2026-18279","versions":["99.9.1"],"published":"2026-10-25T15:06:38Z"}
 {"op":"upsert","modified":"2026-10-25T17:56:36Z","name":"@futurae-public/adaptive-js","id":"MAL-2026-18280","versions":["99.9.1"],"published":"2026-10-25T14:42:44Z"}
