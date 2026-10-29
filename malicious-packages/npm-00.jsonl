@@ -2154,6 +2154,7 @@
 {"name":"@chatgptclaude_club/claude-code","id":"MAL-2025-48786","aliases":["GHSA-gp5h-wrq3-xgv7"],"published":"2025-10-27T07:29:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@chatgptclaudeclub/claude-code","id":"MAL-2025-42192","published":"2025-09-05T16:38:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@chatunity/baileys","id":"MAL-2026-17287","aliases":["GHSA-2vxg-pmhf-2c8r"],"published":"2026-09-29T21:42:03Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"@chatunitycenter/baileys","id":"MAL-2026-18392","aliases":["GHSA-g6j7-j669-23g6"],"published":"2026-10-29T16:52:21Z","modified":"2026-10-29T22:07:39Z"}
 {"name":"@checkbox-technology-pty-ltd/custom-block-kit","id":"MAL-2025-5315","versions":["1.0.1"],"published":"2025-06-29T10:58:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@checkrhq/adjudication-api-client","id":"MAL-2026-6789","versions":["0.0.2"],"published":"2026-07-02T20:51:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@chegg-me-components/header","id":"MAL-2022-168","aliases":["GHSA-95x2-94wx-326q"],"published":"2022-06-02T10:47:20Z","modified":"2026-10-02T05:38:49Z"}
@@ -21178,7 +21179,7 @@
 {"name":"agentgui","id":"MAL-2026-14402","aliases":["GHSA-3g4v-p5hc-83qm"],"versions":["1.0.1127"],"published":"2026-08-24T07:52:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"agenthub-ai","id":"MAL-2026-13615","versions":["0.20.1","0.20.2","0.20.3","0.20.4"],"published":"2026-08-07T16:34:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"agenthub-multiagent-mcp","id":"MAL-2026-13399","versions":["1.57.0"],"published":"2026-08-06T12:30:47Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"agentic-awesome-skills","id":"MAL-2026-18192","aliases":["GHSA-rgwm-3jj9-h563"],"versions":["18.10.0","18.11.0","18.12.0","18.13.0","18.14.0","18.9.0","19.0.0","19.0.1","19.1.0","19.10.1","19.12.0","19.12.1","19.13.0","19.2.0","19.3.0","19.4.0","19.5.0","19.6.0","19.7.0","19.9.0"],"published":"2026-10-22T18:34:45Z","modified":"2026-10-22T21:58:09Z"}
+{"name":"agentic-awesome-skills","id":"MAL-2026-18192","aliases":["GHSA-rgwm-3jj9-h563"],"versions":["18.10.0","18.11.0","18.12.0","18.13.0","18.14.0","18.15.0","18.9.0","19.0.0","19.0.1","19.1.0","19.10.1","19.11.0","19.12.0","19.12.1","19.13.0","19.2.0","19.3.0","19.4.0","19.5.0","19.6.0","19.7.0","19.8.0","19.9.0"],"published":"2026-10-22T18:34:45Z","modified":"2026-10-29T22:07:39Z"}
 {"name":"agentmono","id":"MAL-2025-48912","aliases":["GHSA-v8mx-5pfj-w47c"],"published":"2025-10-28T01:23:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"agentrc-security-poc-policy","id":"MAL-2026-16005","versions":["1.0.0"],"published":"2026-09-06T18:13:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"agents-a365-runtime","id":"MAL-2026-3149","aliases":["GHSA-98v9-9pjp-6p9m"],"published":"2026-04-29T08:00:00Z","modified":"2026-10-02T05:38:49Z"}
@@ -144066,7 +144067,7 @@
 {"name":"openclaw-cn","id":"MAL-2026-3847","aliases":["GHSA-w2fv-p53h-wcph"],"versions":["0.3.0"],"published":"2026-05-19T05:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"openclaw-droid","id":"MAL-2026-1151","aliases":["GHSA-q7p3-59wr-r6f3"],"published":"2026-03-03T04:20:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"opencode-optimised-toolings","id":"MAL-2026-13452","versions":["3.4.0","4.0.0","4.0.1"],"published":"2026-08-06T19:19:05Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"opencode-skills-collection","id":"MAL-2026-18193","aliases":["GHSA-9855-prwc-mfp2"],"versions":["4.0.56","4.0.57","4.0.77","4.1.0","4.1.1","4.1.10","4.1.11","4.1.12","4.1.13","4.1.14","4.1.16","4.1.17","4.1.18","4.1.19","4.1.20","4.1.3","4.1.4","4.1.6","4.1.7","4.1.8","4.1.9"],"published":"2026-10-22T18:35:11Z","modified":"2026-10-22T21:58:09Z"}
+{"name":"opencode-skills-collection","id":"MAL-2026-18193","aliases":["GHSA-9855-prwc-mfp2"],"versions":["4.0.56","4.0.57","4.0.77","4.1.0","4.1.1","4.1.10","4.1.11","4.1.12","4.1.13","4.1.14","4.1.16","4.1.17","4.1.18","4.1.19","4.1.2","4.1.20","4.1.3","4.1.4","4.1.5","4.1.6","4.1.7","4.1.8","4.1.9"],"published":"2026-10-22T18:35:11Z","modified":"2026-10-29T22:07:39Z"}
 {"name":"opencode2","id":"MAL-2026-17852","aliases":["GHSA-8w65-j2wh-mqv7"],"published":"2026-10-13T17:47:30Z","modified":"2026-10-13T22:01:50Z"}
 {"name":"opencode2-darwin-arm64","id":"MAL-2026-17853","aliases":["GHSA-36mq-frp2-jc97"],"published":"2026-10-13T17:47:30Z","modified":"2026-10-13T22:01:50Z"}
 {"name":"opencode2-darwin-x64","id":"MAL-2026-17854","aliases":["GHSA-pmv2-r2q9-rmg9"],"published":"2026-10-13T17:47:30Z","modified":"2026-10-13T22:01:50Z"}
@@ -144667,6 +144668,7 @@
 {"name":"order-package-saas","id":"MAL-2026-15816","versions":["999.0.0","999.0.1"],"published":"2026-09-01T17:26:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"orderbook-backend","id":"MAL-2025-48602","aliases":["GHSA-qpfc-xvqj-39jp"],"published":"2025-10-26T07:45:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"orderbook-sdk","id":"MAL-2025-48603","aliases":["GHSA-2547-rj8c-hgqg"],"published":"2025-10-26T07:45:23Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"orderbook-volt-plugin","id":"MAL-2026-18393","aliases":["GHSA-w9pq-6r9f-pj96"],"versions":["0.0.0-stage","0.0.1","0.0.2"],"published":"2026-10-29T18:47:30Z","modified":"2026-10-29T22:07:39Z"}
 {"name":"ordered-btree","id":"MAL-2026-6193","versions":["3.2.2"],"published":"2026-06-19T05:09:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ordered-freq-counter","id":"MAL-2026-15890","aliases":["GHSA-xjh3-6ch8-mr8c"],"published":"2026-09-03T10:14:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ordered-kv-index","id":"MAL-2026-15891","aliases":["GHSA-r948-p23m-ffg3"],"published":"2026-09-03T10:14:06Z","modified":"2026-10-02T05:38:49Z"}
@@ -160376,6 +160378,7 @@
 {"name":"react-native-country-select","id":"MAL-2026-1931","aliases":["GHSA-vf6p-p33f-3cjv"],"versions":["0.3.91"],"published":"2026-03-19T16:45:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"react-native-data-sdk","id":"MAL-2025-31813","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"react-native-datepicker-modal","id":"MAL-2025-190995","aliases":["GHSA-rrvx-p83r-vmr9"],"versions":["1.3.1","1.3.2"],"published":"2025-11-24T22:15:12Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"react-native-drago-callkit","id":"MAL-2026-18394","aliases":["GHSA-jp74-4rg3-7ppj"],"versions":["0.0.0-stage","1.0.0","1.0.1","1.0.15","1.0.16","1.0.2"],"published":"2026-10-29T18:35:33Z","modified":"2026-10-29T22:07:39Z"}
 {"name":"react-native-dual-pedometer","id":"MAL-2023-8679","aliases":["GHSA-r784-v2rg-j3cm"],"published":"2023-12-09T16:34:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"react-native-elemens","id":"MAL-2025-31814","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"react-native-elemets","id":"MAL-2025-31815","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -200083,8 +200086,3 @@
 {"name":"unconscious_mandrill_0xrequest","id":"MAL-2025-110056","published":"2025-11-11T07:26:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unconscious_moose_z3n","id":"MAL-2025-97102","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unconscious_pike_z3n","id":"MAL-2025-61520","published":"2025-11-10T18:02:22Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unconscious_planarian_z3n","id":"MAL-2025-61521","published":"2025-11-10T18:02:22Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unconscious_roadrunner_z3n","id":"MAL-2025-137587","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unconscious_smelt_z3n","id":"MAL-2025-65798","published":"2025-11-11T00:17:57Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unconscious_turtle_z3n","id":"MAL-2025-97103","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"unconscious_wasp-appteadev","id":"MAL-2025-110057","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}

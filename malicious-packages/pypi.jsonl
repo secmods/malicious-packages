@@ -692,6 +692,8 @@
 {"name":"bprintoor","id":"MAL-2025-191694","versions":["0.2.10","0.2.11","0.2.2","0.2.3","0.2.4","0.2.5","0.2.6","0.2.7","0.2.8","0.2.9"],"published":"2025-02-13T13:18:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bpsm","id":"MAL-2026-1296","versions":["99.0.0"],"published":"2026-03-09T17:31:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bq-build-probe-vrp-2026","id":"MAL-2026-16098","versions":["0.2.0"],"published":"2026-09-09T19:01:41Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"bq-helix-build-hook-6ade983e","id":"MAL-2026-18395","versions":["0.1.0"],"published":"2026-10-29T19:58:03Z","modified":"2026-10-29T22:07:39Z"}
+{"name":"bq-helix-recon-6ade983e","id":"MAL-2026-18396","versions":["0.1.0","0.1.2"],"published":"2026-10-29T19:56:11Z","modified":"2026-10-29T22:07:39Z"}
 {"name":"bq-sdist-probe-vrp","id":"MAL-2026-16099","versions":["0.0.1"],"published":"2026-09-09T19:01:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"brambletask","id":"MAL-2026-18223","versions":["0.1.0"],"published":"2026-10-23T15:52:50Z","modified":"2026-10-23T19:36:10Z"}
 {"name":"bramin","id":"MAL-2026-5280","versions":["0.0.2","0.0.3","0.0.4"],"published":"2026-06-06T06:13:57Z","modified":"2026-10-02T05:38:49Z"}
