@@ -1,3 +1,5 @@
+{"op":"upsert","modified":"2026-10-29T17:09:20Z","name":"poc-revshell","id":"MAL-2026-18378","versions":["0.1.0"],"published":"2026-10-29T14:59:05Z"}
+{"op":"upsert","modified":"2026-10-29T17:09:20Z","name":"seapy-ops","id":"MAL-2026-17880","versions":["1.0.0","1.0.1","1.0.2","1.1.0","1.1.1","1.1.2","1.2.1","1.2.2"],"published":"2026-10-29T13:17:07Z"}
 {"op":"upsert","modified":"2026-10-28T01:52:26Z","name":"trajmetrics","id":"MAL-2026-18354","versions":["0.5.3"],"published":"2026-10-27T23:47:08Z"}
 {"op":"upsert","modified":"2026-10-27T18:26:57Z","name":"numprint","id":"MAL-2026-18343","versions":["1.2.0"],"published":"2026-10-27T16:48:48Z"}
 {"op":"upsert","modified":"2026-10-27T06:57:05Z","name":"h13t0ry-hello-demo","id":"MAL-2026-18336","versions":["0.1.0"],"published":"2026-10-27T03:49:17Z"}
@@ -131,7 +133,6 @@
 {"op":"upsert","modified":"2026-10-15T15:23:49Z","name":"py-wormgpt","id":"MAL-2026-17886","versions":["1.0.0"],"published":"2026-10-15T10:45:47Z"}
 {"op":"upsert","modified":"2026-10-15T10:28:39Z","name":"py-sock2","id":"MAL-2026-17881","versions":["0.1.0"],"published":"2026-10-15T08:20:44Z"}
 {"op":"upsert","modified":"2026-10-15T10:28:39Z","name":"py-worm","id":"MAL-2026-17883","versions":["0.1.0","2.0.0","2.0.1"],"published":"2026-10-15T08:29:24Z"}
-{"op":"upsert","modified":"2026-10-15T05:22:29Z","name":"seapy-ops","id":"MAL-2026-17880","versions":["1.0.0","1.0.1","1.0.2","1.1.0","1.1.1","1.1.2","1.2.1","1.2.2"]}
 {"op":"upsert","modified":"2026-10-15T00:10:39Z","name":"saeka","id":"MAL-2026-17877","versions":["1.0.0","1.2.0","1.2.1","1.2.2","1.2.3","1.3.0","1.4.0","1.5.0","1.6.0","1.7.0","1.8.0","1.8.1","1.8.2","10.0","11.1","11.2","11.9","15.0","2.0","4.0","5.0","6.0","7.0","8.0","9.0","9.5"],"published":"2026-10-14T21:33:49Z"}
 {"op":"upsert","modified":"2026-10-14T01:27:44Z","name":"crelic-bqwheel-52f66a3f1d","id":"MAL-2026-17863","versions":["0.0.1"],"published":"2026-10-13T22:46:32Z"}
 {"op":"upsert","modified":"2026-10-13T22:01:50Z","name":"fontcase","id":"MAL-2026-17862","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-10-13T19:30:53Z"}
