@@ -1,3 +1,13 @@
+{"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"@testsecuiitytestme/cache-helper","id":"MAL-2026-18358","versions":["1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7"]}
+{"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"@zmtcdn/components","id":"MAL-2026-18372","versions":["9999.0.0"],"published":"2026-10-28T09:59:37Z"}
+{"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"@zmtcdn/ui","id":"MAL-2026-18373","versions":["9999.0.0","9999.0.7"],"published":"2026-10-28T07:27:15Z"}
+{"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"dsh-redteam-mode","id":"MAL-2026-18366","aliases":["GHSA-r4m9-8735-g966"],"versions":["0.15.2"],"published":"2026-10-29T05:23:36Z"}
+{"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"dsh-volcengine-provider","id":"MAL-2026-18374","aliases":["GHSA-8hr2-m7vq-fhpg"],"versions":["0.2.5","0.2.8"],"published":"2026-10-29T09:28:33Z"}
+{"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"identity-two-factor","id":"MAL-2026-18367","versions":["999.0.0"],"published":"2026-10-28T06:56:31Z"}
+{"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"mui-wrapper-x-date-pickers","id":"MAL-2026-18369","versions":["1.0.0","10.0.0"]}
+{"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"mw-communication-client","id":"MAL-2026-18370","versions":["1.0.1","10.0.0"]}
+{"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"mw-test-utils","id":"MAL-2026-18371","versions":["1.0.0","10.0.0","10.0.1"]}
+{"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"spectral-net-probe","id":"MAL-2026-18368","versions":["1.0.1","1.0.10","1.0.4"],"published":"2026-10-28T05:37:50Z"}
 {"op":"upsert","modified":"2026-10-29T03:11:25Z","name":"@factiii/runner","id":"MAL-2026-18204","aliases":["GHSA-9j83-qj34-g5vc"],"versions":["0.16.0","0.17.0","0.17.1","0.18.0","0.18.1","0.19.0","0.20.0","0.20.1","0.21.0","0.22.0","0.22.1","0.23.2","0.25.0","0.26.0","0.26.1","0.26.2","0.28.0","0.33.0","0.35.0","0.36.0"],"published":"2026-10-22T21:37:36Z"}
 {"op":"upsert","modified":"2026-10-28T23:46:44Z","name":"@zaip-ai/cli","id":"MAL-2026-18364","aliases":["GHSA-ffq4-h5jm-8pqr"],"versions":["6.4.0","6.5.0","7.0.0","7.1.0","7.2.0","7.3.0","7.4.0"],"published":"2026-10-28T20:37:17Z"}
 {"op":"upsert","modified":"2026-10-28T23:46:44Z","name":"b20miner","id":"MAL-2026-18365","aliases":["GHSA-fw7x-6chc-4244"],"versions":["0.3.1"],"published":"2026-10-28T23:16:46Z"}
@@ -16,7 +26,6 @@
 {"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"transaction-info-generate-sdk","id":"MAL-2026-18362","aliases":["GHSA-23j5-jj88-v9f3"],"published":"2026-10-28T16:54:25Z"}
 {"op":"upsert","modified":"2026-10-28T14:37:49Z","name":"@capsense/ccx-welcome-page","id":"MAL-2026-18294","aliases":["GHSA-phgq-4c2g-6xpx"],"published":"2026-10-25T17:34:58Z"}
 {"op":"upsert","modified":"2026-10-28T14:37:49Z","name":"@capsense/core-ui","id":"MAL-2026-18295","aliases":["GHSA-c2qc-c78r-386v"],"published":"2026-10-25T17:28:56Z"}
-{"op":"upsert","modified":"2026-10-28T14:37:49Z","name":"@testsecuiitytestme/cache-helper","id":"MAL-2026-18358","versions":["1.0.1","1.0.2","1.0.3"]}
 {"op":"upsert","modified":"2026-10-28T07:38:46Z","name":"@azure-growth/signup-ux-components","id":"MAL-2026-18338","versions":["1.2.2","1.2.3","2.9.9"],"published":"2026-10-27T11:00:16Z"}
 {"op":"upsert","modified":"2026-10-28T07:38:46Z","name":"@drone-js-ext/core","id":"MAL-2026-18276","aliases":["GHSA-938p-x8vr-2r33"],"published":"2026-10-25T04:49:18Z"}
 {"op":"upsert","modified":"2026-10-28T07:38:46Z","name":"@drone-js-ext/vip-badge","id":"MAL-2026-18277","aliases":["GHSA-h7v8-65vw-r7wh"],"published":"2026-10-25T04:47:18Z"}
