@@ -10002,6 +10002,7 @@
 {"name":"tesnorflow","id":"MAL-2023-2311","published":"2023-02-10T17:36:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tesorflow","id":"MAL-2023-2312","published":"2023-02-10T17:39:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tessivatts","id":"MAL-2026-18148","versions":["0.1.0"],"published":"2026-10-21T23:05:49Z","modified":"2026-10-21T23:52:32Z"}
+{"name":"test-01-rafamarrara-learning-dc","id":"MAL-2026-18402","versions":["1.0.0"],"published":"2026-10-29T23:42:32Z","modified":"2026-10-30T02:13:54Z"}
 {"name":"test-23234231","id":"MAL-2024-6105","aliases":["SNYK-PYTHON-TEST23234231-5508579"],"versions":["0.1","0.9","10","11","232"],"published":"2024-06-25T13:43:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test-async","id":"MAL-2022-7428","aliases":["GHSA-cg89-rrrm-gf58"],"published":"2022-08-30T19:37:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test-for-ppe","id":"MAL-2026-739","versions":["1.0.0"],"published":"2026-02-04T14:57:08Z","modified":"2026-10-02T05:38:49Z"}
@@ -11227,6 +11228,7 @@
 {"name":"turbod","id":"MAL-2026-6979","versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7"],"published":"2026-07-08T13:32:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"turbom","id":"MAL-2026-7015","versions":["1.0.0","1.0.1"],"published":"2026-07-08T16:50:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twilio-rest","id":"MAL-2025-3012","versions":["0.0.0.1"],"published":"2025-03-28T13:06:27Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twitter-request-diagnostics","id":"MAL-2026-18403","versions":["1.0.0"],"published":"2026-10-29T23:44:17Z","modified":"2026-10-30T02:13:54Z"}
 {"name":"twittter","id":"MAL-2024-6173","versions":["1.19.6"],"published":"2024-06-25T13:43:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twrap-tool","id":"MAL-2026-6711","versions":["1.0.0"],"published":"2026-07-01T20:05:39Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twrap-toolkit","id":"MAL-2026-5841","versions":["1.0.0"],"published":"2026-06-15T21:52:02Z","modified":"2026-10-02T05:38:49Z"}

@@ -1,3 +1,5 @@
+{"op":"upsert","modified":"2026-10-30T02:13:54Z","name":"test-01-rafamarrara-learning-dc","id":"MAL-2026-18402","versions":["1.0.0"],"published":"2026-10-29T23:42:32Z"}
+{"op":"upsert","modified":"2026-10-30T02:13:54Z","name":"twitter-request-diagnostics","id":"MAL-2026-18403","versions":["1.0.0"],"published":"2026-10-29T23:44:17Z"}
 {"op":"upsert","modified":"2026-10-29T22:07:39Z","name":"bq-helix-build-hook-6ade983e","id":"MAL-2026-18395","versions":["0.1.0"],"published":"2026-10-29T19:58:03Z"}
 {"op":"upsert","modified":"2026-10-29T22:07:39Z","name":"bq-helix-recon-6ade983e","id":"MAL-2026-18396","versions":["0.1.0","0.1.2"],"published":"2026-10-29T19:56:11Z"}
 {"op":"upsert","modified":"2026-10-29T17:09:20Z","name":"poc-revshell","id":"MAL-2026-18378","versions":["0.1.0"],"published":"2026-10-29T14:59:05Z"}
