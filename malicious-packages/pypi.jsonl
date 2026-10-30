@@ -5033,6 +5033,7 @@
 {"name":"localstack-plugin-persistence","id":"MAL-2025-6537","versions":["0.0.1"],"published":"2025-07-31T19:15:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"lofter","id":"MAL-2024-5330","versions":["1.0"],"published":"2024-06-25T13:36:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"log-guru","id":"MAL-2026-10688","versions":["0.7.8"],"published":"2026-07-15T17:29:10Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"log-utils-sdk","id":"MAL-2026-18405","versions":["0.4.1"],"published":"2026-10-30T09:17:50Z","modified":"2026-10-30T16:20:04Z"}
 {"name":"loganx","id":"MAL-2024-5331","versions":["0.1.0","0.2.0"],"published":"2024-06-25T13:36:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"logax","id":"MAL-2025-3450","versions":["1","1.5","2.4","2.5","2.7","2.9","3.1","3.2","3.4","3.5","3.6","3.7","3.8","3.9","4","4.0","4.2","4.3","4.5","4.8","4.9","5","5.0","5.2","5.3","5.4","8.3"],"published":"2025-03-18T09:49:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"loggerex","id":"MAL-2025-191782","versions":["0.7.4","0.7.5","0.7.6"],"published":"2025-08-01T15:57:37Z","modified":"2026-10-02T05:38:49Z"}
@@ -9717,6 +9718,7 @@
 {"name":"stats-helpers","id":"MAL-2026-2139","versions":["1.0.0"],"published":"2026-03-24T19:42:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"statsapi","id":"MAL-2025-191878","versions":["0.0.0","1.7.2"],"published":"2025-10-25T09:07:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"statssol","id":"MAL-2026-745","versions":["0.6.0","0.7.0"],"published":"2026-02-04T19:47:20Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"stdid-nyxprobe","id":"MAL-2026-18406","versions":["0.0.1","0.0.2"],"published":"2026-10-30T10:03:06Z","modified":"2026-10-30T16:20:04Z"}
 {"name":"steelseriesgen-api","id":"MAL-2024-6038","versions":["1.0"],"published":"2024-06-25T13:42:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"steembase","id":"MAL-2025-41769","versions":["1.5.0"],"published":"2025-08-28T07:11:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"stillrequestsa","id":"MAL-2024-6039","aliases":["SNYK-PYTHON-STILLREQUESTSA-5885053"],"versions":["0.0.1","0.0.2"],"published":"2024-06-25T13:42:49Z","modified":"2026-10-02T05:38:49Z"}
