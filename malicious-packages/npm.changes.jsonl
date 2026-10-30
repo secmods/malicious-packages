@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-10-30T09:11:22Z","name":"claims-acct-unlock","id":"MAL-2026-18404","versions":["25.2.1"],"published":"2026-10-30T07:14:58Z"}
 {"op":"upsert","modified":"2026-10-30T02:13:54Z","name":"dowload_ebok_armageddon_by_max_hastings_kv3s4","id":"MAL-2026-18397","aliases":["GHSA-p6mc-228w-6q75"],"published":"2026-10-29T22:14:16Z"}
 {"op":"upsert","modified":"2026-10-30T02:13:54Z","name":"dowload_ebok_el_piso_mil_el_piso_mil_1_by_katharine_mcgee_h1llc","id":"MAL-2026-18398","aliases":["GHSA-j272-m9j4-g3v9"],"published":"2026-10-29T22:14:17Z"}
 {"op":"upsert","modified":"2026-10-30T02:13:54Z","name":"dowload_ebok_lolita_by_vladimir_nabokov_oy1gy","id":"MAL-2026-18399","aliases":["GHSA-cjmr-6xg2-vf8h"],"published":"2026-10-29T22:14:17Z"}
