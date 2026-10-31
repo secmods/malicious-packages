@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-10-31T07:38:47Z","name":"@factiii/runner","id":"MAL-2026-18204","aliases":["GHSA-9j83-qj34-g5vc"],"versions":["0.16.0","0.17.0","0.17.1","0.18.0","0.18.1","0.19.0","0.20.0","0.20.1","0.21.0","0.22.0","0.22.1","0.23.2","0.25.0","0.26.0","0.26.1","0.26.2","0.28.0","0.33.0","0.35.0","0.36.0","0.37.0"],"published":"2026-10-22T21:37:36Z"}
 {"op":"upsert","modified":"2026-10-30T21:11:58Z","name":"@pcb-dp/qa-commons","id":"MAL-2026-18413","aliases":["GHSA-w4v4-fj9q-cfj5"],"published":"2026-10-30T18:06:15Z"}
 {"op":"upsert","modified":"2026-10-30T21:11:58Z","name":"@sxm-content-creators/tools-ds","id":"MAL-2026-18414","aliases":["GHSA-x4jx-pc3h-93v6"],"published":"2026-10-30T18:06:15Z"}
 {"op":"upsert","modified":"2026-10-30T21:11:58Z","name":"@tops2/digital-assistant-ui","id":"MAL-2026-18415","aliases":["GHSA-r7vf-2jch-g55h"],"published":"2026-10-30T18:06:15Z"}
@@ -65,7 +66,6 @@
 {"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"dsh-volcengine-provider","id":"MAL-2026-18374","aliases":["GHSA-8hr2-m7vq-fhpg"],"versions":["0.2.5","0.2.8"],"published":"2026-10-29T09:28:33Z"}
 {"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"identity-two-factor","id":"MAL-2026-18367","versions":["999.0.0"],"published":"2026-10-28T06:56:31Z"}
 {"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"spectral-net-probe","id":"MAL-2026-18368","versions":["1.0.1","1.0.10","1.0.4"],"published":"2026-10-28T05:37:50Z"}
-{"op":"upsert","modified":"2026-10-29T03:11:25Z","name":"@factiii/runner","id":"MAL-2026-18204","aliases":["GHSA-9j83-qj34-g5vc"],"versions":["0.16.0","0.17.0","0.17.1","0.18.0","0.18.1","0.19.0","0.20.0","0.20.1","0.21.0","0.22.0","0.22.1","0.23.2","0.25.0","0.26.0","0.26.1","0.26.2","0.28.0","0.33.0","0.35.0","0.36.0"],"published":"2026-10-22T21:37:36Z"}
 {"op":"upsert","modified":"2026-10-28T23:46:44Z","name":"@zaip-ai/cli","id":"MAL-2026-18364","aliases":["GHSA-ffq4-h5jm-8pqr"],"versions":["6.4.0","6.5.0","7.0.0","7.1.0","7.2.0","7.3.0","7.4.0"],"published":"2026-10-28T20:37:17Z"}
 {"op":"upsert","modified":"2026-10-28T23:46:44Z","name":"b20miner","id":"MAL-2026-18365","aliases":["GHSA-fw7x-6chc-4244"],"versions":["0.3.1"],"published":"2026-10-28T23:16:46Z"}
 {"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"@walknpm/todo-cli","id":"MAL-2026-18320","aliases":["GHSA-p6gj-69gx-r376"],"versions":["2.0.1"],"published":"2026-10-26T00:55:57Z"}
