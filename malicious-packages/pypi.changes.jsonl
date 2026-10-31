@@ -1,3 +1,7 @@
+{"op":"upsert","modified":"2026-10-31T13:57:51Z","name":"is-it-ai","id":"MAL-2026-18426","versions":["0.1.0","0.1.1","0.1.3"],"published":"2026-10-31T12:48:49Z"}
+{"op":"upsert","modified":"2026-10-31T13:57:51Z","name":"md-to-slides","id":"MAL-2026-18428","versions":["0.1.0","0.1.1","0.1.2","0.1.3"],"published":"2026-10-31T12:57:43Z"}
+{"op":"upsert","modified":"2026-10-31T13:57:51Z","name":"multi-convert","id":"MAL-2026-18429","versions":["0.1.0","0.1.1","0.1.2","0.1.3","0.1.4","0.1.5"],"published":"2026-10-31T13:01:05Z"}
+{"op":"upsert","modified":"2026-10-31T13:57:51Z","name":"skills-analyzer","id":"MAL-2026-18427","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-10-31T12:55:07Z"}
 {"op":"upsert","modified":"2026-10-30T16:20:04Z","name":"log-utils-sdk","id":"MAL-2026-18405","versions":["0.4.1"],"published":"2026-10-30T09:17:50Z"}
 {"op":"upsert","modified":"2026-10-30T16:20:04Z","name":"stdid-nyxprobe","id":"MAL-2026-18406","versions":["0.0.1","0.0.2"],"published":"2026-10-30T10:03:06Z"}
 {"op":"upsert","modified":"2026-10-30T02:13:54Z","name":"test-01-rafamarrara-learning-dc","id":"MAL-2026-18402","versions":["1.0.0"],"published":"2026-10-29T23:42:32Z"}
