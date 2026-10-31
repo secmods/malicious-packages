@@ -7364,6 +7364,7 @@
 {"name":"@malware-test-zeros-cheep-howes-ciggy/test-mlw3-zeros-cheep-howes-ciggy","id":"MAL-2025-9088","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@malware-test-zones-strag-grouf-paged/test-mlw3-zones-strag-grouf-paged","id":"MAL-2025-9089","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@malwguy/ecto-corsair-whisper-3d2a7c","id":"MAL-2026-5685","aliases":["GHSA-636m-vpq6-g454"],"published":"2026-06-12T14:32:51Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@mamans2973/maman","id":"MAL-2026-18431","aliases":["GHSA-fg5w-8hhw-8j6h"],"versions":["1.0.0","1.0.1","1.0.2","1.0.3"],"published":"2026-10-31T16:09:39Z","modified":"2026-10-31T18:07:56Z"}
 {"name":"@manomano-internal/mf-seller-xp-commons-error-handlers","id":"MAL-2023-7964","aliases":["GHSA-gqjf-56pp-cqjp"],"published":"2023-08-31T01:48:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@manomano-internal/mf-seller-xp-commons-module-scanner","id":"MAL-2023-7965","aliases":["GHSA-hvrq-c8r2-92x7"],"published":"2023-08-31T01:48:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@manomano-internal/mf-seller-xp-commons-objects","id":"MAL-2023-7966","aliases":["GHSA-qjrf-33pj-965p"],"published":"2023-08-31T01:49:10Z","modified":"2026-10-02T05:38:49Z"}
@@ -200078,4 +200079,3 @@
 {"name":"uncomfortable_loon_aqua-24","id":"MAL-2025-110050","published":"2025-11-11T07:38:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"uncomfortable_meadowlark_z3n","id":"MAL-2025-97096","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"uncomfortable_snail_z3n","id":"MAL-2025-91517","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uncomfortable_spoonbill_z3n","id":"MAL-2025-59148","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
