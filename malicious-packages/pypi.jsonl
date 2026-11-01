@@ -7613,6 +7613,7 @@
 {"name":"pystiyle","id":"MAL-2024-5780","aliases":["SNYK-PYTHON-PYSTIYLE-6129561"],"versions":["2.8","2.9"],"published":"2024-06-25T13:40:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pystlete","id":"MAL-2024-10125","versions":["2.9"],"published":"2024-07-09T18:46:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pystob","id":"MAL-2023-8586","published":"2023-09-17T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"pystr-codec","id":"MAL-2026-18432","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-11-01T00:13:02Z","modified":"2026-11-01T00:43:24Z"}
 {"name":"pystyl","id":"MAL-2024-5781","versions":["0.8"],"published":"2024-06-25T13:40:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pystylerio","id":"MAL-2024-5782","aliases":["SNYK-PYTHON-PYSTYLERIO-5295905"],"versions":["1.0"],"published":"2024-06-25T13:40:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pystylish","id":"MAL-2026-6076","versions":["2.9"],"published":"2026-06-17T19:05:58Z","modified":"2026-10-02T05:38:49Z"}
