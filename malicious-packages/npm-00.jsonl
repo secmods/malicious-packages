@@ -29156,6 +29156,7 @@
 {"name":"atlassian-plugins-jquery","id":"MAL-2024-7732","versions":["0.0.0-dev"],"published":"2024-07-12T10:02:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"atlassian-sketch-plugin","id":"MAL-2022-1160","aliases":["GHSA-fggf-43rp-7849"],"published":"2022-06-08T09:01:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"atlassian-static-assets-url-plugin","id":"MAL-2024-9510","versions":["1.0.91","1.9.8"],"published":"2024-10-16T12:32:38Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"atlassian-wallboard-plugin","id":"MAL-2026-18437","versions":["10.0.0"],"published":"2026-11-01T18:05:35Z","modified":"2026-11-01T18:46:02Z"}
 {"name":"atlatljs","id":"MAL-2025-15016","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"atm-event-app","id":"MAL-2025-2240","aliases":["GHSA-5gj3-8p32-cqcp","SNYK-JS-ATMEVENTAPP-9403783"],"published":"2025-03-11T23:10:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"atm_bmw","id":"MAL-2026-34","aliases":["GHSA-r7mc-c86h-c2h3"],"published":"2026-01-04T13:35:40Z","modified":"2026-10-02T05:38:49Z"}
@@ -200077,4 +200078,3 @@
 {"name":"uncomfortable_hornet_z3n","id":"MAL-2025-117670","published":"2025-11-11T15:19:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"uncomfortable_hummingbird_z3n","id":"MAL-2025-130847","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"uncomfortable_landfowl_z3n","id":"MAL-2025-137584","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uncomfortable_lizard_z3n","id":"MAL-2025-110049","published":"2025-11-11T07:31:13Z","modified":"2026-10-02T05:38:49Z"}

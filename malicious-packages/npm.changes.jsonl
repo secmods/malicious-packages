@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-01T18:46:02Z","name":"atlassian-wallboard-plugin","id":"MAL-2026-18437","versions":["10.0.0"],"published":"2026-11-01T18:05:35Z"}
 {"op":"upsert","modified":"2026-11-01T13:59:24Z","name":"@axon-web/icons","id":"MAL-2026-18433","versions":["99.0.0"],"published":"2026-11-01T08:02:02Z"}
 {"op":"upsert","modified":"2026-11-01T13:59:24Z","name":"hs-framework","id":"MAL-2026-18434","versions":["999.9.1","999.9.2"],"published":"2026-11-01T08:01:49Z"}
 {"op":"upsert","modified":"2026-10-31T18:07:56Z","name":"@mamans2973/maman","id":"MAL-2026-18431","aliases":["GHSA-fg5w-8hhw-8j6h"],"versions":["1.0.0","1.0.1","1.0.2","1.0.3"],"published":"2026-10-31T16:09:39Z"}
