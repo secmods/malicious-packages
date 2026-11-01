@@ -1689,6 +1689,7 @@
 {"name":"@axaclient-socle-front/redux-helpers","id":"MAL-2025-41823","versions":["1.0.0"],"published":"2025-08-25T18:30:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@axaclient-socle-front/webmodule","id":"MAL-2025-41824","versions":["1.0.0"],"published":"2025-08-25T18:30:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@axinom/mosaic-cli","id":"MAL-2025-191450","aliases":["GHSA-726p-qgrh-hh53"],"versions":["0.52.0-rc.2"],"published":"2025-11-25T00:13:44Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@axon-web/icons","id":"MAL-2026-18433","versions":["99.0.0"],"published":"2026-11-01T08:02:02Z","modified":"2026-11-01T13:59:24Z"}
 {"name":"@ayunlove/bails","id":"MAL-2026-10596","aliases":["GHSA-qv85-w97v-vpp2"],"published":"2026-07-14T17:14:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@azet/api","id":"MAL-2025-6685","versions":["1.0.0"],"published":"2025-07-30T08:40:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@azimo/fetlife-assets","id":"MAL-2022-92","aliases":["GHSA-349q-j94x-jhfv"],"published":"2022-06-20T18:19:59Z","modified":"2026-10-02T05:38:49Z"}
@@ -90400,6 +90401,7 @@
 {"name":"hrprce123","id":"MAL-2025-47122","aliases":["GHSA-c4px-g543-q4w8"],"versions":["1.0.0"],"published":"2025-09-09T16:28:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hrxtable","id":"MAL-2025-6096","versions":["1.0.0","1.90.0","100.0.0","91.90.0","92.0.0","93.0.0"],"published":"2025-07-16T13:57:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hs-api-next-gen","id":"MAL-2025-22741","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"hs-framework","id":"MAL-2026-18434","versions":["999.9.1","999.9.2"],"published":"2026-11-01T08:01:49Z","modified":"2026-11-01T13:59:24Z"}
 {"name":"hs-inflamable-too","id":"MAL-2022-3685","aliases":["GHSA-wfj8-x73f-f96c"],"published":"2022-06-20T20:25:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hs-loadsh","id":"MAL-2022-3686","aliases":["GHSA-2vvh-5vg3-8hq9"],"published":"2022-06-20T20:20:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hs-locale-management","id":"MAL-2026-6394","aliases":["GHSA-rv32-4gr2-5g7w"],"published":"2026-06-24T14:01:16Z","modified":"2026-10-02T05:38:49Z"}
@@ -200076,6 +200078,3 @@
 {"name":"uncomfortable_hummingbird_z3n","id":"MAL-2025-130847","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"uncomfortable_landfowl_z3n","id":"MAL-2025-137584","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"uncomfortable_lizard_z3n","id":"MAL-2025-110049","published":"2025-11-11T07:31:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uncomfortable_loon_aqua-24","id":"MAL-2025-110050","published":"2025-11-11T07:38:53Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uncomfortable_meadowlark_z3n","id":"MAL-2025-97096","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"uncomfortable_snail_z3n","id":"MAL-2025-91517","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}

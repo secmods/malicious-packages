@@ -6171,6 +6171,7 @@
 {"name":"print-django","id":"MAL-2023-1387","versions":["3.9.10"],"published":"2023-05-20T14:05:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"print-pip","id":"MAL-2023-1388","versions":["13.9.3"],"published":"2023-05-20T14:05:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"printrables","id":"MAL-2026-951","versions":["1.0.1"],"published":"2026-02-20T06:59:50Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"privacypass-py","id":"MAL-2026-18435","versions":["0.1.100","0.1.101","0.1.99"],"published":"2026-11-01T08:01:23Z","modified":"2026-11-01T13:59:24Z"}
 {"name":"private-evolution","id":"MAL-2025-191817","versions":["1.0.0"],"published":"2025-09-07T21:02:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"private-test-1","id":"MAL-2025-953","versions":["1.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"private-test-2","id":"MAL-2025-954","versions":["1.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
