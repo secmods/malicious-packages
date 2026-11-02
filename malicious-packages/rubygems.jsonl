@@ -1715,6 +1715,7 @@
 {"name":"indonesian-province","id":"MAL-2024-6946","aliases":["GHSA-q95g-x5wp-j4mj"],"versions":["0.0.2"],"published":"2024-06-25T13:51:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"injecthack1778550335","id":"MAL-2026-7778","aliases":["GHSA-rhvc-cmwv-v588"],"versions":["0.0.1"],"published":"2026-07-07T11:53:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"injectwanfoo","id":"MAL-2026-7779","aliases":["GHSA-m8qc-qjm6-fqq9"],"versions":["0.0.2"],"published":"2026-07-07T11:53:55Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"intercom-react-native-example-e2e-tests","id":"MAL-2026-18462","versions":["1.0.1"],"published":"2026-11-02T10:25:43Z","modified":"2026-11-02T18:55:45Z"}
 {"name":"investing_parameters","id":"MAL-2023-8322","versions":["1.2.1"],"published":"2023-10-10T15:47:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"irs_data","id":"MAL-2024-6947","aliases":["GHSA-49fx-946g-c3qj"],"versions":["9.9.9","9.9.99","9.9.999","9.9.9999","9.9.99999","9.9.999991","9.9.9999911"],"published":"2024-06-25T13:51:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"jaconda-telegram","id":"MAL-2024-6948","aliases":["GHSA-g69f-2w7f-699g"],"versions":["1.0"],"published":"2024-06-25T13:51:24Z","modified":"2026-10-02T05:38:49Z"}
@@ -2826,6 +2827,7 @@
 {"name":"sgxtvmueur","id":"MAL-2026-8628","aliases":["GHSA-5px3-f2r4-hh5x"],"versions":["0.0.1"],"published":"2026-07-07T12:02:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sgyewbarsi","id":"MAL-2026-8629","aliases":["GHSA-6gg3-5347-fjc2"],"versions":["0.0.1"],"published":"2026-07-07T12:02:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"shipstudyhelper1778418891","id":"MAL-2026-8630","aliases":["GHSA-jx49-mgwp-3w65"],"versions":["0.0.1"],"published":"2026-07-07T12:02:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"shoaib-unity","id":"MAL-2026-18461","versions":["1.0.1"],"published":"2026-11-02T09:50:50Z","modified":"2026-11-02T18:55:45Z"}
 {"name":"shopify-cli-dependencies","id":"MAL-2026-8631","aliases":["GHSA-g5r5-r9fw-wxm9"],"versions":["9.9.15"],"published":"2026-07-07T12:02:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"shopify-cli-extensions","id":"MAL-2026-8632","aliases":["GHSA-96mg-hq85-v36g"],"versions":["9.9.15"],"published":"2026-07-07T12:02:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"shopify-oor","id":"MAL-2024-7023","aliases":["GHSA-rv8f-7rg9-qr8g"],"versions":["0.0.0.1","0.1.5","0.2.0","0.900.0","1.900.0","8.0.0","9003.0.0"],"published":"2024-06-25T13:52:11Z","modified":"2026-10-02T05:38:49Z"}

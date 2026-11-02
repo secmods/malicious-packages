@@ -1,35 +1,35 @@
 {
   "schema_version": "2.0.0",
-  "generated_at": "2026-11-02T08:41:56Z",
+  "generated_at": "2026-11-02T18:55:45Z",
   "upstream_repo": "https://github.com/ossf/malicious-packages.git",
-  "upstream_commit": "af37b0d0bcd7755fbd3de21aea4d43feaa29fc85",
+  "upstream_commit": "5e015e118ead3fcb227b2781015ba8b849c2de92",
   "changes_since": "2026-10-02T05:38:49Z",
   "changes_window_days": 180,
   "shard_max_bytes": 26214400,
-  "total_records": 239713,
+  "total_records": 239738,
   "ecosystems": {
     "npm": {
       "files": [
         {
           "file": "npm-00.jsonl",
-          "sha256": "8233d7639705b332c18ad1cc8d4f3386a7b152d1cc57d5a72e3b2fa74e41c086",
-          "bytes": 26214339,
-          "records": 200081
+          "sha256": "9dac422de4be8d162505504e4d273c13d89d09b7a420fe4e47444cbcd9e68233",
+          "bytes": 26214393,
+          "records": 200074
         },
         {
           "file": "npm-01.jsonl",
-          "sha256": "f1bd7b148cc7c3751791dc724a47d730a438c1229e900ac1e736d31ce1481b64",
-          "bytes": 2936730,
-          "records": 22530
+          "sha256": "ef091a412d34001d3b5b0ee15bd1adf26e5b57ec826701554589d24e0666d747",
+          "bytes": 2940564,
+          "records": 22560
         }
       ],
-      "records": 222611,
-      "bytes": 29151069,
+      "records": 222634,
+      "bytes": 29154957,
       "changes_file": "npm.changes.jsonl",
-      "changes_sha256": "2c7825e288894e73a31ca02d77f3a00611099a37278d83e9c259300b7a2ff085",
-      "changes_bytes": 156166,
-      "changes_records": 902,
-      "max_modified": "2026-11-02T08:41:56Z"
+      "changes_sha256": "9cc31ebf7e54d92f039edde0aec900dd3d4899c59612917680edb9893d263d20",
+      "changes_bytes": 160732,
+      "changes_records": 928,
+      "max_modified": "2026-11-02T18:55:45Z"
     },
     "pypi": {
       "files": [
@@ -120,18 +120,18 @@
       "files": [
         {
           "file": "rubygems.jsonl",
-          "sha256": "aab3b3b88696bd1a223d97a601ace77351f26c3a0f3f3afdeb0da22016b0f37b",
-          "bytes": 689642,
-          "records": 4306
+          "sha256": "34deed0b9b66db6b9ade05194d438a7a78b9819735fe1f653376ff1fac07f0e4",
+          "bytes": 689941,
+          "records": 4308
         }
       ],
-      "records": 4306,
-      "bytes": 689642,
+      "records": 4308,
+      "bytes": 689941,
       "changes_file": "rubygems.changes.jsonl",
-      "changes_sha256": "12142d894732af228e978f9c4488220eea81fc16cf5be67f46593632f81c5a0e",
-      "changes_bytes": 9658,
-      "changes_records": 68,
-      "max_modified": "2026-11-01T13:59:24Z"
+      "changes_sha256": "fe7d921fed1b01acdbdb110647ce8fcaa497d661a0b073eb20772e6c90e65aae",
+      "changes_bytes": 9985,
+      "changes_records": 70,
+      "max_modified": "2026-11-02T18:55:45Z"
     },
     "vscode": {
       "files": [
