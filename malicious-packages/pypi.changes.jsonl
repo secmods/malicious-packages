@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-02T08:41:56Z","name":"wallet-tracking","id":"MAL-2026-18443"}
 {"op":"upsert","modified":"2026-11-01T13:59:24Z","name":"privacypass-py","id":"MAL-2026-18435","versions":["0.1.100","0.1.101","0.1.99"],"published":"2026-11-01T08:01:23Z"}
 {"op":"upsert","modified":"2026-11-01T00:43:24Z","name":"pystr-codec","id":"MAL-2026-18432","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-11-01T00:13:02Z"}
 {"op":"upsert","modified":"2026-10-31T18:07:56Z","name":"doctreelstm","id":"MAL-2026-18430","versions":["1.0.0","10.0.0"],"published":"2026-10-31T13:39:43Z"}
