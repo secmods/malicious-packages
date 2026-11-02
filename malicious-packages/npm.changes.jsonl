@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-02T01:56:59Z","name":"dsh-screenshot-native","id":"MAL-2026-18438","aliases":["GHSA-6f53-8jrf-3x9j"],"versions":["1.0.0"],"published":"2026-11-01T22:50:30Z"}
 {"op":"upsert","modified":"2026-11-01T18:46:02Z","name":"atlassian-wallboard-plugin","id":"MAL-2026-18437","versions":["10.0.0"],"published":"2026-11-01T18:05:35Z"}
 {"op":"upsert","modified":"2026-11-01T13:59:24Z","name":"@axon-web/icons","id":"MAL-2026-18433","versions":["99.0.0"],"published":"2026-11-01T08:02:02Z"}
 {"op":"upsert","modified":"2026-11-01T13:59:24Z","name":"hs-framework","id":"MAL-2026-18434","versions":["999.9.1","999.9.2"],"published":"2026-11-01T08:01:49Z"}
