@@ -1446,6 +1446,7 @@
 {"name":"doge-linguist","id":"MAL-2024-6867","aliases":["GHSA-f27h-xq2j-m4p5"],"versions":["0.1.0"],"published":"2024-06-25T13:50:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"doge-woof","id":"MAL-2024-6868","aliases":["GHSA-vf25-h8mg-6vhg"],"versions":["0.1.10"],"published":"2024-06-25T13:50:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"doge_chef-formatter","id":"MAL-2024-6869","aliases":["GHSA-7699-8hw8-35fm"],"versions":["0.0.1"],"published":"2024-06-25T13:50:38Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"dopc-client","id":"MAL-2026-18518","versions":["1.0.0","10.0.0"],"published":"2026-11-03T05:46:10Z","modified":"2026-11-03T08:44:54Z"}
 {"name":"dot-rake_tasks_in_rails","id":"MAL-2024-6870","aliases":["GHSA-v33v-v2hc-qvmj"],"versions":["0.0.1"],"published":"2024-06-25T13:50:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dradis_brakeman","id":"MAL-2024-6871","aliases":["GHSA-jp26-x9m9-3m8w"],"versions":["3.15.0"],"published":"2024-06-25T13:50:39Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dradis_nmap","id":"MAL-2024-6872","aliases":["GHSA-c54f-3hfh-x2xh"],"versions":["3.15.0"],"published":"2024-06-25T13:50:39Z","modified":"2026-10-02T05:38:49Z"}
