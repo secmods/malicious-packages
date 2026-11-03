@@ -1,3 +1,7 @@
+{"op":"upsert","modified":"2026-11-03T01:24:11Z","name":"@ifasn/md-doc-mcp","id":"MAL-2026-18486","versions":["1.0.3","1.0.4","1.0.5"],"published":"2026-11-02T20:58:44Z"}
+{"op":"upsert","modified":"2026-11-03T01:24:11Z","name":"@ifasn/mdd-doc-mcp","id":"MAL-2026-18487","versions":["1.0.7","1.0.8","2.0.6"],"published":"2026-11-02T20:58:05Z"}
+{"op":"upsert","modified":"2026-11-03T01:24:11Z","name":"@ifasn/mmd-doc-mcp","id":"MAL-2026-18488","versions":["1.0.0","1.0.2"],"published":"2026-11-02T20:59:54Z"}
+{"op":"upsert","modified":"2026-11-03T01:24:11Z","name":"@ifasn/mmdd-doc-mcp","id":"MAL-2026-18489","versions":["1.0.1","1.0.3","1.0.4","1.0.4-2","1.0.5","1.0.6","1.1.0","1.1.1","1.1.2","1.1.3","1.1.5","1.1.6","1.1.7","1.1.8","1.1.9-2","2.0.1","2.0.4"],"published":"2026-11-02T20:58:12Z"}
 {"op":"upsert","modified":"2026-11-02T18:55:45Z","name":"@bigdevin55/calculator-install-demo","id":"MAL-2026-18465","aliases":["GHSA-fr4c-gqv9-5rgx"],"published":"2026-11-02T16:14:49Z"}
 {"op":"upsert","modified":"2026-11-02T18:55:45Z","name":"@bigdevin55/calculator-install-hook","id":"MAL-2026-18466","aliases":["GHSA-v4v4-v74v-86vq"],"published":"2026-11-02T16:14:48Z"}
 {"op":"upsert","modified":"2026-11-02T18:55:45Z","name":"@levvicode/baileys","id":"MAL-2026-17366","aliases":["GHSA-52vf-f48x-82m5"],"published":"2026-11-02T17:13:23Z"}
