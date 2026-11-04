@@ -845,6 +845,7 @@
 {"name":"br3e6a6270eb","id":"MAL-2026-7551","versions":["0.0.1"],"published":"2026-07-07T11:51:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"brakeman-translate_checkstyle_format","id":"MAL-2024-6792","versions":["0.0.1"],"published":"2024-06-25T13:49:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"branch-raker","id":"MAL-2024-6793","versions":["0.0.6"],"published":"2024-06-25T13:49:54Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"brida-frida-hooks","id":"MAL-2026-18598","versions":["1.0.1"],"published":"2026-11-04T02:57:49Z","modified":"2026-11-04T10:04:28Z"}
 {"name":"bridgeaaa","id":"MAL-2026-7552","versions":["0.0.1"],"published":"2026-07-07T11:51:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bridgebbb","id":"MAL-2026-7553","versions":["0.0.1"],"published":"2026-07-07T11:51:33Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"brightbox_boxgrinder-plugins","id":"MAL-2024-6794","versions":["0.0.6"],"published":"2024-06-25T13:49:54Z","modified":"2026-10-02T05:38:49Z"}
@@ -3402,6 +3403,7 @@
 {"name":"vcssvnpdfx1","id":"MAL-2026-9119","aliases":["GHSA-7cp4-mxqm-r6p8"],"versions":["0.0.1"],"published":"2026-07-07T12:07:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vcssvnx1","id":"MAL-2026-9120","aliases":["GHSA-v82g-p5m5-cg65"],"versions":["0.0.1"],"published":"2026-07-07T12:07:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"verificator","id":"MAL-2025-192925","aliases":["GHSA-7rh7-qcx5-r482"],"versions":["0.0.2"],"published":"2025-12-23T08:41:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"w002yardprobe","id":"MAL-2026-18599","versions":["0.0.4","0.0.5"],"published":"2026-11-04T02:58:21Z","modified":"2026-11-04T10:04:28Z"}
 {"name":"w10266","id":"MAL-2026-9121","aliases":["GHSA-7928-2hjj-2vph"],"versions":["0.0.1"],"published":"2026-07-07T12:07:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"w10266x","id":"MAL-2026-9122","aliases":["GHSA-pmfv-prgj-6xhg"],"versions":["0.0.1"],"published":"2026-07-07T12:07:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"w10385","id":"MAL-2026-9123","aliases":["GHSA-38rh-w629-c5mp"],"versions":["0.0.1"],"published":"2026-07-07T12:07:17Z","modified":"2026-10-02T05:38:49Z"}

@@ -1,3 +1,5 @@
+{"op":"upsert","modified":"2026-11-04T10:04:28Z","name":"brida-frida-hooks","id":"MAL-2026-18598","versions":["1.0.1"],"published":"2026-11-04T02:57:49Z"}
+{"op":"upsert","modified":"2026-11-04T10:04:28Z","name":"w002yardprobe","id":"MAL-2026-18599","versions":["0.0.4","0.0.5"],"published":"2026-11-04T02:58:21Z"}
 {"op":"upsert","modified":"2026-11-03T08:44:54Z","name":"dopc-client","id":"MAL-2026-18518","versions":["1.0.0","10.0.0"],"published":"2026-11-03T05:46:10Z"}
 {"op":"upsert","modified":"2026-11-02T18:55:45Z","name":"intercom-react-native-example-e2e-tests","id":"MAL-2026-18462","versions":["1.0.1"],"published":"2026-11-02T10:25:43Z"}
 {"op":"upsert","modified":"2026-11-02T18:55:45Z","name":"shoaib-unity","id":"MAL-2026-18461","versions":["1.0.1"],"published":"2026-11-02T09:50:50Z"}

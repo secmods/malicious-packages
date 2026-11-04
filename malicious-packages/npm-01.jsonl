@@ -1,3 +1,22 @@
+{"name":"umi-tongseng69-riris","id":"MAL-2025-91509","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umi-tongseng95-sukiwir","id":"MAL-2025-81923","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umi-tumis17-miaww","id":"MAL-2025-52570","published":"2025-11-10T04:05:19Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umi-tumis52-ruro","id":"MAL-2025-110007","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umi-tumis73-sluey","id":"MAL-2025-65791","published":"2025-11-11T00:17:57Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umi-tumis77-ruro","id":"MAL-2025-110008","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umi-tumis95-sukiwir","id":"MAL-2025-59141","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umi-tumis96-sukiwir","id":"MAL-2025-59142","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umi-ubi21-ruro","id":"MAL-2025-110009","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umi-ubi82-ruro","id":"MAL-2025-110010","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umi-wajit28-ruro","id":"MAL-2025-50609","published":"2025-11-10T04:05:19Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umi-wajit60-sukiwir","id":"MAL-2025-59143","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umi-wajit68-sluey","id":"MAL-2025-137579","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umi-wajit84-sluey","id":"MAL-2025-65792","published":"2025-11-11T00:17:57Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umi-wajit93-sukiwir","id":"MAL-2025-59144","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umlang","id":"MAL-2025-37710","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umledit","id":"MAL-2025-37711","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umqefknbplixcozy","id":"MAL-2022-6771","aliases":["GHSA-jvx5-wq4f-2fr2"],"published":"2022-07-11T20:30:20Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"umqvjsxdkchroifn","id":"MAL-2022-6772","aliases":["GHSA-2pvx-8qxc-f24m"],"published":"2022-07-11T22:06:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umreral","id":"MAL-2022-6773","aliases":["GHSA-8g3w-jw2m-39v9"],"published":"2022-08-19T03:55:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umsyaoxzvgkkjbhr","id":"MAL-2022-6774","aliases":["GHSA-q8mc-pf46-w6w4"],"published":"2022-07-11T22:04:29Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umwfv9","id":"MAL-2024-9192","aliases":["GHSA-5vr9-mr8f-pg7w"],"published":"2024-10-09T07:04:42Z","modified":"2026-10-02T05:38:49Z"}
@@ -413,6 +432,7 @@
 {"name":"unfortunate-scarlet-thrush","id":"MAL-2025-71283","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unfortunate-teal-trout","id":"MAL-2025-71284","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unfortunate-yellow-ape","id":"MAL-2025-71285","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"unfortunate_crawdad_emerald-79","id":"MAL-2026-18621","versions":["3.3.1"],"modified":"2026-11-04T10:04:28Z"}
 {"name":"unfortunate_crayfish_z3n","id":"MAL-2025-97130","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unfortunate_dinosaur_0xrequest","id":"MAL-2025-110104","published":"2025-11-11T07:26:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"unfortunate_gecko-notthedev","id":"MAL-2025-110105","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -3487,6 +3507,7 @@
 {"name":"valid-sha256","id":"MAL-2025-42107","published":"2025-08-29T18:55:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"valid-south-african-id","id":"MAL-2025-190942","aliases":["GHSA-pw36-3phc-xfph"],"versions":["1.0.3"],"published":"2025-11-24T21:01:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"valid-turquoise-emu","id":"MAL-2025-71394","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"valid_antlion_amber-50","id":"MAL-2026-18622","versions":["4.1.3"],"modified":"2026-11-04T10:04:28Z"}
 {"name":"valid_barnacle_z3n","id":"MAL-2025-110319","published":"2025-11-11T07:31:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"valid_canidae_z3n","id":"MAL-2025-117759","published":"2025-11-11T15:19:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"valid_catfish_z3n","id":"MAL-2025-110320","published":"2025-11-11T07:31:13Z","modified":"2026-10-02T05:38:49Z"}
@@ -15059,6 +15080,7 @@
 {"name":"xenacious_cuckoo_z3n","id":"MAL-2025-131465","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xenacious_elephant_z3n","id":"MAL-2025-111102","published":"2025-11-11T07:31:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xenacious_flyingfish_z3n","id":"MAL-2025-138165","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"xenacious_kangaroo_blush-47","id":"MAL-2026-18623","versions":["4.3.3"],"modified":"2026-11-04T10:04:28Z"}
 {"name":"xenacious_marmoset_z3n","id":"MAL-2025-97434","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xenacious_marten_z3n","id":"MAL-2025-97435","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xenacious_ostrich_z3n","id":"MAL-2025-92433","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}

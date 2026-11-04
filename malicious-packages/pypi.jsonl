@@ -11570,7 +11570,7 @@
 {"name":"wacve-utils","id":"MAL-2026-11428","versions":["1.0.7"],"published":"2026-08-02T10:33:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wallet-rpc","id":"MAL-2025-4258","versions":["0.1.1"],"published":"2025-05-22T12:33:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wallet-scanner-pro","id":"MAL-2026-3392","versions":["1.0.0"],"published":"2026-05-08T09:03:23Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"wallet-tracking","id":"MAL-2026-18443","published":"2025-11-16T16:22:41.638865Z","modified":"2026-11-04T02:48:36Z"}
+{"name":"wallet-tracking","id":"MAL-2026-18443","versions":["1.0.3","1.0.4","1.0.5","1.0.6"],"published":"2025-11-16T16:22:41.638865Z","modified":"2026-11-04T10:04:28Z"}
 {"name":"wallet-utils","id":"MAL-2025-6615","versions":["0.1.0"],"published":"2025-07-01T15:51:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wallet-utils-pro","id":"MAL-2026-3383","versions":["1.0.0","1.0.1"],"published":"2026-05-08T07:29:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"walletdecoders","id":"MAL-2024-10190","versions":["1.5","1.5.1"],"published":"2024-10-16T14:53:38Z","modified":"2026-10-02T05:38:49Z"}
