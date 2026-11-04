@@ -1,3 +1,5 @@
+{"op":"upsert","modified":"2026-11-04T16:57:07Z","name":"extera-plugin-runtime","id":"MAL-2026-18625","versions":["1.0.0","1.0.1"],"published":"2026-11-04T15:24:37Z"}
+{"op":"upsert","modified":"2026-11-04T16:57:07Z","name":"msgpackrpc","id":"MAL-2026-18627","versions":["0.0.0","0.1.0"],"published":"2026-11-04T16:11:42Z"}
 {"op":"upsert","modified":"2026-11-04T10:04:28Z","name":"wallet-tracking","id":"MAL-2026-18443","versions":["1.0.3","1.0.4","1.0.5","1.0.6"],"published":"2025-11-16T16:22:41.638865Z"}
 {"op":"upsert","modified":"2026-11-04T02:48:36Z","name":"ln9qw38745g","id":"MAL-2026-18583","versions":["0.1.0","0.1.1"],"published":"2026-11-03T22:54:18Z"}
 {"op":"upsert","modified":"2026-11-04T02:48:36Z","name":"protecteda","id":"MAL-2026-18584","versions":["0.1.0"],"published":"2026-11-03T22:50:47Z"}

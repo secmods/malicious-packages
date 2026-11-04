@@ -1,3 +1,6 @@
+{"op":"upsert","modified":"2026-11-04T16:57:07Z","name":"@ai-ecoverse/slicc-windows-amd64","id":"MAL-2026-18626","aliases":["GHSA-38rp-mcrj-j69m"],"versions":["1.46.4"],"published":"2026-11-04T15:35:37Z"}
+{"op":"upsert","modified":"2026-11-04T16:57:07Z","name":"noon-contracts","id":"MAL-2026-3420","aliases":["GHSA-qj9j-8fcr-pjq2"],"published":"2026-05-10T10:36:34Z"}
+{"op":"upsert","modified":"2026-11-04T16:57:07Z","name":"screenshot-desktop","id":"MAL-2026-18624","aliases":["GHSA-q2mc-9hgr-vmx2"],"versions":["1.16.0"],"published":"2026-11-04T12:51:58Z"}
 {"op":"upsert","modified":"2026-11-04T10:04:28Z","name":"@atfm/atfm-material-ui","id":"MAL-2026-18601","versions":["99.99.99"],"published":"2026-10-30T16:30:00Z"}
 {"op":"upsert","modified":"2026-11-04T10:04:28Z","name":"@atfm/utils","id":"MAL-2026-18602","versions":["99.99.99"],"published":"2026-10-30T16:30:00Z"}
 {"op":"upsert","modified":"2026-11-04T10:04:28Z","name":"@ifasn/mmdd-doc-mcp","id":"MAL-2026-18489","versions":["1.0.1","1.0.3","1.0.4","1.0.4-2","1.0.5","1.0.6","1.1.0","1.1.1","1.1.2","1.1.3","1.1.5","1.1.6","1.1.7","1.1.8","1.1.9-2","2.0.1","2.0.4","2.1.1"],"published":"2026-11-02T20:58:12Z"}

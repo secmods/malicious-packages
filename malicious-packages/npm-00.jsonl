@@ -900,6 +900,7 @@
 {"name":"@ai-agent-node/createnode","id":"MAL-2026-11172","aliases":["GHSA-79rw-4w2g-9hr5"],"published":"2026-07-29T20:55:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ai-agent-node/nodesql","id":"MAL-2026-11173","aliases":["GHSA-fm4j-w897-7h3g"],"published":"2026-07-29T20:55:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ai-document-translation/ui-core","id":"MAL-2025-3664","aliases":["GHSA-c47j-wprf-pxr2"],"published":"2025-05-07T08:40:47Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@ai-ecoverse/slicc-windows-amd64","id":"MAL-2026-18626","aliases":["GHSA-38rp-mcrj-j69m"],"versions":["1.46.4"],"published":"2026-11-04T15:35:37Z","modified":"2026-11-04T16:57:07Z"}
 {"name":"@ai-plus/de-agent","id":"MAL-2026-11174","aliases":["GHSA-w62v-8p95-rhf2"],"published":"2026-07-29T22:34:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ai-plus/de-agent-sdk","id":"MAL-2026-11175","aliases":["GHSA-4c3x-2hh8-6pp9"],"published":"2026-07-29T22:34:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ai-studio-web/app","id":"MAL-2026-1020","aliases":["GHSA-q326-5gvm-75w3"],"published":"2026-02-24T16:56:48Z","modified":"2026-10-02T05:38:49Z"}
@@ -137687,7 +137688,7 @@
 {"name":"nonsenso","id":"MAL-2025-27719","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"nonzero","id":"MAL-2025-27720","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"nooble","id":"MAL-2025-27721","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"noon-contracts","id":"MAL-2026-3420","versions":["1.0.0"],"published":"2026-05-10T10:36:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"noon-contracts","id":"MAL-2026-3420","aliases":["GHSA-qj9j-8fcr-pjq2"],"published":"2026-05-10T10:36:34Z","modified":"2026-11-04T16:57:07Z"}
 {"name":"noopenpaint","id":"MAL-2022-4917","aliases":["GHSA-78ff-c66q-f4f8"],"published":"2022-06-20T20:15:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"noor_ul_iman_tarjuma_quran_pdf_free_free__kv","id":"MAL-2023-639","aliases":["GHSA-p9m2-rgrm-ff84"],"published":"2023-05-09T00:00:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"norbert_malik_circuitos_electronicos_pdf_2d","id":"MAL-2023-640","aliases":["GHSA-j42c-c6vx-8hg8"],"published":"2023-05-09T00:00:20Z","modified":"2026-10-02T05:38:49Z"}
@@ -171115,6 +171116,7 @@
 {"name":"screeching_turkey_z3n","id":"MAL-2025-96472","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"screenly","id":"MAL-2025-32822","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"screenpipe-mcp-http","id":"MAL-2026-5402","versions":["9999.99.99"],"published":"2026-06-09T16:05:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"screenshot-desktop","id":"MAL-2026-18624","aliases":["GHSA-q2mc-9hgr-vmx2"],"versions":["1.16.0"],"published":"2026-11-04T12:51:58Z","modified":"2026-11-04T16:57:07Z"}
 {"name":"screepsmod-client","id":"MAL-2025-32823","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"screwdriver-data-model","id":"MAL-2025-32824","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"screwdriver-plugin-builds","id":"MAL-2025-32825","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -200043,6 +200045,3 @@
 {"name":"umi-tomat13-pore","id":"MAL-2025-50608","published":"2025-11-10T04:05:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umi-tomat69-miaww","id":"MAL-2025-91508","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umi-tomat78-ruro","id":"MAL-2025-110006","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-tomat78-sukiwir","id":"MAL-2025-81922","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-tomat80-sukiwir","id":"MAL-2025-59140","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-tongseng59-sluey","id":"MAL-2025-65790","published":"2025-11-11T00:17:57Z","modified":"2026-10-02T05:38:49Z"}

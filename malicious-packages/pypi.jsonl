@@ -2965,6 +2965,7 @@
 {"name":"exorigsim","id":"MAL-2025-6501","versions":["0.1.0"],"published":"2025-07-31T19:14:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"expkg-am","id":"MAL-2024-12268","versions":["0.0.3"],"published":"2024-08-23T22:55:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"exporter-stackdriver","id":"MAL-2024-5125","versions":["99.0"],"published":"2024-06-25T13:35:17Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"extera-plugin-runtime","id":"MAL-2026-18625","versions":["1.0.0","1.0.1"],"published":"2026-11-04T15:24:37Z","modified":"2026-11-04T16:57:07Z"}
 {"name":"extra-huggingface","id":"MAL-2026-6489","versions":["0.4.0"],"published":"2026-06-25T22:49:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"extracolorsv2","id":"MAL-2024-5126","versions":["0.0.1","0.0.2"],"published":"2024-06-25T13:35:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"extrazip","id":"MAL-2025-192948","versions":["0.1.0"],"published":"2025-12-27T09:41:01Z","modified":"2026-10-02T05:38:49Z"}
@@ -5400,6 +5401,7 @@
 {"name":"mrbios","id":"MAL-2026-5282","versions":["0.1.1","0.1.2"],"published":"2026-06-06T06:13:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mrfeastpip","id":"MAL-2024-5379","versions":["0.1","0.2","0.3","0.4","0.5","0.6","0.7"],"published":"2024-06-25T13:37:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mrmustard","id":"MAL-2026-11049","versions":["0.7.4"],"published":"2026-07-24T14:10:00Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"msgpackrpc","id":"MAL-2026-18627","versions":["0.0.0","0.1.0"],"published":"2026-11-04T16:11:42Z","modified":"2026-11-04T16:57:07Z"}
 {"name":"msgspec-python313-pre","id":"MAL-2025-2977","versions":["0.0.0.1"],"published":"2025-03-28T13:05:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"msrcpoc","id":"MAL-2026-14444","versions":["99.1.9"],"published":"2026-08-24T13:56:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mstplotlib","id":"MAL-2025-2345","versions":["3.10.2"],"published":"2025-02-20T06:37:06Z","modified":"2026-10-02T05:38:49Z"}
