@@ -2966,6 +2966,7 @@
 {"name":"expkg-am","id":"MAL-2024-12268","versions":["0.0.3"],"published":"2024-08-23T22:55:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"exporter-stackdriver","id":"MAL-2024-5125","versions":["99.0"],"published":"2024-06-25T13:35:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"extera-plugin-runtime","id":"MAL-2026-18625","versions":["1.0.0","1.0.1"],"published":"2026-11-04T15:24:37Z","modified":"2026-11-04T16:57:07Z"}
+{"name":"extera-runtime","id":"MAL-2026-18633","versions":["1.1.0"],"published":"2026-11-04T17:18:25Z","modified":"2026-11-04T18:18:55Z"}
 {"name":"extra-huggingface","id":"MAL-2026-6489","versions":["0.4.0"],"published":"2026-06-25T22:49:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"extracolorsv2","id":"MAL-2024-5126","versions":["0.0.1","0.0.2"],"published":"2024-06-25T13:35:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"extrazip","id":"MAL-2025-192948","versions":["0.1.0"],"published":"2025-12-27T09:41:01Z","modified":"2026-10-02T05:38:49Z"}

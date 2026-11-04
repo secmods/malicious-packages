@@ -1,3 +1,9 @@
+{"op":"upsert","modified":"2026-11-04T18:18:55Z","name":"@fyxzpediaa/baileys","id":"MAL-2026-16070","aliases":["GHSA-xg25-pjm2-wmxx"],"published":"2026-09-09T04:53:03Z"}
+{"op":"upsert","modified":"2026-11-04T18:18:55Z","name":"@fyxzpediaa/libsignal","id":"MAL-2026-18628","aliases":["GHSA-xwm4-6w5f-x95p"],"published":"2026-11-04T16:28:38Z"}
+{"op":"upsert","modified":"2026-11-04T18:18:55Z","name":"@pasqua-baileys/baileys","id":"MAL-2026-18629","aliases":["GHSA-73vv-6qcp-qgpw"],"published":"2026-11-04T17:12:35Z"}
+{"op":"upsert","modified":"2026-11-04T18:18:55Z","name":"@realvare/baileys","id":"MAL-2026-18630","aliases":["GHSA-3959-8jgw-g6xp"],"published":"2026-11-04T16:54:56Z"}
+{"op":"upsert","modified":"2026-11-04T18:18:55Z","name":"@realvare/based","id":"MAL-2026-18631","aliases":["GHSA-r5hx-v68j-8w57"],"published":"2026-11-04T16:54:55Z"}
+{"op":"upsert","modified":"2026-11-04T18:18:55Z","name":"canta-baileys","id":"MAL-2026-18632","aliases":["GHSA-475j-858m-v8ww"],"published":"2026-11-04T16:37:19Z"}
 {"op":"upsert","modified":"2026-11-04T16:57:07Z","name":"@ai-ecoverse/slicc-windows-amd64","id":"MAL-2026-18626","aliases":["GHSA-38rp-mcrj-j69m"],"versions":["1.46.4"],"published":"2026-11-04T15:35:37Z"}
 {"op":"upsert","modified":"2026-11-04T16:57:07Z","name":"noon-contracts","id":"MAL-2026-3420","aliases":["GHSA-qj9j-8fcr-pjq2"],"published":"2026-05-10T10:36:34Z"}
 {"op":"upsert","modified":"2026-11-04T16:57:07Z","name":"screenshot-desktop","id":"MAL-2026-18624","aliases":["GHSA-q2mc-9hgr-vmx2"],"versions":["1.16.0"],"published":"2026-11-04T12:51:58Z"}
