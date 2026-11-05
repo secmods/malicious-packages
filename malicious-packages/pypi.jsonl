@@ -8011,6 +8011,7 @@
 {"name":"rc4-secure","id":"MAL-2026-14306","versions":["1.0.0"],"published":"2026-08-19T20:31:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"rce-test","id":"MAL-2026-14523","versions":["0.1"],"published":"2026-08-26T05:11:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"rcebymrx","id":"MAL-2024-8946","versions":["0.0.1"],"published":"2024-09-23T14:00:45Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"rcp-ndcg","id":"MAL-2026-18658","versions":["9999.0.0"],"published":"2026-11-05T03:31:09Z","modified":"2026-11-05T07:29:09Z"}
 {"name":"rctorchprivate","id":"MAL-2025-6573","versions":["0.0.1"],"published":"2025-07-31T19:16:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"rcyptocompare","id":"MAL-2023-2145","published":"2023-02-09T18:51:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"rcyptofeed","id":"MAL-2023-2146","published":"2023-02-09T18:45:03Z","modified":"2026-10-02T05:38:49Z"}
@@ -9739,6 +9740,7 @@
 {"name":"stillrequestsa","id":"MAL-2024-6039","aliases":["SNYK-PYTHON-STILLREQUESTSA-5885053"],"versions":["0.0.1","0.0.2"],"published":"2024-06-25T13:42:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"story-mcp-hub","id":"MAL-2025-3471","versions":["9999.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"strands-agents-anthropic","id":"MAL-2026-904","versions":["0.0.0","1.0.0"],"published":"2026-02-15T07:34:00Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"strands-aidr","id":"MAL-2026-18657","versions":["9999.0.0"],"published":"2026-11-05T00:44:34Z","modified":"2026-11-05T07:29:09Z"}
 {"name":"strbeautify","id":"MAL-2024-6040","versions":["1.4.2"],"published":"2024-06-25T13:42:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"strcolored","id":"MAL-2024-6041","aliases":["SNYK-PYTHON-STRCOLORED-6129544"],"versions":["1.8","1.9","2.0","2.1","2.2","2.3","2.8"],"published":"2024-06-25T13:42:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"strcolorize","id":"MAL-2024-6042","versions":["3.4.1","3.4.2","3.4.3"],"published":"2024-06-25T13:42:51Z","modified":"2026-10-02T05:38:49Z"}
