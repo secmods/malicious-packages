@@ -183191,7 +183191,7 @@
 {"name":"synapse-access-control-1","id":"MAL-2022-6383","aliases":["GHSA-g292-q8pp-mvj4"],"published":"2022-06-20T20:11:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"synapse-artifacts","id":"MAL-2022-6384","aliases":["GHSA-3w9j-45v5-vx35"],"published":"2022-06-20T20:11:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"synapse-contracts","id":"MAL-2025-1564","aliases":["GHSA-3g22-c582-m9hr"],"published":"2025-02-28T18:10:52Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"synapse-hub","id":"MAL-2026-18703","aliases":["GHSA-q7g7-jwp5-cvgh"],"versions":["3.1.0"],"published":"2026-11-05T05:19:35Z","modified":"2026-11-05T07:29:09Z"}
+{"name":"synapse-hub","id":"MAL-2026-18703","aliases":["GHSA-q7g7-jwp5-cvgh"],"versions":["3.1.0","3.1.1","3.1.2","3.2.0"],"published":"2026-11-05T05:19:35Z","modified":"2026-11-05T15:52:18Z"}
 {"name":"synapse-managed-private-endpoints","id":"MAL-2022-6385","aliases":["GHSA-6jfg-7p7x-hh6j"],"published":"2022-06-20T20:11:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"synapse-monitoring","id":"MAL-2022-6386","aliases":["GHSA-c372-cwv5-4hm7"],"published":"2022-06-20T20:11:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"synapse-spark","id":"MAL-2022-6387","aliases":["GHSA-fwhj-6hfw-fjqf"],"published":"2022-06-20T20:11:09Z","modified":"2026-10-02T05:38:49Z"}

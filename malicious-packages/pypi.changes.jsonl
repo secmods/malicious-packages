@@ -1,3 +1,6 @@
+{"op":"upsert","modified":"2026-11-05T15:52:18Z","name":"dbt-adapter","id":"MAL-2026-18704","versions":["0.0.0","0.1.0a2"],"published":"2026-11-05T06:58:26Z"}
+{"op":"upsert","modified":"2026-11-05T15:52:18Z","name":"mcp-teamviewer","id":"MAL-2026-18706","versions":["0.0.1"],"published":"2026-11-05T12:29:01Z"}
+{"op":"upsert","modified":"2026-11-05T15:52:18Z","name":"teamviewer-mcp-server","id":"MAL-2026-18705","versions":["0.0.1"],"published":"2026-11-05T11:51:05Z"}
 {"op":"upsert","modified":"2026-11-05T07:29:09Z","name":"rcp-ndcg","id":"MAL-2026-18658","versions":["9999.0.0"],"published":"2026-11-05T03:31:09Z"}
 {"op":"upsert","modified":"2026-11-05T07:29:09Z","name":"strands-aidr","id":"MAL-2026-18657","versions":["9999.0.0"],"published":"2026-11-05T00:44:34Z"}
 {"op":"upsert","modified":"2026-11-04T18:18:55Z","name":"extera-runtime","id":"MAL-2026-18633","versions":["1.1.0"],"published":"2026-11-04T17:18:25Z"}

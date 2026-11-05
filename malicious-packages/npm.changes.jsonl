@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-05T15:52:18Z","name":"synapse-hub","id":"MAL-2026-18703","aliases":["GHSA-q7g7-jwp5-cvgh"],"versions":["3.1.0","3.1.1","3.1.2","3.2.0"],"published":"2026-11-05T05:19:35Z"}
 {"op":"upsert","modified":"2026-11-05T07:29:09Z","name":"@alannxds/baileys","id":"MAL-2026-18669","versions":["6.2.10"],"published":"2026-10-26T00:00:00Z"}
 {"op":"upsert","modified":"2026-11-05T07:29:09Z","name":"@axo_cuy/baileyss","id":"MAL-2026-18670","versions":["1.0.0","1.0.1","3.0.1"],"published":"2026-10-26T00:00:00Z"}
 {"op":"upsert","modified":"2026-11-05T07:29:09Z","name":"@bellaxchan/bailtech","id":"MAL-2026-18671","versions":["1.1.0"],"published":"2026-10-26T00:00:00Z"}
@@ -36,7 +37,6 @@
 {"op":"upsert","modified":"2026-11-05T07:29:09Z","name":"solidity-cat","id":"MAL-2026-18694","versions":["2.0.1"],"published":"2026-10-26T00:00:00Z"}
 {"op":"upsert","modified":"2026-11-05T07:29:09Z","name":"solidity-gas-watcher","id":"MAL-2026-18695","versions":["2.21.0"],"published":"2026-10-26T00:00:00Z"}
 {"op":"upsert","modified":"2026-11-05T07:29:09Z","name":"solidity-map","id":"MAL-2026-18696","versions":["2.21.0"],"published":"2026-10-26T00:00:00Z"}
-{"op":"upsert","modified":"2026-11-05T07:29:09Z","name":"synapse-hub","id":"MAL-2026-18703","aliases":["GHSA-q7g7-jwp5-cvgh"],"versions":["3.1.0"],"published":"2026-11-05T05:19:35Z"}
 {"op":"upsert","modified":"2026-11-05T07:29:09Z","name":"testtestkjkldfnjdfn","id":"MAL-2026-18697","versions":["1.0.0"],"published":"2026-10-26T00:00:00Z"}
 {"op":"upsert","modified":"2026-11-05T07:29:09Z","name":"unemployed_xerinae-toolteadev","id":"MAL-2026-18667","versions":["1.4.4"]}
 {"op":"upsert","modified":"2026-11-05T07:29:09Z","name":"wet_rat_replicate_automation","id":"MAL-2026-18668","versions":["2.3.1"]}
