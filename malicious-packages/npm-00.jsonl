@@ -4790,6 +4790,8 @@
 {"name":"@ewfewfewf/testhackerrr","id":"MAL-2026-5102","aliases":["GHSA-p4gj-2hmg-hj4f"],"published":"2026-06-01T09:10:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@examplecorptest/hearsay-design-system-test","id":"MAL-2026-10880","aliases":["GHSA-mpfh-v62h-hrhr"],"versions":["9.5.0"],"published":"2026-07-20T10:21:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@exarad/verfuegbarkeitspruefung-vue2","id":"MAL-2025-47001","aliases":["GHSA-xp39-8vgf-5cxx"],"published":"2025-09-10T13:34:56Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@exclipz/baileys","id":"MAL-2026-18717","aliases":["GHSA-9fv3-7f93-gcqh"],"published":"2026-11-06T03:47:30Z","modified":"2026-11-06T08:40:01Z"}
+{"name":"@exclipz/bails","id":"MAL-2026-18718","aliases":["GHSA-9j99-fw58-88hg"],"published":"2026-11-06T03:47:30Z","modified":"2026-11-06T08:40:01Z"}
 {"name":"@exeloncorp/fetlife-assets","id":"MAL-2022-256","aliases":["GHSA-r2f4-rjvc-8jgg"],"published":"2022-06-20T18:20:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@exitman_ctf/steal","id":"MAL-2025-5348","versions":["1.4.0"],"published":"2025-06-18T15:37:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@exness/select-component-ab","id":"MAL-2022-257","aliases":["GHSA-j9mg-rvqw-7655"],"published":"2022-06-20T20:19:46Z","modified":"2026-10-02T05:38:49Z"}
@@ -6288,6 +6290,7 @@
 {"name":"@kone-ds/webcomponents-react","id":"MAL-2025-1692","versions":["1.99.99"],"published":"2025-03-03T13:13:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kong/spec-renderer","id":"MAL-2025-191455","aliases":["GHSA-3r2q-8jxp-mjmh"],"versions":["1.101.10-pr.747.ed2920a.0"],"published":"2025-11-24T23:49:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@koop-components/common","id":"MAL-2022-385","aliases":["GHSA-x3vc-rm8j-3h9h"],"published":"2022-06-20T20:26:06Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@kora20030101/test-pkg-delete-me","id":"MAL-2026-18719","aliases":["GHSA-g42p-gwv6-w549"],"published":"2026-11-06T05:43:40Z","modified":"2026-11-06T08:40:01Z"}
 {"name":"@kp-admin/history","id":"MAL-2024-9036","versions":["20.0.0","20.0.1","20.0.2","20.0.3","20.0.4"],"published":"2024-09-28T23:40:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kp-admin/main","id":"MAL-2024-9032","versions":["20.0.0"],"published":"2024-09-28T22:58:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kre64/hello-npm-test","id":"MAL-2026-17868","aliases":["GHSA-c43r-xf4h-m548"],"versions":["1.0.0"],"published":"2026-10-14T00:09:17Z","modified":"2026-10-14T01:27:44Z"}
@@ -173825,7 +173828,7 @@
 {"name":"sick_stingray_z3n","id":"MAL-2025-130124","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sick_vulture_z3n","id":"MAL-2025-123205","published":"2025-11-11T20:11:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sick_wasp-appteadev","id":"MAL-2025-108662","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"sickle-wrapper","id":"MAL-2026-4178","versions":["0.2.0"],"published":"2026-05-19T04:00:10Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"sickle-wrapper","id":"MAL-2026-4178","aliases":["GHSA-f64g-9rx5-4jxf"],"published":"2026-05-19T04:00:10Z","modified":"2026-11-06T08:40:01Z"}
 {"name":"sicoca","id":"MAL-2025-33182","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sid-client-manager","id":"MAL-2024-1292","aliases":["GHSA-7628-hj85-g74g","SNYK-JS-SIDCLIENTMANAGER-6670414"],"published":"2024-04-22T06:08:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sidannar","id":"MAL-2025-33183","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -200022,7 +200025,3 @@
 {"name":"umi-sate50-sluey","id":"MAL-2025-65775","published":"2025-11-11T00:17:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umi-sate90-breki","id":"MAL-2025-75882","published":"2025-11-11T02:29:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umi-sate96-sluey","id":"MAL-2025-137574","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sate98-sluey","id":"MAL-2025-65776","published":"2025-11-11T00:17:57Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sego42-sluey","id":"MAL-2025-65777","published":"2025-11-11T00:17:57Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sego43-miaww","id":"MAL-2025-91490","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sego47-sukiwir","id":"MAL-2025-81908","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
