@@ -3536,6 +3536,7 @@
 {"name":"heimdal-credentials","id":"MAL-2026-1140","versions":["2.1.0"],"published":"2026-03-02T18:48:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hekamhelp","id":"MAL-2025-191750","versions":["1.0.0"],"published":"2025-07-19T21:57:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hell-cipher","id":"MAL-2026-5094","versions":["1.0.1"],"published":"2026-05-31T02:13:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"hello-bat-fwi9","id":"MAL-2026-18735","versions":["0.1.0","0.1.1"],"published":"2026-11-06T20:33:22Z","modified":"2026-11-06T21:50:09Z"}
 {"name":"hello-bozzo2","id":"MAL-2024-12283","versions":["1.2.3"],"published":"2024-08-23T22:55:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hello-dynamic","id":"MAL-2026-5518","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-06-10T17:21:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hello-from-shiphero","id":"MAL-2025-191751","versions":["0.0.1"],"published":"2025-07-27T19:49:54Z","modified":"2026-10-02T05:38:49Z"}
