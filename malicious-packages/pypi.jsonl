@@ -3240,6 +3240,7 @@
 {"name":"gcdt-bundler","id":"MAL-2025-6509","versions":["0.0.1"],"published":"2025-07-31T19:15:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gcli-control","id":"MAL-2026-12502","versions":["0.11.1","0.12.2","0.12.4","0.5.0"],"published":"2026-08-05T12:29:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gclient-eval","id":"MAL-2025-191737","versions":["0.0.1"],"published":"2025-06-10T20:26:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"gcp-log-poc","id":"MAL-2026-18753","versions":["0.0.1","0.0.2","0.0.3"],"published":"2026-11-07T19:53:11Z","modified":"2026-11-07T23:11:24Z"}
 {"name":"gcphelpit","id":"MAL-2026-15810","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-09-01T16:19:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gcpipwrap","id":"MAL-2026-2113","versions":["0.1.2","0.1.3","0.1.5","0.1.6","0.1.7","0.1.8","0.1.9"],"published":"2026-03-20T15:31:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gd-auth","id":"MAL-2026-2540","versions":["99.0.0"],"published":"2026-04-10T18:22:48Z","modified":"2026-10-02T05:38:49Z"}
