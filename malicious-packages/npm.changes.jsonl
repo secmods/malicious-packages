@@ -1,3 +1,7 @@
+{"op":"upsert","modified":"2026-11-07T01:23:23Z","name":"@cherrydotfun/miniapp-sdk","id":"MAL-2026-18737","aliases":["GHSA-q8jp-gq6p-hwpx"],"versions":["0.1.22","0.1.23"],"published":"2026-11-06T22:15:57Z"}
+{"op":"upsert","modified":"2026-11-07T01:23:23Z","name":"kampodine","id":"MAL-2026-18738","aliases":["GHSA-j6x3-5wfw-v23f"],"versions":["0.8.0"],"published":"2026-11-06T21:27:59Z"}
+{"op":"upsert","modified":"2026-11-07T01:23:23Z","name":"modelsdesk","id":"MAL-2026-18739","aliases":["GHSA-6r42-frvg-f73q"],"versions":["0.4.2"],"published":"2026-11-06T21:30:03Z"}
+{"op":"upsert","modified":"2026-11-07T01:23:23Z","name":"tailwind-animationfound","id":"MAL-2026-18740","aliases":["GHSA-mqqf-4p32-jgph"],"published":"2026-11-06T21:30:36Z"}
 {"op":"upsert","modified":"2026-11-06T21:50:09Z","name":"@needsaudit/n","id":"MAL-2026-18720","aliases":["GHSA-8592-4qmq-q59w"],"published":"2026-11-06T17:05:48Z"}
 {"op":"upsert","modified":"2026-11-06T21:50:09Z","name":"@needsaudit/nexport","id":"MAL-2026-18721","aliases":["GHSA-v24v-jw84-cp3h"],"published":"2026-11-06T17:05:48Z"}
 {"op":"upsert","modified":"2026-11-06T21:50:09Z","name":"@noinheritdoc/n","id":"MAL-2026-18722","aliases":["GHSA-8qcq-2278-9c4c"],"published":"2026-11-06T17:05:49Z"}

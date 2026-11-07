@@ -1,3 +1,7 @@
+{"op":"upsert","modified":"2026-11-07T01:23:23Z","name":"ajfhiuqhfqgwerhuqnfqh","id":"MAL-2026-18741","versions":["0.1.0"],"published":"2026-11-06T22:12:24Z"}
+{"op":"upsert","modified":"2026-11-07T01:23:23Z","name":"fhqiouhq","id":"MAL-2026-18742","versions":["0.1.0"],"published":"2026-11-06T22:13:38Z"}
+{"op":"upsert","modified":"2026-11-07T01:23:23Z","name":"reqnest","id":"MAL-2026-18743","versions":["0.1.0"],"published":"2026-11-06T22:10:07Z"}
+{"op":"upsert","modified":"2026-11-07T01:23:23Z","name":"reqnests","id":"MAL-2026-18744","versions":["0.1.0","0.1.1"],"published":"2026-11-06T22:11:24Z"}
 {"op":"upsert","modified":"2026-11-06T21:50:09Z","name":"hello-bat-fwi9","id":"MAL-2026-18735","versions":["0.1.0","0.1.1"],"published":"2026-11-06T20:33:22Z"}
 {"op":"upsert","modified":"2026-11-05T15:52:18Z","name":"dbt-adapter","id":"MAL-2026-18704","versions":["0.0.0","0.1.0a2"],"published":"2026-11-05T06:58:26Z"}
 {"op":"upsert","modified":"2026-11-05T15:52:18Z","name":"mcp-teamviewer","id":"MAL-2026-18706","versions":["0.0.1"],"published":"2026-11-05T12:29:01Z"}

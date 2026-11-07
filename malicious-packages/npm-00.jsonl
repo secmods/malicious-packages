@@ -2190,6 +2190,7 @@
 {"name":"@chegg-varafy-editor/editor-tools-common","id":"MAL-2022-169","aliases":["GHSA-2p6m-6mg6-4c6j"],"published":"2022-06-20T20:09:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@chegg/wtai-upload-widget","id":"MAL-2023-34","aliases":["GHSA-6mfp-cgcj-vgj8"],"published":"2023-02-09T00:03:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@cheqplease/structured-logger","id":"MAL-2025-192434","aliases":["GHSA-x55c-jcjf-hj69"],"published":"2025-12-10T16:58:18Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@cherrydotfun/miniapp-sdk","id":"MAL-2026-18737","aliases":["GHSA-q8jp-gq6p-hwpx"],"versions":["0.1.22","0.1.23"],"published":"2026-11-06T22:15:57Z","modified":"2026-11-07T01:23:23Z"}
 {"name":"@chewyy/ccl-utils-belt","id":"MAL-2024-7070","versions":["999999.0.0"],"published":"2024-06-25T12:19:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@chia-networrk/api","id":"MAL-2024-11240","versions":["1.0.10","1.0.14","1.0.15","1.0.16","1.0.21","1.0.7"],"published":"2024-12-08T10:15:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@chkpkit/box","id":"MAL-2025-350","versions":["99.99.89","99.99.91","99.99.93"],"published":"2025-01-23T12:56:05Z","modified":"2026-10-02T05:38:49Z"}
@@ -104920,6 +104921,7 @@
 {"name":"kamonetuv","id":"MAL-2025-24286","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"kamonetuzx","id":"MAL-2025-24287","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"kampas-kopling","id":"MAL-2025-171440","published":"2025-11-12T18:00:57Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"kampodine","id":"MAL-2026-18738","aliases":["GHSA-j6x3-5wfw-v23f"],"versions":["0.8.0"],"published":"2026-11-06T21:27:59Z","modified":"2026-11-07T01:23:23Z"}
 {"name":"kanaquiz","id":"MAL-2025-24288","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"kanban-webcomponent","id":"MAL-2026-417","aliases":["GHSA-9934-hp5h-qv2g"],"published":"2026-01-21T04:39:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"kanborasd","id":"MAL-2025-69031","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
@@ -126652,6 +126654,7 @@
 {"name":"model-viewer-space-opera","id":"MAL-2025-853","versions":["1.1.0"],"published":"2025-02-03T16:56:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"modeldb-vis","id":"MAL-2025-3139","versions":["1.0.0"],"published":"2025-04-07T14:02:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"models-frontend","id":"MAL-2025-26591","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"modelsdesk","id":"MAL-2026-18739","aliases":["GHSA-6r42-frvg-f73q"],"versions":["0.4.2"],"published":"2026-11-06T21:30:03Z","modified":"2026-11-07T01:23:23Z"}
 {"name":"moderate-apricot-lark","id":"MAL-2025-69453","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"moderate-aqua-marlin","id":"MAL-2025-69454","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"moderate-azure-frog","id":"MAL-2025-69455","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
@@ -183547,6 +183550,7 @@
 {"name":"tailwind-animation-founder","id":"MAL-2026-12218","versions":["2.5.7"],"published":"2026-08-05T09:06:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tailwind-animationbased","id":"MAL-2025-192640","aliases":["GHSA-wp25-rrp2-mfgj"],"published":"2025-12-19T08:32:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tailwind-animationbasis","id":"MAL-2026-2156","aliases":["GHSA-x2c8-m9xp-3qmv"],"published":"2026-03-25T00:35:42Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"tailwind-animationfound","id":"MAL-2026-18740","aliases":["GHSA-mqqf-4p32-jgph"],"published":"2026-11-06T21:30:36Z","modified":"2026-11-07T01:23:23Z"}
 {"name":"tailwind-animationgroup","id":"MAL-2026-12219","aliases":["GHSA-69pm-q85v-q89g"],"published":"2026-08-05T09:05:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tailwind-animationlab","id":"MAL-2026-18080","aliases":["GHSA-7cm4-74gj-gfp2"],"published":"2026-10-19T00:00:00Z","modified":"2026-10-29T17:09:20Z"}
 {"name":"tailwind-animationpack","id":"MAL-2026-12220","aliases":["GHSA-pqcx-38vc-5c6x"],"published":"2026-08-05T09:05:16Z","modified":"2026-10-02T05:38:49Z"}
@@ -200016,8 +200020,3 @@
 {"name":"umi-sambalado36-sluey","id":"MAL-2025-137571","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umi-sambalado83-breki","id":"MAL-2025-46456","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umi-sambalado9-apidev","id":"MAL-2025-91487","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sambalado99-sukiwir","id":"MAL-2025-59128","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sambel5-wekto","id":"MAL-2025-130838","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sambel55-miaww","id":"MAL-2025-117654","published":"2025-11-11T15:19:32Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sambel58-miaww","id":"MAL-2025-91488","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sambel58-tititugel","id":"MAL-2025-98453","published":"2025-11-11T05:50:15Z","modified":"2026-10-02T05:38:49Z"}
