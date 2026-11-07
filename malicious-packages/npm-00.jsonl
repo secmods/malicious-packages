@@ -61331,6 +61331,7 @@
 {"name":"dsh-moss-console","id":"MAL-2026-18522","aliases":["GHSA-cw2g-cxwh-wqqm"],"versions":["3.3.0"],"published":"2026-11-03T07:25:58Z","modified":"2026-11-03T08:44:54Z"}
 {"name":"dsh-moss-wallpaper","id":"MAL-2026-18523","aliases":["GHSA-rgvh-3r77-gg9c"],"versions":["3.4.0"],"published":"2026-11-03T10:01:57Z","modified":"2026-11-03T16:41:28Z"}
 {"name":"dsh-native","id":"MAL-2026-18315","aliases":["GHSA-x94m-hxm5-m298"],"versions":["1.4.1"],"published":"2026-10-26T02:17:08Z","modified":"2026-10-26T05:31:48Z"}
+{"name":"dsh-notify-focus","id":"MAL-2026-18748","aliases":["GHSA-xf64-9h92-4jxq"],"versions":["0.5.0","0.7.0","0.7.1"],"published":"2026-11-07T08:25:08Z","modified":"2026-11-07T14:28:41Z"}
 {"name":"dsh-plugin-blender-3d","id":"MAL-2026-18321","aliases":["GHSA-hw9g-f63g-4c8x"],"versions":["0.2.1"],"published":"2026-10-26T00:55:34Z","modified":"2026-10-28T19:57:04Z"}
 {"name":"dsh-purge","id":"MAL-2026-18707","aliases":["GHSA-w7xp-2vj9-g24m"],"versions":["1.2.1"],"published":"2026-11-05T17:03:44Z","modified":"2026-11-05T21:38:17Z"}
 {"name":"dsh-redteam-mode","id":"MAL-2026-18366","aliases":["GHSA-r4m9-8735-g966"],"versions":["0.15.2"],"published":"2026-10-29T05:23:36Z","modified":"2026-10-29T10:30:16Z"}
@@ -200018,5 +200019,3 @@
 {"name":"umi-sambalado31-ruro","id":"MAL-2025-110000","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umi-sambalado33-sukiwir","id":"MAL-2025-81906","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umi-sambalado36-sluey","id":"MAL-2025-137571","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sambalado83-breki","id":"MAL-2025-46456","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sambalado9-apidev","id":"MAL-2025-91487","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}

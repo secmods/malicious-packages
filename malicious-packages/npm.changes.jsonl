@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-07T14:28:41Z","name":"dsh-notify-focus","id":"MAL-2026-18748","aliases":["GHSA-xf64-9h92-4jxq"],"versions":["0.5.0","0.7.0","0.7.1"],"published":"2026-11-07T08:25:08Z"}
 {"op":"upsert","modified":"2026-11-07T01:23:23Z","name":"@cherrydotfun/miniapp-sdk","id":"MAL-2026-18737","aliases":["GHSA-q8jp-gq6p-hwpx"],"versions":["0.1.22","0.1.23"],"published":"2026-11-06T22:15:57Z"}
 {"op":"upsert","modified":"2026-11-07T01:23:23Z","name":"kampodine","id":"MAL-2026-18738","aliases":["GHSA-j6x3-5wfw-v23f"],"versions":["0.8.0"],"published":"2026-11-06T21:27:59Z"}
 {"op":"upsert","modified":"2026-11-07T01:23:23Z","name":"modelsdesk","id":"MAL-2026-18739","aliases":["GHSA-6r42-frvg-f73q"],"versions":["0.4.2"],"published":"2026-11-06T21:30:03Z"}
