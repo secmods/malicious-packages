@@ -5626,6 +5626,7 @@
 {"name":"@hrmony/valuenet","id":"MAL-2026-17281","aliases":["GHSA-5958-mpfq-wfrj"],"published":"2026-09-29T16:30:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@hrsites/fb-with-city-suggests","id":"MAL-2022-338","aliases":["GHSA-2pq5-8p83-c8q3"],"published":"2022-06-20T20:16:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@hsbc-mfe/host","id":"MAL-2026-2332","versions":["99.99.3"],"published":"2026-03-24T15:28:47Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@htooayelwinict/travis234","id":"MAL-2026-18757","aliases":["GHSA-r6cf-96rv-f56v"],"versions":["3.3.2"],"published":"2026-11-08T06:27:59Z","modified":"2026-11-08T09:51:28Z"}
 {"name":"@httpactions/encode-url","id":"MAL-2026-6139","versions":["1.0.0","1.0.1"],"published":"2026-06-18T18:39:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@httpactions/strict-uri-encode","id":"MAL-2026-6140","versions":["1.0.1"],"published":"2026-06-18T18:39:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@httttt/mcp-demo","id":"MAL-2026-14315","aliases":["GHSA-phcp-xhhf-xcvq"],"published":"2026-08-20T03:33:06Z","modified":"2026-10-02T05:38:49Z"}
@@ -200018,4 +200019,3 @@
 {"name":"umi-sambalado2-sukiwir","id":"MAL-2025-81905","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umi-sambalado31-ruro","id":"MAL-2025-110000","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umi-sambalado33-sukiwir","id":"MAL-2025-81906","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sambalado36-sluey","id":"MAL-2025-137571","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
