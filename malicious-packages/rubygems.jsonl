@@ -283,6 +283,7 @@
 {"name":"after-the_deadline","id":"MAL-2024-6527","versions":["0.1.3"],"published":"2024-06-25T13:47:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"agave_client","id":"MAL-2024-6528","versions":["0.1.3"],"published":"2024-06-25T13:47:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"age-validator","id":"MAL-2024-6529","versions":["0.1.0"],"published":"2024-06-25T13:47:29Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"agentic-call-control","id":"MAL-2026-18763","versions":["1.1.8"],"published":"2026-11-08T09:39:55Z","modified":"2026-11-08T16:25:46Z"}
 {"name":"agentoaitestabc123","id":"MAL-2026-7473","versions":["0.0.1"],"published":"2026-07-07T11:50:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"agfosscab20","id":"MAL-2026-7474","versions":["0.0.1"],"published":"2026-07-07T11:50:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"agfossgrant23","id":"MAL-2026-7475","versions":["0.0.1"],"published":"2026-07-07T11:50:46Z","modified":"2026-10-02T05:38:49Z"}
@@ -1362,6 +1363,7 @@
 {"name":"commonmarker_pluggable","id":"MAL-2024-6841","aliases":["GHSA-2p72-xh3f-hwj5"],"versions":["0.3.0"],"published":"2024-06-25T13:50:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"console_auth","id":"MAL-2025-46899","versions":["99.99.99"],"published":"2025-09-01T09:47:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"contributors-stats","id":"MAL-2024-6842","aliases":["GHSA-c9m8-76pj-r486"],"versions":["1.0.0"],"published":"2024-06-25T13:50:22Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"control-character-command-injection","id":"MAL-2026-18764","versions":["1.0.1"],"published":"2026-11-08T09:40:01Z","modified":"2026-11-08T16:25:46Z"}
 {"name":"cordova_rake","id":"MAL-2024-6843","aliases":["GHSA-3966-2v9x-56wr"],"versions":["0.5.2"],"published":"2024-06-25T13:50:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"councilfetchxqz","id":"MAL-2026-7603","aliases":["GHSA-25gq-8gjf-h2wm"],"versions":["0.0.1"],"published":"2026-07-07T11:52:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"critter","id":"MAL-2025-192905","aliases":["GHSA-f93c-chq5-5xvv"],"versions":["90002.0"],"published":"2025-12-23T08:40:54Z","modified":"2026-10-02T05:38:49Z"}
@@ -1447,6 +1449,7 @@
 {"name":"doge-linguist","id":"MAL-2024-6867","aliases":["GHSA-f27h-xq2j-m4p5"],"versions":["0.1.0"],"published":"2024-06-25T13:50:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"doge-woof","id":"MAL-2024-6868","aliases":["GHSA-vf25-h8mg-6vhg"],"versions":["0.1.10"],"published":"2024-06-25T13:50:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"doge_chef-formatter","id":"MAL-2024-6869","aliases":["GHSA-7699-8hw8-35fm"],"versions":["0.0.1"],"published":"2024-06-25T13:50:38Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"donjon-ledger","id":"MAL-2026-18765","versions":["2.0.2"],"published":"2026-11-08T09:39:40Z","modified":"2026-11-08T16:25:46Z"}
 {"name":"dopc-client","id":"MAL-2026-18518","versions":["1.0.0","10.0.0"],"published":"2026-11-03T05:46:10Z","modified":"2026-11-03T08:44:54Z"}
 {"name":"dot-rake_tasks_in_rails","id":"MAL-2024-6870","aliases":["GHSA-v33v-v2hc-qvmj"],"versions":["0.0.1"],"published":"2024-06-25T13:50:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dradis_brakeman","id":"MAL-2024-6871","aliases":["GHSA-jp26-x9m9-3m8w"],"versions":["3.15.0"],"published":"2024-06-25T13:50:39Z","modified":"2026-10-02T05:38:49Z"}
@@ -1463,6 +1466,7 @@
 {"name":"dwpdf1248841","id":"MAL-2026-7645","aliases":["GHSA-rqc6-hxgr-c3r9"],"versions":["0.0.1"],"published":"2026-07-07T11:52:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dwpdf1248851","id":"MAL-2026-7646","aliases":["GHSA-mh26-jxhf-hv6w"],"versions":["0.0.1"],"published":"2026-07-07T11:52:29Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dwpdf1248881","id":"MAL-2026-7647","aliases":["GHSA-h4h2-rjcp-48fx"],"versions":["0.0.1"],"published":"2026-07-07T11:52:29Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"dynamic-object-handler","id":"MAL-2026-18766","versions":["1.0.1"],"published":"2026-11-08T09:39:48Z","modified":"2026-11-08T16:25:46Z"}
 {"name":"ebay-client","id":"MAL-2024-6879","aliases":["GHSA-hj69-j49w-fwq9"],"versions":["0.3.1.1045"],"published":"2024-06-25T13:50:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ebay-enterprise_affiliate_network","id":"MAL-2024-6880","aliases":["GHSA-jqvw-2mgc-4v4x"],"versions":["1.0.3"],"published":"2024-06-25T13:50:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ebay-trading","id":"MAL-2024-6881","aliases":["GHSA-f6vq-gx9g-98v4"],"versions":["0.0.2"],"published":"2024-06-25T13:50:45Z","modified":"2026-10-02T05:38:49Z"}

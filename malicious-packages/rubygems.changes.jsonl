@@ -1,3 +1,7 @@
+{"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"agentic-call-control","id":"MAL-2026-18763","versions":["1.1.8"],"published":"2026-11-08T09:39:55Z"}
+{"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"control-character-command-injection","id":"MAL-2026-18764","versions":["1.0.1"],"published":"2026-11-08T09:40:01Z"}
+{"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"donjon-ledger","id":"MAL-2026-18765","versions":["2.0.2"],"published":"2026-11-08T09:39:40Z"}
+{"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"dynamic-object-handler","id":"MAL-2026-18766","versions":["1.0.1"],"published":"2026-11-08T09:39:48Z"}
 {"op":"upsert","modified":"2026-11-04T10:04:28Z","name":"brida-frida-hooks","id":"MAL-2026-18598","versions":["1.0.1"],"published":"2026-11-04T02:57:49Z"}
 {"op":"upsert","modified":"2026-11-04T10:04:28Z","name":"w002yardprobe","id":"MAL-2026-18599","versions":["0.0.4","0.0.5"],"published":"2026-11-04T02:58:21Z"}
 {"op":"upsert","modified":"2026-11-03T08:44:54Z","name":"dopc-client","id":"MAL-2026-18518","versions":["1.0.0","10.0.0"],"published":"2026-11-03T05:46:10Z"}

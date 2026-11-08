@@ -1,3 +1,11 @@
+{"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"blender-headless","id":"MAL-2026-18758","versions":["9.99.9"],"published":"2026-11-08T09:39:34Z"}
+{"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"chromacli","id":"MAL-2026-18759","versions":["0.1.0","0.1.1","0.1.2","0.1.3","0.1.4"],"published":"2026-11-08T09:38:34Z"}
+{"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"expect-tests","id":"MAL-2026-18760","versions":["99.99.99"],"published":"2026-11-08T09:39:19Z"}
+{"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"infra-libs","id":"MAL-2026-18761","versions":["99.99.99"],"published":"2026-11-08T09:39:28Z"}
+{"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"lookuptest11","id":"MAL-2026-18769","versions":["0.0.1"],"published":"2026-11-08T13:51:47Z"}
+{"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"rainbowcolors","id":"MAL-2026-18762","versions":["0.1.0"],"published":"2026-11-08T09:39:04Z"}
+{"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"super-color","id":"MAL-2026-18768","versions":["0.1.0","0.1.1","0.1.2","0.1.3"],"published":"2026-11-08T12:45:59Z"}
+{"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"supercolor-tui","id":"MAL-2026-18767","versions":["0.1.0","0.1.1","0.1.2","0.1.4"],"published":"2026-11-08T11:31:04Z"}
 {"op":"upsert","modified":"2026-11-08T02:58:47Z","name":"fabtoolkit","id":"MAL-2026-17927","versions":["0.1.0","0.1.1","0.1.2","0.2.0","0.2.1"],"published":"2026-10-19T02:26:31Z"}
 {"op":"upsert","modified":"2026-11-08T02:58:47Z","name":"pyuserfox","id":"MAL-2026-18754","versions":["0.0.2"],"published":"2026-11-07T23:44:24Z"}
 {"op":"upsert","modified":"2026-11-08T02:58:47Z","name":"pyuserox","id":"MAL-2026-18755","versions":["0.0.2"],"published":"2026-11-07T23:45:42Z"}
