@@ -2983,7 +2983,7 @@
 {"name":"fabrice","id":"MAL-2024-10573","published":"2024-11-11T10:31:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fabricee","id":"MAL-2024-11586","versions":["1.0.0"],"published":"2024-12-09T06:50:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fabrlce","id":"MAL-2024-11587","versions":["1.0.0"],"published":"2024-12-09T06:50:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"fabtoolkit","id":"MAL-2026-17927","versions":["0.1.0","0.1.1","0.1.2","0.2.1"],"published":"2026-10-19T02:26:31Z","modified":"2026-10-20T19:41:27Z"}
+{"name":"fabtoolkit","id":"MAL-2026-17927","versions":["0.1.0","0.1.1","0.1.2","0.2.0","0.2.1"],"published":"2026-10-19T02:26:31Z","modified":"2026-11-08T02:58:47Z"}
 {"name":"facebook-scrapper","id":"MAL-2024-5127","versions":["0.0.1.dev0"],"published":"2024-06-25T13:35:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"facebookresearch","id":"MAL-2026-2175","versions":["99.0.0"],"published":"2026-03-25T05:06:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"facewareretargeter","id":"MAL-2026-18110","versions":["9.9.9"],"published":"2026-10-20T20:48:43Z","modified":"2026-10-20T22:45:18Z"}
@@ -7819,6 +7819,8 @@
 {"name":"pytzv","id":"MAL-2025-191847","versions":["0.1.0","0.2.0","0.3.0","0.4.0"],"published":"2025-04-25T16:08:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyultra","id":"MAL-2023-5800","published":"2023-02-23T23:33:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyunzip","id":"MAL-2024-10148","versions":["0.0.1","0.0.2","0.0.4"],"published":"2024-08-23T15:57:10Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"pyuserfox","id":"MAL-2026-18754","versions":["0.0.2"],"published":"2026-11-07T23:44:24Z","modified":"2026-11-08T02:58:47Z"}
+{"name":"pyuserox","id":"MAL-2026-18755","versions":["0.0.2"],"published":"2026-11-07T23:45:42Z","modified":"2026-11-08T02:58:47Z"}
 {"name":"pyutils-helper","id":"MAL-2026-1281","versions":["1.2.3","1.2.4"],"published":"2026-03-08T14:13:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyutilsplus","id":"MAL-2024-5835","versions":["0.5","0.6","0.7"],"published":"2024-06-25T13:41:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyutiltool","id":"MAL-2024-11686","versions":["3.5"],"published":"2024-10-03T16:34:31Z","modified":"2026-10-02T05:38:49Z"}
@@ -11263,6 +11265,7 @@
 {"name":"turbod","id":"MAL-2026-6979","versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7"],"published":"2026-07-08T13:32:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"turbom","id":"MAL-2026-7015","versions":["1.0.0","1.0.1"],"published":"2026-07-08T16:50:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twilio-rest","id":"MAL-2025-3012","versions":["0.0.0.1"],"published":"2025-03-28T13:06:27Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twitch-stream-py","id":"MAL-2026-18756","versions":["1.0.2rc0","1.0.3rc0","1.0.4rc0","1.0.4rc2","1.0.5rc2","1.0.6","1.0.7","1.0.8","1.0.9","1.1.0","1.1.1","1.1.2"],"published":"2026-11-07T23:53:30Z","modified":"2026-11-08T02:58:47Z"}
 {"name":"twitter-request-diagnostics","id":"MAL-2026-18403","versions":["1.0.0"],"published":"2026-10-29T23:44:17Z","modified":"2026-10-30T02:13:54Z"}
 {"name":"twittter","id":"MAL-2024-6173","versions":["1.19.6"],"published":"2024-06-25T13:43:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twrap-tool","id":"MAL-2026-6711","versions":["1.0.0"],"published":"2026-07-01T20:05:39Z","modified":"2026-10-02T05:38:49Z"}

@@ -1,3 +1,7 @@
+{"op":"upsert","modified":"2026-11-08T02:58:47Z","name":"fabtoolkit","id":"MAL-2026-17927","versions":["0.1.0","0.1.1","0.1.2","0.2.0","0.2.1"],"published":"2026-10-19T02:26:31Z"}
+{"op":"upsert","modified":"2026-11-08T02:58:47Z","name":"pyuserfox","id":"MAL-2026-18754","versions":["0.0.2"],"published":"2026-11-07T23:44:24Z"}
+{"op":"upsert","modified":"2026-11-08T02:58:47Z","name":"pyuserox","id":"MAL-2026-18755","versions":["0.0.2"],"published":"2026-11-07T23:45:42Z"}
+{"op":"upsert","modified":"2026-11-08T02:58:47Z","name":"twitch-stream-py","id":"MAL-2026-18756","versions":["1.0.2rc0","1.0.3rc0","1.0.4rc0","1.0.4rc2","1.0.5rc2","1.0.6","1.0.7","1.0.8","1.0.9","1.1.0","1.1.1","1.1.2"],"published":"2026-11-07T23:53:30Z"}
 {"op":"upsert","modified":"2026-11-07T23:11:24Z","name":"gcp-log-poc","id":"MAL-2026-18753","versions":["0.0.1","0.0.2","0.0.3"],"published":"2026-11-07T19:53:11Z"}
 {"op":"upsert","modified":"2026-11-07T19:08:50Z","name":"qzc690384","id":"MAL-2026-18752","versions":["1.0.0"],"published":"2026-11-07T14:41:21Z"}
 {"op":"upsert","modified":"2026-11-07T19:08:50Z","name":"qzc690385","id":"MAL-2026-18751","versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7","1.0.8","1.0.9","1.1.0","1.1.1","1.1.2","1.1.3"],"published":"2026-11-07T10:21:05Z"}
@@ -139,7 +143,6 @@
 {"op":"upsert","modified":"2026-10-20T22:45:18Z","name":"hijok-lampam","id":"MAL-2026-18112","versions":["1.0.0"],"published":"2026-10-20T20:59:36Z"}
 {"op":"upsert","modified":"2026-10-20T22:45:18Z","name":"jiklpo-tsunari-kay","id":"MAL-2026-18113","versions":["1.0.0"],"published":"2026-10-20T20:53:18Z"}
 {"op":"upsert","modified":"2026-10-20T22:45:18Z","name":"trijigo-kalip","id":"MAL-2026-18114","versions":["1.0.0"],"published":"2026-10-20T20:59:05Z"}
-{"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"fabtoolkit","id":"MAL-2026-17927","versions":["0.1.0","0.1.1","0.1.2","0.2.1"],"published":"2026-10-19T02:26:31Z"}
 {"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"pyyi","id":"MAL-2026-17866","versions":["2.4","2.4.1","2.4.2","2.5.0","2.5.1","2.5.2","2.5.3","2.5.4","2.5.5"],"published":"2026-10-16T15:57:23Z"}
 {"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"research-probe-6150c1c915","id":"MAL-2026-18097","versions":["0.1.0"],"published":"2026-10-20T15:52:54Z"}
 {"op":"upsert","modified":"2026-10-20T19:41:27Z","name":"security-research-startup-snapshot-810764b303","id":"MAL-2026-18098","versions":["0.1.0"],"published":"2026-10-20T15:54:20Z"}
