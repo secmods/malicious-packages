@@ -1,1 +1,2 @@
+{"op":"upsert","modified":"2026-11-09T07:21:18Z","name":"env-test-guard","id":"MAL-2026-18776","versions":["0.2.0","0.3.0"],"published":"2026-11-07T21:46:49Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"sharpnes","id":"MAL-2026-17713","published":"2026-10-09T00:00:00Z"}

@@ -4762,6 +4762,7 @@
 {"name":"@ethers-js/contracts","id":"MAL-2026-13937","versions":["6.9.0"],"published":"2026-08-13T17:17:39Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ethers-sdk/ethers","id":"MAL-2026-11210","aliases":["GHSA-p2pf-mrh7-5f43"],"published":"2026-07-30T21:43:33Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ethers-sdk/wallet","id":"MAL-2026-11211","aliases":["GHSA-f8qm-48cq-r734","SNYK-JS-WAGNIBOTPOLYGON-18505277"],"published":"2026-07-30T21:43:33Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@ethersphere/bee-js","id":"MAL-2026-18773","aliases":["GHSA-hh7j-5m3j-23pf"],"versions":["13.3.0"],"published":"2026-11-09T01:25:27Z","modified":"2026-11-09T07:21:18Z"}
 {"name":"@ethlete/cdk","id":"MAL-2026-5196","versions":["4.71.2"],"published":"2026-06-05T00:53:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ethlete/cli","id":"MAL-2026-5197","versions":["2.0.1"],"published":"2026-06-05T00:53:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ethlete/components","id":"MAL-2026-5198","versions":["3.3.1"],"published":"2026-06-05T00:53:43Z","modified":"2026-10-02T05:38:49Z"}
@@ -88192,7 +88193,7 @@
 {"name":"hello-world-from-lupin-99","id":"MAL-2025-22365","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hello-world-lupin","id":"MAL-2025-22366","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hello-world-npm-demo-example","id":"MAL-2026-59","aliases":["GHSA-28cc-p24p-9v6w"],"published":"2026-01-06T02:23:15Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"hello-world-pkg-value-value-p","id":"MAL-2026-3714","versions":["1.0.11","1.0.4"],"published":"2026-05-13T13:08:38Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"hello-world-pkg-value-value-p","id":"MAL-2026-3714","aliases":["GHSA-chvv-hm7h-5fvc"],"published":"2026-05-13T13:08:38Z","modified":"2026-11-09T07:21:18Z"}
 {"name":"hello-world-target","id":"MAL-2025-22367","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hello244a","id":"MAL-2026-5188","aliases":["GHSA-fv97-hqvh-jxcm"],"published":"2026-06-04T20:49:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hello244b","id":"MAL-2026-6955","versions":["1.0.0"],"published":"2026-07-07T20:17:56Z","modified":"2026-10-02T05:38:49Z"}
@@ -96697,7 +96698,7 @@
 {"name":"internal-azure-boar","id":"MAL-2025-68966","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"internal-checkout-bricks","id":"MAL-2025-48283","aliases":["GHSA-22w9-rm4j-69f9","SNYK-JS-INTERNALCHECKOUTBRICKS-13512454"],"published":"2025-10-10T02:24:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"internal-company-api","id":"MAL-2025-3624","aliases":["GHSA-qwqx-4v4x-hpj2"],"published":"2025-05-06T05:59:46Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"internal-company-module-test-1337","id":"MAL-2026-3249","versions":["99.99.9992","99.99.9994","99.99.9995","99.99.9996"],"published":"2026-05-03T15:33:36Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"internal-company-module-test-1337","id":"MAL-2026-3249","aliases":["GHSA-c9wj-j3q9-23f2"],"published":"2026-05-03T15:33:36Z","modified":"2026-11-09T07:21:18Z"}
 {"name":"internal-company-sdk","id":"MAL-2026-338","aliases":["GHSA-gjfx-xc74-r6gx"],"published":"2026-01-19T00:59:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"internal-config","id":"MAL-2025-48498","versions":["99.9.9"],"published":"2025-10-17T03:22:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"internal-corp","id":"MAL-2024-8010","versions":["2.0.0"],"published":"2024-08-08T13:51:49Z","modified":"2026-10-02T05:38:49Z"}
@@ -104557,6 +104558,7 @@
 {"name":"kadenaswap-ui","id":"MAL-2022-4093","aliases":["GHSA-q86q-hr9v-rjrf"],"published":"2022-07-18T13:58:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"kadummy","id":"MAL-2025-24156","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"kaerwzyhlkngvxic","id":"MAL-2025-24157","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"kafbail","id":"MAL-2026-18774","aliases":["GHSA-r9ff-73cq-qq8f"],"versions":["2.0.12","2.0.13","2.0.14"],"published":"2026-11-09T02:20:35Z","modified":"2026-11-09T07:21:18Z"}
 {"name":"kafka-client-ruby","id":"MAL-2025-24158","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"kafka-shopify","id":"MAL-2025-24159","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"kagi_browser_ext","id":"MAL-2025-2682","aliases":["GHSA-gh8r-jr5h-5q3c","SNYK-JS-KAGIBROWSEREXT-9513270"],"published":"2025-03-25T02:42:59Z","modified":"2026-10-02T05:38:49Z"}
@@ -172451,6 +172453,7 @@
 {"name":"sentrybrowser7","id":"MAL-2023-1038","aliases":["GHSA-fpc4-q7vr-fw2r"],"published":"2023-08-01T05:35:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sentrykit","id":"MAL-2026-15544","aliases":["GHSA-qq6h-882h-g88f"],"published":"2026-08-28T23:17:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"seo-pwa","id":"MAL-2022-6014","aliases":["GHSA-jgm5-h887-6vqg"],"published":"2022-06-20T20:22:26Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"seolibs-package","id":"MAL-2026-18775","aliases":["GHSA-87pq-f724-32pv"],"published":"2026-11-09T02:08:23Z","modified":"2026-11-09T07:21:18Z"}
 {"name":"seonatmunsetmaouseomauntsmeoatnumeontkmnteumntemoiaoisntmoeunitmoeantum","id":"MAL-2025-32955","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"seotools","id":"MAL-2025-32956","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"separadordeinfo","id":"MAL-2026-2800","versions":["1.0.0"],"published":"2026-04-16T10:16:50Z","modified":"2026-10-02T05:38:49Z"}
@@ -200015,7 +200018,3 @@
 {"name":"umi-saguer64-riris","id":"MAL-2025-130837","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umi-saguer7-sukiwir","id":"MAL-2025-81904","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umi-saguer70-sluey","id":"MAL-2025-137569","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sambalado100-sluey","id":"MAL-2025-137570","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sambalado2-sukiwir","id":"MAL-2025-81905","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sambalado31-ruro","id":"MAL-2025-110000","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-sambalado33-sukiwir","id":"MAL-2025-81906","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}

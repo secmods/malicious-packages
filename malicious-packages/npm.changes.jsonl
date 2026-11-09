@@ -1,3 +1,8 @@
+{"op":"upsert","modified":"2026-11-09T07:21:18Z","name":"@ethersphere/bee-js","id":"MAL-2026-18773","aliases":["GHSA-hh7j-5m3j-23pf"],"versions":["13.3.0"],"published":"2026-11-09T01:25:27Z"}
+{"op":"upsert","modified":"2026-11-09T07:21:18Z","name":"hello-world-pkg-value-value-p","id":"MAL-2026-3714","aliases":["GHSA-chvv-hm7h-5fvc"],"published":"2026-05-13T13:08:38Z"}
+{"op":"upsert","modified":"2026-11-09T07:21:18Z","name":"internal-company-module-test-1337","id":"MAL-2026-3249","aliases":["GHSA-c9wj-j3q9-23f2"],"published":"2026-05-03T15:33:36Z"}
+{"op":"upsert","modified":"2026-11-09T07:21:18Z","name":"kafbail","id":"MAL-2026-18774","aliases":["GHSA-r9ff-73cq-qq8f"],"versions":["2.0.12","2.0.13","2.0.14"],"published":"2026-11-09T02:20:35Z"}
+{"op":"upsert","modified":"2026-11-09T07:21:18Z","name":"seolibs-package","id":"MAL-2026-18775","aliases":["GHSA-87pq-f724-32pv"],"published":"2026-11-09T02:08:23Z"}
 {"op":"upsert","modified":"2026-11-08T09:51:28Z","name":"@htooayelwinict/travis234","id":"MAL-2026-18757","aliases":["GHSA-r6cf-96rv-f56v"],"versions":["3.3.2"],"published":"2026-11-08T06:27:59Z"}
 {"op":"upsert","modified":"2026-11-07T14:28:41Z","name":"dsh-notify-focus","id":"MAL-2026-18748","aliases":["GHSA-xf64-9h92-4jxq"],"versions":["0.5.0","0.7.0","0.7.1"],"published":"2026-11-07T08:25:08Z"}
 {"op":"upsert","modified":"2026-11-07T01:23:23Z","name":"@cherrydotfun/miniapp-sdk","id":"MAL-2026-18737","aliases":["GHSA-q8jp-gq6p-hwpx"],"versions":["0.1.22","0.1.23"],"published":"2026-11-06T22:15:57Z"}
