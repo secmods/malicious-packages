@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-10T15:53:33Z","name":"@erlanzz/baileys","id":"MAL-2026-17440","aliases":["GHSA-f8j3-x796-h5cm"],"published":"2026-11-10T13:24:57Z"}
 {"op":"upsert","modified":"2026-11-10T07:53:00Z","name":"@conduitops/logview-archive","id":"MAL-2026-18183","aliases":["GHSA-x7hg-v8jr-wmgw"],"published":"2026-10-22T06:10:48Z"}
 {"op":"upsert","modified":"2026-11-10T07:53:00Z","name":"@factoryz/apollo","id":"MAL-2026-18278","aliases":["GHSA-7q6h-g3hp-prq6"],"published":"2026-10-25T15:05:42Z"}
 {"op":"upsert","modified":"2026-11-10T07:53:00Z","name":"@fcsmc/commercial-analytics","id":"MAL-2026-17928","aliases":["GHSA-hfxq-xfgx-f9h8"],"published":"2026-10-19T03:01:08Z"}

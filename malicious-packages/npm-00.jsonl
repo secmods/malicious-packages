@@ -4697,7 +4697,7 @@
 {"name":"@erfix/frontend-logge","id":"MAL-2025-48019","aliases":["GHSA-pqgh-x8r8-c95m"],"published":"2025-10-08T00:44:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@erfix/frontend-logger","id":"MAL-2025-48020","aliases":["GHSA-9q3c-x9wp-rm39"],"published":"2025-10-08T00:44:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@eric-orderbuddyinfo/react-noval","id":"MAL-2026-2159","aliases":["GHSA-82fx-cjgq-fc8v"],"published":"2026-03-25T01:50:59Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@erlanzz/baileys","id":"MAL-2026-17440","modified":"2026-10-02T05:38:49Z"}
+{"name":"@erlanzz/baileys","id":"MAL-2026-17440","aliases":["GHSA-f8j3-x796-h5cm"],"published":"2026-11-10T13:24:57Z","modified":"2026-11-10T15:53:33Z"}
 {"name":"@eset/fetlife-assets","id":"MAL-2022-252","aliases":["GHSA-4mmv-x3vh-8h2c"],"published":"2022-06-20T18:20:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@esmpfrontend/ui","id":"MAL-2023-36","aliases":["GHSA-xf32-vw54-m2xc"],"published":"2023-04-21T03:34:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@espace-client-axafr/advisor","id":"MAL-2025-41831","versions":["1.0.0"],"published":"2025-08-25T18:31:37Z","modified":"2026-10-02T05:38:49Z"}

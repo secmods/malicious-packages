@@ -1,8 +1,8 @@
 {
   "schema_version": "2.0.0",
-  "generated_at": "2026-11-10T07:53:00Z",
+  "generated_at": "2026-11-10T15:53:33Z",
   "upstream_repo": "https://github.com/ossf/malicious-packages.git",
-  "upstream_commit": "5cd896c895073ad8f967aa7860a969fccf031e1b",
+  "upstream_commit": "42fd002fbcc88b1bb557ef7604359116094eff82",
   "changes_since": "2026-10-02T05:38:49Z",
   "changes_window_days": 180,
   "shard_max_bytes": 26214400,
@@ -12,8 +12,8 @@
       "files": [
         {
           "file": "npm-00.jsonl",
-          "sha256": "110bbc724c63f37fdc90604a302842b3aadd686add417e2815f4f05d9a136f60",
-          "bytes": 26214292,
+          "sha256": "158b96e6f7a810c224135ae0d551cda4968650b8a5b62770c365829b1b7701d1",
+          "bytes": 26214361,
           "records": 199932
         },
         {
@@ -24,18 +24,18 @@
         }
       ],
       "records": 223166,
-      "bytes": 29239086,
+      "bytes": 29239155,
       "changes_file": "npm.changes.jsonl",
-      "changes_sha256": "4157d5a78f50b69e9220a9a89f824774d3e8ec95e4390f74e499aa6b0a11c1b1",
-      "changes_bytes": 257518,
-      "changes_records": 1496,
-      "max_modified": "2026-11-10T07:53:00Z"
+      "changes_sha256": "ec257844b42f4496476851305f34f6cdc88bfee6fc6908c3c185e2eeda3fdd74",
+      "changes_bytes": 257685,
+      "changes_records": 1497,
+      "max_modified": "2026-11-10T15:53:33Z"
     },
     "pypi": {
       "files": [
         {
           "file": "pypi.jsonl",
-          "sha256": "351da7645bfa4df9430050196ae7889dacce106e09d64b1527320eee41a126aa",
+          "sha256": "5c58270fe0c85fc1b3234891bc891797ef8c0bc59a6e21307448faeb7c92bfce",
           "bytes": 1562101,
           "records": 11993
         }
@@ -43,10 +43,10 @@
       "records": 11993,
       "bytes": 1562101,
       "changes_file": "pypi.changes.jsonl",
-      "changes_sha256": "6ee546474561e45c5fa6906d0ef96b316a4afe3039130764b51b45e33c3cde87",
+      "changes_sha256": "e3298b1a40c1f131906b3b18974950b6126e1179c5a423cb9a157a41614e3204",
       "changes_bytes": 35312,
       "changes_records": 224,
-      "max_modified": "2026-11-10T00:56:01Z"
+      "max_modified": "2026-11-10T15:53:33Z"
     },
     "go": {
       "files": [
