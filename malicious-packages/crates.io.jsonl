@@ -10,6 +10,7 @@
 {"name":"littest","id":"MAL-2023-8429","versions":["0.3.1"],"published":"2023-11-03T21:05:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"logs-update","id":"MAL-2026-16164","published":"2026-09-11T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"lsh","id":"MAL-2026-3126","versions":["99.0.1","99.1.0"],"published":"2026-04-28T01:45:56Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"lwd-uri-util","id":"MAL-2026-19058","versions":["0.1.0","0.1.1","0.1.2","0.1.3","0.1.4","0.1.5","0.1.6","0.1.7"],"published":"2026-11-10T05:07:11Z","modified":"2026-11-10T07:53:00Z"}
 {"name":"mysten-metrics","id":"MAL-2026-2958","versions":["9.0.0","9.0.3"],"published":"2026-04-20T20:20:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"proc-macro-en","id":"MAL-2026-14339","published":"2026-08-20T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"proc-macro1","id":"MAL-2026-14338","published":"2026-08-20T00:00:00Z","modified":"2026-10-02T05:38:49Z"}

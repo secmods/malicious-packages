@@ -1,2 +1,3 @@
+{"op":"upsert","modified":"2026-11-10T07:53:00Z","name":"lwd-uri-util","id":"MAL-2026-19058","versions":["0.1.0","0.1.1","0.1.2","0.1.3","0.1.4","0.1.5","0.1.6","0.1.7"],"published":"2026-11-10T05:07:11Z"}
 {"op":"upsert","modified":"2026-11-09T07:21:18Z","name":"env-test-guard","id":"MAL-2026-18776","versions":["0.2.0","0.3.0"],"published":"2026-11-07T21:46:49Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"sharpnes","id":"MAL-2026-17713","published":"2026-10-09T00:00:00Z"}
