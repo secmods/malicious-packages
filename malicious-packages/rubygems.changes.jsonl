@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-10T00:56:01Z","name":"strutil-core","id":"MAL-2026-19054","versions":["1.0.1"],"published":"2026-11-01T20:00:00Z"}
 {"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"agentic-call-control","id":"MAL-2026-18763","versions":["1.1.8"],"published":"2026-11-08T09:39:55Z"}
 {"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"control-character-command-injection","id":"MAL-2026-18764","versions":["1.0.1"],"published":"2026-11-08T09:40:01Z"}
 {"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"donjon-ledger","id":"MAL-2026-18765","versions":["2.0.2"],"published":"2026-11-08T09:39:40Z"}

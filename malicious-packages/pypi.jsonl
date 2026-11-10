@@ -9491,6 +9491,7 @@
 {"name":"shaiduwkv","id":"MAL-2024-10461","versions":["912.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"shan-lib","id":"MAL-2026-2847","versions":["1.0.7"],"published":"2026-04-17T13:41:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"shan-lib-poc","id":"MAL-2026-2843","versions":["1.0","1.0.1"],"published":"2026-04-17T10:56:55Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"shanks","id":"MAL-2026-19051","versions":["0.0.4"],"modified":"2026-11-10T00:56:01Z"}
 {"name":"shark-e2e-bnsneo","id":"MAL-2026-10912","versions":["0.2.10","0.2.9","0.3.1"],"published":"2026-07-20T10:13:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"shelipp","id":"MAL-2026-2844","versions":["0.0.1"],"published":"2026-04-17T10:52:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"shellexec","id":"MAL-2024-6001","versions":["1.0.4"],"published":"2024-06-25T13:42:31Z","modified":"2026-10-02T05:38:49Z"}

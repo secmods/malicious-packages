@@ -3130,6 +3130,7 @@
 {"name":"stripe-backup","id":"MAL-2025-192920","aliases":["GHSA-f6vm-pcj3-pp9g"],"versions":["0.0.0"],"published":"2025-12-23T08:41:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"stripe-rubocop","id":"MAL-2025-192921","aliases":["GHSA-f97f-9jmh-gcv2"],"versions":["0.11.3"],"published":"2025-12-23T08:41:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"stripe-server","id":"MAL-2025-192922","aliases":["GHSA-whq7-q96m-x8jh"],"versions":["0.2.15"],"published":"2025-12-23T08:41:12Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"strutil-core","id":"MAL-2026-19054","versions":["1.0.1"],"published":"2026-11-01T20:00:00Z","modified":"2026-11-10T00:56:01Z"}
 {"name":"stuck-it_up","id":"MAL-2024-7031","aliases":["GHSA-vpvq-4fm7-r44c"],"versions":["0.1.0"],"published":"2024-06-25T13:52:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"super-lite-hub","id":"MAL-2026-15776","versions":["0.0.1"],"published":"2026-08-24T16:15:54Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"super-pro-hub","id":"MAL-2026-15777","versions":["0.0.1"],"published":"2026-08-24T16:15:55Z","modified":"2026-10-02T05:38:49Z"}

@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-10T00:56:01Z","name":"shanks","id":"MAL-2026-19051","versions":["0.0.4"]}
 {"op":"upsert","modified":"2026-11-09T17:54:30Z","name":"logger-libs","id":"MAL-2026-18778","versions":["0.4.1","0.4.2","0.4.3","0.4.5","0.4.6"],"published":"2026-11-09T08:18:27Z"}
 {"op":"upsert","modified":"2026-11-09T00:13:09Z","name":"bundyfed","id":"MAL-2026-18770","versions":["1.0.0","1.0.1"],"published":"2026-11-08T21:22:06Z"}
 {"op":"upsert","modified":"2026-11-09T00:13:09Z","name":"extrahtml","id":"MAL-2026-18771","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-11-08T21:47:19Z"}
