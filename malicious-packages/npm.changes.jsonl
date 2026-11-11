@@ -1,3 +1,18 @@
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"@apexacc/cli","id":"MAL-2026-17924","aliases":["GHSA-pg98-9cmp-wcf5"],"published":"2026-10-26T05:25:19Z"}
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"@mobile-platform/magnetic-components","id":"MAL-2026-18448","aliases":["GHSA-fmr2-gc7p-wpc7"],"published":"2026-10-29T15:19:02Z"}
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"@rclaude/win32-x64","id":"MAL-2026-19095","aliases":["GHSA-w584-99h6-6g9r"],"versions":["0.2.1"],"published":"2026-11-10T22:06:21Z"}
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"baidu-ti","id":"MAL-2026-19098","aliases":["GHSA-hwgp-r9x8-49cx"],"published":"2026-11-10T22:54:07Z"}
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"css-import-order","id":"MAL-2026-14473","aliases":["GHSA-wc5q-g53w-pg32"],"published":"2026-08-25T06:41:07Z"}
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"hissakdx-wix-ssr-callback-canary","id":"MAL-2026-19099","aliases":["GHSA-pmjf-g9mp-9hrr"],"published":"2026-11-10T22:22:19Z"}
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"modules-newline","id":"MAL-2026-14483","aliases":["GHSA-5hjr-7qfq-x5m5"],"published":"2026-08-25T08:40:02Z"}
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"nj-logger","id":"MAL-2026-2907","aliases":["GHSA-6q28-3q3p-8x7c"],"published":"2026-04-16T02:50:55Z"}
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"react-svg-chunk","id":"MAL-2026-19096","aliases":["GHSA-5mg5-p59w-76r5"],"published":"2026-11-10T21:19:15Z"}
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"read-react-app-in","id":"MAL-2026-19100","aliases":["GHSA-hc34-qc67-9qp4"],"published":"2026-11-10T22:21:24Z"}
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"read-react-app-out","id":"MAL-2026-19101","aliases":["GHSA-wfm4-3cjm-9545"],"published":"2026-11-10T22:21:24Z"}
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"read-react-app-test","id":"MAL-2026-19102","aliases":["GHSA-rf9p-c6g8-r84w"],"published":"2026-11-10T22:21:24Z"}
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"rex-react-diag-tools-v1","id":"MAL-2026-19104","aliases":["GHSA-w3r9-3pw6-qg6q"],"published":"2026-11-11T00:56:31Z"}
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"selectlist-polyfill-lite","id":"MAL-2026-19103","aliases":["GHSA-2wg4-r52x-r477"],"published":"2026-11-10T22:22:19Z"}
+{"op":"upsert","modified":"2026-11-11T01:33:48Z","name":"solvit-cli","id":"MAL-2026-19097","aliases":["GHSA-p4j3-63x4-qr3v"],"versions":["0.0.0-stage","0.1.0","0.1.1","0.1.2","0.2.1","0.4.2","0.4.3","0.4.4","0.5.0"],"published":"2026-11-10T22:14:10Z"}
 {"op":"upsert","modified":"2026-11-10T21:31:41Z","name":"@2oolkit/hyperliquid-cli","id":"MAL-2026-3679","aliases":["GHSA-qg83-c6x5-qw8f"],"versions":["0.1.0","0.2.0","0.2.1","0.2.2","0.2.3","0.2.4","0.2.5","0.2.6","0.2.7"],"published":"2026-05-12T07:42:47Z"}
 {"op":"upsert","modified":"2026-11-10T21:31:41Z","name":"@lemili9804/mcp-weather-server","id":"MAL-2026-19085","aliases":["GHSA-qwfq-cw9x-55x4"],"versions":["1.0.3","1.0.6"],"published":"2026-11-10T18:58:49Z"}
 {"op":"upsert","modified":"2026-11-10T21:31:41Z","name":"@solana-common/utils","id":"MAL-2026-19079","aliases":["GHSA-r533-jgcg-qr68"],"versions":["1.0.0","1.1.0","1.1.1","1.1.2","1.1.3","1.2.2","1.2.3","1.3.0","1.3.1","2.0.0","2.0.1","2.0.10","2.0.11","2.0.12","2.0.2","2.0.3","2.0.4","2.0.5","2.0.6","2.0.7","2.0.8","2.0.9"],"published":"2026-11-10T16:41:14Z"}
@@ -674,7 +689,6 @@
 {"op":"upsert","modified":"2026-11-02T08:41:56Z","name":"@bil-rgb/baileys","id":"MAL-2026-18441","versions":["1.0.0","1.0.1"],"published":"2026-11-02T01:41:43Z"}
 {"op":"delete","modified":"2026-11-02T08:41:56Z","name":"@factiii/runner"}
 {"op":"upsert","modified":"2026-11-02T08:41:56Z","name":"@johnruff215-dev/solana-wallet-tracker","id":"MAL-2026-18444"}
-{"op":"upsert","modified":"2026-11-02T08:41:56Z","name":"@mobile-platform/magnetic-components","id":"MAL-2026-18448","versions":["0.0.1","0.0.2","0.0.3"],"published":"2026-10-29T15:19:02Z"}
 {"op":"upsert","modified":"2026-11-02T08:41:56Z","name":"@notrainer/nobtrainer-sdk","id":"MAL-2026-18446"}
 {"op":"upsert","modified":"2026-11-02T08:41:56Z","name":"@pcb-dp/qa-commons","id":"MAL-2026-18413","aliases":["GHSA-w4v4-fj9q-cfj5"],"published":"2026-10-29T15:32:05Z"}
 {"op":"upsert","modified":"2026-11-02T08:41:56Z","name":"@sxm-content-creators/tools-ds","id":"MAL-2026-18414","aliases":["GHSA-x4jx-pc3h-93v6"],"published":"2026-10-29T22:41:24Z"}
@@ -814,7 +828,6 @@
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"jshelperdependenceny","id":"MAL-2026-18288","aliases":["GHSA-2gxp-q3vq-594r"],"versions":["0.0.0-stage","1.0.0","99.0.0"],"published":"2026-10-25T15:11:25Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"path-stream-utils-testmetest","id":"MAL-2026-18333","aliases":["GHSA-7pvr-f92m-6fwg"],"published":"2026-10-26T16:28:45Z"}
 {"op":"upsert","modified":"2026-10-26T17:46:25Z","name":"postcss-semantic-themes","id":"MAL-2026-18334","aliases":["GHSA-fh55-fq5h-h352"],"published":"2026-10-26T16:17:58Z"}
-{"op":"upsert","modified":"2026-10-26T11:43:08Z","name":"@apexacc/cli","id":"MAL-2026-17924","published":"2026-10-26T05:25:19Z"}
 {"op":"upsert","modified":"2026-10-26T11:43:08Z","name":"@worca/app","id":"MAL-2026-18325","aliases":["GHSA-rmc5-cxrx-5fh9"],"versions":["1.14.0-rc.2","1.14.0-rc.4"],"published":"2026-10-26T07:33:14Z"}
 {"op":"upsert","modified":"2026-10-26T11:43:08Z","name":"publish-poc-base","id":"MAL-2026-18323","versions":["1.0.7"],"published":"2026-10-26T06:31:13Z"}
 {"op":"upsert","modified":"2026-10-26T11:43:08Z","name":"publish-poc-test3","id":"MAL-2026-18324","versions":["1.0.15","1.0.18","1.0.19","1.0.21","1.0.22","1.0.26","1.0.27"],"published":"2026-10-26T06:30:51Z"}
