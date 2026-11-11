@@ -1,3 +1,10 @@
+{"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"fcefi-wdojs-util","id":"MAL-2026-19142","versions":["1.0.0"],"published":"2026-11-11T21:01:46Z"}
+{"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"mock-data-sdk","id":"MAL-2026-19143","versions":["1.0.1"],"published":"2026-11-11T21:02:24Z"}
+{"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"strutil-helpers-core","id":"MAL-2026-19144","versions":["1.0.1","1.0.2","1.0.3","1.0.4","1.0.5"],"published":"2026-11-11T20:54:40Z"}
+{"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"tailwind-contact-forms","id":"MAL-2026-15925","versions":["0.5.1","0.5.12","0.5.5","0.5.8","0.5.9"],"published":"2026-09-04T06:48:54Z"}
+{"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"tailwindcss-form-ui","id":"MAL-2026-16262","versions":["0.5.1","0.5.8"],"published":"2026-09-17T19:51:15Z"}
+{"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"tailwindcss-hook-forms","id":"MAL-2026-19145","versions":["0.5.2"],"published":"2026-11-11T20:55:10Z"}
+{"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"teahy-znrpz-util","id":"MAL-2026-19146","versions":["1.0.0"],"published":"2026-11-11T21:03:21Z"}
 {"op":"upsert","modified":"2026-11-11T16:43:12Z","name":"0sec-cli","id":"MAL-2026-19118","aliases":["GHSA-9j97-6pqr-qvrx"],"versions":["0.28.10","0.28.9"],"published":"2026-11-11T12:09:02Z"}
 {"op":"upsert","modified":"2026-11-11T16:43:12Z","name":"@tomhundley/condux","id":"MAL-2026-19121","aliases":["GHSA-jgmp-2vff-26jw"],"published":"2026-11-11T15:35:43Z"}
 {"op":"upsert","modified":"2026-11-11T16:43:12Z","name":"@tomhundley/grafene","id":"MAL-2026-19122","aliases":["GHSA-65fw-m4q2-8ffh"],"published":"2026-11-11T15:35:44Z"}
@@ -1547,7 +1554,6 @@
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"system-driver","id":"MAL-2026-17685","aliases":["GHSA-43w2-g2fc-r4h3"],"published":"2026-10-08T14:39:26Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"tailwind-animatecss-form","id":"MAL-2026-17743","aliases":["GHSA-pp69-57rc-3v49"],"published":"2026-10-09T15:21:55Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"tailwind-animatecss-uniform","id":"MAL-2026-17667","aliases":["GHSA-hxvr-77vv-6r85"],"published":"2026-10-07T18:36:40Z"}
-{"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"tailwind-contact-forms","id":"MAL-2026-15925","versions":["0.5.1","0.5.12","0.5.5","0.5.9"],"published":"2026-09-04T06:48:54Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"tailwindcss-animatecss-keyframes","id":"MAL-2026-17646","aliases":["GHSA-3g68-5jcj-q8rx"],"published":"2026-10-07T15:44:45Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"tailwindcss-effects-kit","id":"MAL-2026-17686","aliases":["GHSA-9c94-xcv7-wcf4"],"published":"2026-10-08T15:23:05Z"}
 {"op":"upsert","modified":"2026-10-11T03:39:29Z","name":"tailwindcss-forms-styles","id":"MAL-2026-17524","versions":["0.5.1"],"published":"2026-10-04T23:25:12Z"}
