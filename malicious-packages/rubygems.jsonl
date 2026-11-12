@@ -889,6 +889,7 @@
 {"name":"buendler","id":"MAL-2026-16787","versions":["1.0.0","1.0.35062"],"published":"2026-09-22T16:16:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"buenlder","id":"MAL-2026-16788","versions":["1.0.0","1.0.41769"],"published":"2026-09-22T16:16:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"buesndler","id":"MAL-2026-16789","versions":["1.0.0","1.0.48043"],"published":"2026-09-22T16:16:46Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"buffer-code-exercise-api","id":"MAL-2026-19156","versions":["1.0.1"],"published":"2026-11-12T15:51:49Z","modified":"2026-11-12T21:12:24Z"}
 {"name":"buhdlef","id":"MAL-2026-16790","versions":["1.0.0","1.0.93541"],"published":"2026-09-22T16:16:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"buhdler","id":"MAL-2026-16791","versions":["1.0.0","1.0.24533"],"published":"2026-09-22T16:16:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"buhlder","id":"MAL-2026-16792","versions":["1.0.0","1.0.60605"],"published":"2026-09-22T16:16:48Z","modified":"2026-10-02T05:38:49Z"}
@@ -1314,6 +1315,7 @@
 {"name":"chatoaitesthg1778552644","id":"MAL-2026-7574","versions":["0.0.1"],"published":"2026-07-07T11:51:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"chatoaitestsvn1778552651","id":"MAL-2026-7575","versions":["0.0.1"],"published":"2026-07-07T11:51:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"chatterbox-client","id":"MAL-2025-46898","versions":["2.4.1.48.ge07b52b"],"published":"2025-09-01T09:47:45Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"cheesebox","id":"MAL-2026-19157","versions":["10.0.1"],"published":"2026-11-12T15:51:40Z","modified":"2026-11-12T21:12:24Z"}
 {"name":"chef-partial-search","id":"MAL-2024-6825","versions":["1.0.7"],"published":"2024-06-25T13:50:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"chef_cloudsearch","id":"MAL-2024-6826","versions":["0.0.2"],"published":"2024-06-25T13:50:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"chef_handler-datadog-demo","id":"MAL-2024-6827","versions":["0.2.0"],"published":"2024-06-25T13:50:14Z","modified":"2026-10-02T05:38:49Z"}
@@ -2562,6 +2564,7 @@
 {"name":"pdfmeno1","id":"MAL-2026-8423","aliases":["GHSA-f3q8-hg6q-j43f"],"versions":["0.0.1"],"published":"2026-07-07T12:00:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pdfpalais1","id":"MAL-2026-8424","aliases":["GHSA-w64f-37w5-6mgp"],"versions":["0.0.1"],"published":"2026-07-07T12:00:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pdftoilet1","id":"MAL-2026-8425","aliases":["GHSA-r3cm-w9hw-3rhc"],"versions":["0.0.1"],"published":"2026-07-07T12:00:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"pentest-copilot","id":"MAL-2026-19177","versions":["1.0.1"],"published":"2026-11-12T17:40:54Z","modified":"2026-11-12T21:12:24Z"}
 {"name":"perp-funding-rates","id":"MAL-2026-17793","versions":["0.9.1"],"published":"2026-10-11T07:05:31Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"pg_result_init","id":"MAL-2025-191667","versions":["2.0.9"],"published":"2025-12-02T15:12:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"piko-clean-hub","id":"MAL-2026-15764","versions":["0.0.1"],"published":"2026-08-24T16:15:39Z","modified":"2026-10-02T05:38:49Z"}

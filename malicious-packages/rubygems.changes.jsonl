@@ -1,3 +1,6 @@
+{"op":"upsert","modified":"2026-11-12T21:12:24Z","name":"buffer-code-exercise-api","id":"MAL-2026-19156","versions":["1.0.1"],"published":"2026-11-12T15:51:49Z"}
+{"op":"upsert","modified":"2026-11-12T21:12:24Z","name":"cheesebox","id":"MAL-2026-19157","versions":["10.0.1"],"published":"2026-11-12T15:51:40Z"}
+{"op":"upsert","modified":"2026-11-12T21:12:24Z","name":"pentest-copilot","id":"MAL-2026-19177","versions":["1.0.1"],"published":"2026-11-12T17:40:54Z"}
 {"op":"upsert","modified":"2026-11-10T00:56:01Z","name":"strutil-core","id":"MAL-2026-19054","versions":["1.0.1"],"published":"2026-11-01T20:00:00Z"}
 {"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"agentic-call-control","id":"MAL-2026-18763","versions":["1.1.8"],"published":"2026-11-08T09:39:55Z"}
 {"op":"upsert","modified":"2026-11-08T16:25:46Z","name":"control-character-command-injection","id":"MAL-2026-18764","versions":["1.0.1"],"published":"2026-11-08T09:40:01Z"}
