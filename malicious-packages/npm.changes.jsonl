@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-12T04:39:13Z","name":"@rfewqa-fes/mnm-doc-mcp","id":"MAL-2026-19148","versions":["1.0.0"],"published":"2026-11-12T04:07:58Z"}
 {"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"fcefi-wdojs-util","id":"MAL-2026-19142","versions":["1.0.0"],"published":"2026-11-11T21:01:46Z"}
 {"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"mock-data-sdk","id":"MAL-2026-19143","versions":["1.0.1"],"published":"2026-11-11T21:02:24Z"}
 {"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"strutil-helpers-core","id":"MAL-2026-19144","versions":["1.0.1","1.0.2","1.0.3","1.0.4","1.0.5"],"published":"2026-11-11T20:54:40Z"}
