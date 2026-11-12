@@ -53,7 +53,7 @@
 {"name":"0maptrea","id":"MAL-2022-12","aliases":["GHSA-g599-wmg4-2cw4"],"published":"2022-08-19T03:55:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"0nestjs","id":"MAL-2026-15908","versions":["0.0.1"],"published":"2026-09-03T23:35:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"0o1d7m","id":"MAL-2025-6976","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"0sec-cli","id":"MAL-2026-19118","aliases":["GHSA-9j97-6pqr-qvrx"],"versions":["0.28.10","0.28.9"],"published":"2026-11-11T12:09:02Z","modified":"2026-11-11T16:43:12Z"}
+{"name":"0sec-cli","id":"MAL-2026-19118","aliases":["GHSA-9j97-6pqr-qvrx"],"versions":["0.22.0","0.22.1","0.22.4","0.23.0","0.24.0","0.24.1","0.27.0","0.28.10","0.28.2","0.28.4","0.28.5","0.28.6","0.28.7","0.28.8","0.28.9"],"published":"2026-11-11T12:09:02Z","modified":"2026-11-12T13:24:07Z"}
 {"name":"0supportscolor","id":"MAL-2022-13","aliases":["GHSA-2hxj-pr5x-569c"],"published":"2022-08-19T03:55:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"0sxokg","id":"MAL-2024-9115","aliases":["GHSA-grjh-jhmc-26q4"],"published":"2024-10-09T07:04:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"0vulns-dependency-confusion-poc","id":"MAL-2025-5016","aliases":["GHSA-r9cf-374f-9q9v","GHSA-wwc9-c8g2-66r2"],"versions":["1.0.0"],"published":"2025-06-12T17:49:59Z","modified":"2026-10-02T05:38:49Z"}
@@ -9140,6 +9140,7 @@
 {"name":"@ncurran/sandbox-recon-sys-6a3f","id":"MAL-2026-6109","aliases":["GHSA-8xvr-4p7v-395p"],"published":"2026-06-18T03:27:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ncurran/sandbox-recon-uac-4e7c","id":"MAL-2026-6110","aliases":["GHSA-88j8-4jpx-79xj"],"published":"2026-06-18T03:27:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ndikafath/baileys","id":"MAL-2026-18867","versions":["1.0.0"],"published":"2026-10-27T00:00:00Z","modified":"2026-11-10T00:56:01Z"}
+{"name":"@ndikagantengg/baileys","id":"MAL-2026-19152","modified":"2026-11-12T13:24:07Z"}
 {"name":"@nebula.js/cli","id":"MAL-2026-11565","aliases":["GHSA-887g-ghx7-v969"],"versions":["7.1.2"],"published":"2026-08-04T15:48:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@nebula.js/cli-build","id":"MAL-2026-11566","aliases":["GHSA-2vj8-6266-q3m5"],"versions":["7.1.2"],"published":"2026-08-04T13:18:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@nebula.js/cli-sense","id":"MAL-2026-11567","aliases":["GHSA-c79x-q2hh-wxrr"],"versions":["7.1.2"],"published":"2026-08-04T15:49:05Z","modified":"2026-10-02T05:38:49Z"}
@@ -10475,6 +10476,7 @@
 {"name":"@rsi-core-services/rsi-authorization-client","id":"MAL-2023-1544","aliases":["GHSA-g3xf-9h5w-h68x"],"published":"2023-08-22T04:52:54Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@rupahealth/design","id":"MAL-2025-5801","aliases":["GHSA-h3hw-566v-wmgr"],"published":"2025-07-06T19:47:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@rustore-web/config","id":"MAL-2023-1104","versions":["2.1.4"],"published":"2023-07-09T17:31:24Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@ruthless-imperium/baileys","id":"MAL-2026-19150","modified":"2026-11-12T13:24:07Z"}
 {"name":"@rutxploit-sec/subsplash-canny","id":"MAL-2026-17288","versions":["1.0.0"],"published":"2026-09-29T22:11:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@rutxploit-sec/subsplash-google-tag-manager","id":"MAL-2026-17289","versions":["1.0.0"],"published":"2026-09-29T22:11:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@rutxploit-sec/waves-button-poc","id":"MAL-2026-17290","versions":["1.0.0","2.0.0","3.0.0"],"published":"2026-09-29T22:11:06Z","modified":"2026-10-02T05:38:49Z"}
@@ -41456,6 +41458,7 @@
 {"name":"carbon-sageone","id":"MAL-2023-160","aliases":["GHSA-m4q5-mjc3-gcpg"],"published":"2023-07-05T06:50:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"carbonara-notthedevs","id":"MAL-2025-100263","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"carbonite-internal","id":"MAL-2026-3352","versions":["99.9.0"],"published":"2026-05-06T06:20:35Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"carboniteapp","id":"MAL-2026-19151","modified":"2026-11-12T13:24:07Z"}
 {"name":"carcandofilex","id":"MAL-2025-3547","aliases":["GHSA-3xf8-mjp4-vwhp","SNYK-JS-CARCANDOFILEX-10006713"],"published":"2025-04-30T09:00:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"card-present-integration","id":"MAL-2025-48355","aliases":["GHSA-c6vv-q4j7-x7r4"],"published":"2025-10-07T14:43:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"card3d","id":"MAL-2026-15972","aliases":["GHSA-gggp-h9vj-pw3p"],"published":"2026-09-05T19:49:11Z","modified":"2026-10-02T05:38:49Z"}
@@ -148004,6 +148007,7 @@
 {"name":"pdf-a-court-of-wings-and-ruin-a-court-of-thorns-and-roses-3-by-sarah-j-maas-on-iphone-full-chapters-","id":"MAL-2023-674","aliases":["GHSA-9qhc-rh5g-r6wp"],"published":"2023-05-10T13:24:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pdf-annotation","id":"MAL-2025-190985","aliases":["GHSA-5r9h-vrq7-h3vr"],"versions":["0.0.2"],"published":"2025-11-24T21:51:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pdf-gods-generals-the-military-lives-of-moses-the-buddha-and-muhammad-by-richard-a-gabriel-on-textbo","id":"MAL-2023-675","aliases":["GHSA-r7mm-wvfx-7w89"],"published":"2023-05-10T13:24:33Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"pdf-html5-page-flip","id":"MAL-2026-19153","aliases":["GHSA-j3hx-5mxx-43qh"],"versions":["2.0.2"],"published":"2026-11-12T11:33:05Z","modified":"2026-11-12T13:24:07Z"}
 {"name":"pdf-lib-enhanced","id":"MAL-2026-4799","aliases":["GHSA-9qcm-qgjc-h848"],"published":"2026-05-26T11:56:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pdf-linker","id":"MAL-2026-2677","aliases":["GHSA-mwqh-c7j6-f7p2"],"published":"2026-04-15T03:12:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pdf-off-base-out-of-uniform-1-by-annabeth-albert-on-iphone-new-volumes-","id":"MAL-2023-676","aliases":["GHSA-55qx-782c-6vx9"],"published":"2023-05-10T13:24:31Z","modified":"2026-10-02T05:38:49Z"}
@@ -182056,6 +182060,7 @@
 {"name":"superior_rattlesnake_z3n","id":"MAL-2025-123414","published":"2025-11-11T20:11:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"superior_stork_0xrequest","id":"MAL-2025-109315","published":"2025-11-11T07:26:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"superior_vulture-tool","id":"MAL-2025-109316","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"superlib_ex3","id":"MAL-2026-19149","modified":"2026-11-12T13:24:07Z"}
 {"name":"supermarket-pages","id":"MAL-2025-34214","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"supermoy1","id":"MAL-2025-49442","published":"2025-11-09T00:17:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"supernova-apex-brane-callback","id":"MAL-2025-189759","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
@@ -199901,9 +199906,3 @@
 {"name":"umi-bubur68-miaww","id":"MAL-2025-117612","published":"2025-11-11T15:19:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umi-bubur85-sukiwir","id":"MAL-2025-81862","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umi-bubur92-miaww","id":"MAL-2025-91437","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-buburayam37-breki","id":"MAL-2025-123782","published":"2025-11-11T20:11:48Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-buburayam58-miaww","id":"MAL-2025-117613","published":"2025-11-11T15:19:32Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-buburayam59-riris","id":"MAL-2025-130801","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-bubursumsum25-sukiwir","id":"MAL-2025-59092","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-bubursumsum33-miaww","id":"MAL-2025-52538","published":"2025-11-10T04:05:19Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-bubursumsum33-sukiwir","id":"MAL-2025-59093","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}

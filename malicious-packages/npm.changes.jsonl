@@ -1,3 +1,9 @@
+{"op":"upsert","modified":"2026-11-12T13:24:07Z","name":"0sec-cli","id":"MAL-2026-19118","aliases":["GHSA-9j97-6pqr-qvrx"],"versions":["0.22.0","0.22.1","0.22.4","0.23.0","0.24.0","0.24.1","0.27.0","0.28.10","0.28.2","0.28.4","0.28.5","0.28.6","0.28.7","0.28.8","0.28.9"],"published":"2026-11-11T12:09:02Z"}
+{"op":"upsert","modified":"2026-11-12T13:24:07Z","name":"@ndikagantengg/baileys","id":"MAL-2026-19152"}
+{"op":"upsert","modified":"2026-11-12T13:24:07Z","name":"@ruthless-imperium/baileys","id":"MAL-2026-19150"}
+{"op":"upsert","modified":"2026-11-12T13:24:07Z","name":"carboniteapp","id":"MAL-2026-19151"}
+{"op":"upsert","modified":"2026-11-12T13:24:07Z","name":"pdf-html5-page-flip","id":"MAL-2026-19153","aliases":["GHSA-j3hx-5mxx-43qh"],"versions":["2.0.2"],"published":"2026-11-12T11:33:05Z"}
+{"op":"upsert","modified":"2026-11-12T13:24:07Z","name":"superlib_ex3","id":"MAL-2026-19149"}
 {"op":"upsert","modified":"2026-11-12T04:39:13Z","name":"@rfewqa-fes/mnm-doc-mcp","id":"MAL-2026-19148","versions":["1.0.0"],"published":"2026-11-12T04:07:58Z"}
 {"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"fcefi-wdojs-util","id":"MAL-2026-19142","versions":["1.0.0"],"published":"2026-11-11T21:01:46Z"}
 {"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"mock-data-sdk","id":"MAL-2026-19143","versions":["1.0.1"],"published":"2026-11-11T21:02:24Z"}
@@ -6,7 +12,6 @@
 {"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"tailwindcss-form-ui","id":"MAL-2026-16262","versions":["0.5.1","0.5.8"],"published":"2026-09-17T19:51:15Z"}
 {"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"tailwindcss-hook-forms","id":"MAL-2026-19145","versions":["0.5.2"],"published":"2026-11-11T20:55:10Z"}
 {"op":"upsert","modified":"2026-11-11T23:11:18Z","name":"teahy-znrpz-util","id":"MAL-2026-19146","versions":["1.0.0"],"published":"2026-11-11T21:03:21Z"}
-{"op":"upsert","modified":"2026-11-11T16:43:12Z","name":"0sec-cli","id":"MAL-2026-19118","aliases":["GHSA-9j97-6pqr-qvrx"],"versions":["0.28.10","0.28.9"],"published":"2026-11-11T12:09:02Z"}
 {"op":"upsert","modified":"2026-11-11T16:43:12Z","name":"@tomhundley/condux","id":"MAL-2026-19121","aliases":["GHSA-jgmp-2vff-26jw"],"published":"2026-11-11T15:35:43Z"}
 {"op":"upsert","modified":"2026-11-11T16:43:12Z","name":"@tomhundley/grafene","id":"MAL-2026-19122","aliases":["GHSA-65fw-m4q2-8ffh"],"published":"2026-11-11T15:35:44Z"}
 {"op":"upsert","modified":"2026-11-11T16:43:12Z","name":"@tomhundley/mypackagetest","id":"MAL-2026-19123","aliases":["GHSA-gfh2-8j8w-933m"],"published":"2026-11-11T15:35:43Z"}
