@@ -5,7 +5,9 @@
 {"name":"arone","id":"MAL-2026-14334","published":"2026-08-20T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"aronenao","id":"MAL-2026-14335","published":"2026-08-20T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"arrayref","id":"MAL-2026-14336","versions":["0.3.10"],"published":"2026-08-20T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"basek","id":"MAL-2026-19200","versions":["0.1.0"],"published":"2026-11-12T21:47:36Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"env-test-guard","id":"MAL-2026-18776","versions":["0.2.0","0.3.0"],"published":"2026-11-07T21:46:49Z","modified":"2026-11-09T07:21:18Z"}
+{"name":"hesk","id":"MAL-2026-19201","versions":["0.1.0"],"published":"2026-11-12T21:47:28Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"internment","id":"MAL-2026-14337","versions":["0.8.7"],"published":"2026-08-20T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"littest","id":"MAL-2023-8429","versions":["0.3.1"],"published":"2023-11-03T21:05:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"logs-update","id":"MAL-2026-16164","published":"2026-09-11T00:00:00Z","modified":"2026-10-02T05:38:49Z"}

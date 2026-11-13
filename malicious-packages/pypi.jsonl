@@ -51,6 +51,7 @@
 {"name":"acoustichub","id":"MAL-2026-18155","versions":["0.1.0"],"published":"2026-10-22T00:58:24Z","modified":"2026-10-22T02:11:22Z"}
 {"name":"acousticpack","id":"MAL-2026-18152","versions":["0.1.0"],"published":"2026-10-22T00:20:52Z","modified":"2026-10-22T02:11:22Z"}
 {"name":"acpi-tables","id":"MAL-2026-876","versions":["1.0.9"],"published":"2026-02-13T10:35:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"acustoviasr","id":"MAL-2026-19199","versions":["0.1.0"],"published":"2026-11-12T21:04:04Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"adad","id":"MAL-2023-2476","published":"2023-02-24T16:45:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"adafruit-display-text","id":"MAL-2024-12187","versions":["1.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"adafruit-imageload","id":"MAL-2024-9935","versions":["1.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
@@ -1585,6 +1586,7 @@
 {"name":"darkig","id":"MAL-2026-1409","versions":["1.0","2.0"],"published":"2026-03-13T10:50:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"darkmanontop","id":"MAL-2024-5025","versions":["0.0.1"],"published":"2024-06-25T13:34:29Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dash-grid-normalizer","id":"MAL-2026-5725","versions":["0.0.1","0.0.2","0.0.3","0.0.4","0.0.5"],"published":"2026-06-13T01:03:41Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"dashloom","id":"MAL-2026-19202","versions":["1.0.0","1.1.0","1.1.1"],"published":"2026-11-12T22:25:26Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"data-harvester","id":"MAL-2026-10191","versions":["0.3.1"],"published":"2026-07-12T08:16:33Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"data-parser-utils","id":"MAL-2026-10780","versions":["2.4.1"],"published":"2026-07-19T19:51:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"data-pipeline-check","id":"MAL-2026-4271","versions":["0.1.0","0.1.1"],"published":"2026-05-24T01:45:49Z","modified":"2026-10-02T05:38:49Z"}
@@ -2938,10 +2940,10 @@
 {"name":"etlisalat","id":"MAL-2024-5121","aliases":["SNYK-PYTHON-ETLISALAT-5295896"],"versions":["1.0"],"published":"2024-06-25T13:35:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"etnsorflow","id":"MAL-2023-1827","published":"2023-02-10T17:36:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ettherium","id":"MAL-2024-10021","versions":["1.0.0"],"published":"2024-06-28T20:16:20Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"eulaliatts","versions":["0.1.0"],"published":"2026-11-12T20:35:05.220445Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"eulaliatts","id":"MAL-2026-19179","versions":["0.1.0"],"published":"2026-11-12T20:35:05Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"euler-sdk","id":"MAL-2026-13730","versions":["1.0.0"],"published":"2026-08-11T09:48:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"eutherium","id":"MAL-2024-10022","versions":["1.0.0"],"published":"2024-06-28T20:16:20Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"evalometer","versions":["0.1.0"],"published":"2026-11-12T20:50:21.693375Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"evalometer","id":"MAL-2026-19180","versions":["0.1.0"],"published":"2026-11-12T20:50:21Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"evalstream","id":"MAL-2026-18161","versions":["0.1.0"],"published":"2026-10-22T00:57:19Z","modified":"2026-10-22T02:11:22Z"}
 {"name":"evannlegoat","id":"MAL-2024-5122","versions":["1.0.4"],"published":"2024-06-25T13:35:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"evil-package","id":"MAL-2024-10023","versions":["0.0.1","0.0.2","0.0.3"],"published":"2024-07-24T23:03:34Z","modified":"2026-10-02T05:38:49Z"}
@@ -3056,10 +3058,11 @@
 {"name":"ferns","id":"MAL-2024-5137","versions":["1.0"],"published":"2024-06-25T13:35:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ferqtrade","id":"MAL-2023-1830","published":"2023-02-09T18:39:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ferretqueue","id":"MAL-2026-18226","versions":["0.1.0"],"published":"2026-10-23T15:52:48Z","modified":"2026-10-23T19:36:10Z"}
-{"name":"ferrotts","versions":["0.1.0"],"published":"2026-11-12T20:51:37.558451Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"ferrotts","id":"MAL-2026-19181","versions":["0.1.0"],"published":"2026-11-12T20:51:37Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"fet","id":"MAL-2025-41671","versions":["2.0.1"],"published":"2025-08-28T07:11:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fetch-data-api-syncapi","id":"MAL-2026-3100","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-04-27T16:31:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fetchapi-syncdata-pypi","id":"MAL-2026-3133","versions":["0.1.0"],"published":"2026-04-28T18:46:19Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"fetchium","id":"MAL-2026-19203","versions":["1.0.0","1.0.1"],"published":"2026-11-13T00:26:54Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"feur","id":"MAL-2024-5138","aliases":["SNYK-PYTHON-FEUR-5798568"],"versions":["0.1"],"published":"2024-06-25T13:35:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ffefesaewad","id":"MAL-2024-11595","versions":["0.1"],"published":"2024-12-09T06:50:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fflask","id":"MAL-2025-923","versions":["3.1.8.dev0","3.1.9.dev0","3.2.0.dev0"],"published":"2024-12-24T18:09:49Z","modified":"2026-10-02T05:38:49Z"}
@@ -3113,7 +3116,7 @@
 {"name":"floogle","id":"MAL-2025-41676","versions":["0.7"],"published":"2025-08-28T07:11:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"flophttp","id":"MAL-2024-10028","versions":["2.3.5"],"published":"2024-08-29T10:57:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"flowfix","id":"MAL-2026-1276","versions":["0.1.0","0.1.1"],"published":"2026-03-06T17:39:56Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"flowmetry","versions":["0.1.0"],"published":"2026-11-12T20:51:14.911891Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"flowmetry","id":"MAL-2026-19182","versions":["0.1.0"],"published":"2026-11-12T20:51:14Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"flowpeek","id":"MAL-2026-1437","versions":["0.1.1"],"published":"2026-03-15T17:02:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fluent-dashboard-panel-metrics","id":"MAL-2026-6233","versions":["0.1.0"],"published":"2026-06-20T01:07:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"fluent-panel-metrics","id":"MAL-2026-6182","versions":["0.1.0"],"published":"2026-06-19T00:53:01Z","modified":"2026-10-02T05:38:49Z"}
@@ -3241,8 +3244,8 @@
 {"name":"gamevm","id":"MAL-2023-3605","published":"2023-02-24T16:39:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gandon-pidar1","id":"MAL-2025-928","versions":["1.0.0"],"published":"2024-08-05T22:25:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gangomodule","id":"MAL-2026-2486","versions":["1.0.20","1.0.37"],"published":"2026-04-04T12:01:55Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"garviscope","versions":["0.1.0"],"published":"2026-11-12T20:50:50.396002Z","modified":"2026-11-12T21:12:24Z"}
-{"name":"garvisuite","versions":["0.1.0"],"published":"2026-11-12T20:46:39.641977Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"garviscope","id":"MAL-2026-19183","versions":["0.1.0"],"published":"2026-11-12T20:50:50Z","modified":"2026-11-13T02:13:55Z"}
+{"name":"garvisuite","id":"MAL-2026-19184","versions":["0.1.0"],"published":"2026-11-12T20:46:39Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"gate-apis","id":"MAL-2026-2630","versions":["2.33.0"],"published":"2026-04-14T10:23:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gateway-framework","id":"MAL-2025-6508","versions":["0.1","0.2","0.3"],"published":"2025-07-14T13:50:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gatr","id":"MAL-2026-7","versions":["0.0.0","0.0.1"],"published":"2026-01-02T13:03:00Z","modified":"2026-10-02T05:38:49Z"}
@@ -3852,7 +3855,7 @@
 {"name":"infovm","id":"MAL-2023-3808","published":"2023-02-24T16:39:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"infra-libs","id":"MAL-2026-18761","versions":["99.99.99"],"published":"2026-11-08T09:39:28Z","modified":"2026-11-08T16:25:46Z"}
 {"name":"infrabench","id":"MAL-2026-17469","versions":["0.1.0","0.1.1","0.2.0"],"published":"2026-10-03T16:21:40Z","modified":"2026-10-04T04:01:54Z"}
-{"name":"inframetric","versions":["0.1.0"],"published":"2026-11-12T20:41:48.429737Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"inframetric","id":"MAL-2026-19185","versions":["0.1.0"],"published":"2026-11-12T20:41:48Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"init2winit","id":"MAL-2026-1989","versions":["9.9.9"],"published":"2026-03-20T10:37:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"initer","id":"MAL-2025-6524","versions":["0.2.1","0.2.2","0.2.5","0.2.6"],"published":"2025-05-09T20:14:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"initializer","id":"MAL-2024-5261","versions":["0.1.0"],"published":"2024-06-25T13:36:24Z","modified":"2026-10-02T05:38:49Z"}
@@ -5097,7 +5100,7 @@
 {"name":"lucy-python-script-2030","id":"MAL-2026-16125","versions":["0.1.1","0.1.2"],"published":"2026-09-10T20:14:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"lukz","id":"MAL-2024-5339","versions":["2.0.0","2.0.1","3.0.0"],"published":"2024-06-25T13:37:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"lulumortreux","id":"MAL-2024-5340","versions":["0.1.3","0.1.4"],"published":"2024-06-25T13:37:03Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"lumitts","versions":["0.1.0"],"published":"2026-11-12T20:46:16.908194Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"lumitts","id":"MAL-2026-19186","versions":["0.1.0"],"published":"2026-11-12T20:46:16Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"luna-paysure","id":"MAL-2024-11627","versions":["0.7.1","0.7.2","0.7.3","0.7.4","0.7.5"],"published":"2024-10-14T09:08:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"lwplugin","id":"MAL-2024-12301","versions":["0.0.5"],"published":"2024-10-14T18:04:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"lxsxwriter","id":"MAL-2023-1893","published":"2023-02-11T11:39:11Z","modified":"2026-10-02T05:38:49Z"}
@@ -5283,7 +5286,7 @@
 {"name":"mega-sparks","id":"MAL-2024-10586","versions":["92.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"megai","id":"MAL-2024-10593","versions":["92.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"melcuratts","id":"MAL-2026-18141","versions":["0.1.0"],"published":"2026-10-21T23:04:07Z","modified":"2026-10-21T23:52:32Z"}
-{"name":"melstagen","versions":["0.1.0"],"published":"2026-11-12T20:42:43.707839Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"melstagen","id":"MAL-2026-19187","versions":["0.1.0"],"published":"2026-11-12T20:42:43Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"mem8","id":"MAL-2026-5319","versions":["6.0.1"],"published":"2026-06-06T06:13:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"memlib","id":"MAL-2025-6547","versions":["2.0.0"],"published":"2025-07-16T19:46:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"memorylib","id":"MAL-2025-6548","versions":["2.0.0"],"published":"2025-07-16T19:47:52Z","modified":"2026-10-02T05:38:49Z"}
@@ -5464,6 +5467,7 @@
 {"name":"my-first-pypi-demo","id":"MAL-2025-191651","versions":["0.0.1","0.0.2","0.0.3","0.0.4"],"published":"2025-08-20T16:33:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"my-fun-tools","id":"MAL-2025-6552","versions":["0.1.1","0.1.2"],"published":"2025-06-09T11:26:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"my-main-manager","id":"MAL-2024-12308","versions":["1.0.11","1.0.12","1.0.8","1.0.9"],"published":"2024-12-01T16:55:36Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"my-mcp-server-driving-license-ocr","id":"MAL-2026-19204","versions":["0.1.3"],"published":"2026-11-13T00:49:20Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"my-package-jiecub3","id":"MAL-2026-2962","versions":["1.0.0","1.1.0","1.2.0","1.3.0","1.4.0","1.5.0","1.6.0"],"published":"2026-04-21T06:45:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"my-pipeline-watcher-poc","id":"MAL-2026-3218","versions":["99999.99999.1"],"published":"2026-05-01T19:32:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"my-private-pkg","id":"MAL-2026-17180","versions":["0.1.1","99.1.1","99.11.2"],"published":"2026-09-25T00:08:08Z","modified":"2026-10-02T05:38:49Z"}
@@ -5929,7 +5933,7 @@
 {"name":"phasedibd","id":"MAL-2026-2533","versions":["0.0.1"],"published":"2026-04-10T15:27:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"phenopacket-store-toolkit","id":"MAL-2026-5322","versions":["0.1.7"],"published":"2026-06-06T06:13:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"phishermanx","id":"MAL-2025-6563","versions":["4.0.1"],"published":"2025-07-31T19:16:00Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"phoneliasr","versions":["0.1.0"],"published":"2026-11-12T20:49:23.693077Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"phoneliasr","id":"MAL-2026-19188","versions":["0.1.0"],"published":"2026-11-12T20:49:23Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"phonemeforge","id":"MAL-2026-18163","versions":["0.1.0"],"published":"2026-10-22T00:56:00Z","modified":"2026-10-22T02:11:22Z"}
 {"name":"phonemeprobe","id":"MAL-2026-18164","versions":["0.1.0"],"published":"2026-10-22T00:58:01Z","modified":"2026-10-22T02:11:22Z"}
 {"name":"phonoviatts","id":"MAL-2026-18143","versions":["0.1.0"],"published":"2026-10-21T23:04:35Z","modified":"2026-10-21T23:52:32Z"}
@@ -9705,7 +9709,7 @@
 {"name":"spaysrbx","id":"MAL-2026-5334","versions":["0.3.0"],"published":"2026-06-08T20:47:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"speakbench","id":"MAL-2026-18166","versions":["0.1.0"],"published":"2026-10-22T00:56:57Z","modified":"2026-10-22T02:11:22Z"}
 {"name":"speaksocket","id":"MAL-2026-18167","versions":["0.1.0"],"published":"2026-10-22T00:29:19Z","modified":"2026-10-22T02:11:22Z"}
-{"name":"spectrova","versions":["0.1.0"],"published":"2026-11-12T20:45:51.455454Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"spectrova","id":"MAL-2026-19189","versions":["0.1.0"],"published":"2026-11-12T20:45:51Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"speechprobe","id":"MAL-2026-18168","versions":["0.1.0"],"published":"2026-10-22T00:45:25Z","modified":"2026-10-22T02:11:22Z"}
 {"name":"speed-hashes","id":"MAL-2026-13607","versions":["0.1.0"],"published":"2026-08-07T11:56:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"speed-testing-nt","id":"MAL-2025-191874","versions":["0.2"],"published":"2025-10-31T00:13:41Z","modified":"2026-10-02T05:38:49Z"}
@@ -9767,7 +9771,7 @@
 {"name":"st-payment","id":"MAL-2026-2522","versions":["99.0.0"],"published":"2026-04-09T13:30:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"st-py-de-cli","id":"MAL-2025-41768","versions":["1.9.9"],"published":"2025-08-13T17:41:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"stackstorm-runner-action-chain","id":"MAL-2024-11714","versions":["1.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"stackvane","versions":["0.1.0"],"published":"2026-11-12T20:43:24.094145Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"stackvane","id":"MAL-2026-19190","versions":["0.1.0"],"published":"2026-11-12T20:43:24Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"stake-auto-better","id":"MAL-2024-6037","versions":["1.0"],"published":"2024-06-25T13:42:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"starexx","id":"MAL-2025-191662","versions":["1.26","1.27","2.0.1"],"published":"2025-12-01T12:55:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"starlette-healthcheck","id":"MAL-2026-6724","versions":["1.2.0","1.3.0","1.3.1"],"published":"2026-07-01T21:08:27Z","modified":"2026-10-02T05:38:49Z"}
@@ -11590,9 +11594,9 @@
 {"name":"voxcpmui4","id":"MAL-2026-17467","versions":["0.2.0"],"published":"2026-10-03T11:51:12Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"voxel-tts","id":"MAL-2026-17461","versions":["0.5.0","0.5.1"],"published":"2026-10-03T04:38:14Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"voxeval","id":"MAL-2026-17457","versions":["0.4.2","0.4.3","0.4.4","0.4.5"],"published":"2026-10-02T21:28:42Z","modified":"2026-10-04T04:01:54Z"}
-{"name":"voxgramasr","versions":["0.1.0"],"published":"2026-11-12T20:45:25.188661Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"voxgramasr","id":"MAL-2026-19191","versions":["0.1.0"],"published":"2026-11-12T20:45:25Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"voxilaratts","id":"MAL-2026-18150","versions":["0.1.0"],"published":"2026-10-21T23:04:23Z","modified":"2026-10-21T23:52:32Z"}
-{"name":"voxrelitts","versions":["0.1.0"],"published":"2026-11-12T20:44:38.684638Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"voxrelitts","id":"MAL-2026-19192","versions":["0.1.0"],"published":"2026-11-12T20:44:38Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"voxweaver","id":"MAL-2026-18176","versions":["0.1.0"],"published":"2026-10-22T00:30:04Z","modified":"2026-10-22T02:11:22Z"}
 {"name":"vper","id":"MAL-2023-2348","published":"2023-02-09T19:00:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vpyer","id":"MAL-2023-2349","published":"2023-02-09T19:00:13Z","modified":"2026-10-02T05:38:49Z"}
@@ -11643,7 +11647,7 @@
 {"name":"wasig4321","id":"MAL-2025-2011","versions":["1.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"watchitoring","id":"MAL-2025-3015","versions":["0.1.0","0.1.1"],"published":"2025-02-13T13:18:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wave-opensdk","id":"MAL-2024-12368","versions":["1.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"wavforge","versions":["0.1.0"],"published":"2026-11-12T20:49:48.995363Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"wavforge","id":"MAL-2026-19193","versions":["0.1.0"],"published":"2026-11-12T20:49:48Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"waymo-waymax","id":"MAL-2026-6961","versions":["99.0.0"],"published":"2026-07-08T04:08:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wayspiritmcp-enconly","id":"MAL-2025-191924","versions":["0.1.0","0.1.1","0.1.2","0.1.3"],"published":"2025-11-05T21:21:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wayspiritmcp-ppa","id":"MAL-2025-191925","versions":["0.1.0","0.1.1"],"published":"2025-11-05T21:24:19Z","modified":"2026-10-02T05:38:49Z"}

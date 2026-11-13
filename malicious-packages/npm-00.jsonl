@@ -5419,6 +5419,8 @@
 {"name":"@hestjs/logger","id":"MAL-2025-47243","aliases":["GHSA-r9f5-r3j5-96jq"],"versions":["0.1.6"],"published":"2025-09-16T17:05:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@hestjs/scalar","id":"MAL-2025-47244","aliases":["GHSA-h7vq-p7fm-h5cc"],"versions":["0.1.7"],"published":"2025-09-16T17:05:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@hestjs/validation","id":"MAL-2025-47245","aliases":["GHSA-x8h4-hpf7-vchm"],"versions":["0.1.6"],"published":"2025-09-16T17:05:44Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@hesxo/forge-cli","id":"MAL-2026-19194","aliases":["GHSA-h9jx-jh37-w33x"],"published":"2026-11-12T20:57:05Z","modified":"2026-11-13T02:13:55Z"}
+{"name":"@hesxo/viro-cli","id":"MAL-2026-19195","aliases":["GHSA-g2hr-x6gp-2f6r"],"published":"2026-11-12T20:57:05Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"@hex-/xd","id":"MAL-2022-331","aliases":["GHSA-5wjm-672f-cvm2"],"published":"2022-06-20T20:09:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@hex-validator/v2","id":"MAL-2025-47917","aliases":["GHSA-cc69-665j-6rmh","SNYK-JS-HEXVALIDATORV2-13350864"],"published":"2025-10-07T00:21:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@hey-amplify/scripts","id":"MAL-2025-7996","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -5722,6 +5724,7 @@
 {"name":"@hzero-front-ui/core","id":"MAL-2026-13969","versions":["99.99.99"],"published":"2026-08-13T21:07:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@hzero-front-ui/hzero-ui","id":"MAL-2026-13970","versions":["99.99.99"],"published":"2026-08-13T21:06:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@hzero-front-ui/themes","id":"MAL-2026-13971","versions":["99.99.99"],"published":"2026-08-13T21:06:40Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@i18n.site/cli-win32-x64","id":"MAL-2026-19205","aliases":["GHSA-m5f4-fvwx-j934"],"versions":["0.1.10"],"published":"2026-11-13T01:11:08Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"@i22-td-smarthome/component-library","id":"MAL-2025-48969","aliases":["GHSA-fg9h-wvjq-vgmv"],"published":"2025-10-29T22:51:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@i22/rocket","id":"MAL-2025-47002","aliases":["GHSA-p84j-2r3q-fh83"],"published":"2025-09-10T13:34:56Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@i22/scroll-animation","id":"MAL-2025-47003","aliases":["GHSA-5pcv-56rx-pg2f"],"published":"2025-09-10T13:34:56Z","modified":"2026-10-02T05:38:49Z"}
@@ -10298,6 +10301,7 @@
 {"name":"@rc-mfe/cdn19-test","id":"MAL-2024-1968","versions":["1.990.0","1.992.0","1.993.0"],"published":"2024-06-25T12:22:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@rce-web/ui-upgrade-dialog","id":"MAL-2025-55023","published":"2025-11-10T16:31:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@rce-web/webpack-resource-plugin","id":"MAL-2025-61718","published":"2025-11-10T20:21:21Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@rclaude/darwin-x64","id":"MAL-2026-19196","aliases":["GHSA-gm9f-q9rw-p3gm"],"versions":["0.2.1"],"published":"2026-11-12T20:30:47Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"@rclaude/win32-x64","id":"MAL-2026-19095","aliases":["GHSA-w584-99h6-6g9r"],"versions":["0.2.0","0.2.1"],"published":"2026-11-10T22:06:21Z","modified":"2026-11-12T21:12:24Z"}
 {"name":"@rdxportal/ui-components","id":"MAL-2026-796","aliases":["GHSA-m52r-4c3v-2f62"],"published":"2026-02-06T11:10:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@react-case/option","id":"MAL-2026-10626","versions":["1.0.0"],"published":"2026-07-15T01:09:12Z","modified":"2026-10-02T05:38:49Z"}
@@ -54735,6 +54739,7 @@
 {"name":"depenve","id":"MAL-2025-43964","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"depenyn","id":"MAL-2025-132680","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"depfif","id":"MAL-2025-43965","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"depfix-ai","id":"MAL-2026-19197","aliases":["GHSA-689j-99g2-vf2f"],"published":"2026-11-12T20:57:05Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"depfor","id":"MAL-2025-43966","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"deploy-assert-debug-short-reject","id":"MAL-2025-18293","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"deploy-awk-user-psi-mu","id":"MAL-2025-186559","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
@@ -145656,6 +145661,7 @@
 {"name":"otnet-ory-network-tests","id":"MAL-2023-8555","aliases":["GHSA-x3cp-9cm4-2j7j"],"published":"2023-11-21T19:44:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"otomi-console","id":"MAL-2026-2788","versions":["9.9.9"],"published":"2026-04-16T10:09:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"otomi-tasks","id":"MAL-2026-2789","versions":["9.9.9"],"published":"2026-04-16T10:09:49Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"otto-git-cli","id":"MAL-2026-19198","aliases":["GHSA-mpj2-2xfp-5xqx"],"published":"2026-11-12T20:57:05Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"oug-cookie","id":"MAL-2022-5152","aliases":["GHSA-4w8v-fwfq-hc78"],"published":"2022-08-19T03:55:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"oujec.assigs","id":"MAL-2022-5153","aliases":["GHSA-x6mr-f49h-fqgm"],"published":"2022-08-19T03:55:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ouklida","id":"MAL-2025-28609","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -199889,11 +199895,3 @@
 {"name":"umbriel-zenobia-sedna-odin","id":"MAL-2025-190052","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umd-package","id":"MAL-2025-5470","aliases":["GHSA-v6mw-3x64-q55p"],"published":"2025-06-28T17:23:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"umeshrepo","id":"MAL-2025-37708","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-asinan11-kyuki","id":"MAL-2025-46444","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-asinan29-sluey","id":"MAL-2025-137516","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-asinan52-miaww","id":"MAL-2025-117609","published":"2025-11-11T15:19:32Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-bakso75-sukiwir","id":"MAL-2025-81860","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-bakwan28-sukiwir","id":"MAL-2025-59085","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-bakwan29-sluey","id":"MAL-2025-137517","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-bakwan40-sluey","id":"MAL-2025-65744","published":"2025-11-11T00:17:57Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"umi-bakwan41-sluey","id":"MAL-2025-65745","published":"2025-11-11T00:17:57Z","modified":"2026-10-02T05:38:49Z"}

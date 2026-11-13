@@ -1,3 +1,9 @@
+{"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"@hesxo/forge-cli","id":"MAL-2026-19194","aliases":["GHSA-h9jx-jh37-w33x"],"published":"2026-11-12T20:57:05Z"}
+{"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"@hesxo/viro-cli","id":"MAL-2026-19195","aliases":["GHSA-g2hr-x6gp-2f6r"],"published":"2026-11-12T20:57:05Z"}
+{"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"@i18n.site/cli-win32-x64","id":"MAL-2026-19205","aliases":["GHSA-m5f4-fvwx-j934"],"versions":["0.1.10"],"published":"2026-11-13T01:11:08Z"}
+{"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"@rclaude/darwin-x64","id":"MAL-2026-19196","aliases":["GHSA-gm9f-q9rw-p3gm"],"versions":["0.2.1"],"published":"2026-11-12T20:30:47Z"}
+{"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"depfix-ai","id":"MAL-2026-19197","aliases":["GHSA-689j-99g2-vf2f"],"published":"2026-11-12T20:57:05Z"}
+{"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"otto-git-cli","id":"MAL-2026-19198","aliases":["GHSA-mpj2-2xfp-5xqx"],"published":"2026-11-12T20:57:05Z"}
 {"op":"upsert","modified":"2026-11-12T21:12:24Z","name":"@brunosps00/dev-workflow","id":"MAL-2026-19178","aliases":["GHSA-hw95-2259-9375"],"versions":["0.10.0","0.11.0","0.13.0","0.15.0","0.8.1","0.9.0","1.0.0","1.0.1","1.0.2","1.0.4","1.0.5","1.0.6","1.1.0","1.1.1","1.1.2","1.1.3","1.2.0","1.2.1","1.3.0","1.4.0","1.5.0","1.6.0","1.7.0","1.7.1","2.0.0","2.1.0","2.2.0","2.3.0","2.4.0","2.5.0","2.6.0","2.7.0"],"published":"2026-11-12T18:29:54Z"}
 {"op":"upsert","modified":"2026-11-12T21:12:24Z","name":"@budetzz/eslint-config","id":"MAL-2026-19172","aliases":["GHSA-52pg-f6vh-x249"],"published":"2026-11-12T16:38:35Z"}
 {"op":"upsert","modified":"2026-11-12T21:12:24Z","name":"@codentra/postcss-kinetix","id":"MAL-2026-19158","aliases":["GHSA-4x6x-977f-h2q9"],"published":"2026-11-12T15:30:13Z"}
