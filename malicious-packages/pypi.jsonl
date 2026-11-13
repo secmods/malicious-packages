@@ -3245,6 +3245,7 @@
 {"name":"gandon-pidar1","id":"MAL-2025-928","versions":["1.0.0"],"published":"2024-08-05T22:25:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gangomodule","id":"MAL-2026-2486","versions":["1.0.20","1.0.37"],"published":"2026-04-04T12:01:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"garviscope","id":"MAL-2026-19183","versions":["0.1.0"],"published":"2026-11-12T20:50:50Z","modified":"2026-11-13T02:13:55Z"}
+{"name":"garvisometerui","id":"MAL-2026-19206","versions":["0.1.0"],"published":"2026-11-13T01:24:55Z","modified":"2026-11-13T10:13:34Z"}
 {"name":"garvisuite","id":"MAL-2026-19184","versions":["0.1.0"],"published":"2026-11-12T20:46:39Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"gate-apis","id":"MAL-2026-2630","versions":["2.33.0"],"published":"2026-04-14T10:23:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gateway-framework","id":"MAL-2025-6508","versions":["0.1","0.2","0.3"],"published":"2025-07-14T13:50:06Z","modified":"2026-10-02T05:38:49Z"}
@@ -7939,6 +7940,7 @@
 {"name":"quillonatts","id":"MAL-2026-18145","versions":["0.1.0"],"published":"2026-10-21T23:03:57Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"quizdom","id":"MAL-2025-3208","versions":["0.1.0","0.2.0","0.3.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qwen-asr-pvt","id":"MAL-2026-10690","versions":["0.0.6"],"published":"2026-07-15T17:53:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"qwen3ttsui","id":"MAL-2026-19207","versions":["0.1.0"],"published":"2026-11-13T01:22:27Z","modified":"2026-11-13T10:13:34Z"}
 {"name":"qwery-core","id":"MAL-2026-1226","versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7"],"published":"2026-03-03T19:19:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qyrm-pipinject4","id":"MAL-2026-2016","versions":["1.0"],"published":"2026-03-21T15:46:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qzc690382","id":"MAL-2026-18749","versions":["1.0.0"],"published":"2026-11-07T10:21:14Z","modified":"2026-11-07T14:28:41Z"}
@@ -11590,6 +11592,7 @@
 {"name":"voxcpmkit","id":"MAL-2026-17466","versions":["0.1.0"],"published":"2026-10-03T12:24:50Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"voxcpmruntime","id":"MAL-2026-17470","versions":["0.1.0"],"published":"2026-10-03T14:42:59Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"voxcpmtts3","id":"MAL-2026-17463","versions":["0.1.0","0.1.1","0.1.2"],"published":"2026-10-03T04:47:46Z","modified":"2026-10-04T04:01:54Z"}
+{"name":"voxcpmttslora","id":"MAL-2026-19208","versions":["0.1.0"],"published":"2026-11-13T01:23:26Z","modified":"2026-11-13T10:13:34Z"}
 {"name":"voxcpmui3","id":"MAL-2026-17464","versions":["0.1.0"],"published":"2026-10-03T10:46:57Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"voxcpmui4","id":"MAL-2026-17467","versions":["0.2.0"],"published":"2026-10-03T11:51:12Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"voxel-tts","id":"MAL-2026-17461","versions":["0.5.0","0.5.1"],"published":"2026-10-03T04:38:14Z","modified":"2026-10-04T04:01:54Z"}

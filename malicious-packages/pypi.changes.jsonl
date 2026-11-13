@@ -1,3 +1,6 @@
+{"op":"upsert","modified":"2026-11-13T10:13:34Z","name":"garvisometerui","id":"MAL-2026-19206","versions":["0.1.0"],"published":"2026-11-13T01:24:55Z"}
+{"op":"upsert","modified":"2026-11-13T10:13:34Z","name":"qwen3ttsui","id":"MAL-2026-19207","versions":["0.1.0"],"published":"2026-11-13T01:22:27Z"}
+{"op":"upsert","modified":"2026-11-13T10:13:34Z","name":"voxcpmttslora","id":"MAL-2026-19208","versions":["0.1.0"],"published":"2026-11-13T01:23:26Z"}
 {"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"acustoviasr","id":"MAL-2026-19199","versions":["0.1.0"],"published":"2026-11-12T21:04:04Z"}
 {"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"dashloom","id":"MAL-2026-19202","versions":["1.0.0","1.1.0","1.1.1"],"published":"2026-11-12T22:25:26Z"}
 {"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"eulaliatts","id":"MAL-2026-19179","versions":["0.1.0"],"published":"2026-11-12T20:35:05Z"}
