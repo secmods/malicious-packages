@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-13T18:13:58Z","name":"tdesign-vue-mono","id":"MAL-2026-19242","versions":["1.0.1"],"published":"2026-11-13T17:05:51Z"}
 {"op":"upsert","modified":"2026-11-12T21:12:24Z","name":"buffer-code-exercise-api","id":"MAL-2026-19156","versions":["1.0.1"],"published":"2026-11-12T15:51:49Z"}
 {"op":"upsert","modified":"2026-11-12T21:12:24Z","name":"cheesebox","id":"MAL-2026-19157","versions":["10.0.1"],"published":"2026-11-12T15:51:40Z"}
 {"op":"upsert","modified":"2026-11-12T21:12:24Z","name":"pentest-copilot","id":"MAL-2026-19177","versions":["1.0.1"],"published":"2026-11-12T17:40:54Z"}
