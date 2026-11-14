@@ -1,3 +1,5 @@
+{"op":"upsert","modified":"2026-11-14T12:38:20Z","name":"@jelou/cli-win32-x64","id":"MAL-2026-19922","aliases":["GHSA-q78g-75cg-hwq6"],"versions":["4.24.0","4.26.1"],"published":"2026-11-13T22:51:02Z"}
+{"op":"upsert","modified":"2026-11-14T12:38:20Z","name":"@sfunction/dsh-screenshot","id":"MAL-2026-19931","aliases":["GHSA-7jf6-qwv2-qppp"],"versions":["0.1.1"],"published":"2026-11-14T08:18:25Z"}
 {"op":"upsert","modified":"2026-11-14T05:02:09Z","name":"@i18n.site/cli-win32-x64","id":"MAL-2026-19205","aliases":["GHSA-m5f4-fvwx-j934"],"versions":["0.1.10","0.1.7","0.1.9"],"published":"2026-11-13T01:11:08Z"}
 {"op":"upsert","modified":"2026-11-14T05:02:09Z","name":"@zread/cli-darwin-arm64","id":"MAL-2026-19923","aliases":["GHSA-mj52-2x34-ppqq"],"published":"2026-11-13T23:46:14Z"}
 {"op":"upsert","modified":"2026-11-14T05:02:09Z","name":"@zread/cli-darwin-x64","id":"MAL-2026-19924","aliases":["GHSA-4r36-qqxv-mv2c"],"published":"2026-11-13T23:46:14Z"}
@@ -7,7 +9,6 @@
 {"op":"upsert","modified":"2026-11-14T05:02:09Z","name":"@zread/cli-win32-x64","id":"MAL-2026-19928","aliases":["GHSA-h7rw-cqm6-8xhc"],"published":"2026-11-13T23:46:15Z"}
 {"op":"upsert","modified":"2026-11-14T05:02:09Z","name":"zread_cli","id":"MAL-2026-19929","aliases":["GHSA-3429-mj25-c5wf"],"published":"2026-11-13T23:46:14Z"}
 {"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"@asavie/i18n","id":"MAL-2026-4265","aliases":["GHSA-p2m2-v2jm-mxgq"],"published":"2026-05-23T14:52:50Z"}
-{"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"@jelou/cli-win32-x64","id":"MAL-2026-19922","aliases":["GHSA-q78g-75cg-hwq6"],"versions":["4.26.1"],"published":"2026-11-13T22:51:02Z"}
 {"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"all_together_dead_by_charlaine_harris_00fhu","id":"MAL-2026-19290","aliases":["GHSA-46fv-wq5h-rpwf"],"published":"2026-11-13T20:52:58Z"}
 {"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"animal_farm_by_george_orwell_npad7","id":"MAL-2026-19291","aliases":["GHSA-46px-pxxc-c2p5"],"published":"2026-11-13T20:54:54Z"}
 {"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"apple_pro_training_series_by_david_nahmani_xvd91","id":"MAL-2026-19292","aliases":["GHSA-c4m8-cfp7-62fv"],"published":"2026-11-13T20:51:58Z"}

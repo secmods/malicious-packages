@@ -11194,6 +11194,7 @@
 {"name":"trc20-unlocker","id":"MAL-2024-6167","aliases":["SNYK-PYTHON-TRC20UNLOCKER-5292140"],"versions":["1.0"],"published":"2024-06-25T13:43:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"treadtools","id":"MAL-2024-11733","versions":["1.0.0","1.0.1"],"published":"2024-12-09T06:51:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"treeherder-submitter","id":"MAL-2025-191910","versions":["0.0.1"],"published":"2025-07-28T15:45:43Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"trezortranslate","id":"MAL-2026-19930","versions":["0.0.0","1.0.0"],"published":"2026-11-14T07:16:19Z","modified":"2026-11-14T12:38:20Z"}
 {"name":"trickery","id":"MAL-2026-3698","versions":["1.0.0","1.0.1"],"published":"2026-05-13T18:41:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"trijigo-kalip","id":"MAL-2026-18114","versions":["1.0.0"],"published":"2026-10-20T20:59:05Z","modified":"2026-10-20T22:45:18Z"}
 {"name":"triple-equal","id":"MAL-2025-41786","versions":["10.0.5"],"published":"2025-07-29T08:39:13Z","modified":"2026-10-02T05:38:49Z"}
@@ -11914,6 +11915,7 @@
 {"name":"xoloxwmellxliq","id":"MAL-2024-6248","versions":["0.0.0"],"published":"2024-06-25T13:44:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xoloyuaezcqixu","id":"MAL-2025-41799","versions":["0.0.0"],"published":"2025-08-28T07:12:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xorg-renderproto","id":"MAL-2025-41800","versions":["0.11.1"],"published":"2025-08-28T07:12:16Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"xrfdc","id":"MAL-2026-19932","versions":["0.0.0","2.0"],"published":"2026-11-14T09:53:39Z","modified":"2026-11-14T12:38:20Z"}
 {"name":"xsilyxd","id":"MAL-2024-11750","versions":["0.1"],"published":"2024-09-04T21:25:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xsltproc","id":"MAL-2025-191937","versions":["0.0.0","0.0.1"],"published":"2025-11-14T07:57:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xsxwriter","id":"MAL-2023-2443","published":"2023-02-11T11:39:05Z","modified":"2026-10-02T05:38:49Z"}

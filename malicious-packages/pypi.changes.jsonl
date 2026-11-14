@@ -1,3 +1,5 @@
+{"op":"upsert","modified":"2026-11-14T12:38:20Z","name":"trezortranslate","id":"MAL-2026-19930","versions":["0.0.0","1.0.0"],"published":"2026-11-14T07:16:19Z"}
+{"op":"upsert","modified":"2026-11-14T12:38:20Z","name":"xrfdc","id":"MAL-2026-19932","versions":["0.0.0","2.0"],"published":"2026-11-14T09:53:39Z"}
 {"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"axiom-dragon-xyz","id":"MAL-2026-19289","versions":["1.0.4"],"published":"2026-11-13T20:29:40Z"}
 {"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"qap793gl4l","id":"MAL-2026-19259","versions":["0.1.1"],"published":"2026-11-13T19:47:37Z"}
 {"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"testing1345","id":"MAL-2026-19247","versions":["0.1.0"],"published":"2026-11-13T17:50:00Z"}
