@@ -1,3 +1,11 @@
+{"op":"upsert","modified":"2026-11-14T05:02:09Z","name":"@i18n.site/cli-win32-x64","id":"MAL-2026-19205","aliases":["GHSA-m5f4-fvwx-j934"],"versions":["0.1.10","0.1.7","0.1.9"],"published":"2026-11-13T01:11:08Z"}
+{"op":"upsert","modified":"2026-11-14T05:02:09Z","name":"@zread/cli-darwin-arm64","id":"MAL-2026-19923","aliases":["GHSA-mj52-2x34-ppqq"],"published":"2026-11-13T23:46:14Z"}
+{"op":"upsert","modified":"2026-11-14T05:02:09Z","name":"@zread/cli-darwin-x64","id":"MAL-2026-19924","aliases":["GHSA-4r36-qqxv-mv2c"],"published":"2026-11-13T23:46:14Z"}
+{"op":"upsert","modified":"2026-11-14T05:02:09Z","name":"@zread/cli-linux-arm64","id":"MAL-2026-19925","aliases":["GHSA-jw9g-9vcc-5xjv"],"published":"2026-11-13T23:46:14Z"}
+{"op":"upsert","modified":"2026-11-14T05:02:09Z","name":"@zread/cli-linux-x64","id":"MAL-2026-19926","aliases":["GHSA-rmrw-hx84-5hgq"],"published":"2026-11-13T23:46:14Z"}
+{"op":"upsert","modified":"2026-11-14T05:02:09Z","name":"@zread/cli-win32-arm64","id":"MAL-2026-19927","aliases":["GHSA-vfc7-g3hx-84wp"],"published":"2026-11-13T23:46:15Z"}
+{"op":"upsert","modified":"2026-11-14T05:02:09Z","name":"@zread/cli-win32-x64","id":"MAL-2026-19928","aliases":["GHSA-h7rw-cqm6-8xhc"],"published":"2026-11-13T23:46:15Z"}
+{"op":"upsert","modified":"2026-11-14T05:02:09Z","name":"zread_cli","id":"MAL-2026-19929","aliases":["GHSA-3429-mj25-c5wf"],"published":"2026-11-13T23:46:14Z"}
 {"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"@asavie/i18n","id":"MAL-2026-4265","aliases":["GHSA-p2m2-v2jm-mxgq"],"published":"2026-05-23T14:52:50Z"}
 {"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"@jelou/cli-win32-x64","id":"MAL-2026-19922","aliases":["GHSA-q78g-75cg-hwq6"],"versions":["4.26.1"],"published":"2026-11-13T22:51:02Z"}
 {"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"all_together_dead_by_charlaine_harris_00fhu","id":"MAL-2026-19290","aliases":["GHSA-46fv-wq5h-rpwf"],"published":"2026-11-13T20:52:58Z"}
@@ -726,7 +734,6 @@
 {"op":"upsert","modified":"2026-11-13T10:13:34Z","name":"zxcvb90-utils-helper","id":"MAL-2026-19228","versions":["1.0.1"],"published":"2026-11-13T03:58:46Z"}
 {"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"@hesxo/forge-cli","id":"MAL-2026-19194","aliases":["GHSA-h9jx-jh37-w33x"],"published":"2026-11-12T20:57:05Z"}
 {"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"@hesxo/viro-cli","id":"MAL-2026-19195","aliases":["GHSA-g2hr-x6gp-2f6r"],"published":"2026-11-12T20:57:05Z"}
-{"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"@i18n.site/cli-win32-x64","id":"MAL-2026-19205","aliases":["GHSA-m5f4-fvwx-j934"],"versions":["0.1.10"],"published":"2026-11-13T01:11:08Z"}
 {"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"@rclaude/darwin-x64","id":"MAL-2026-19196","aliases":["GHSA-gm9f-q9rw-p3gm"],"versions":["0.2.1"],"published":"2026-11-12T20:30:47Z"}
 {"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"depfix-ai","id":"MAL-2026-19197","aliases":["GHSA-689j-99g2-vf2f"],"published":"2026-11-12T20:57:05Z"}
 {"op":"upsert","modified":"2026-11-13T02:13:55Z","name":"otto-git-cli","id":"MAL-2026-19198","aliases":["GHSA-mpj2-2xfp-5xqx"],"published":"2026-11-12T20:57:05Z"}

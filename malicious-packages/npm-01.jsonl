@@ -1,3 +1,11 @@
+{"name":"udin-rujak46-miaww","id":"MAL-2025-91403","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-rujak67-riris","id":"MAL-2025-91404","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-rujak70-ruro","id":"MAL-2025-109936","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-rujak71-miaww","id":"MAL-2025-117598","published":"2025-11-11T15:19:32Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-rujak9-sluey","id":"MAL-2025-65733","published":"2025-11-11T00:17:57Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-rujak96-sluey","id":"MAL-2025-137493","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-rujaksoto44-sukiwir","id":"MAL-2025-59075","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-rujaksoto97-riris","id":"MAL-2025-130767","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"udin-ruwet13-breki","id":"MAL-2025-75832","published":"2025-11-11T02:29:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"udin-ruwet40-sluey","id":"MAL-2025-65734","published":"2025-11-11T00:17:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"udin-ruwet43-breki","id":"MAL-2025-75833","published":"2025-11-11T02:29:13Z","modified":"2026-10-02T05:38:49Z"}
@@ -23571,6 +23579,7 @@
 {"name":"zrc2-wallet-zilliqa","id":"MAL-2022-7413","aliases":["GHSA-pw5q-7wp4-6v5m"],"published":"2022-06-08T09:01:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zrcvyc-devapptea","id":"MAL-2025-111570","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zreactjs","id":"MAL-2026-7447","aliases":["GHSA-9xx3-2pvq-3fmq"],"versions":["1.1.2","1.1.4","8.7.6"],"published":"2026-07-07T13:18:40Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"zread_cli","id":"MAL-2026-19929","aliases":["GHSA-3429-mj25-c5wf"],"published":"2026-11-13T23:46:14Z","modified":"2026-11-14T05:02:09Z"}
 {"name":"zredis-typed","id":"MAL-2026-6944","aliases":["GHSA-rmhj-j5m8-3cxj"],"published":"2026-07-06T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zrfinjygoeabdvqx","id":"MAL-2025-41074","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"zrjyzg-devapptea","id":"MAL-2025-111571","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
