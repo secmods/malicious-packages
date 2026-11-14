@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-14T18:33:27Z","name":"@rclaude/darwin-arm64","id":"MAL-2026-19234","aliases":["GHSA-mq7w-jmv5-vq3p"],"versions":["0.2.0","0.2.1"],"published":"2026-11-13T06:32:25Z"}
 {"op":"upsert","modified":"2026-11-14T12:38:20Z","name":"@jelou/cli-win32-x64","id":"MAL-2026-19922","aliases":["GHSA-q78g-75cg-hwq6"],"versions":["4.24.0","4.26.1"],"published":"2026-11-13T22:51:02Z"}
 {"op":"upsert","modified":"2026-11-14T12:38:20Z","name":"@sfunction/dsh-screenshot","id":"MAL-2026-19931","aliases":["GHSA-7jf6-qwv2-qppp"],"versions":["0.1.1"],"published":"2026-11-14T08:18:25Z"}
 {"op":"upsert","modified":"2026-11-14T05:02:09Z","name":"@i18n.site/cli-win32-x64","id":"MAL-2026-19205","aliases":["GHSA-m5f4-fvwx-j934"],"versions":["0.1.10","0.1.7","0.1.9"],"published":"2026-11-13T01:11:08Z"}
@@ -696,7 +697,6 @@
 {"op":"upsert","modified":"2026-11-13T18:13:58Z","name":"sol-wallet-adapater","id":"MAL-2026-19239","aliases":["GHSA-5c87-58w4-f8xf"],"published":"2026-11-13T15:01:00Z"}
 {"op":"upsert","modified":"2026-11-13T18:13:58Z","name":"tailwindcss-animationkit","id":"MAL-2026-19236","aliases":["GHSA-2hrf-5wrm-jw55"],"published":"2026-11-13T14:03:07Z"}
 {"op":"upsert","modified":"2026-11-13T10:13:34Z","name":"@adminide-stack/utils","id":"MAL-2026-18643","aliases":["GHSA-7gx8-qvpw-82h6"],"versions":["0.0.16-129","0.0.16-130"],"published":"2026-11-04T19:42:24Z"}
-{"op":"upsert","modified":"2026-11-13T10:13:34Z","name":"@rclaude/darwin-arm64","id":"MAL-2026-19234","aliases":["GHSA-mq7w-jmv5-vq3p"],"versions":["0.2.0"],"published":"2026-11-13T06:32:25Z"}
 {"op":"upsert","modified":"2026-11-13T10:13:34Z","name":"@securihackbot/depconf-flow-1792484611","id":"MAL-2026-19220","versions":["1.2.1"],"published":"2026-11-13T03:44:30Z"}
 {"op":"upsert","modified":"2026-11-13T10:13:34Z","name":"@sirius0528/black-moon","id":"MAL-2026-19209","aliases":["GHSA-g2mp-9vvr-45jx"],"published":"2026-11-13T02:26:26Z"}
 {"op":"upsert","modified":"2026-11-13T10:13:34Z","name":"@test-org-aczxvz/test-package","id":"MAL-2026-19221","versions":["1.0.0"],"published":"2026-11-13T03:43:52Z"}

@@ -10304,7 +10304,7 @@
 {"name":"@rc-mfe/cdn19-test","id":"MAL-2024-1968","versions":["1.990.0","1.992.0","1.993.0"],"published":"2024-06-25T12:22:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@rce-web/ui-upgrade-dialog","id":"MAL-2025-55023","published":"2025-11-10T16:31:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@rce-web/webpack-resource-plugin","id":"MAL-2025-61718","published":"2025-11-10T20:21:21Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@rclaude/darwin-arm64","id":"MAL-2026-19234","aliases":["GHSA-mq7w-jmv5-vq3p"],"versions":["0.2.0"],"published":"2026-11-13T06:32:25Z","modified":"2026-11-13T10:13:34Z"}
+{"name":"@rclaude/darwin-arm64","id":"MAL-2026-19234","aliases":["GHSA-mq7w-jmv5-vq3p"],"versions":["0.2.0","0.2.1"],"published":"2026-11-13T06:32:25Z","modified":"2026-11-14T18:33:27Z"}
 {"name":"@rclaude/darwin-x64","id":"MAL-2026-19196","aliases":["GHSA-gm9f-q9rw-p3gm"],"versions":["0.2.1"],"published":"2026-11-12T20:30:47Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"@rclaude/win32-x64","id":"MAL-2026-19095","aliases":["GHSA-w584-99h6-6g9r"],"versions":["0.2.0","0.2.1"],"published":"2026-11-10T22:06:21Z","modified":"2026-11-12T21:12:24Z"}
 {"name":"@rdxportal/ui-components","id":"MAL-2026-796","aliases":["GHSA-m52r-4c3v-2f62"],"published":"2026-02-06T11:10:48Z","modified":"2026-10-02T05:38:49Z"}

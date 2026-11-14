@@ -1,3 +1,8 @@
+{"op":"upsert","modified":"2026-11-14T18:33:27Z","name":"demo-pingtest-xyz","id":"MAL-2026-19935","versions":["0.0.1"],"published":"2026-11-14T17:18:32Z"}
+{"op":"upsert","modified":"2026-11-14T18:33:27Z","name":"gateio-client","id":"MAL-2026-19933","versions":["99.99.1"],"published":"2026-11-14T15:29:53Z"}
+{"op":"upsert","modified":"2026-11-14T18:33:27Z","name":"gateio-sdk","id":"MAL-2026-19936","versions":["99.99.1","99.99.2"],"published":"2026-11-14T17:17:37Z"}
+{"op":"upsert","modified":"2026-11-14T18:33:27Z","name":"gateio-ws","id":"MAL-2026-19937","versions":["99.99.1","99.99.2"],"published":"2026-11-14T17:19:26Z"}
+{"op":"upsert","modified":"2026-11-14T18:33:27Z","name":"ps-bool","id":"MAL-2026-19934","versions":["0.2.0","0.2.1","0.2.3","0.2.4","0.2.5"],"published":"2026-11-14T15:28:36Z"}
 {"op":"upsert","modified":"2026-11-14T12:38:20Z","name":"trezortranslate","id":"MAL-2026-19930","versions":["0.0.0","1.0.0"],"published":"2026-11-14T07:16:19Z"}
 {"op":"upsert","modified":"2026-11-14T12:38:20Z","name":"xrfdc","id":"MAL-2026-19932","versions":["0.0.0","2.0"],"published":"2026-11-14T09:53:39Z"}
 {"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"axiom-dragon-xyz","id":"MAL-2026-19289","versions":["1.0.4"],"published":"2026-11-13T20:29:40Z"}

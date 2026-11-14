@@ -1666,6 +1666,7 @@
 {"name":"dell-recovery","id":"MAL-2025-192305","versions":["99.99.99"],"published":"2025-12-04T22:01:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dell-restore-system","id":"MAL-2025-192306","versions":["99.99.99"],"published":"2025-12-04T21:59:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"demo-malicious-package","id":"MAL-2024-5036","versions":["2022.12.7"],"published":"2024-06-25T13:34:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"demo-pingtest-xyz","id":"MAL-2026-19935","versions":["0.0.1"],"published":"2026-11-14T17:18:32Z","modified":"2026-11-14T18:33:27Z"}
 {"name":"demontonto","id":"MAL-2024-5037","versions":["1.0.8"],"published":"2024-06-25T13:34:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"demontonto1","id":"MAL-2024-5038","versions":["1.0.8"],"published":"2024-06-25T13:34:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"demozecob","id":"MAL-2026-1283","versions":["2.0.1"],"published":"2026-03-08T14:53:48Z","modified":"2026-10-02T05:38:49Z"}
@@ -3249,6 +3250,9 @@
 {"name":"garvisometerui","id":"MAL-2026-19206","versions":["0.1.0"],"published":"2026-11-13T01:24:55Z","modified":"2026-11-13T10:13:34Z"}
 {"name":"garvisuite","id":"MAL-2026-19184","versions":["0.1.0"],"published":"2026-11-12T20:46:39Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"gate-apis","id":"MAL-2026-2630","versions":["2.33.0"],"published":"2026-04-14T10:23:40Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"gateio-client","id":"MAL-2026-19933","versions":["99.99.1"],"published":"2026-11-14T15:29:53Z","modified":"2026-11-14T18:33:27Z"}
+{"name":"gateio-sdk","id":"MAL-2026-19936","versions":["99.99.1","99.99.2"],"published":"2026-11-14T17:17:37Z","modified":"2026-11-14T18:33:27Z"}
+{"name":"gateio-ws","id":"MAL-2026-19937","versions":["99.99.1","99.99.2"],"published":"2026-11-14T17:19:26Z","modified":"2026-11-14T18:33:27Z"}
 {"name":"gateway-framework","id":"MAL-2025-6508","versions":["0.1","0.2","0.3"],"published":"2025-07-14T13:50:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gatr","id":"MAL-2026-7","versions":["0.0.0","0.0.1"],"published":"2026-01-02T13:03:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gauravtest123","id":"MAL-2025-41679","versions":["0.10"],"published":"2025-08-28T07:11:07Z","modified":"2026-10-02T05:38:49Z"}
@@ -6347,6 +6351,7 @@
 {"name":"prrogressbar2","id":"MAL-2023-2018","published":"2023-02-11T12:24:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"prrompt-toolkit","id":"MAL-2023-2019","published":"2023-02-11T12:27:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pruebasdemalware","id":"MAL-2024-5572","versions":["1.5"],"published":"2024-06-25T13:38:54Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"ps-bool","id":"MAL-2026-19934","versions":["0.2.0","0.2.1","0.2.3","0.2.4","0.2.5"],"published":"2026-11-14T15:28:36Z","modified":"2026-11-14T18:33:27Z"}
 {"name":"psbt-helpers","id":"MAL-2026-11521","versions":["1.0.0"],"published":"2026-08-04T10:17:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"psbt-utils","id":"MAL-2026-11520","versions":["1.0.0"],"published":"2026-08-04T10:03:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"psocks","id":"MAL-2023-2020","published":"2023-02-11T12:15:10Z","modified":"2026-10-02T05:38:49Z"}
