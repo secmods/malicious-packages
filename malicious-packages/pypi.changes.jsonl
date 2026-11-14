@@ -1,4 +1,6 @@
-{"op":"upsert","modified":"2026-11-13T18:13:58Z","name":"testing1345","versions":["0.1.0"],"published":"2026-11-13T17:50:00.656493Z"}
+{"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"axiom-dragon-xyz","id":"MAL-2026-19289","versions":["1.0.4"],"published":"2026-11-13T20:29:40Z"}
+{"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"qap793gl4l","id":"MAL-2026-19259","versions":["0.1.1"],"published":"2026-11-13T19:47:37Z"}
+{"op":"upsert","modified":"2026-11-13T23:59:17Z","name":"testing1345","id":"MAL-2026-19247","versions":["0.1.0"],"published":"2026-11-13T17:50:00Z"}
 {"op":"upsert","modified":"2026-11-13T10:13:34Z","name":"garvisometerui","id":"MAL-2026-19206","versions":["0.1.0"],"published":"2026-11-13T01:24:55Z"}
 {"op":"upsert","modified":"2026-11-13T10:13:34Z","name":"qwen3ttsui","id":"MAL-2026-19207","versions":["0.1.0"],"published":"2026-11-13T01:22:27Z"}
 {"op":"upsert","modified":"2026-11-13T10:13:34Z","name":"voxcpmttslora","id":"MAL-2026-19208","versions":["0.1.0"],"published":"2026-11-13T01:23:26Z"}
