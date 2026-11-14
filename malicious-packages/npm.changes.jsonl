@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-14T22:47:28Z","name":"testpackage83","id":"MAL-2026-19938","versions":["1.0.0"],"published":"2026-11-14T20:23:49Z"}
 {"op":"upsert","modified":"2026-11-14T18:33:27Z","name":"@rclaude/darwin-arm64","id":"MAL-2026-19234","aliases":["GHSA-mq7w-jmv5-vq3p"],"versions":["0.2.0","0.2.1"],"published":"2026-11-13T06:32:25Z"}
 {"op":"upsert","modified":"2026-11-14T12:38:20Z","name":"@jelou/cli-win32-x64","id":"MAL-2026-19922","aliases":["GHSA-q78g-75cg-hwq6"],"versions":["4.24.0","4.26.1"],"published":"2026-11-13T22:51:02Z"}
 {"op":"upsert","modified":"2026-11-14T12:38:20Z","name":"@sfunction/dsh-screenshot","id":"MAL-2026-19931","aliases":["GHSA-7jf6-qwv2-qppp"],"versions":["0.1.1"],"published":"2026-11-14T08:18:25Z"}
