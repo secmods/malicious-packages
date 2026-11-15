@@ -3294,6 +3294,7 @@
 {"name":"@crowdstrike/logscale-parser-edit","id":"MAL-2025-47218","aliases":["GHSA-r3mw-cmqp-rqf5"],"versions":["1.205.1","1.205.2"],"published":"2025-09-16T07:48:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@crowdstrike/logscale-search","id":"MAL-2025-47236","aliases":["GHSA-vf8g-9pcq-qcv8"],"versions":["1.205.1","1.205.2"],"published":"2025-09-16T07:48:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@crowdstrike/tailwind-toucan-base","id":"MAL-2025-47237","aliases":["GHSA-f679-rpph-9qxf"],"versions":["5.0.1","5.0.2"],"published":"2025-09-16T07:49:32Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@crvouga/mockingbird-service-microsoft","id":"MAL-2026-19939","aliases":["GHSA-w3gq-mm9x-7w7c"],"versions":["0.14.0"],"published":"2026-11-15T00:19:15Z","modified":"2026-11-15T02:13:57Z"}
 {"name":"@crypto-lib/utils","id":"MAL-2025-7741","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@cryptochords/shared","id":"MAL-2025-47092","aliases":["GHSA-9g74-vhq8-xrmg"],"published":"2025-09-13T13:59:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@cryptosrvc/no-brainer-sdk","id":"MAL-2026-12315","versions":["1.0.18"],"published":"2026-08-05T13:01:29Z","modified":"2026-10-02T05:38:49Z"}
@@ -199508,5 +199509,3 @@
 {"name":"udin-rojak61-sukiwir","id":"MAL-2025-59074","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"udin-rojak62-ruro","id":"MAL-2025-109934","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"udin-rojak74-breki","id":"MAL-2025-123763","published":"2025-11-11T20:11:48Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"udin-rojak92-breki","id":"MAL-2025-75830","published":"2025-11-11T02:29:13Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"udin-ronde26-ruro","id":"MAL-2025-109935","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
