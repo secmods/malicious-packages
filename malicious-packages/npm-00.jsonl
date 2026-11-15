@@ -11976,6 +11976,7 @@
 {"name":"@thedelta/eslint-config","id":"MAL-2025-191055","aliases":["GHSA-qqm2-xw5q-6456"],"versions":["1.0.2"],"published":"2025-11-24T23:00:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@theguyswithaball/color-utils","id":"MAL-2026-19175","aliases":["GHSA-69f8-25pq-hjgc"],"published":"2026-11-12T16:21:27Z","modified":"2026-11-12T21:12:24Z"}
 {"name":"@theguyswithaball/scrambler","id":"MAL-2026-19176","aliases":["GHSA-6pvq-qv2f-m682"],"published":"2026-11-12T16:21:27Z","modified":"2026-11-12T21:12:24Z"}
+{"name":"@theholocron/holocron-plugin-discord","id":"MAL-2026-19943","aliases":["GHSA-95pv-hv63-58m8"],"versions":["5.0.0-alpha.436"],"published":"2026-11-15T09:39:44Z","modified":"2026-11-15T17:28:40Z"}
 {"name":"@thekrishnakarn/healthier-app","id":"MAL-2025-3868","aliases":["GHSA-r8j9-5c9h-fw6r"],"published":"2025-05-16T09:23:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@themarker/fetlife-assets","id":"MAL-2022-638","aliases":["GHSA-m9mx-w8h3-jjfv"],"published":"2022-06-20T18:20:36Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@theoretical123/ethers","id":"MAL-2025-2490","aliases":["GHSA-qjrq-c84p-65m9"],"published":"2025-03-18T06:12:15Z","modified":"2026-10-02T05:38:49Z"}
@@ -199507,5 +199508,3 @@
 {"name":"udin-rojak37-sukiwir","id":"MAL-2025-81845","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"udin-rojak47-breki","id":"MAL-2025-123762","published":"2025-11-11T20:11:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"udin-rojak47-ruro","id":"MAL-2025-109933","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"udin-rojak61-sukiwir","id":"MAL-2025-59074","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"udin-rojak62-ruro","id":"MAL-2025-109934","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
