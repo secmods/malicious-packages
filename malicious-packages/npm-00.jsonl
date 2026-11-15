@@ -136630,6 +136630,7 @@
 {"name":"node-youtube-dash-sidx","id":"MAL-2025-27665","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"node-zenvia","id":"MAL-2025-27666","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"node-zoodubbo","id":"MAL-2025-27667","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"node-zserial","id":"MAL-2026-19941","aliases":["GHSA-2p2h-g9qq-v2wx"],"versions":["1.0.42"],"published":"2026-11-15T03:25:56Z","modified":"2026-11-15T10:03:27Z"}
 {"name":"node.js","id":"MAL-2025-27668","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"node10-earnest-db","id":"MAL-2025-27669","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"node_api_auth","id":"MAL-2025-27670","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -199508,4 +199509,3 @@
 {"name":"udin-rojak47-ruro","id":"MAL-2025-109933","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"udin-rojak61-sukiwir","id":"MAL-2025-59074","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"udin-rojak62-ruro","id":"MAL-2025-109934","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"udin-rojak74-breki","id":"MAL-2025-123763","published":"2025-11-11T20:11:48Z","modified":"2026-10-02T05:38:49Z"}

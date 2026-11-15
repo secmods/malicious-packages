@@ -3252,7 +3252,9 @@
 {"name":"gate-apis","id":"MAL-2026-2630","versions":["2.33.0"],"published":"2026-04-14T10:23:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gateio-client","id":"MAL-2026-19933","versions":["99.99.1"],"published":"2026-11-14T15:29:53Z","modified":"2026-11-14T18:33:27Z"}
 {"name":"gateio-sdk","id":"MAL-2026-19936","versions":["99.99.1","99.99.2"],"published":"2026-11-14T17:17:37Z","modified":"2026-11-14T18:33:27Z"}
+{"name":"gateio-v4","id":"MAL-2026-19940","versions":["99.99.1"],"published":"2026-11-15T01:41:33Z","modified":"2026-11-15T10:03:27Z"}
 {"name":"gateio-ws","id":"MAL-2026-19937","versions":["99.99.1","99.99.2"],"published":"2026-11-14T17:19:26Z","modified":"2026-11-14T18:33:27Z"}
+{"name":"gatepay-sdk-python","id":"MAL-2026-19942","versions":["99.99.1"],"published":"2026-11-15T08:33:20Z","modified":"2026-11-15T10:03:27Z"}
 {"name":"gateway-framework","id":"MAL-2025-6508","versions":["0.1","0.2","0.3"],"published":"2025-07-14T13:50:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gatr","id":"MAL-2026-7","versions":["0.0.0","0.0.1"],"published":"2026-01-02T13:03:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gauravtest123","id":"MAL-2025-41679","versions":["0.10"],"published":"2025-08-28T07:11:07Z","modified":"2026-10-02T05:38:49Z"}

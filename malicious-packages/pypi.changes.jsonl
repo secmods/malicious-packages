@@ -1,3 +1,5 @@
+{"op":"upsert","modified":"2026-11-15T10:03:27Z","name":"gateio-v4","id":"MAL-2026-19940","versions":["99.99.1"],"published":"2026-11-15T01:41:33Z"}
+{"op":"upsert","modified":"2026-11-15T10:03:27Z","name":"gatepay-sdk-python","id":"MAL-2026-19942","versions":["99.99.1"],"published":"2026-11-15T08:33:20Z"}
 {"op":"upsert","modified":"2026-11-14T18:33:27Z","name":"demo-pingtest-xyz","id":"MAL-2026-19935","versions":["0.0.1"],"published":"2026-11-14T17:18:32Z"}
 {"op":"upsert","modified":"2026-11-14T18:33:27Z","name":"gateio-client","id":"MAL-2026-19933","versions":["99.99.1"],"published":"2026-11-14T15:29:53Z"}
 {"op":"upsert","modified":"2026-11-14T18:33:27Z","name":"gateio-sdk","id":"MAL-2026-19936","versions":["99.99.1","99.99.2"],"published":"2026-11-14T17:17:37Z"}
