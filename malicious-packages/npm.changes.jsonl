@@ -1,3 +1,5 @@
+{"op":"upsert","modified":"2026-11-16T02:27:14Z","name":"@univerjs-pro/sheets-pivot-chart","id":"MAL-2026-19944","aliases":["GHSA-h6jf-g8cj-x4v3"],"versions":["1.5.0"],"published":"2026-11-16T00:14:17Z"}
+{"op":"upsert","modified":"2026-11-16T02:27:14Z","name":"pmhq-dist-win-x64","id":"MAL-2026-19945","aliases":["GHSA-xxrh-88wg-7qf4"],"versions":["9.0.2"],"published":"2026-11-16T00:12:56Z"}
 {"op":"upsert","modified":"2026-11-15T17:28:40Z","name":"@theholocron/holocron-plugin-discord","id":"MAL-2026-19943","aliases":["GHSA-95pv-hv63-58m8"],"versions":["5.0.0-alpha.436"],"published":"2026-11-15T09:39:44Z"}
 {"op":"upsert","modified":"2026-11-15T10:03:27Z","name":"node-zserial","id":"MAL-2026-19941","aliases":["GHSA-2p2h-g9qq-v2wx"],"versions":["1.0.42"],"published":"2026-11-15T03:25:56Z"}
 {"op":"upsert","modified":"2026-11-15T02:13:57Z","name":"@crvouga/mockingbird-service-microsoft","id":"MAL-2026-19939","aliases":["GHSA-w3gq-mm9x-7w7c"],"versions":["0.14.0"],"published":"2026-11-15T00:19:15Z"}

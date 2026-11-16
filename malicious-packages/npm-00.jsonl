@@ -12425,6 +12425,7 @@
 {"name":"@unitedhealthgroup/fetlife-assets","id":"MAL-2022-693","aliases":["GHSA-92j3-25r4-rr9x"],"published":"2022-06-20T18:20:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@unity-dashboard/cloud-build","id":"MAL-2022-694","aliases":["GHSA-vf2p-gv4x-qwm3"],"published":"2022-07-22T09:56:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@unity-dashboard/iframe-messages","id":"MAL-2022-695","aliases":["GHSA-q2r4-cmfg-6337"],"published":"2022-07-22T09:56:05Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@univerjs-pro/sheets-pivot-chart","id":"MAL-2026-19944","aliases":["GHSA-h6jf-g8cj-x4v3"],"versions":["1.5.0"],"published":"2026-11-16T00:14:17Z","modified":"2026-11-16T02:27:14Z"}
 {"name":"@universal-search/search-proxy-api-client","id":"MAL-2025-9585","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@universeorg/dotenv","id":"MAL-2026-2220","aliases":["GHSA-vvwp-x2vx-wxpf"],"published":"2026-03-26T00:31:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@unkn0wnartist/h1-poc-test","id":"MAL-2025-5352","aliases":["GHSA-ccpj-4jhv-mqxw"],"versions":["1.0.0","1.0.1"],"published":"2025-06-18T14:46:11Z","modified":"2026-10-02T05:38:49Z"}
@@ -150894,6 +150895,7 @@
 {"name":"pmd-github-action","id":"MAL-2023-8125","versions":["2.1.1","7.2.9","7.9.9","9.9.9"],"published":"2023-09-18T16:36:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pmdapp","id":"MAL-2025-29443","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pmg","id":"MAL-2025-29444","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"pmhq-dist-win-x64","id":"MAL-2026-19945","aliases":["GHSA-xxrh-88wg-7qf4"],"versions":["9.0.2"],"published":"2026-11-16T00:12:56Z","modified":"2026-11-16T02:27:14Z"}
 {"name":"pmircuser","id":"MAL-2025-29445","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pml-edi-parser","id":"MAL-2025-29446","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pmmmwh","id":"MAL-2025-1375","aliases":["GHSA-24qg-gvvh-5hjw"],"published":"2025-02-13T22:44:03Z","modified":"2026-10-02T05:38:49Z"}
@@ -199505,6 +199507,3 @@
 {"name":"udin-rojak10-sukiwir","id":"MAL-2025-59073","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"udin-rojak100-riris","id":"MAL-2025-130765","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"udin-rojak25-miaww","id":"MAL-2025-91402","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"udin-rojak37-sukiwir","id":"MAL-2025-81845","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"udin-rojak47-breki","id":"MAL-2025-123762","published":"2025-11-11T20:11:48Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"udin-rojak47-ruro","id":"MAL-2025-109933","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
