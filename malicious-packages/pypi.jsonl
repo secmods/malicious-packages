@@ -4134,6 +4134,7 @@
 {"name":"lazmat","id":"MAL-2025-191779","versions":["1.0.0"],"published":"2025-07-19T22:00:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"lbank-connector-pythons","id":"MAL-2025-191644","versions":["2.0","2.1","2.2","2.3"],"published":"2025-10-22T12:45:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"lcick","id":"MAL-2023-1891","published":"2023-02-11T11:27:01Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"ldk-node","id":"MAL-2026-19954","versions":["0.7.9999"],"published":"2026-11-16T10:35:17Z","modified":"2026-11-16T20:42:45Z"}
 {"name":"leakdeep","id":"MAL-2026-17921","versions":["2.4.1","2.4.5","2.5.0","2.5.2","2.6.0","2.6.2","2.6.4","2.6.6","3.0.0"],"published":"2026-10-18T01:45:23Z","modified":"2026-10-18T17:51:40Z"}
 {"name":"learning-curve-projects","id":"MAL-2026-618","versions":["0.0.1","0.0.2"],"published":"2026-01-31T19:19:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"learning-pypi-demo-nisimi","id":"MAL-2025-47782","versions":["0.1.0","0.1.1","0.1.2","0.1.3","0.1.4","0.1.5"],"published":"2025-09-03T15:52:06Z","modified":"2026-10-02T05:38:49Z"}
@@ -5482,6 +5483,7 @@
 {"name":"my-private-pkg","id":"MAL-2026-17180","versions":["0.1.1","99.1.1","99.11.2"],"published":"2026-09-25T00:08:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"my-service-manager","id":"MAL-2024-12309","versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7"],"published":"2024-12-01T16:55:36Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"my-signature","id":"MAL-2026-19953","versions":["1.0.0"],"published":"2026-11-16T09:50:16Z","modified":"2026-11-16T10:16:57Z"}
+{"name":"my-signatureu","id":"MAL-2026-19955","versions":["1.0.0"],"published":"2026-11-16T10:56:05Z","modified":"2026-11-16T20:42:45Z"}
 {"name":"my-super-lib","id":"MAL-2026-1434","versions":["0.3.0","0.4.0","0.6.0","14.6.0"],"published":"2026-03-15T09:33:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"my-test-package-2025-xyz","id":"MAL-2026-4837","versions":["1.0.1"],"published":"2026-05-28T11:13:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"my-test-packagexx","id":"MAL-2025-48894","versions":["1.0.1"],"published":"2025-10-23T19:16:46Z","modified":"2026-10-02T05:38:49Z"}
