@@ -5478,8 +5478,10 @@
 {"name":"my-mcp-server-driving-license-ocr","id":"MAL-2026-19204","versions":["0.1.3"],"published":"2026-11-13T00:49:20Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"my-package-jiecub3","id":"MAL-2026-2962","versions":["1.0.0","1.1.0","1.2.0","1.3.0","1.4.0","1.5.0","1.6.0"],"published":"2026-04-21T06:45:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"my-pipeline-watcher-poc","id":"MAL-2026-3218","versions":["99999.99999.1"],"published":"2026-05-01T19:32:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"my-poc-sandbox","id":"MAL-2026-19951","versions":["1.0.0","1.0.1","1.0.2"],"published":"2026-11-16T08:46:51Z","modified":"2026-11-16T10:16:57Z"}
 {"name":"my-private-pkg","id":"MAL-2026-17180","versions":["0.1.1","99.1.1","99.11.2"],"published":"2026-09-25T00:08:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"my-service-manager","id":"MAL-2024-12309","versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7"],"published":"2024-12-01T16:55:36Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"my-signature","id":"MAL-2026-19953","versions":["1.0.0"],"published":"2026-11-16T09:50:16Z","modified":"2026-11-16T10:16:57Z"}
 {"name":"my-super-lib","id":"MAL-2026-1434","versions":["0.3.0","0.4.0","0.6.0","14.6.0"],"published":"2026-03-15T09:33:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"my-test-package-2025-xyz","id":"MAL-2026-4837","versions":["1.0.1"],"published":"2026-05-28T11:13:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"my-test-packagexx","id":"MAL-2025-48894","versions":["1.0.1"],"published":"2025-10-23T19:16:46Z","modified":"2026-10-02T05:38:49Z"}
@@ -7562,7 +7564,7 @@
 {"name":"pyloy","id":"MAL-2024-10119","versions":["0.0.1"],"published":"2024-09-04T21:25:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pymaas","id":"MAL-2026-15929","versions":["99.99.0"],"published":"2026-09-04T15:01:36Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pymaniac","id":"MAL-2024-5743","versions":["0.1","0.2","0.4","0.5","0.6","0.7","0.8","0.9","2.0","3.0","4.0","5.0","6.0","7.0","8.0","9.0","9.1"],"published":"2024-06-25T13:40:23Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"pymatcha","id":"MAL-2024-12332","versions":["0.1","0.1.0"],"published":"2024-09-04T21:25:32Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"pymatcha","id":"MAL-2024-12332","versions":["0.1"],"published":"2024-09-04T21:25:32Z","modified":"2026-11-16T10:16:57Z"}
 {"name":"pymem-win","id":"MAL-2026-16128","versions":["1.14.0","1.14.1","1.14.4","1.14.5","1.14.6"],"published":"2026-09-11T14:47:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pyminor","id":"MAL-2023-8582","aliases":["SNYK-PYTHON-PYMINOR-6069637"],"published":"2023-08-20T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pymnemonic","id":"MAL-2026-1438","versions":["1.1.2","1.1.3","1.2.5"],"published":"2026-03-15T22:01:13Z","modified":"2026-10-02T05:38:49Z"}
@@ -9739,7 +9741,7 @@
 {"name":"sphinx-rtd-themes","id":"MAL-2024-10731","versions":["95.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sphinxcontrib-napolean","id":"MAL-2025-3003","versions":["0.0.0.1"],"published":"2025-03-28T13:06:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"spider-ai","id":"MAL-2024-11712","versions":["0.1","0.2","0.3","0.4","1.0","1.1"],"published":"2024-10-02T09:16:00Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"spiderai","id":"MAL-2024-12348","versions":["0.0.1","0.0.2","0.0.3","0.1.0","1.0","1.1"],"published":"2024-10-02T09:16:00Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"spiderai","id":"MAL-2024-12348","versions":["1.0","1.1"],"published":"2024-10-02T09:16:00Z","modified":"2026-11-16T10:16:57Z"}
 {"name":"spiderxr-ai","id":"MAL-2024-11713","versions":["0.1.5","0.4","0.5"],"published":"2024-10-02T09:16:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"spip-pth-demo","id":"MAL-2026-4770","versions":["1.0.1","1.0.2"],"published":"2026-05-25T20:01:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"spl-token","id":"MAL-2024-10167","versions":["0.1.1","0.1.2","0.1.3","0.1.4","0.1.5"],"published":"2024-10-16T14:51:44Z","modified":"2026-10-02T05:38:49Z"}
@@ -11435,6 +11437,7 @@
 {"name":"urrllib3","id":"MAL-2023-2346","published":"2023-02-11T11:42:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"urz","id":"MAL-2024-6189","versions":["0.1"],"published":"2024-06-25T13:43:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"usar-agent","id":"MAL-2025-2006","versions":["0.1.0"],"published":"2025-03-03T13:45:32Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"usdm-minting-client","id":"MAL-2026-19952","versions":["0.1.0","0.1.1","0.1.2","0.1.3"],"published":"2026-11-16T09:21:14Z","modified":"2026-11-16T10:16:57Z"}
 {"name":"user-gen-agent-random","id":"MAL-2024-11738","versions":["1.6.8","1.6.9","1.7.0"],"published":"2024-10-07T22:16:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"user-rand-agnt-user","id":"MAL-2024-11739","versions":["1.8.7"],"published":"2024-10-07T22:16:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"user-random-agent-user","id":"MAL-2024-11740","versions":["1.7.0"],"published":"2024-10-07T22:16:18Z","modified":"2026-10-02T05:38:49Z"}

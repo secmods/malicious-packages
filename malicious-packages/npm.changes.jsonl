@@ -1,9 +1,14 @@
-{"op":"upsert","modified":"2026-11-16T02:27:14Z","name":"@univerjs-pro/sheets-pivot-chart","id":"MAL-2026-19944","aliases":["GHSA-h6jf-g8cj-x4v3"],"versions":["1.5.0"],"published":"2026-11-16T00:14:17Z"}
+{"op":"upsert","modified":"2026-11-16T10:16:57Z","name":"@univerjs-pro/sheets-pivot-chart","id":"MAL-2026-19944","aliases":["GHSA-h6jf-g8cj-x4v3"],"versions":["1.5.0","1.5.1"],"published":"2026-11-16T00:14:17Z"}
+{"op":"upsert","modified":"2026-11-16T10:16:57Z","name":"@xzvbailss/baileys","id":"MAL-2026-19946","versions":["1.0.0","5.0.0","6.0.0"],"published":"2026-11-11T00:00:00Z"}
+{"op":"upsert","modified":"2026-11-16T10:16:57Z","name":"baileys-clean","id":"MAL-2026-19947","versions":["7.3.2"],"published":"2026-11-11T00:00:00Z"}
+{"op":"upsert","modified":"2026-11-16T10:16:57Z","name":"hstdemotest","id":"MAL-2026-19948"}
+{"op":"upsert","modified":"2026-11-16T10:16:57Z","name":"hstdemotests","id":"MAL-2026-19949"}
+{"op":"upsert","modified":"2026-11-16T10:16:57Z","name":"testpackage83","id":"MAL-2026-19938","versions":["1.0.0","1.0.1"],"published":"2026-11-14T02:29:06Z"}
+{"op":"upsert","modified":"2026-11-16T10:16:57Z","name":"tg-msg-effect","id":"MAL-2026-19950"}
 {"op":"upsert","modified":"2026-11-16T02:27:14Z","name":"pmhq-dist-win-x64","id":"MAL-2026-19945","aliases":["GHSA-xxrh-88wg-7qf4"],"versions":["9.0.2"],"published":"2026-11-16T00:12:56Z"}
 {"op":"upsert","modified":"2026-11-15T17:28:40Z","name":"@theholocron/holocron-plugin-discord","id":"MAL-2026-19943","aliases":["GHSA-95pv-hv63-58m8"],"versions":["5.0.0-alpha.436"],"published":"2026-11-15T09:39:44Z"}
 {"op":"upsert","modified":"2026-11-15T10:03:27Z","name":"node-zserial","id":"MAL-2026-19941","aliases":["GHSA-2p2h-g9qq-v2wx"],"versions":["1.0.42"],"published":"2026-11-15T03:25:56Z"}
 {"op":"upsert","modified":"2026-11-15T02:13:57Z","name":"@crvouga/mockingbird-service-microsoft","id":"MAL-2026-19939","aliases":["GHSA-w3gq-mm9x-7w7c"],"versions":["0.14.0"],"published":"2026-11-15T00:19:15Z"}
-{"op":"upsert","modified":"2026-11-14T22:47:28Z","name":"testpackage83","id":"MAL-2026-19938","versions":["1.0.0"],"published":"2026-11-14T20:23:49Z"}
 {"op":"upsert","modified":"2026-11-14T18:33:27Z","name":"@rclaude/darwin-arm64","id":"MAL-2026-19234","aliases":["GHSA-mq7w-jmv5-vq3p"],"versions":["0.2.0","0.2.1"],"published":"2026-11-13T06:32:25Z"}
 {"op":"upsert","modified":"2026-11-14T12:38:20Z","name":"@jelou/cli-win32-x64","id":"MAL-2026-19922","aliases":["GHSA-q78g-75cg-hwq6"],"versions":["4.24.0","4.26.1"],"published":"2026-11-13T22:51:02Z"}
 {"op":"upsert","modified":"2026-11-14T12:38:20Z","name":"@sfunction/dsh-screenshot","id":"MAL-2026-19931","aliases":["GHSA-7jf6-qwv2-qppp"],"versions":["0.1.1"],"published":"2026-11-14T08:18:25Z"}
