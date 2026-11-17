@@ -3029,6 +3029,7 @@
 {"name":"sm8295yubf","id":"MAL-2026-8819","aliases":["GHSA-mxjc-jx6c-4cv8"],"versions":["0.0.1"],"published":"2026-07-07T12:04:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sol-mint-utils","id":"MAL-2026-17795","versions":["0.9.1"],"published":"2026-10-11T06:55:26Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"solaan-ruby","id":"MAL-2026-17610","published":"2026-10-05T08:25:35Z","modified":"2026-10-11T03:39:29Z"}
+{"name":"solana-keypair","id":"MAL-2026-20019","versions":["0.1.0"],"published":"2026-11-16T21:14:02Z","modified":"2026-11-17T03:16:08Z"}
 {"name":"sometestproxyywayle","id":"MAL-2026-8820","aliases":["GHSA-hcrx-38rg-66h9"],"versions":["0.0.1"],"published":"2026-07-07T12:04:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"southdot","id":"MAL-2026-8821","aliases":["GHSA-pc5r-9p53-4g4v"],"versions":["0.0.1"],"published":"2026-07-07T12:04:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"southextractproxy2026","id":"MAL-2026-8822","aliases":["GHSA-9gch-fjfc-4gf4"],"versions":["0.0.1"],"published":"2026-07-07T12:04:15Z","modified":"2026-10-02T05:38:49Z"}
