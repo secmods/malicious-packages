@@ -5261,6 +5261,7 @@
 {"name":"mcload","id":"MAL-2023-4738","published":"2023-02-23T23:51:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mcmask","id":"MAL-2023-4739","published":"2023-02-24T16:42:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mcmine","id":"MAL-2023-4740","published":"2023-02-24T16:54:14Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"mcp-aevo-server","id":"MAL-2026-20068","versions":["0.2.0","0.2.0.post1","0.2.0.post2","0.2.0.post3","0.2.0.post4","0.2.0.post6"],"published":"2026-11-17T14:45:00Z","modified":"2026-11-17T21:25:18Z"}
 {"name":"mcp-pdftool-plus","id":"MAL-2026-603","versions":["0.1.3","0.1.4","0.1.5"],"published":"2026-01-29T13:25:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mcp-runcmd-server","id":"MAL-2025-191788","versions":["1.0","2.0"],"published":"2025-10-13T07:46:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"mcp-runcommand-server","id":"MAL-2025-191647","versions":["1.0.10","1.0.11","1.0.12","1.0.13","1.0.5","1.0.7","1.0.8","1.0.9"],"published":"2025-10-10T10:05:00Z","modified":"2026-10-02T05:38:49Z"}
