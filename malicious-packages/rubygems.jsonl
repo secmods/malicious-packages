@@ -2268,6 +2268,7 @@
 {"name":"nft-metadata-resolver","id":"MAL-2026-17792","versions":["0.9.1"],"published":"2026-10-11T07:25:28Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"nhtsa-vin","id":"MAL-2024-6996","aliases":["GHSA-8h9j-7w6f-2856"],"versions":["0.0.8"],"published":"2024-06-25T13:51:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"no-fun","id":"MAL-2026-16411","versions":["999.99.99"],"published":"2026-09-22T21:01:24Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"node-test-repo","id":"MAL-2026-20058","versions":["1.0.1"],"published":"2026-11-17T09:18:21Z","modified":"2026-11-17T12:34:56Z"}
 {"name":"nwcid311","id":"MAL-2026-8139","aliases":["GHSA-p389-5qfj-w4q6"],"versions":["0.0.1"],"published":"2026-07-07T11:57:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"nwcid315","id":"MAL-2026-8140","aliases":["GHSA-8q6v-79qq-f63v"],"versions":["0.0.1"],"published":"2026-07-07T11:57:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"nwcid316","id":"MAL-2026-8141","aliases":["GHSA-86rm-fx89-659g"],"versions":["0.0.1"],"published":"2026-07-07T11:57:33Z","modified":"2026-10-02T05:38:49Z"}
