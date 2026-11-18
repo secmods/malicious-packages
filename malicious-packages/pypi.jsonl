@@ -233,6 +233,7 @@
 {"name":"amzn-sagemaker-studio","id":"MAL-2025-191680","versions":["0.1.0"],"published":"2025-09-07T16:39:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"anaconda-anon-usage","id":"MAL-2024-9939","versions":["0.4.9"],"published":"2024-08-23T21:20:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"analyze-me","id":"MAL-2024-4765","aliases":["SNYK-PYTHON-ANALYZEME-5295993"],"versions":["1.0.0","2.0.0"],"published":"2024-06-25T13:32:23Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"anchorpy-utils","id":"MAL-2026-20134","versions":["1.98.2"],"published":"2026-11-18T20:29:28Z","modified":"2026-11-18T20:57:01Z"}
 {"name":"androidspyeye","id":"MAL-2024-4766","aliases":["SNYK-PYTHON-ANDROIDSPYEYE-5508582"],"versions":["2.5"],"published":"2024-06-25T13:32:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"anduril-lattice-sdk-grpc-python","id":"MAL-2026-440","versions":["2.0.0","99.99.9"],"published":"2026-01-21T08:18:39Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"anduril-sdk","id":"MAL-2026-2083","versions":["1.0.0","1.0.1"],"published":"2026-03-23T08:06:29Z","modified":"2026-10-02T05:38:49Z"}
@@ -9667,6 +9668,7 @@
 {"name":"solana-live","id":"MAL-2025-5138","versions":["0.1.0"],"published":"2025-05-16T10:41:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solana-program","id":"MAL-2026-252","versions":["1.0.1","1.0.2"],"published":"2026-01-14T12:05:29Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solana-py-sdk","id":"MAL-2026-3390","versions":["1.0.0"],"published":"2026-05-08T09:00:43Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"solana-py-utils","id":"MAL-2026-20135","versions":["1.98.2","1.98.3"],"published":"2026-11-18T20:29:34Z","modified":"2026-11-18T20:57:01Z"}
 {"name":"solana-scanner","id":"MAL-2026-3381","versions":["1.0.0"],"published":"2026-05-08T07:28:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solana-sdkpy","id":"MAL-2025-6588","versions":["1.2.2","1.2.3","1.2.5","1.2.6"],"published":"2025-07-04T09:57:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solana-sniper-bot","id":"MAL-2026-13373","versions":["1.4.2"],"published":"2026-08-05T17:50:06Z","modified":"2026-10-02T05:38:49Z"}
@@ -9676,6 +9678,7 @@
 {"name":"solana-transaction","id":"MAL-2024-10164","versions":["0.1.0","1.0.0","1.0.1","1.0.2","1.0.4","1.0.5","1.0.6","1.0.7"],"published":"2024-10-16T14:51:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solana-transfer","id":"MAL-2024-10165","versions":["0.1.1"],"published":"2024-10-16T14:51:36Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solana-utils","id":"MAL-2025-2999","versions":["0.1.1","0.1.2"],"published":"2025-02-21T21:50:10Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"solana-utils-terminalmoney1","id":"MAL-2026-20136","versions":["1.98.2","1.98.3"],"published":"2026-11-18T20:29:52Z","modified":"2026-11-18T20:57:01Z"}
 {"name":"solana-wallet-sdk","id":"MAL-2026-3376","versions":["1.0.0"],"published":"2026-05-08T07:13:29Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solana-wallet-utils","id":"MAL-2026-3382","versions":["1.0.0"],"published":"2026-05-08T07:23:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solana-web3","id":"MAL-2026-5337","versions":["1.0.0"],"published":"2026-06-08T22:20:57Z","modified":"2026-10-02T05:38:49Z"}
@@ -9686,7 +9689,7 @@
 {"name":"solanautil","id":"MAL-2025-4241","versions":["2.1.1"],"published":"2025-05-22T12:33:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solanna","id":"MAL-2023-2280","published":"2023-02-09T19:03:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solaraund","id":"MAL-2024-11711","versions":["0.1"],"published":"2024-09-04T21:25:32Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"solders-utils","id":"MAL-2025-3000","versions":["0.1.1"],"published":"2025-02-21T21:50:10Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"solders-utils","id":"MAL-2025-3000","versions":["0.1.1","1.98.2"],"published":"2025-02-21T21:50:10Z","modified":"2026-11-18T20:57:01Z"}
 {"name":"solgpt","id":"MAL-2024-10166","versions":["0.1","0.2","0.3"],"published":"2024-07-29T21:29:54Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solhint-plugin-hyperlane","id":"MAL-2026-547","versions":["0.1.0"],"published":"2026-01-27T09:15:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"solidity-build-guard","id":"MAL-2026-4262","versions":["0.1.0"],"published":"2026-05-22T20:31:49Z","modified":"2026-10-02T05:38:49Z"}

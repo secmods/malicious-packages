@@ -2678,6 +2678,7 @@
 {"name":"rate-beer","id":"MAL-2024-7009","aliases":["GHSA-59m6-2mj6-vxx5"],"versions":["0.0.2"],"published":"2024-06-25T13:52:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"rate-limit-mini","id":"MAL-2026-17567","published":"2026-10-05T06:47:55Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"rbi-central","id":"MAL-2024-7010","aliases":["GHSA-6wr8-q54r-mxx9"],"versions":["0.0.2"],"published":"2024-06-25T13:52:02Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"rechargeapps","id":"MAL-2026-20137","versions":["999.0.0"],"published":"2026-11-18T20:26:52Z","modified":"2026-11-18T20:57:01Z"}
 {"name":"redis_connectable","id":"MAL-2025-192916","aliases":["GHSA-jcpm-3wq9-c6g9"],"versions":["90002.0"],"published":"2025-12-23T08:41:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"referral-candy","id":"MAL-2024-7011","aliases":["GHSA-5mm4-8xhr-gqqp"],"versions":["0.1.0"],"published":"2024-06-25T13:52:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"req-throttle-mini","id":"MAL-2026-17568","published":"2026-10-05T06:47:45Z","modified":"2026-10-11T03:39:29Z"}

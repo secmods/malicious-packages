@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-18T20:57:01Z","name":"rechargeapps","id":"MAL-2026-20137","versions":["999.0.0"],"published":"2026-11-18T20:26:52Z"}
 {"op":"upsert","modified":"2026-11-18T03:12:14Z","name":"vuln-app","id":"MAL-2026-20103","versions":["1.2.1"],"published":"2026-11-17T23:40:25Z"}
 {"op":"upsert","modified":"2026-11-17T12:34:56Z","name":"node-test-repo","id":"MAL-2026-20058","versions":["1.0.1"],"published":"2026-11-17T09:18:21Z"}
 {"op":"upsert","modified":"2026-11-17T03:16:08Z","name":"solana-keypair","id":"MAL-2026-20019","versions":["0.1.0"],"published":"2026-11-16T21:14:02Z"}

@@ -1,3 +1,7 @@
+{"op":"upsert","modified":"2026-11-18T20:57:01Z","name":"anchorpy-utils","id":"MAL-2026-20134","versions":["1.98.2"],"published":"2026-11-18T20:29:28Z"}
+{"op":"upsert","modified":"2026-11-18T20:57:01Z","name":"solana-py-utils","id":"MAL-2026-20135","versions":["1.98.2","1.98.3"],"published":"2026-11-18T20:29:34Z"}
+{"op":"upsert","modified":"2026-11-18T20:57:01Z","name":"solana-utils-terminalmoney1","id":"MAL-2026-20136","versions":["1.98.2","1.98.3"],"published":"2026-11-18T20:29:52Z"}
+{"op":"upsert","modified":"2026-11-18T20:57:01Z","name":"solders-utils","id":"MAL-2025-3000","versions":["0.1.1","1.98.2"],"published":"2025-02-21T21:50:10Z"}
 {"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"aeivasta","id":"MAL-2026-20113","versions":["0.3"]}
 {"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"libide","id":"MAL-2026-20114","versions":["0.1"]}
 {"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"libidreq","id":"MAL-2026-20115","versions":["0.1"]}
