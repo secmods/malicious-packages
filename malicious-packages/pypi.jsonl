@@ -112,6 +112,7 @@
 {"name":"afriton","id":"MAL-2024-11514","versions":["1.5","1.6"],"published":"2024-12-09T06:49:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"afriton-py","id":"MAL-2024-11515","versions":["1.6","1.7"],"published":"2024-12-09T06:49:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"afritonpy","id":"MAL-2024-11516","versions":["1"],"published":"2024-12-09T06:49:41Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"agent-framework","id":"MAL-2026-20101","versions":["1.26.1","1.26.2"],"published":"2026-11-17T22:12:19Z","modified":"2026-11-18T03:12:14Z"}
 {"name":"agent-user-generate","id":"MAL-2024-11517","versions":["1.6.7"],"published":"2024-10-07T22:16:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"agent-vx","id":"MAL-2026-17755","versions":["0.1.0"],"published":"2026-10-10T11:19:48Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"agentaix","id":"MAL-2026-17752","versions":["0.1.0","0.2.0"],"published":"2026-10-10T07:57:16Z","modified":"2026-10-11T03:39:29Z"}
@@ -3332,6 +3333,7 @@
 {"name":"ggfmttygl-new","id":"MAL-2026-3406","versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5"],"published":"2026-05-09T17:34:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ggghhhrrr","id":"MAL-2024-11600","versions":["0.1","0.3"],"published":"2024-10-16T21:12:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ggitpython","id":"MAL-2023-1854","published":"2023-02-11T12:36:07Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"gguf-accelerator","id":"MAL-2026-20102","versions":["0.1.0"],"published":"2026-11-17T22:05:00Z","modified":"2026-11-18T03:12:14Z"}
 {"name":"giantmidi-piano","id":"MAL-2024-11601","versions":["912.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gigl-core","id":"MAL-2026-5811","versions":["0.3.1"],"published":"2026-06-15T17:38:36Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"giitpython","id":"MAL-2023-1855","published":"2023-02-11T12:33:09Z","modified":"2026-10-02T05:38:49Z"}
