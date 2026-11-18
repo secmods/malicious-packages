@@ -104,6 +104,7 @@
 {"name":"advdef01","id":"MAL-2024-12189","versions":["1.0.0"],"published":"2024-08-05T22:25:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"advirtual","id":"MAL-2023-2507","published":"2023-02-24T23:30:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"advm","id":"MAL-2023-2508","published":"2023-02-23T23:33:05Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"aeivasta","id":"MAL-2026-20113","versions":["0.3"],"modified":"2026-11-18T12:24:03Z"}
 {"name":"aeodata","id":"MAL-2024-4741","aliases":["SNYK-PYTHON-AEODATA-5508572"],"versions":["0.4"],"published":"2024-06-25T13:32:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"aeodatav04","id":"MAL-2024-4742","aliases":["SNYK-PYTHON-AEODATAV04-5508571"],"versions":["0.4"],"published":"2024-06-25T13:32:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"aet-test","id":"MAL-2026-2852","versions":["1.0","1.0.1"],"published":"2026-04-17T18:46:36Z","modified":"2026-10-02T05:38:49Z"}
@@ -4412,11 +4413,13 @@
 {"name":"libhydravmram","id":"MAL-2023-4094","published":"2023-02-27T15:24:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"libid","id":"MAL-2024-5311","versions":["0.1"],"published":"2024-06-25T13:36:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"libida","id":"MAL-2024-5312","aliases":["SNYK-PYTHON-LIBIDA-5885065"],"versions":["0.2"],"published":"2024-06-25T13:36:50Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"libide","id":"MAL-2026-20114","versions":["0.1"],"modified":"2026-11-18T12:24:03Z"}
 {"name":"libidee","id":"MAL-2024-5313","aliases":["SNYK-PYTHON-LIBIDEE-5885051"],"versions":["0.1"],"published":"2024-06-25T13:36:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"libideee","id":"MAL-2024-5314","aliases":["SNYK-PYTHON-LIBIDEEE-5885074"],"versions":["0.1"],"published":"2024-06-25T13:36:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"libideeee","id":"MAL-2024-5315","aliases":["SNYK-PYTHON-LIBIDEEEE-5885080"],"versions":["0.1"],"published":"2024-06-25T13:36:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"libidi","id":"MAL-2024-5316","aliases":["SNYK-PYTHON-LIBIDI-5885057"],"versions":["0.1"],"published":"2024-06-25T13:36:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"libidos","id":"MAL-2024-5317","aliases":["SNYK-PYTHON-LIBIDOS-5885077"],"versions":["0.1"],"published":"2024-06-25T13:36:52Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"libidreq","id":"MAL-2026-20115","versions":["0.1"],"modified":"2026-11-18T12:24:03Z"}
 {"name":"libidrequest","id":"MAL-2024-5318","aliases":["SNYK-PYTHON-LIBIDREQUEST-5508596"],"versions":["0.4"],"published":"2024-06-25T13:36:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"libig","id":"MAL-2024-5319","aliases":["SNYK-PYTHON-LIBIG-5885084"],"versions":["0.1"],"published":"2024-06-25T13:36:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"libinfo","id":"MAL-2023-4095","published":"2023-02-23T23:42:11Z","modified":"2026-10-02T05:38:49Z"}
@@ -7929,6 +7932,7 @@
 {"name":"qassabi","id":"MAL-2025-964","versions":["1.1.8"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qaxtest-httpx","id":"MAL-2024-5840","versions":["1.1.1","1.1.3"],"published":"2024-06-25T13:41:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qdatainstaller","id":"MAL-2026-27","versions":["1.0.1"],"published":"2026-01-03T00:50:32Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"qimsdk-app-builder","id":"MAL-2026-20120","versions":["0.0.0","0.1.0"],"published":"2026-11-18T09:20:22Z","modified":"2026-11-18T12:24:03Z"}
 {"name":"qlinforge","id":"MAL-2026-10091","versions":["0.3.2"],"published":"2026-07-09T16:55:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qoeoe","id":"MAL-2026-15927","versions":["0.1.0"],"published":"2026-09-04T10:27:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qowa","id":"MAL-2026-18218","versions":["0.1.0"],"published":"2026-10-23T08:21:14Z","modified":"2026-10-23T10:37:27Z"}
@@ -7949,6 +7953,7 @@
 {"name":"query-profile","id":"MAL-2026-6236","versions":["0.0.1","0.0.2","0.0.3"],"published":"2026-06-20T08:55:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"queryservice-client","id":"MAL-2026-5","versions":["0.1.0","2.3.2"],"published":"2026-01-01T18:40:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"questpro","id":"MAL-2026-936","versions":["1.0.0","1.0.3","3.0.0","3.0.5","4.0.0"],"published":"2026-02-18T19:43:37Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"quick-telegram-sender","id":"MAL-2026-20116","versions":["0.7"],"modified":"2026-11-18T12:24:03Z"}
 {"name":"quickcolors","id":"MAL-2025-3461","versions":["10.0.9"],"published":"2025-03-25T09:28:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"quicklytookerv","id":"MAL-2026-3364","versions":["1.0.0","1.0.1"],"published":"2026-05-07T05:42:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"quickscan-scraper","id":"MAL-2024-5847","versions":["1.0.0"],"published":"2024-06-25T13:41:17Z","modified":"2026-10-02T05:38:49Z"}
@@ -8414,6 +8419,7 @@
 {"name":"roblox-python-wrapper","id":"MAL-2024-5950","versions":["1.0.93","2.0.3"],"published":"2024-06-25T13:42:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"robloxapi-test","id":"MAL-2026-1497","versions":["1.0.0"],"published":"2026-03-17T09:06:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"robloxapi-testy","id":"MAL-2026-1496","versions":["1.0.0"],"published":"2026-03-17T06:44:38Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"robloxapiaccess","id":"MAL-2026-20112","versions":["0.0.1","0.0.2"],"modified":"2026-11-18T12:24:03Z"}
 {"name":"robloxextra","id":"MAL-2025-6578","versions":["0.1","0.2","0.3","0.4","0.6","0.7","0.8"],"published":"2025-06-09T10:14:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"robloxfollowers","id":"MAL-2024-5951","versions":["1.0.4"],"published":"2024-06-25T13:42:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"robloxmod","id":"MAL-2024-5952","aliases":["SNYK-PYTHON-ROBLOXMOD-5295971"],"versions":["0.0.1"],"published":"2024-06-25T13:42:06Z","modified":"2026-10-02T05:38:49Z"}
@@ -9508,6 +9514,7 @@
 {"name":"service-etl","id":"MAL-2023-1408","versions":["11.11.3"],"published":"2023-04-26T16:37:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"set7","id":"MAL-2025-41760","versions":["1.0.0","1.0.1","1.0.2","1.0.4","1.0.5","1.0.7"],"published":"2025-07-21T14:29:37Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"setdotwork","id":"MAL-2024-5990","aliases":["SNYK-PYTHON-SETDOTWORK-5885068"],"versions":["0.6","0.7"],"published":"2024-06-25T13:42:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"setnetwork","id":"MAL-2026-20117","versions":["0.2"],"modified":"2026-11-18T12:24:03Z"}
 {"name":"setup1nter","id":"MAL-2024-5991","aliases":["SNYK-PYTHON-SETUP1NTER-6129537"],"versions":["0.0.1","0.0.2"],"published":"2024-06-25T13:42:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"setupint3","id":"MAL-2024-5992","aliases":["SNYK-PYTHON-SETUPINT3-6129550"],"versions":["0.0.2"],"published":"2024-06-25T13:42:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"setupint3s","id":"MAL-2024-5993","aliases":["SNYK-PYTHON-SETUPINT3S-6129574"],"versions":["0.0.2"],"published":"2024-06-25T13:42:27Z","modified":"2026-10-02T05:38:49Z"}
@@ -10115,6 +10122,7 @@
 {"name":"test-typo-pypi","id":"MAL-2024-6108","versions":["1.1.18","1.1.7"],"published":"2024-06-25T13:43:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test-workalendar-internal","id":"MAL-2026-18092","versions":["0.0.1","0.0.2","0.0.3"],"published":"2026-10-20T13:00:38Z","modified":"2026-10-20T15:25:26Z"}
 {"name":"test128123612","id":"MAL-2024-11723","versions":["0.1"],"published":"2024-12-09T06:51:18Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"test23414234234","id":"MAL-2026-20118","versions":["0.6"],"modified":"2026-11-18T12:24:03Z"}
 {"name":"test24234","id":"MAL-2024-10170","aliases":["SNYK-PYTHON-TEST24234-5508577"],"versions":["0.1","0.4"],"published":"2024-10-16T14:52:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test421","id":"MAL-2025-48899","versions":["1.0.1"],"published":"2025-10-23T19:17:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"test422","id":"MAL-2025-48900","versions":["1.0.1"],"published":"2025-10-23T19:17:14Z","modified":"2026-10-02T05:38:49Z"}

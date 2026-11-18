@@ -1,3 +1,9 @@
+{"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"@clickwraps/fetch","id":"MAL-2026-20119","versions":["99.9.1"],"published":"2026-11-18T06:12:31Z"}
+{"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"base128-x58-1","id":"MAL-2026-20108","versions":["0.0.1","0.0.2","0.0.3","0.0.4"]}
+{"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"base62-85x","id":"MAL-2026-20109","versions":["5.0.4"]}
+{"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"canvas_webgl_minimal","id":"MAL-2026-20110","versions":["11.11.13"]}
+{"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"playwright-config","id":"MAL-2026-20111","versions":["20.20.20"]}
+{"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"vant","id":"MAL-2026-20107","versions":["2.13.3","2.13.4","2.13.5","3.6.13","3.6.14","3.6.15","4.9.11","4.9.12","4.9.13","4.9.14"]}
 {"op":"upsert","modified":"2026-11-18T03:12:14Z","name":"@nullzero/urlcat","id":"MAL-2026-6309","aliases":["GHSA-8x4p-wc99-jvgr"],"published":"2026-06-22T12:00:00Z"}
 {"op":"upsert","modified":"2026-11-18T03:12:14Z","name":"@tnhorg/agent-skills","id":"MAL-2026-20104","aliases":["GHSA-fv82-jh67-xx7q"],"published":"2026-11-18T00:24:40Z"}
 {"op":"upsert","modified":"2026-11-18T03:12:14Z","name":"a-sub-watcher","id":"MAL-2026-20105","aliases":["GHSA-m5wx-ph7h-3vhf"],"published":"2026-11-18T00:24:40Z"}

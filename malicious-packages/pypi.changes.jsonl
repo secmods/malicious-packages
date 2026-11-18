@@ -1,3 +1,11 @@
+{"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"aeivasta","id":"MAL-2026-20113","versions":["0.3"]}
+{"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"libide","id":"MAL-2026-20114","versions":["0.1"]}
+{"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"libidreq","id":"MAL-2026-20115","versions":["0.1"]}
+{"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"qimsdk-app-builder","id":"MAL-2026-20120","versions":["0.0.0","0.1.0"],"published":"2026-11-18T09:20:22Z"}
+{"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"quick-telegram-sender","id":"MAL-2026-20116","versions":["0.7"]}
+{"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"robloxapiaccess","id":"MAL-2026-20112","versions":["0.0.1","0.0.2"]}
+{"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"setnetwork","id":"MAL-2026-20117","versions":["0.2"]}
+{"op":"upsert","modified":"2026-11-18T12:24:03Z","name":"test23414234234","id":"MAL-2026-20118","versions":["0.6"]}
 {"op":"upsert","modified":"2026-11-18T03:12:14Z","name":"agent-framework","id":"MAL-2026-20101","versions":["1.26.1","1.26.2"],"published":"2026-11-17T22:12:19Z"}
 {"op":"upsert","modified":"2026-11-18T03:12:14Z","name":"gguf-accelerator","id":"MAL-2026-20102","versions":["0.1.0"],"published":"2026-11-17T22:05:00Z"}
 {"op":"upsert","modified":"2026-11-17T21:25:18Z","name":"mcp-aevo-server","id":"MAL-2026-20068","versions":["0.2.0","0.2.0.post1","0.2.0.post2","0.2.0.post3","0.2.0.post4","0.2.0.post6"],"published":"2026-11-17T14:45:00Z"}
