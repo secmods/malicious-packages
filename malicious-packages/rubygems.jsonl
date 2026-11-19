@@ -580,6 +580,7 @@
 {"name":"aws_elasticsearch","id":"MAL-2024-6740","versions":["0.1.0"],"published":"2024-06-25T13:49:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"aws_logs","id":"MAL-2024-6741","versions":["0.3.4"],"published":"2024-06-25T13:49:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"aws_s3-deploy","id":"MAL-2024-6742","versions":["0.3.0"],"published":"2024-06-25T13:49:27Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"aws_sdk_wrapper","id":"MAL-2026-20210","versions":["0.0.99"],"published":"2026-11-19T09:08:39Z","modified":"2026-11-19T10:50:35Z"}
 {"name":"b00_arcguide","id":"MAL-2026-7543","versions":["0.0.1"],"published":"2026-07-07T11:51:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ba-upload","id":"MAL-2024-6743","versions":["0.1.0"],"published":"2024-06-25T13:49:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"backbone_subroute-rails","id":"MAL-2024-6744","versions":["0.4.6"],"published":"2024-06-25T13:49:28Z","modified":"2026-10-02T05:38:49Z"}
@@ -1535,6 +1536,7 @@
 {"name":"fadtestgemx1","id":"MAL-2026-7684","aliases":["GHSA-v338-374g-xrqh"],"versions":["0.0.1"],"published":"2026-07-07T11:52:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"feature-flags-client","id":"MAL-2025-46907","versions":["1.1.0.4.g5ec4367"],"published":"2025-09-01T09:47:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ffxnzzez0bc","id":"MAL-2026-7685","aliases":["GHSA-p8fr-m7c7-qw5g"],"versions":["0.0.1","0.0.2","0.0.3"],"published":"2026-07-07T11:52:54Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"fh-skeleton-web","id":"MAL-2026-20199","versions":["1.0.1"],"published":"2026-11-19T06:43:52Z","modified":"2026-11-19T10:50:35Z"}
 {"name":"fig-rake","id":"MAL-2024-6894","aliases":["GHSA-qq6g-q7jx-87qv"],"versions":["0.9.3"],"published":"2024-06-25T13:50:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"final-poc-usa","id":"MAL-2026-6118","versions":["0.99800.0"],"published":"2026-06-18T09:55:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"final-shoaib","id":"MAL-2026-6117","versions":["1.0.0"],"published":"2026-06-18T09:25:24Z","modified":"2026-10-02T05:38:49Z"}
@@ -1628,6 +1630,8 @@
 {"name":"gitlab-orchestrator","id":"MAL-2026-2814","aliases":["GHSA-fpg3-pj6c-r8g2"],"versions":["99.99.10","99.99.9"],"published":"2026-04-16T10:28:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gitstats_rb","id":"MAL-2024-6936","aliases":["GHSA-v9vc-f3w8-gq72"],"versions":["2.0.0"],"published":"2024-06-25T13:51:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gitstats_ruby","id":"MAL-2024-6937","aliases":["GHSA-vhvf-747p-2qxw"],"versions":["1.0.1"],"published":"2024-06-25T13:51:17Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"gmo-payment","id":"MAL-2026-20211","versions":["0.0.99"],"published":"2026-11-19T09:08:19Z","modified":"2026-11-19T10:50:35Z"}
+{"name":"gmo-payment-carrier","id":"MAL-2026-20212","versions":["0.0.99"],"published":"2026-11-19T09:08:31Z","modified":"2026-11-19T10:50:35Z"}
 {"name":"goimportinj1778550957","id":"MAL-2026-7714","aliases":["GHSA-65f4-8v3j-8jh7"],"versions":["0.0.1"],"published":"2026-07-07T11:53:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"goimportinjmeta1778551143","id":"MAL-2026-7715","aliases":["GHSA-q3cv-q737-j35j"],"versions":["0.0.1"],"published":"2026-07-07T11:53:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"google-apis-androidpublisher_v2","id":"MAL-2023-1426","versions":["0.0"],"published":"2023-07-19T06:30:24Z","modified":"2026-10-02T05:38:49Z"}
