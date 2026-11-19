@@ -2795,6 +2795,7 @@
 {"name":"secondhand_spider","id":"MAL-2024-7020","aliases":["GHSA-wcr3-hh3j-84x8"],"versions":["0.0.1"],"published":"2024-06-25T13:52:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"secrequeryabc","id":"MAL-2026-8587","aliases":["GHSA-4283-p7px-p8g6"],"versions":["0.0.1"],"published":"2026-07-07T12:01:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"secret-scanning-proto","id":"MAL-2025-46942","versions":["99.99.99"],"published":"2025-09-01T09:53:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"secretlens","id":"MAL-2026-20213","versions":["1.0.1"],"published":"2026-11-19T13:11:10Z","modified":"2026-11-19T19:13:14Z"}
 {"name":"seed-phrase-validator","id":"MAL-2026-17794","versions":["0.9.1"],"published":"2026-10-11T07:35:30Z","modified":"2026-10-14T01:27:44Z"}
 {"name":"seeing-is_believing","id":"MAL-2024-7021","aliases":["GHSA-g59c-7vq5-jrr3"],"versions":["3.6.1"],"published":"2024-06-25T13:52:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"selenium-spider","id":"MAL-2024-7022","aliases":["GHSA-94j8-2wc4-mfvc"],"versions":["0.1.2"],"published":"2024-06-25T13:52:10Z","modified":"2026-10-02T05:38:49Z"}

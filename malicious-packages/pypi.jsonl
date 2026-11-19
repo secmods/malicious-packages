@@ -3118,6 +3118,7 @@
 {"name":"flexponlib","id":"MAL-2024-5145","versions":["0.0.1"],"published":"2024-06-25T13:35:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"flexssl","id":"MAL-2024-12274","versions":["2.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"flintqueue","id":"MAL-2026-18227","versions":["0.1.0"],"published":"2026-10-23T15:45:13Z","modified":"2026-10-23T19:36:10Z"}
+{"name":"flo-pro-adk","id":"MAL-2026-20219","versions":["0.0.0","1.0.0"],"published":"2026-11-19T14:21:41Z","modified":"2026-11-19T19:13:14Z"}
 {"name":"floogle","id":"MAL-2025-41676","versions":["0.7"],"published":"2025-08-28T07:11:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"flophttp","id":"MAL-2024-10028","versions":["2.3.5"],"published":"2024-08-29T10:57:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"flowfix","id":"MAL-2026-1276","versions":["0.1.0","0.1.1"],"published":"2026-03-06T17:39:56Z","modified":"2026-10-02T05:38:49Z"}
