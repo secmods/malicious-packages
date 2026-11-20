@@ -976,6 +976,7 @@
 {"name":"certifiq","id":"MAL-2025-41634","versions":["2022.12.7"],"published":"2025-08-28T07:10:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"certifiy","id":"MAL-2025-41635","versions":["2022.12.7"],"published":"2025-08-28T07:10:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"certifo","id":"MAL-2025-41636","versions":["2022.12.7"],"published":"2025-08-28T07:10:45Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"certify-web","id":"MAL-2026-20257","versions":["0.1.3"],"published":"2026-11-19T21:50:33Z","modified":"2026-11-20T01:28:50Z"}
 {"name":"certufi","id":"MAL-2025-41637","versions":["2022.12.7"],"published":"2025-08-28T07:10:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cffi-curl","id":"MAL-2025-47752","versions":["0.13.0"],"published":"2025-08-20T19:19:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cffii","id":"MAL-2024-4886","versions":["1.15.1"],"published":"2024-06-25T13:33:22Z","modified":"2026-10-02T05:38:49Z"}

@@ -1,3 +1,26 @@
+{"name":"udin-buburayam70-miaww","id":"MAL-2025-117574","published":"2025-11-11T15:19:32Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-buburayam87-breki","id":"MAL-2025-75804","published":"2025-11-11T02:29:13Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-buburayam95-sluey","id":"MAL-2025-65705","published":"2025-11-11T00:17:57Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-bubursumsum22-riris","id":"MAL-2025-130728","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-bubursumsum39-riris","id":"MAL-2025-130729","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-bubursumsum49-breki","id":"MAL-2025-75805","published":"2025-11-11T02:29:13Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-bubursumsum56-sluey","id":"MAL-2025-65706","published":"2025-11-11T00:17:57Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-bubursumsum59-miaww","id":"MAL-2025-91339","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-dodol22-miaww","id":"MAL-2025-52511","published":"2025-11-10T04:05:19Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-dodol42-breki","id":"MAL-2025-52512","published":"2025-11-10T04:05:19Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-donat16-riris","id":"MAL-2025-130730","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-donat40-sluey","id":"MAL-2025-137468","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-donat45-riris","id":"MAL-2025-91340","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-dradag12-riris","id":"MAL-2025-91341","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-dradag22-riris","id":"MAL-2025-91342","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-dradag48-riris","id":"MAL-2025-130731","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-dradag80-sukiwir","id":"MAL-2025-81815","published":"2025-11-11T03:48:15Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-dradag98-sukiwir","id":"MAL-2025-59047","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-dradag99-riris","id":"MAL-2025-130732","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-empal1-riris","id":"MAL-2025-130733","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-empal12-riris","id":"MAL-2025-130734","published":"2025-11-11T20:46:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-empal22-ruro","id":"MAL-2025-109911","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"udin-empal28-miaww","id":"MAL-2025-91343","published":"2025-11-11T04:25:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"udin-empal63-ruro","id":"MAL-2025-52513","published":"2025-11-10T04:05:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"udin-empal79-remi","id":"MAL-2025-109912","published":"2025-11-11T07:16:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"udin-enting8-sukiwir","id":"MAL-2025-59048","published":"2025-11-10T17:21:43Z","modified":"2026-10-02T05:38:49Z"}
@@ -5966,6 +5989,7 @@
 {"name":"vcfspirit","id":"MAL-2025-38169","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vcgr3","id":"MAL-2025-38170","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vcgr34","id":"MAL-2025-38171","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"vcnwi-ihpgp-util","id":"MAL-2026-20273","aliases":["GHSA-6wmj-hgpg-2pp6"],"published":"2026-11-20T01:02:15Z","modified":"2026-11-20T01:28:50Z"}
 {"name":"vcodigo","id":"MAL-2025-38172","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vcpkg-cmake","id":"MAL-2022-6899","aliases":["GHSA-rh2p-v532-m3fq"],"published":"2022-06-20T20:21:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vcpkg-cmake-config","id":"MAL-2022-6900","aliases":["GHSA-g899-pggq-p9fp"],"published":"2022-06-20T20:21:03Z","modified":"2026-10-02T05:38:49Z"}
@@ -9664,6 +9688,7 @@
 {"name":"voip-callkit","id":"MAL-2025-47416","aliases":["GHSA-w47j-9wvm-45xr"],"versions":["1.0.2","1.0.3"],"published":"2025-09-16T17:05:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"voir-rwanda-benin-en-direct-streaming","id":"MAL-2024-3829","versions":["1.0.0"],"published":"2024-06-25T13:19:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vojislav-web3-utils","id":"MAL-2025-3774","aliases":["GHSA-r4w3-6ghm-9f47"],"published":"2025-05-12T06:23:36Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"vojmd-ajgkr-util","id":"MAL-2026-20274","aliases":["GHSA-gcx6-6r3h-7cvr"],"published":"2026-11-20T00:59:58Z","modified":"2026-11-20T01:28:50Z"}
 {"name":"volcan0x","id":"MAL-2022-6963","aliases":["GHSA-w5w6-5j6v-gcmc"],"published":"2022-06-02T10:38:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"volcano-boulder-dor911-project","id":"MAL-2025-38557","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"volcano-butterfly-clt405-project","id":"MAL-2025-38558","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -9835,6 +9860,7 @@
 {"name":"voyage_vx4ld_okb49_antelope","id":"MAL-2025-38625","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"voyage_ysitn_il0e7_plume","id":"MAL-2025-38626","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"voyager-web","id":"MAL-2026-5696","aliases":["GHSA-3vr9-xc7m-h6qx"],"published":"2026-06-12T15:24:53Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"vp-baileys","id":"MAL-2026-20256","aliases":["GHSA-7qwg-r443-84p9"],"versions":["0.0.0-stage","9.0.34"],"published":"2026-11-19T20:25:58Z","modified":"2026-11-20T01:28:50Z"}
 {"name":"vpatdnhbukmgjqrs","id":"MAL-2025-38627","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vpc-nat-gateway-dependency","id":"MAL-2023-8531","aliases":["GHSA-3mpj-p582-6rmg"],"published":"2023-11-18T03:24:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vpc-stack-with-issues","id":"MAL-2022-6968","aliases":["GHSA-mh3q-4726-43h2"],"published":"2022-06-10T04:05:44Z","modified":"2026-10-02T05:38:49Z"}
@@ -12688,6 +12714,7 @@
 {"name":"webhealer","id":"MAL-2025-39009","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"webhid","id":"MAL-2022-7094","aliases":["GHSA-mp98-crc4-m6qm"],"published":"2022-06-20T20:13:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"webhint-configuration-braintree-sdk","id":"MAL-2022-7095","aliases":["GHSA-758f-c3vf-fq68"],"published":"2022-06-20T20:25:59Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"webhook-easy","id":"MAL-2026-20259","versions":["1.1.0"],"published":"2026-11-19T22:35:47Z","modified":"2026-11-20T01:28:50Z"}
 {"name":"webhook-example-coinbase-commerce-node","id":"MAL-2025-1196","aliases":["GHSA-95wj-4wxx-xfpx"],"published":"2025-02-03T09:01:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"webhook-provisioner","id":"MAL-2022-7096","aliases":["GHSA-xp8c-mvqv-5h5x"],"published":"2022-06-20T20:16:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"webhook_client","id":"MAL-2025-39010","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -18113,6 +18140,7 @@
 {"name":"xuanze-yu-kaishi","id":"MAL-2025-46743","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xuehui-taluode-shiliu-tangke","id":"MAL-2025-40003","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xuehui-zhanxingde-diyibenshu","id":"MAL-2025-46744","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"xueoj-vjtof-util","id":"MAL-2026-20275","aliases":["GHSA-4ffv-gw64-v99f"],"published":"2026-11-20T00:59:58Z","modified":"2026-11-20T01:28:50Z"}
 {"name":"xuexing-shengxiao-xingzuo-quanshu","id":"MAL-2025-46745","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xuexing-xingzuo-shengxiao-quanjiemi","id":"MAL-2025-40004","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"xuexing-yuxingzuo-vola","id":"MAL-2025-40005","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
