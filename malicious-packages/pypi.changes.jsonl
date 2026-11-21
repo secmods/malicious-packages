@@ -1,3 +1,10 @@
+{"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"cijukop","id":"MAL-2026-20312","versions":["1.0.0"],"published":"2026-11-20T19:45:12Z"}
+{"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"delta-nested-filter-tracer","id":"MAL-2026-20307","versions":["1.0.0","1.0.0.post1"],"published":"2026-11-20T19:28:58Z"}
+{"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"pkgreg-buildprobe-16c409218045","id":"MAL-2026-20308","versions":["0.0.1","0.0.2"],"published":"2026-11-20T19:27:33Z"}
+{"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"scope-token-fetch-vector","id":"MAL-2026-20302","versions":["1.0.0","1.0.0.post1"],"published":"2026-11-20T18:26:02Z"}
+{"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"signed-manifest-updater","id":"MAL-2026-20317","versions":["0.1.5"],"published":"2026-11-20T21:37:46Z"}
+{"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"testing1345py","id":"MAL-2026-20313","versions":["0.1.3","0.1.4"],"published":"2026-11-20T19:30:56Z"}
+{"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"wouki-lipok","id":"MAL-2026-20309","versions":["1.0.0"],"published":"2026-11-20T19:26:16Z"}
 {"op":"upsert","modified":"2026-11-20T09:19:38Z","name":"MRCL2","id":"MAL-2026-20282","versions":["1.0.1","1.0.2","1.0.3","1.0.4","1.0.5"],"published":"2026-11-20T03:02:44Z"}
 {"op":"upsert","modified":"2026-11-20T09:19:38Z","name":"MRCL2Suhail","id":"MAL-2026-20283","versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4"],"published":"2026-11-20T03:03:12Z"}
 {"op":"upsert","modified":"2026-11-20T01:28:50Z","name":"certify-web","id":"MAL-2026-20257","versions":["0.1.3"],"published":"2026-11-19T21:50:33Z"}
