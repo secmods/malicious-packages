@@ -9985,6 +9985,7 @@
 {"name":"@pkgship/frpc-linux-amd64","id":"MAL-2026-18198","aliases":["GHSA-9pc4-vxvx-5676"],"versions":["0.71.1"],"published":"2026-10-22T20:39:46Z","modified":"2026-10-22T21:58:09Z"}
 {"name":"@pkgship/frpc-linux-arm64","id":"MAL-2026-17922","aliases":["GHSA-753f-gx8g-q88w"],"versions":["0.71.0","0.71.1"],"published":"2026-10-18T21:10:43Z","modified":"2026-11-10T00:56:01Z"}
 {"name":"@pkgship/frps-linux-amd64","id":"MAL-2026-18199","aliases":["GHSA-x55v-jc52-q424"],"versions":["0.71.1"],"published":"2026-10-22T20:48:16Z","modified":"2026-10-22T21:58:09Z"}
+{"name":"@pkgship/frps-windows-amd64","id":"MAL-2026-20321","aliases":["GHSA-r9wp-474x-c72c"],"versions":["0.71.1"],"published":"2026-11-21T02:31:32Z","modified":"2026-11-21T07:48:35Z"}
 {"name":"@planetlabs/admin-ng","id":"MAL-2026-6637","aliases":["GHSA-4x72-8x46-jqmw"],"published":"2026-06-29T16:53:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@plangrid-private/babel-preset-react-app","id":"MAL-2024-1801","versions":["1.0.0"],"published":"2024-06-25T12:21:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@plangrid-private/demo-components","id":"MAL-2024-2071","versions":["1.0.0"],"published":"2024-06-25T12:21:52Z","modified":"2026-10-02T05:38:49Z"}
@@ -22473,6 +22474,7 @@
 {"name":"ai-workshop-radio-lambda","id":"MAL-2026-17429","published":"2026-09-30T07:11:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ai3","id":"MAL-2026-4476","versions":["0.3.5"],"published":"2026-05-26T01:00:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ai_challenge","id":"MAL-2025-3814","aliases":["GHSA-x42x-cp47-8w34"],"published":"2025-05-15T05:41:00Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"aia-b-locator-fe","id":"MAL-2026-20320","versions":["1.0.3"],"published":"2026-11-21T00:30:49Z","modified":"2026-11-21T07:48:35Z"}
 {"name":"aiasahu-sautg-infaru","id":"MAL-2025-172742","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"aibadali","id":"MAL-2025-170724","published":"2025-11-12T18:00:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"aiboa-milipe-apamipa","id":"MAL-2025-179434","published":"2025-11-12T20:46:07Z","modified":"2026-10-02T05:38:49Z"}
@@ -62386,7 +62388,7 @@
 {"name":"dsgs-trus-pix","id":"MAL-2025-174118","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dsgs-trus-psix","id":"MAL-2025-174119","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dsgs-txcui-pix","id":"MAL-2025-174120","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"dsh-blue-team-mode","id":"MAL-2026-20315","aliases":["GHSA-7r7x-px4j-w4jg"],"versions":["3.0.0-beta.17","3.0.0-beta.18","3.0.0-beta.19","3.0.0-beta.20"],"published":"2026-11-20T20:44:24Z","modified":"2026-11-21T00:24:58Z"}
+{"name":"dsh-blue-team-mode","id":"MAL-2026-20315","aliases":["GHSA-7r7x-px4j-w4jg"],"versions":["3.0.0-beta.17","3.0.0-beta.18","3.0.0-beta.19","3.0.0-beta.20","3.0.0-beta.21"],"published":"2026-11-20T20:44:24Z","modified":"2026-11-21T07:48:35Z"}
 {"name":"dsh-moss-console","id":"MAL-2026-18522","aliases":["GHSA-cw2g-cxwh-wqqm"],"versions":["3.3.0"],"published":"2026-11-03T07:25:58Z","modified":"2026-11-03T08:44:54Z"}
 {"name":"dsh-moss-wallpaper","id":"MAL-2026-18523","aliases":["GHSA-rgvh-3r77-gg9c"],"versions":["3.4.0"],"published":"2026-11-03T10:01:57Z","modified":"2026-11-03T16:41:28Z"}
 {"name":"dsh-native","id":"MAL-2026-18315","aliases":["GHSA-x94m-hxm5-m298"],"versions":["1.4.1"],"published":"2026-10-26T02:17:08Z","modified":"2026-10-26T05:31:48Z"}
@@ -199394,6 +199396,3 @@
 {"name":"ucok-poke65","id":"MAL-2025-169688","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ucok-poke66","id":"MAL-2025-169689","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ucok-poke67","id":"MAL-2025-169690","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ucok-poke68","id":"MAL-2025-169691","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ucok-poke69","id":"MAL-2025-169692","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ucok-poke7","id":"MAL-2025-169693","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}

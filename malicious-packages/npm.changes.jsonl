@@ -1,3 +1,6 @@
+{"op":"upsert","modified":"2026-11-21T07:48:35Z","name":"@pkgship/frps-windows-amd64","id":"MAL-2026-20321","aliases":["GHSA-r9wp-474x-c72c"],"versions":["0.71.1"],"published":"2026-11-21T02:31:32Z"}
+{"op":"upsert","modified":"2026-11-21T07:48:35Z","name":"aia-b-locator-fe","id":"MAL-2026-20320","versions":["1.0.3"],"published":"2026-11-21T00:30:49Z"}
+{"op":"upsert","modified":"2026-11-21T07:48:35Z","name":"dsh-blue-team-mode","id":"MAL-2026-20315","aliases":["GHSA-7r7x-px4j-w4jg"],"versions":["3.0.0-beta.17","3.0.0-beta.18","3.0.0-beta.19","3.0.0-beta.20","3.0.0-beta.21"],"published":"2026-11-20T20:44:24Z"}
 {"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"@basis-theory-elements/api-client","id":"MAL-2026-20188","aliases":["GHSA-94wh-c496-hm43"],"published":"2026-11-19T07:03:48Z"}
 {"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"@expo-probe-ff8e2b/snack-probe-c2a16","id":"MAL-2026-20314","versions":["1.0.0","1.0.1"],"published":"2026-11-20T21:04:38Z"}
 {"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"@kropa/baileys","id":"MAL-2026-20310","versions":["1.0.0","1.0.1","1.0.2","1.0.3"],"published":"2026-11-20T19:42:38Z"}
@@ -48,7 +51,6 @@
 {"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"apasih-me-polda","id":"MAL-2025-172107","aliases":["GHSA-m249-7c47-vgj8"],"published":"2025-11-12T18:09:08Z"}
 {"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"arifali","id":"MAL-2025-170907","aliases":["GHSA-3xvc-c2xw-876g"],"published":"2025-11-12T18:00:57Z"}
 {"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"arshadahmed","id":"MAL-2025-170913","aliases":["GHSA-9qcw-jqhm-rpg5"],"published":"2025-11-12T18:00:57Z"}
-{"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"dsh-blue-team-mode","id":"MAL-2026-20315","aliases":["GHSA-7r7x-px4j-w4jg"],"versions":["3.0.0-beta.17","3.0.0-beta.18","3.0.0-beta.19","3.0.0-beta.20"],"published":"2026-11-20T20:44:24Z"}
 {"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"hridoy-ultimate","id":"MAL-2026-17803","versions":["8.0.0","8.0.5","9.0.0","9.0.1","9.0.2","9.0.3","9.0.4"],"published":"2026-10-11T16:53:56Z"}
 {"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"identity-poc","id":"MAL-2026-20303","versions":["1.0.3"],"published":"2026-11-20T18:56:11Z"}
 {"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"lyxe-baileys","id":"MAL-2026-20301","aliases":["GHSA-f329-9g9w-rc6v"],"published":"2026-11-20T18:11:14Z"}
