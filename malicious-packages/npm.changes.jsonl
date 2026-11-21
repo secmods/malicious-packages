@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-21T15:42:53Z","name":"@wppconnect-team/wppconnect","id":"MAL-2026-20044","aliases":["GHSA-cxc9-87g6-qrj9"],"versions":["2.4.1"],"published":"2026-11-16T04:10:00Z"}
 {"op":"upsert","modified":"2026-11-21T07:48:35Z","name":"@pkgship/frps-windows-amd64","id":"MAL-2026-20321","aliases":["GHSA-r9wp-474x-c72c"],"versions":["0.71.1"],"published":"2026-11-21T02:31:32Z"}
 {"op":"upsert","modified":"2026-11-21T07:48:35Z","name":"aia-b-locator-fe","id":"MAL-2026-20320","versions":["1.0.3"],"published":"2026-11-21T00:30:49Z"}
 {"op":"upsert","modified":"2026-11-21T07:48:35Z","name":"dsh-blue-team-mode","id":"MAL-2026-20315","aliases":["GHSA-7r7x-px4j-w4jg"],"versions":["3.0.0-beta.17","3.0.0-beta.18","3.0.0-beta.19","3.0.0-beta.20","3.0.0-beta.21"],"published":"2026-11-20T20:44:24Z"}
@@ -421,7 +422,6 @@
 {"op":"upsert","modified":"2026-11-17T12:34:56Z","name":"@hrmony/pladddform-testing","id":"MAL-2026-17280","aliases":["GHSA-wc37-mwww-8cwr"],"versions":["40.14.3"],"published":"2026-09-29T16:30:49Z"}
 {"op":"upsert","modified":"2026-11-17T12:34:56Z","name":"@hrmony/valuenet","id":"MAL-2026-17281","aliases":["GHSA-5958-mpfq-wfrj"],"versions":["1.99.0"],"published":"2026-09-29T16:30:19Z"}
 {"op":"upsert","modified":"2026-11-17T12:34:56Z","name":"@public-for-cdao/providers","id":"MAL-2026-20045","versions":["1.0.1"]}
-{"op":"upsert","modified":"2026-11-17T12:34:56Z","name":"@wppconnect-team/wppconnect","id":"MAL-2026-20044","versions":["2.4.1"],"published":"2026-11-16T04:10:00Z"}
 {"op":"upsert","modified":"2026-11-17T12:34:56Z","name":"@wppconnect/server","id":"MAL-2026-20043","versions":["2.10.82"],"published":"2026-11-16T04:10:00Z"}
 {"op":"upsert","modified":"2026-11-17T12:34:56Z","name":"approve-audit","id":"MAL-2026-20042","versions":["1.0.0"],"published":"2026-11-12T15:49:22Z"}
 {"op":"upsert","modified":"2026-11-17T12:34:56Z","name":"base128-x58","id":"MAL-2026-20034"}

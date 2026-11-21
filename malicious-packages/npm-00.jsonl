@@ -13038,7 +13038,7 @@
 {"name":"@worrisome/aaaa","id":"MAL-2026-18125","aliases":["GHSA-fxf3-w84v-3v6g"],"published":"2026-10-21T21:20:33Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"@worrisome/reutil","id":"MAL-2026-15604","aliases":["GHSA-4f5p-mp5p-863f"],"published":"2026-08-26T14:55:09Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"@wp-feature-api/client-features","id":"MAL-2025-41359","versions":["9.9.99"],"published":"2025-08-21T18:44:03Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@wppconnect-team/wppconnect","id":"MAL-2026-20044","versions":["2.4.1"],"published":"2026-11-16T04:10:00Z","modified":"2026-11-17T12:34:56Z"}
+{"name":"@wppconnect-team/wppconnect","id":"MAL-2026-20044","aliases":["GHSA-cxc9-87g6-qrj9"],"versions":["2.4.1"],"published":"2026-11-16T04:10:00Z","modified":"2026-11-21T15:42:53Z"}
 {"name":"@wppconnect/server","id":"MAL-2026-20043","versions":["2.10.82"],"published":"2026-11-16T04:10:00Z","modified":"2026-11-17T12:34:56Z"}
 {"name":"@wptv/components","id":"MAL-2025-6068","versions":["1.0.0"],"published":"2025-07-22T16:33:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@wptv/logger","id":"MAL-2025-6267","versions":["1.0.0"],"published":"2025-07-23T01:13:06Z","modified":"2026-10-02T05:38:49Z"}
