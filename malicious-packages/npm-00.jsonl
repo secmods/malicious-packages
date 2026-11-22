@@ -52281,6 +52281,7 @@
 {"name":"cth-poc","id":"MAL-2025-1212","versions":["1.0.0","1.0.1","1.0.10","1.0.11","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7","1.0.8","1.0.9"],"published":"2025-02-03T17:25:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cthipjznlgrwqysa","id":"MAL-2022-2272","aliases":["GHSA-4pgr-4xf6-pq8v"],"published":"2022-07-11T22:03:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cthwxpoc","id":"MAL-2024-11117","aliases":["GHSA-hvrh-rqgc-289r"],"published":"2024-11-28T04:09:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"cti-defense","id":"MAL-2026-20332","aliases":["GHSA-c4c4-vhh9-j3h4"],"versions":["1.0.0"],"published":"2026-11-22T19:46:20Z","modified":"2026-11-22T22:11:41Z"}
 {"name":"ctijdpgxrhqaknso","id":"MAL-2022-2273","aliases":["GHSA-vjhc-m8jq-hg52"],"published":"2022-07-11T20:28:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ctmjobs","id":"MAL-2025-1777","versions":["1.0.0"],"published":"2025-03-03T13:23:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ctrlform","id":"MAL-2025-17813","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -199390,4 +199391,3 @@
 {"name":"ucok-poke53","id":"MAL-2025-169675","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ucok-poke54","id":"MAL-2025-169676","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ucok-poke55","id":"MAL-2025-169677","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ucok-poke56","id":"MAL-2025-169678","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}

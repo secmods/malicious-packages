@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-22T22:11:41Z","name":"cti-defense","id":"MAL-2026-20332","aliases":["GHSA-c4c4-vhh9-j3h4"],"versions":["1.0.0"],"published":"2026-11-22T19:46:20Z"}
 {"op":"upsert","modified":"2026-11-22T08:57:31Z","name":"@c1-ease/autoloan","id":"MAL-2026-20325","versions":["1.0.0","1.0.1","1.1.0","2.0.0","2.0.1","3.0.0","99.0.1"],"published":"2026-11-22T02:37:58Z"}
 {"op":"upsert","modified":"2026-11-22T08:57:31Z","name":"@c1-ease/bank","id":"MAL-2026-20326","versions":["0.0.1","1.0.0","1.0.1","2.0.0","2.0.1","3.0.0","99.0.1"],"published":"2026-11-22T02:37:08Z"}
 {"op":"upsert","modified":"2026-11-22T08:57:31Z","name":"@c1-ease/card","id":"MAL-2026-20327","versions":["0.0.1","1.0.0","1.0.1","1.1.0","2.0.1","99.0.1"],"published":"2026-11-22T02:36:35Z"}
