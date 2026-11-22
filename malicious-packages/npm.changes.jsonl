@@ -1,6 +1,6 @@
+{"op":"upsert","modified":"2026-11-22T01:44:29Z","name":"aia-b-locator-fe","id":"MAL-2026-20320","versions":["1.0.1","1.0.2","1.0.3"],"published":"2026-11-21T00:30:49Z"}
 {"op":"upsert","modified":"2026-11-21T15:42:53Z","name":"@wppconnect-team/wppconnect","id":"MAL-2026-20044","aliases":["GHSA-cxc9-87g6-qrj9"],"versions":["2.4.1"],"published":"2026-11-16T04:10:00Z"}
 {"op":"upsert","modified":"2026-11-21T07:48:35Z","name":"@pkgship/frps-windows-amd64","id":"MAL-2026-20321","aliases":["GHSA-r9wp-474x-c72c"],"versions":["0.71.1"],"published":"2026-11-21T02:31:32Z"}
-{"op":"upsert","modified":"2026-11-21T07:48:35Z","name":"aia-b-locator-fe","id":"MAL-2026-20320","versions":["1.0.3"],"published":"2026-11-21T00:30:49Z"}
 {"op":"upsert","modified":"2026-11-21T07:48:35Z","name":"dsh-blue-team-mode","id":"MAL-2026-20315","aliases":["GHSA-7r7x-px4j-w4jg"],"versions":["3.0.0-beta.17","3.0.0-beta.18","3.0.0-beta.19","3.0.0-beta.20","3.0.0-beta.21"],"published":"2026-11-20T20:44:24Z"}
 {"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"@basis-theory-elements/api-client","id":"MAL-2026-20188","aliases":["GHSA-94wh-c496-hm43"],"published":"2026-11-19T07:03:48Z"}
 {"op":"upsert","modified":"2026-11-21T00:24:58Z","name":"@expo-probe-ff8e2b/snack-probe-c2a16","id":"MAL-2026-20314","versions":["1.0.0","1.0.1"],"published":"2026-11-20T21:04:38Z"}

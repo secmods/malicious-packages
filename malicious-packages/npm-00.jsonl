@@ -22474,7 +22474,7 @@
 {"name":"ai-workshop-radio-lambda","id":"MAL-2026-17429","published":"2026-09-30T07:11:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ai3","id":"MAL-2026-4476","versions":["0.3.5"],"published":"2026-05-26T01:00:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ai_challenge","id":"MAL-2025-3814","aliases":["GHSA-x42x-cp47-8w34"],"published":"2025-05-15T05:41:00Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"aia-b-locator-fe","id":"MAL-2026-20320","versions":["1.0.3"],"published":"2026-11-21T00:30:49Z","modified":"2026-11-21T07:48:35Z"}
+{"name":"aia-b-locator-fe","id":"MAL-2026-20320","versions":["1.0.1","1.0.2","1.0.3"],"published":"2026-11-21T00:30:49Z","modified":"2026-11-22T01:44:29Z"}
 {"name":"aiasahu-sautg-infaru","id":"MAL-2025-172742","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"aibadali","id":"MAL-2025-170724","published":"2025-11-12T18:00:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"aiboa-milipe-apamipa","id":"MAL-2025-179434","published":"2025-11-12T20:46:07Z","modified":"2026-10-02T05:38:49Z"}
