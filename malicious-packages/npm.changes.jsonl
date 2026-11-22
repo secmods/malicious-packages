@@ -1,3 +1,10 @@
+{"op":"upsert","modified":"2026-11-22T08:57:31Z","name":"@c1-ease/autoloan","id":"MAL-2026-20325","versions":["1.0.0","1.0.1","1.1.0","2.0.0","2.0.1","3.0.0","99.0.1"],"published":"2026-11-22T02:37:58Z"}
+{"op":"upsert","modified":"2026-11-22T08:57:31Z","name":"@c1-ease/bank","id":"MAL-2026-20326","versions":["0.0.1","1.0.0","1.0.1","2.0.0","2.0.1","3.0.0","99.0.1"],"published":"2026-11-22T02:37:08Z"}
+{"op":"upsert","modified":"2026-11-22T08:57:31Z","name":"@c1-ease/card","id":"MAL-2026-20327","versions":["0.0.1","1.0.0","1.0.1","1.1.0","2.0.1","99.0.1"],"published":"2026-11-22T02:36:35Z"}
+{"op":"upsert","modified":"2026-11-22T08:57:31Z","name":"@c1-ease/commerce","id":"MAL-2026-20324","versions":["1.0.1","1.1.0","2.0.0","2.0.1","3.0.0"],"published":"2026-11-22T02:35:58Z"}
+{"op":"upsert","modified":"2026-11-22T08:57:31Z","name":"@c1-ease/core","id":"MAL-2026-20328","versions":["1.0.0","1.0.1","1.1.0","2.0.0","2.0.1","3.0.0","99.0.1"],"published":"2026-11-22T02:38:50Z"}
+{"op":"upsert","modified":"2026-11-22T08:57:31Z","name":"@leadstack/crm-connect","id":"MAL-2026-20330","aliases":["GHSA-6crj-9fxx-v653"],"versions":["1.0.15","1.0.18","1.0.19","1.0.20","1.0.21","1.0.29","1.0.30"],"published":"2026-11-22T04:08:47Z"}
+{"op":"upsert","modified":"2026-11-22T08:57:31Z","name":"autoloan","id":"MAL-2026-20329","versions":["0.0.1","1.1.0","2.0.0","3.0.0"],"published":"2026-11-22T02:41:16Z"}
 {"op":"upsert","modified":"2026-11-22T01:44:29Z","name":"aia-b-locator-fe","id":"MAL-2026-20320","versions":["1.0.1","1.0.2","1.0.3"],"published":"2026-11-21T00:30:49Z"}
 {"op":"upsert","modified":"2026-11-21T15:42:53Z","name":"@wppconnect-team/wppconnect","id":"MAL-2026-20044","aliases":["GHSA-cxc9-87g6-qrj9"],"versions":["2.4.1"],"published":"2026-11-16T04:10:00Z"}
 {"op":"upsert","modified":"2026-11-21T07:48:35Z","name":"@pkgship/frps-windows-amd64","id":"MAL-2026-20321","aliases":["GHSA-r9wp-474x-c72c"],"versions":["0.71.1"],"published":"2026-11-21T02:31:32Z"}
