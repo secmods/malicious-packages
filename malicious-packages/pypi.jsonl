@@ -1703,6 +1703,7 @@
 {"name":"devilcore","id":"MAL-2025-916","versions":["1","2"],"published":"2025-02-03T17:07:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"devilfree","id":"MAL-2025-917","versions":["0.9.0","1.0","6.0"],"published":"2025-02-03T17:07:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"devilpy","id":"MAL-2024-11574","versions":["0.1","0.2","0.3","0.4","0.5","0.6","0.7"],"published":"2024-12-09T06:50:06Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"devready-doctor","id":"MAL-2026-20333","versions":["1.0.0"],"published":"2026-11-22T22:57:47Z","modified":"2026-11-23T03:19:07Z"}
 {"name":"devtools-webhook-cicd-utils","id":"MAL-2026-825","versions":["1.4.7","1.5.0","1.5.1","1.6.0"],"published":"2026-02-10T07:42:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dexat2","id":"MAL-2025-918","versions":["2"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dexscreener-charts","id":"MAL-2025-5110","versions":["1.0.0"],"published":"2025-05-16T10:41:32Z","modified":"2026-10-02T05:38:49Z"}

@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-23T03:19:07Z","name":"devready-doctor","id":"MAL-2026-20333","versions":["1.0.0"],"published":"2026-11-22T22:57:47Z"}
 {"op":"upsert","modified":"2026-11-22T22:11:41Z","name":"solblock","id":"MAL-2026-20331","versions":["0.2.2","0.2.3"],"published":"2026-11-22T17:46:47Z"}
 {"op":"upsert","modified":"2026-11-21T15:42:53Z","name":"instantscrape","id":"MAL-2026-20322","versions":["0.1.0","0.1.5","0.1.8"],"published":"2026-11-21T11:53:10Z"}
 {"op":"upsert","modified":"2026-11-21T15:42:53Z","name":"signed-manifest-guard","id":"MAL-2026-20323","versions":["0.1.7"],"published":"2026-11-21T11:57:12Z"}

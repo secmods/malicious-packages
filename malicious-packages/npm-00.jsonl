@@ -2106,6 +2106,7 @@
 {"name":"@callcenter-frontend/shared-types","id":"MAL-2025-41828","versions":["99.0.0","99.0.2025091-3.1","99.0.2025091-3.13"],"published":"2025-08-29T19:20:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@callcenter-frontend/ui","id":"MAL-2025-41829","versions":["99.0.0","99.0.2025091-3.1","99.0.2025091-3.15"],"published":"2025-08-29T19:20:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@callcenter-frontend/ui-components","id":"MAL-2025-41830","versions":["99.0.0","99.0.2025091-3.14","99.0.2025091-3.2"],"published":"2025-08-29T19:21:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@callmewanz/bails","id":"MAL-2026-20334","versions":["1.0.0"],"published":"2026-11-22T23:37:46Z","modified":"2026-11-23T03:19:07Z"}
 {"name":"@calm2026/imux","id":"MAL-2026-7027","aliases":["GHSA-vwgj-9938-7p8q"],"published":"2026-07-09T05:53:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@camdenliving/fetlife-assets","id":"MAL-2022-164","aliases":["GHSA-cfwp-h4fc-5v42"],"published":"2022-06-20T18:19:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@camera.ui/camera-ui-nvr-windows-amd64","id":"MAL-2026-18337","aliases":["GHSA-2w7v-jwxh-w7wc"],"versions":["1.6.1"],"published":"2026-10-27T07:54:13Z","modified":"2026-10-27T12:54:17Z"}
@@ -6212,7 +6213,7 @@
 {"name":"@kindredext/fetlife-assets","id":"MAL-2022-382","aliases":["GHSA-v384-mw2g-9qf6"],"published":"2022-06-20T18:20:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kinggupong/baileys","id":"MAL-2026-1366","aliases":["GHSA-786q-6xgv-455x"],"published":"2026-03-12T05:13:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kinggupong/libsignal-node","id":"MAL-2026-1367","aliases":["GHSA-qjv5-rg93-2qhv"],"published":"2026-03-12T05:13:07Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@kingorwot/my-baileys","id":"MAL-2026-20292","versions":["2.0.0"],"published":"2026-11-20T04:55:06Z","modified":"2026-11-20T09:19:38Z"}
+{"name":"@kingorwot/my-baileys","id":"MAL-2026-20292","versions":["2.0.0","3.0.0"],"published":"2026-11-20T04:55:06Z","modified":"2026-11-23T03:19:07Z"}
 {"name":"@kingsaurus/libsignal-node","id":"MAL-2026-19962","aliases":["GHSA-3485-jcp3-4jh6"],"published":"2026-11-16T17:10:41Z","modified":"2026-11-16T20:42:45Z"}
 {"name":"@kite-js-tools/core","id":"MAL-2026-12319","versions":["1.0.0"],"published":"2026-08-05T13:04:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kiukicom/sidebar","id":"MAL-2026-1023","aliases":["GHSA-7gh6-h93x-hcxc"],"published":"2026-02-24T16:56:48Z","modified":"2026-10-02T05:38:49Z"}
@@ -10530,6 +10531,8 @@
 {"name":"@riyanofficial/baileys-pro","id":"MAL-2026-18886","versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7"],"published":"2026-10-27T00:00:00Z","modified":"2026-11-10T00:56:01Z"}
 {"name":"@rizzkezik/baileys","id":"MAL-2026-18887","versions":["1.1.1"],"published":"2026-10-27T00:00:00Z","modified":"2026-11-10T00:56:01Z"}
 {"name":"@rizzkezik/bails","id":"MAL-2026-18888","versions":["6.1.0","6.1.1","6.1.2"],"published":"2026-10-27T00:00:00Z","modified":"2026-11-10T00:56:01Z"}
+{"name":"@rizzkezik/bailseys","id":"MAL-2026-20335","versions":["6.7.10"],"published":"2026-11-22T23:37:59Z","modified":"2026-11-23T03:19:07Z"}
+{"name":"@rizzkezik/bailss","id":"MAL-2026-20336","versions":["1.2.0"],"published":"2026-11-22T23:37:32Z","modified":"2026-11-23T03:19:07Z"}
 {"name":"@rmlibrary/formatting","id":"MAL-2026-6645","aliases":["GHSA-4j9v-f5j4-xjvx"],"published":"2026-06-29T16:50:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@rnps-ppr/gensen-gotham","id":"MAL-2022-563","aliases":["GHSA-c42j-75f2-h4f7"],"published":"2022-06-20T20:09:45Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@rnps-ppr/ppr-gensenjs","id":"MAL-2022-564","aliases":["GHSA-vph5-9v57-w2hp"],"published":"2022-06-20T20:09:45Z","modified":"2026-10-02T05:38:49Z"}
@@ -11047,6 +11050,7 @@
 {"name":"@signify/vue-components","id":"MAL-2026-45","aliases":["GHSA-j8hr-3qpv-xqf3"],"published":"2026-01-05T03:10:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@siigo-arquitectura/button-atom","id":"MAL-2023-8302","versions":["5.0.2","5.0.3","5.0.5","5.0.7"],"published":"2023-10-06T03:38:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@siigo-arquitectura/mf-helper","id":"MAL-2023-8301","versions":["5.0.1","5.0.2"],"published":"2023-10-05T22:56:45Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@silent404/baileys","id":"MAL-2026-20337","versions":["7.0.0","7.0.1","7.0.2","7.2.1"],"published":"2026-11-22T23:37:39Z","modified":"2026-11-23T03:19:07Z"}
 {"name":"@silgi/better-auth","id":"MAL-2025-191311","aliases":["GHSA-rccx-m2q5-522x"],"versions":["0.8.1"],"published":"2025-11-24T23:25:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@silgi/drizzle","id":"MAL-2025-191312","aliases":["GHSA-76m7-r4qw-fcr2"],"versions":["0.8.4"],"published":"2025-11-24T23:25:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@silgi/ecosystem","id":"MAL-2025-191313","aliases":["GHSA-vc6q-5wm6-qxr9"],"versions":["0.7.6"],"published":"2025-11-24T23:25:50Z","modified":"2026-10-02T05:38:49Z"}
@@ -33341,7 +33345,7 @@
 {"name":"base65-85x","id":"MAL-2026-6704","aliases":["GHSA-mv5w-mcrv-wmx9"],"published":"2026-07-01T18:34:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"base65536gen","id":"MAL-2025-15496","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"base99-85x","id":"MAL-2026-14304","versions":["5.0.2"],"published":"2026-08-19T19:10:48Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"base_parts_ai","id":"MAL-2026-6228","versions":["1.0.50","1.0.52","1.0.66"],"published":"2026-06-19T15:59:03Z","modified":"2026-11-20T01:28:50Z"}
+{"name":"base_parts_ai","id":"MAL-2026-6228","versions":["1.0.50","1.0.52","1.0.66","1.0.67"],"published":"2026-06-19T15:59:03Z","modified":"2026-11-23T03:19:07Z"}
 {"name":"base_sdk_const","id":"MAL-2025-4722","aliases":["GHSA-gm6h-98g6-jv45"],"published":"2025-06-08T19:41:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"basecam","id":"MAL-2025-15497","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"basecontext","id":"MAL-2024-8925","aliases":["GHSA-r8hv-r54v-4r75"],"published":"2024-09-20T03:01:55Z","modified":"2026-10-02T05:38:49Z"}
@@ -163763,6 +163767,7 @@
 {"name":"remyd7fh","id":"MAL-2025-138975","published":"2025-11-12T03:04:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"renamev","id":"MAL-2025-32072","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"renatama","id":"MAL-2025-171775","published":"2025-11-12T18:00:57Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"render-keepalive","id":"MAL-2026-20338","versions":["1.0.1"],"published":"2026-11-23T00:02:21Z","modified":"2026-11-23T03:19:07Z"}
 {"name":"render-loop","id":"MAL-2025-32073","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"render-sample-app","id":"MAL-2024-7097","aliases":["GHSA-72g3-qc8f-7rcq"],"published":"2024-07-03T10:35:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"render-stage","id":"MAL-2025-191524","published":"2025-12-01T16:16:28Z","modified":"2026-10-02T05:38:49Z"}
@@ -199384,10 +199389,3 @@
 {"name":"ucok-poke47","id":"MAL-2025-169668","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ucok-poke48","id":"MAL-2025-169669","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ucok-poke49","id":"MAL-2025-169670","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ucok-poke5","id":"MAL-2025-169671","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ucok-poke50","id":"MAL-2025-169672","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ucok-poke51","id":"MAL-2025-169673","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ucok-poke52","id":"MAL-2025-169674","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ucok-poke53","id":"MAL-2025-169675","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ucok-poke54","id":"MAL-2025-169676","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ucok-poke55","id":"MAL-2025-169677","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
