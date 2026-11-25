@@ -1,3 +1,4 @@
+{"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"pionex","id":"MAL-2026-20609","versions":["0.9.1","0.9.2"],"published":"2026-11-25T15:44:35Z"}
 {"op":"upsert","modified":"2026-11-19T19:13:14Z","name":"secretlens","id":"MAL-2026-20213","versions":["1.0.1"],"published":"2026-11-19T13:11:10Z"}
 {"op":"upsert","modified":"2026-11-19T10:50:35Z","name":"aws_sdk_wrapper","id":"MAL-2026-20210","versions":["0.0.99"],"published":"2026-11-19T09:08:39Z"}
 {"op":"upsert","modified":"2026-11-19T10:50:35Z","name":"fh-skeleton-web","id":"MAL-2026-20199","versions":["1.0.1"],"published":"2026-11-19T06:43:52Z"}

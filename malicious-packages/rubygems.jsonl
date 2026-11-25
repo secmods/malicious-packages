@@ -2584,6 +2584,7 @@
 {"name":"piko-sharp-sys","id":"MAL-2026-15773","versions":["0.0.1"],"published":"2026-08-24T16:15:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"piko-smart-pkg","id":"MAL-2026-15774","versions":["0.0.1"],"published":"2026-08-24T16:15:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"piko-smart-sys","id":"MAL-2026-15775","versions":["0.0.1"],"published":"2026-08-24T16:15:47Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"pionex","id":"MAL-2026-20609","versions":["0.9.1","0.9.2"],"published":"2026-11-25T15:44:35Z","modified":"2026-11-25T23:51:23Z"}
 {"name":"piratebay-api","id":"MAL-2024-7003","aliases":["GHSA-hq4w-f8pr-22m6"],"versions":["0.1.6"],"published":"2024-06-25T13:51:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"playing-cards","id":"MAL-2024-7004","aliases":["GHSA-6ph5-v336-53c3"],"versions":["0.0.2"],"published":"2024-06-25T13:52:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"plugin-gem-example","id":"MAL-2026-2402","aliases":["GHSA-xx9m-8846-6fh9"],"versions":["100.9.9","99.99.99"],"published":"2026-03-24T15:23:48Z","modified":"2026-10-02T05:38:49Z"}

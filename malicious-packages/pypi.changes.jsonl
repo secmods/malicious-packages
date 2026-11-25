@@ -1,3 +1,8 @@
+{"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"alogithms","id":"MAL-2026-20608","versions":["1.0.1","1.0.2","1.0.3"],"published":"2026-11-25T15:48:16Z"}
+{"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"mcp-diag-7f3a","id":"MAL-2026-20611","versions":["1.0.0","1.1.0","1.2.0"],"published":"2026-11-25T16:37:54Z"}
+{"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"mcp-env-report","id":"MAL-2026-20616","versions":["1.0.0"],"published":"2026-11-25T17:12:08Z"}
+{"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"mcp-runtime-report","id":"MAL-2026-20617","versions":["1.0.0"],"published":"2026-11-25T17:07:31Z"}
+{"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"mcp-sysinfo-tools","id":"MAL-2026-20618","versions":["1.0.0"],"published":"2026-11-25T17:16:20Z"}
 {"op":"upsert","modified":"2026-11-25T15:04:40Z","name":"py2ops","id":"MAL-2026-17807","versions":["2.2","2.2.1","2.3","2.3.1"],"published":"2026-10-09T16:02:15Z"}
 {"op":"upsert","modified":"2026-11-25T04:39:05Z","name":"MRCL2","id":"MAL-2026-20282","versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5"],"published":"2026-11-20T03:02:44Z"}
 {"op":"upsert","modified":"2026-11-24T21:38:34Z","name":"caspian-client","id":"MAL-2026-20377","versions":["2.9.10","2.9.11","2.9.12","2.9.13","2.9.15","2.9.16","2.9.17","2.9.18","2.9.9"],"published":"2026-11-23T18:00:50Z"}
