@@ -7335,7 +7335,7 @@
 {"name":"py-xord","id":"MAL-2024-5635","aliases":["SNYK-PYTHON-PYXORD-6513194"],"versions":["1.0.0"],"published":"2024-06-25T13:39:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py23crypt","id":"MAL-2024-5636","versions":["0.1.5","0.1.6"],"published":"2024-06-25T13:39:24Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py2colors","id":"MAL-2024-5637","versions":["0.0.0"],"published":"2024-06-25T13:39:25Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"py2ops","id":"MAL-2026-17807","versions":["2.2"],"published":"2026-10-09T16:02:15Z","modified":"2026-10-13T22:01:50Z"}
+{"name":"py2ops","id":"MAL-2026-17807","versions":["2.2","2.2.1","2.3","2.3.1"],"published":"2026-10-09T16:02:15Z","modified":"2026-11-25T15:04:40Z"}
 {"name":"py32cly","id":"MAL-2024-5638","versions":["0.1.0"],"published":"2024-06-25T13:39:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py32flayer","id":"MAL-2024-5639","versions":["0.1.6"],"published":"2024-06-25T13:39:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"py32obf","id":"MAL-2024-5640","versions":["0.1.6"],"published":"2024-06-25T13:39:26Z","modified":"2026-10-02T05:38:49Z"}
