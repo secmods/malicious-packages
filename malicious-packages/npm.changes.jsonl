@@ -1,3 +1,7 @@
+{"op":"upsert","modified":"2026-11-26T05:44:03Z","name":"@omnirush-ai/cli-win32-x64","id":"MAL-2026-20629","aliases":["GHSA-jjr3-7f2p-jpc2"],"versions":["2.8.0"],"published":"2026-11-26T00:56:57Z"}
+{"op":"upsert","modified":"2026-11-26T05:44:03Z","name":"dsh-locator","id":"MAL-2026-20626","aliases":["GHSA-r6vw-9fq7-mwh5"],"versions":["0.21.1"],"published":"2026-11-26T00:10:31Z"}
+{"op":"upsert","modified":"2026-11-26T05:44:03Z","name":"signals-embed-pro","id":"MAL-2026-20627","aliases":["GHSA-rc84-vvw2-qfmx"],"published":"2026-11-25T23:35:29Z"}
+{"op":"upsert","modified":"2026-11-26T05:44:03Z","name":"signals-embed-sss","id":"MAL-2026-20628","aliases":["GHSA-6x8f-68pc-4jmc"],"published":"2026-11-25T23:35:29Z"}
 {"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"@c1-ease/autoloan","id":"MAL-2026-20325","aliases":["GHSA-f9w8-fpq8-26ch"],"published":"2026-11-21T22:05:50Z"}
 {"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"@c1-ease/bank","id":"MAL-2026-20326","aliases":["GHSA-96xh-59q7-qfhm"],"published":"2026-11-21T22:08:12Z"}
 {"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"@c1-ease/card","id":"MAL-2026-20327","aliases":["GHSA-vx4g-j5w7-g3p9"],"published":"2026-11-21T22:08:37Z"}

@@ -9488,6 +9488,7 @@
 {"name":"@omisepayments/session-config","id":"MAL-2025-9144","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@omni-corp-infra/sso-bridge-core","id":"MAL-2026-3257","aliases":["GHSA-pfh5-gh42-c5ff"],"published":"2026-04-29T14:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@omnia-low-code/shared-components","id":"MAL-2025-4547","versions":["3.5.405"],"published":"2025-05-26T04:11:22Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@omnirush-ai/cli-win32-x64","id":"MAL-2026-20629","aliases":["GHSA-jjr3-7f2p-jpc2"],"versions":["2.8.0"],"published":"2026-11-26T00:56:57Z","modified":"2026-11-26T05:44:03Z"}
 {"name":"@omniwatch-wick/cli","id":"MAL-2026-10486","aliases":["GHSA-x4cm-7r6h-pjg3"],"published":"2026-07-13T20:43:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@one-chat/react","id":"MAL-2026-11446","aliases":["GHSA-598h-mgjc-c42f"],"published":"2026-07-31T23:46:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@one-site/europcar","id":"MAL-2026-2137","versions":["2.92.10","2.93.1"],"published":"2026-03-24T13:40:41Z","modified":"2026-10-02T05:38:49Z"}
@@ -62493,6 +62494,7 @@
 {"name":"dsgs-trus-psix","id":"MAL-2025-174119","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dsgs-txcui-pix","id":"MAL-2025-174120","published":"2025-11-12T19:18:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dsh-blue-team-mode","id":"MAL-2026-20315","aliases":["GHSA-7r7x-px4j-w4jg"],"versions":["3.0.0-beta.17","3.0.0-beta.18","3.0.0-beta.19","3.0.0-beta.20","3.0.0-beta.21"],"published":"2026-11-20T20:44:24Z","modified":"2026-11-21T07:48:35Z"}
+{"name":"dsh-locator","id":"MAL-2026-20626","aliases":["GHSA-r6vw-9fq7-mwh5"],"versions":["0.21.1"],"published":"2026-11-26T00:10:31Z","modified":"2026-11-26T05:44:03Z"}
 {"name":"dsh-moss-console","id":"MAL-2026-18522","aliases":["GHSA-cw2g-cxwh-wqqm"],"versions":["3.3.0"],"published":"2026-11-03T07:25:58Z","modified":"2026-11-03T08:44:54Z"}
 {"name":"dsh-moss-wallpaper","id":"MAL-2026-18523","aliases":["GHSA-rgvh-3r77-gg9c"],"versions":["3.4.0"],"published":"2026-11-03T10:01:57Z","modified":"2026-11-03T16:41:28Z"}
 {"name":"dsh-native","id":"MAL-2026-18315","aliases":["GHSA-x94m-hxm5-m298"],"versions":["1.4.1"],"published":"2026-10-26T02:17:08Z","modified":"2026-10-26T05:31:48Z"}
@@ -175448,6 +175450,8 @@
 {"name":"signalledger-diagnostics","id":"MAL-2026-18076","versions":["2.0.6"],"published":"2026-10-19T00:00:00Z","modified":"2026-10-20T10:32:01Z"}
 {"name":"signalr-temp-client","id":"MAL-2023-776","aliases":["GHSA-m399-5r96-mwgj"],"published":"2023-07-16T03:38:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"signals-embed","id":"MAL-2025-190511","aliases":["GHSA-pjxr-h3qv-879p"],"published":"2025-11-17T01:25:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"signals-embed-pro","id":"MAL-2026-20627","aliases":["GHSA-rc84-vvw2-qfmx"],"published":"2026-11-25T23:35:29Z","modified":"2026-11-26T05:44:03Z"}
+{"name":"signals-embed-sss","id":"MAL-2026-20628","aliases":["GHSA-6x8f-68pc-4jmc"],"published":"2026-11-25T23:35:29Z","modified":"2026-11-26T05:44:03Z"}
 {"name":"signals-logger","id":"MAL-2024-3017","versions":["2.1.1"],"published":"2024-06-25T13:00:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"signalstr","id":"MAL-2025-33236","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"signature-v4-multi-region","id":"MAL-2024-9843","versions":["213.21.24"],"published":"2024-10-16T13:19:05Z","modified":"2026-10-02T05:38:49Z"}
@@ -199055,7 +199059,3 @@
 {"name":"twork-data-services-role-app","id":"MAL-2026-12300","aliases":["GHSA-3qwr-p55r-5cjh"],"versions":["20.9.6"],"published":"2026-08-05T09:14:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twork-data-services-sme-agent-company-relation","id":"MAL-2026-12301","aliases":["GHSA-xp7w-qh77-w69x"],"published":"2026-08-05T09:14:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twork-data-services-sme-operations-authorizations","id":"MAL-2026-12302","aliases":["GHSA-c4f8-h585-2c73"],"versions":["20.8.9"],"published":"2026-08-05T09:14:58Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twork-mf-e2e-nitro","id":"MAL-2026-12303","aliases":["GHSA-3x7v-w9ww-h4vm"],"versions":["20.8.5"],"published":"2026-08-05T09:15:32Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twork-mf-sandbox","id":"MAL-2026-12304","aliases":["GHSA-p94g-www2-hw8r"],"versions":["20.9.7"],"published":"2026-08-05T09:15:22Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twork-products-taiga2-products-investment","id":"MAL-2026-12305","aliases":["GHSA-wm26-cg7p-hvf6"],"published":"2026-08-05T08:50:30Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twork-products-taiga2-products-mobile","id":"MAL-2026-12306","versions":["20.6.6"],"published":"2026-08-05T09:13:43Z","modified":"2026-10-02T05:38:49Z"}

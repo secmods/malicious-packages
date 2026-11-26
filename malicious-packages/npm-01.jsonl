@@ -1,3 +1,7 @@
+{"name":"twork-mf-e2e-nitro","id":"MAL-2026-12303","aliases":["GHSA-3x7v-w9ww-h4vm"],"versions":["20.8.5"],"published":"2026-08-05T09:15:32Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twork-mf-sandbox","id":"MAL-2026-12304","aliases":["GHSA-p94g-www2-hw8r"],"versions":["20.9.7"],"published":"2026-08-05T09:15:22Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twork-products-taiga2-products-investment","id":"MAL-2026-12305","aliases":["GHSA-wm26-cg7p-hvf6"],"published":"2026-08-05T08:50:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twork-products-taiga2-products-mobile","id":"MAL-2026-12306","versions":["20.6.6"],"published":"2026-08-05T09:13:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twork-products-taiga2-products-timeline","id":"MAL-2026-12307","aliases":["GHSA-9qvm-6gf4-j2qh"],"versions":["20.6.1"],"published":"2026-08-05T09:14:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twtimage","id":"MAL-2025-37388","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twu-registered-users-data-service","id":"MAL-2025-37389","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
