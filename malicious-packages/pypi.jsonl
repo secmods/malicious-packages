@@ -669,6 +669,7 @@
 {"name":"blender-headless","id":"MAL-2026-18758","versions":["9.99.9"],"published":"2026-11-08T09:39:34Z","modified":"2026-11-08T16:25:46Z"}
 {"name":"blessclient","id":"MAL-2026-11067","versions":["0.0.1","0.0.2"],"published":"2026-07-25T21:13:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"blobhunter-depconf-poc","id":"MAL-2026-33","versions":["999.0.0"],"published":"2026-01-04T08:20:01Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"bloomcredit-python","id":"MAL-2026-20650","versions":["0.1.0","99.1.0","99.2.0","99.3.0"],"published":"2026-11-26T10:01:02Z","modified":"2026-11-26T15:55:05Z"}
 {"name":"bloxy-api","id":"MAL-2026-2569","versions":["3.4.0"],"published":"2026-04-12T21:39:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bloxypy","id":"MAL-2025-47572","versions":["0.1.9"],"published":"2025-09-26T00:00:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bluesadway","id":"MAL-2025-6465","versions":["0.1"],"published":"2025-07-31T19:14:22Z","modified":"2026-10-02T05:38:49Z"}
@@ -1511,6 +1512,7 @@
 {"name":"ctyps","id":"MAL-2024-5010","versions":["1"],"published":"2024-06-25T13:34:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cuatomtkinter","id":"MAL-2024-5011","versions":["1.0.0"],"published":"2024-06-25T13:34:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cubaflixdownload","id":"MAL-2026-900","versions":["1.0.0","1.0.1","2.0.0","3.0.0","4.0.0","5.0.0","6.0.0"],"published":"2026-02-14T12:34:41Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"cubepath","id":"MAL-2026-20648","versions":["0.0.1","0.1.0","99.0.1","99.0.2"],"published":"2026-11-26T08:01:23Z","modified":"2026-11-26T15:55:05Z"}
 {"name":"cubesat-upstream-driver","id":"MAL-2026-13666","versions":["1.0.1"],"published":"2026-08-09T13:09:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cubifyanything","id":"MAL-2026-5404","versions":["1.0.0","1.0.1","1.0.2"],"published":"2026-06-09T16:31:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cugraph-dgl","id":"MAL-2025-4698","versions":["23.99.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
@@ -1684,6 +1686,7 @@
 {"name":"demozecosso","id":"MAL-2026-1284","versions":["2.0.1"],"published":"2026-03-08T14:52:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"demozecox","id":"MAL-2026-1285","versions":["0.0.0"],"published":"2026-03-08T14:52:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"denomenallib","id":"MAL-2025-191716","versions":["2.7.0"],"published":"2025-09-09T21:20:09Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"denowrap","id":"MAL-2026-20653","versions":["1.0.0"],"published":"2026-11-26T12:40:35Z","modified":"2026-11-26T15:55:05Z"}
 {"name":"dependency-confusion-test-666","id":"MAL-2024-12252","versions":["999999.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dependency-confusion111","id":"MAL-2024-5039","versions":["9.9.9"],"published":"2024-06-25T13:34:36Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dependency-confusion12","id":"MAL-2024-5040","versions":["1.0.4"],"published":"2024-06-25T13:34:36Z","modified":"2026-10-02T05:38:49Z"}

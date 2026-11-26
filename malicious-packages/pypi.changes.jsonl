@@ -1,3 +1,6 @@
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"bloomcredit-python","id":"MAL-2026-20650","versions":["0.1.0","99.1.0","99.2.0","99.3.0"],"published":"2026-11-26T10:01:02Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"cubepath","id":"MAL-2026-20648","versions":["0.0.1","0.1.0","99.0.1","99.0.2"],"published":"2026-11-26T08:01:23Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"denowrap","id":"MAL-2026-20653","versions":["1.0.0"],"published":"2026-11-26T12:40:35Z"}
 {"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"alogithms","id":"MAL-2026-20608","versions":["1.0.1","1.0.2","1.0.3"],"published":"2026-11-25T15:48:16Z"}
 {"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"mcp-diag-7f3a","id":"MAL-2026-20611","versions":["1.0.0","1.1.0","1.2.0"],"published":"2026-11-25T16:37:54Z"}
 {"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"mcp-env-report","id":"MAL-2026-20616","versions":["1.0.0"],"published":"2026-11-25T17:12:08Z"}

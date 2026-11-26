@@ -1,3 +1,10 @@
+{"name":"twork-data-services-product-design-data","id":"MAL-2026-12296","aliases":["GHSA-hw9w-9435-w32f"],"published":"2026-08-05T09:14:42Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twork-data-services-proxy-b2b-crm-api-v1-partners-companies-info","id":"MAL-2026-12297","aliases":["GHSA-67m6-6gp3-fm65"],"published":"2026-08-05T09:13:36Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twork-data-services-proxy-invest-symbols-list","id":"MAL-2026-12298","aliases":["GHSA-c38m-2rcq-3x56"],"versions":["20.4.6"],"published":"2026-08-05T09:14:01Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twork-data-services-proxy-prime-api-v1-account-overdraft-info","id":"MAL-2026-12299","aliases":["GHSA-crw8-m6mj-q6qp"],"versions":["20.7.4"],"published":"2026-08-05T09:15:05Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twork-data-services-role-app","id":"MAL-2026-12300","aliases":["GHSA-3qwr-p55r-5cjh"],"versions":["20.9.6"],"published":"2026-08-05T09:14:09Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twork-data-services-sme-agent-company-relation","id":"MAL-2026-12301","aliases":["GHSA-xp7w-qh77-w69x"],"published":"2026-08-05T09:14:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twork-data-services-sme-operations-authorizations","id":"MAL-2026-12302","aliases":["GHSA-c4f8-h585-2c73"],"versions":["20.8.9"],"published":"2026-08-05T09:14:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twork-mf-e2e-nitro","id":"MAL-2026-12303","aliases":["GHSA-3x7v-w9ww-h4vm"],"versions":["20.8.5"],"published":"2026-08-05T09:15:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twork-mf-sandbox","id":"MAL-2026-12304","aliases":["GHSA-p94g-www2-hw8r"],"versions":["20.9.7"],"published":"2026-08-05T09:15:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twork-products-taiga2-products-investment","id":"MAL-2026-12305","aliases":["GHSA-wm26-cg7p-hvf6"],"published":"2026-08-05T08:50:30Z","modified":"2026-10-02T05:38:49Z"}
@@ -546,6 +553,7 @@
 {"name":"uchiwa-web","id":"MAL-2024-11842","aliases":["GHSA-jq4v-cqc7-xfmr"],"published":"2024-12-14T14:15:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ucifsplus","id":"MAL-2025-37484","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"uclagl","id":"MAL-2025-37485","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"uclamp","id":"MAL-2026-20658","aliases":["GHSA-3rfq-m3wf-mvpj"],"published":"2026-11-26T13:08:12Z","modified":"2026-11-26T15:55:05Z"}
 {"name":"uclasrc","id":"MAL-2025-37486","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ucok-poke1","id":"MAL-2025-169627","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ucok-poke10","id":"MAL-2025-169628","published":"2025-11-12T16:47:05Z","modified":"2026-10-02T05:38:49Z"}
@@ -5166,7 +5174,7 @@
 {"name":"use-form-builder-plugin","id":"MAL-2026-2529","aliases":["GHSA-pj48-5mp2-8r94"],"published":"2026-04-06T16:16:50Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"use-http-2","id":"MAL-2024-3804","versions":["1.0.0"],"published":"2024-06-25T13:18:34Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"use-strict-mode","id":"MAL-2025-37962","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"use-sync-external-store-shim","id":"MAL-2024-3805","aliases":["SNYK-JS-USESYNCEXTERNALSTORESHIM-3336025"],"versions":["1.0.0","1.0.1","2.0.0","2.2.0"],"published":"2024-06-25T13:18:35Z","modified":"2026-11-25T23:51:23Z"}
+{"name":"use-sync-external-store-shim","id":"MAL-2024-3805","aliases":["GHSA-hq84-gx96-2xmq","SNYK-JS-USESYNCEXTERNALSTORESHIM-3336025"],"published":"2024-06-25T13:18:35Z","modified":"2026-11-26T15:55:05Z"}
 {"name":"use-unsaved-changes","id":"MAL-2025-190941","aliases":["GHSA-832j-xq5g-9xf4"],"versions":["1.0.9"],"published":"2025-11-24T21:02:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"use-videos","id":"MAL-2025-3651","aliases":["GHSA-5c6w-3276-rp87"],"published":"2025-05-06T04:45:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"usebinsank","id":"MAL-2024-3806","versions":["1.0.0"],"published":"2024-06-25T13:18:36Z","modified":"2026-10-02T05:38:49Z"}

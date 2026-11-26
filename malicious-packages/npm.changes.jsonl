@@ -1,3 +1,19 @@
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"@1outres/dsh-bot-connector-desktop","id":"MAL-2026-20647","aliases":["GHSA-jgfj-8xjp-7w7g"],"versions":["0.4.0","0.4.1"],"published":"2026-11-26T08:16:49Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"@flexflow/flex-ui-flow","id":"MAL-2026-20651","aliases":["GHSA-hghq-p757-qg8c"],"published":"2026-11-26T11:40:56Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"@tty-pt/auren","id":"MAL-2026-20649","aliases":["GHSA-g67x-vc4c-hj3p"],"versions":["1.5.3"],"published":"2026-11-26T08:28:13Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"@xokodon430/jsclamp","id":"MAL-2026-20498","published":"2026-11-24T14:30:00Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"bundle-entry-points","id":"MAL-2026-20350","aliases":["GHSA-22c9-m33q-w29j"],"published":"2026-11-23T08:36:39Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"clamp4js","id":"MAL-2026-20645","published":"2026-11-25T23:30:00Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"flex-ui-animates","id":"MAL-2026-20652","aliases":["GHSA-734q-3h9j-4v2q"],"published":"2026-11-26T11:39:24Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"global-error-handling","id":"MAL-2026-20625","aliases":["GHSA-5797-99pf-537x"],"published":"2026-11-25T16:10:36Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"jsclamping","id":"MAL-2026-20654","aliases":["GHSA-q6h9-83xg-2636"],"published":"2026-11-26T13:09:43Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"paystation-embed-app","id":"MAL-2026-20607","aliases":["GHSA-p659-fjmx-gpcf"],"published":"2026-11-25T08:51:48Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"safeclamp","id":"MAL-2026-20655","aliases":["GHSA-7m7w-qpp7-37wq"],"published":"2026-11-26T13:10:18Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"safeclamp2","id":"MAL-2026-20656","aliases":["GHSA-rg84-4j37-62w8"],"published":"2026-11-26T13:10:18Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"safeclamp3","id":"MAL-2026-20657","aliases":["GHSA-wgvm-m2m2-w65x"],"published":"2026-11-26T13:07:39Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"svg-bucket","id":"MAL-2026-20646","versions":["2.0.0"],"published":"2026-11-19T14:00:01Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"uclamp","id":"MAL-2026-20658","aliases":["GHSA-3rfq-m3wf-mvpj"],"published":"2026-11-26T13:08:12Z"}
+{"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"use-sync-external-store-shim","id":"MAL-2024-3805","aliases":["GHSA-hq84-gx96-2xmq","SNYK-JS-USESYNCEXTERNALSTORESHIM-3336025"],"published":"2024-06-25T13:18:35Z"}
 {"op":"upsert","modified":"2026-11-26T05:44:03Z","name":"@omnirush-ai/cli-win32-x64","id":"MAL-2026-20629","aliases":["GHSA-jjr3-7f2p-jpc2"],"versions":["2.8.0"],"published":"2026-11-26T00:56:57Z"}
 {"op":"upsert","modified":"2026-11-26T05:44:03Z","name":"dsh-locator","id":"MAL-2026-20626","aliases":["GHSA-r6vw-9fq7-mwh5"],"versions":["0.21.1"],"published":"2026-11-26T00:10:31Z"}
 {"op":"upsert","modified":"2026-11-26T05:44:03Z","name":"signals-embed-pro","id":"MAL-2026-20627","aliases":["GHSA-rc84-vvw2-qfmx"],"published":"2026-11-25T23:35:29Z"}
@@ -20,11 +36,8 @@
 {"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"ep_nxs74552","id":"MAL-2026-20603","versions":["1.0.0"],"published":"2026-11-25T15:46:07Z"}
 {"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"git-crt-creator","id":"MAL-2026-20604","versions":["1.0.2","1.0.3","10.13.0"],"published":"2026-11-25T15:43:40Z"}
 {"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"git-iss-creator","id":"MAL-2026-20605","versions":["10.13.0"],"published":"2026-11-25T15:44:10Z"}
-{"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"global-error-handling","id":"MAL-2026-20625","versions":["1.0.0","1.1.0"],"published":"2026-11-25T23:15:16Z"}
 {"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"grammy-key","id":"MAL-2026-20615","aliases":["GHSA-mvj4-fj4q-p2vx"],"published":"2026-11-25T16:30:29Z"}
 {"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"hyjui-klopa","id":"MAL-2026-20606","versions":["1.0.0"],"published":"2026-11-25T15:43:57Z"}
-{"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"paystation-embed-app","id":"MAL-2026-20607","versions":["1.0.0"],"published":"2026-11-25T15:48:55Z"}
-{"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"use-sync-external-store-shim","id":"MAL-2024-3805","aliases":["SNYK-JS-USESYNCEXTERNALSTORESHIM-3336025"],"versions":["1.0.0","1.0.1","2.0.0","2.2.0"],"published":"2024-06-25T13:18:35Z"}
 {"op":"upsert","modified":"2026-11-25T23:51:23Z","name":"web3-mev-error-decoder","id":"MAL-2026-20610","aliases":["GHSA-hvqj-jrfw-r9mh"],"published":"2026-11-25T16:13:05Z"}
 {"op":"upsert","modified":"2026-11-25T15:04:40Z","name":"@ndikagantengg/baileys","id":"MAL-2026-19152","aliases":["GHSA-6mp5-qw4v-9pg2"],"published":"2026-11-25T14:05:10Z"}
 {"op":"upsert","modified":"2026-11-25T15:04:40Z","name":"@neo938/css-motion-kit","id":"MAL-2026-20599","aliases":["GHSA-8mmg-xq2f-rj6j"],"published":"2026-11-25T12:15:54Z"}
@@ -1108,7 +1121,6 @@
 {"op":"upsert","modified":"2026-11-24T21:38:34Z","name":"@guangnao/claude-cli","id":"MAL-2026-13209","aliases":["GHSA-vfqh-3659-q56x"],"versions":["1.0.0","1.0.1","1.0.10","1.0.11","1.0.12","1.0.13","1.0.14","1.0.15","1.0.16","1.0.17","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7","1.0.8","1.0.9"],"published":"2026-08-05T15:52:10Z"}
 {"op":"upsert","modified":"2026-11-24T21:38:34Z","name":"@pixelworkshub/postcss-motionfx","id":"MAL-2026-20499","aliases":["GHSA-4mr5-gg6c-mcx5"],"published":"2026-11-24T17:12:06Z"}
 {"op":"upsert","modified":"2026-11-24T21:38:34Z","name":"@softixer/softixer-cli","id":"MAL-2026-20514","aliases":["GHSA-4mqp-3jjv-mf54"],"published":"2026-11-24T18:35:44Z"}
-{"op":"upsert","modified":"2026-11-24T21:38:34Z","name":"@xokodon430/jsclamp","id":"MAL-2026-20498","versions":["1.0.2"],"published":"2026-11-24T16:40:17Z"}
 {"op":"upsert","modified":"2026-11-24T21:38:34Z","name":"boxy-constants","id":"MAL-2026-13033","aliases":["GHSA-qrmp-688r-rph3"],"published":"2026-08-05T14:35:06Z"}
 {"op":"upsert","modified":"2026-11-24T21:38:34Z","name":"boxy-demo-tokens","id":"MAL-2026-13037","aliases":["GHSA-q7rv-55g3-4m6w"],"published":"2026-08-05T14:32:07Z"}
 {"op":"upsert","modified":"2026-11-24T21:38:34Z","name":"boxy-maker","id":"MAL-2026-13057","aliases":["GHSA-42rc-gr84-cjm7"],"published":"2026-08-05T14:30:28Z"}
@@ -1216,7 +1228,6 @@
 {"op":"upsert","modified":"2026-11-24T11:43:54Z","name":"@japofc/baileys","id":"MAL-2026-17359","versions":["2.1.0","2.2.0","2.3.0","2.4.0","2.4.1","2.4.2","2.4.3"]}
 {"op":"upsert","modified":"2026-11-24T11:43:54Z","name":"@jexkcode/baileys","id":"MAL-2026-18850","versions":["1.1.4","1.1.5","1.2.0","1.3.0","1.3.1","1.3.2","1.3.3","1.3.4","1.3.5"],"published":"2026-10-27T00:00:00Z"}
 {"op":"upsert","modified":"2026-11-24T11:43:54Z","name":"autoloan","id":"MAL-2026-20329","versions":["0.0.1","1.1.0","2.0.0","3.0.0"],"published":"2026-11-21T21:51:40Z"}
-{"op":"upsert","modified":"2026-11-24T11:43:54Z","name":"bundle-entry-points","id":"MAL-2026-20350","versions":["1.0.0"],"published":"2026-11-23T08:36:39Z"}
 {"op":"upsert","modified":"2026-11-24T11:43:54Z","name":"clampony","id":"MAL-2026-20433","versions":["1.0.10","1.0.11","1.0.9"],"published":"2026-11-24T02:53:56Z"}
 {"op":"upsert","modified":"2026-11-24T11:43:54Z","name":"com.unity.external-dependency-manager","id":"MAL-2026-20428","versions":["2.1.1"],"published":"2026-11-22T13:56:40Z"}
 {"op":"upsert","modified":"2026-11-24T11:43:54Z","name":"dinocode-baileys","id":"MAL-2026-20429"}
