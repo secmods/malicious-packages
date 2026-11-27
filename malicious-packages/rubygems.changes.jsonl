@@ -1,3 +1,6 @@
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"Dendreo","id":"MAL-2026-20684","versions":["1.1.3","1.1.4"]}
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"fastlane-plugin-run_tests_firebase_testlab","id":"MAL-2026-20685","versions":["0.3.2"]}
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"git_credential_manager","id":"MAL-2026-20686"}
 {"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"activesupmport","id":"MAL-2026-20630"}
 {"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"brumdler","id":"MAL-2026-20631"}
 {"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"i18om","id":"MAL-2026-20632"}

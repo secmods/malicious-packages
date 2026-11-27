@@ -1,3 +1,15 @@
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"@alexiddev/baileys","id":"MAL-2026-20677"}
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"@angkasabaileys/baileys","id":"MAL-2026-20678","versions":["1.0.1"]}
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"@dancihuy/baileys","id":"MAL-2026-20679"}
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"@hunterpl4nk/ds-test","id":"MAL-2026-20683"}
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"@leonoremods/baileys","id":"MAL-2026-20680"}
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"@omnitron-dev/omnitron","id":"MAL-2026-20687","aliases":["GHSA-xpw5-gfcw-m3cj"],"versions":["0.4.18"],"published":"2026-11-27T05:29:46Z"}
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"@pubmatic/pmac","id":"MAL-2026-20682","versions":["1.0.0"]}
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"@web2apkbail/baileys","id":"MAL-2026-20681"}
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"@zaip-ai/cli","id":"MAL-2026-18364","aliases":["GHSA-ffq4-h5jm-8pqr"],"versions":["6.4.0","6.5.0","7.0.0","7.1.0","7.10.0","7.11.0","7.12.0","7.13.0","7.14.0","7.2.0","7.3.0","7.4.0"],"published":"2026-10-28T20:37:17Z"}
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"ember-quickstart","id":"MAL-2026-20673","versions":["1.0.0"],"published":"2026-11-24T18:43:01Z"}
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"supunmd-baileys","id":"MAL-2026-20674","versions":["0.0.1"],"published":"2026-11-26T23:42:24Z"}
+{"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"tavern-ai-sdk","id":"MAL-2026-20675","versions":["1.0.0"],"published":"2026-11-27T00:16:53Z"}
 {"op":"upsert","modified":"2026-11-27T00:08:38Z","name":"@evial/init-helper-djkwt","id":"MAL-2026-20666","versions":["1.0.0"]}
 {"op":"upsert","modified":"2026-11-27T00:08:38Z","name":"@evial/runtime-observer-qarges","id":"MAL-2026-20667","versions":["1.0.0"]}
 {"op":"upsert","modified":"2026-11-27T00:08:38Z","name":"@fadeldev/baileys","id":"MAL-2026-18827","aliases":["GHSA-xv5x-vfrf-9hpw"],"published":"2026-10-27T00:00:00Z"}
@@ -3468,7 +3480,6 @@
 {"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"dsh-redteam-mode","id":"MAL-2026-18366","aliases":["GHSA-r4m9-8735-g966"],"versions":["0.15.2"],"published":"2026-10-29T05:23:36Z"}
 {"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"identity-two-factor","id":"MAL-2026-18367","versions":["999.0.0"],"published":"2026-10-28T06:56:31Z"}
 {"op":"upsert","modified":"2026-10-29T10:30:16Z","name":"spectral-net-probe","id":"MAL-2026-18368","versions":["1.0.1","1.0.10","1.0.4"],"published":"2026-10-28T05:37:50Z"}
-{"op":"upsert","modified":"2026-10-28T23:46:44Z","name":"@zaip-ai/cli","id":"MAL-2026-18364","aliases":["GHSA-ffq4-h5jm-8pqr"],"versions":["6.4.0","6.5.0","7.0.0","7.1.0","7.2.0","7.3.0","7.4.0"],"published":"2026-10-28T20:37:17Z"}
 {"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"@walknpm/todo-cli","id":"MAL-2026-18320","aliases":["GHSA-p6gj-69gx-r376"],"versions":["2.0.1"],"published":"2026-10-26T00:55:57Z"}
 {"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"black-spindle","id":"MAL-2026-18359","versions":["999.0.0"],"published":"2026-10-28T16:15:41Z"}
 {"op":"upsert","modified":"2026-10-28T19:57:04Z","name":"camelotlabs-config","id":"MAL-2026-3640","aliases":["GHSA-7972-958m-rqjg"],"published":"2026-05-07T00:00:00Z"}

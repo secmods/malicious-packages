@@ -1,3 +1,11 @@
+{"name":"two-factor-prompt-lib","id":"MAL-2026-6414","aliases":["GHSA-94jg-r3hx-4v8v"],"published":"2026-06-25T02:16:08Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twocam","id":"MAL-2025-37386","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twodc-visualizer","id":"MAL-2023-1325","versions":["1.6.3"],"published":"2023-08-02T19:09:32Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twoeur","id":"MAL-2024-8806","aliases":["GHSA-4w73-377m-qfvv"],"published":"2024-09-04T09:05:35Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twofactor_totp","id":"MAL-2022-6710","aliases":["GHSA-x92j-g74p-p2hq"],"published":"2022-06-20T07:27:56Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twofloats","id":"MAL-2025-37387","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twokey","id":"MAL-2026-4697","versions":["1.0.10","1.0.11","1.0.5","1.0.7","1.0.8"],"published":"2026-05-24T08:52:15Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twork-data-services-aggregator-api-v2-data-view-company-company-profile-mf-data-transformer","id":"MAL-2026-11550","aliases":["GHSA-337w-cgvw-mpg3"],"versions":["20.5.3"],"published":"2026-08-04T22:08:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twork-data-services-aggregator-company-sme-main-timeline-loader-with-customers","id":"MAL-2026-12287","aliases":["GHSA-cj3v-xccc-76vq"],"versions":["20.3.8"],"published":"2026-08-05T09:14:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twork-data-services-aggregator-sme-task-info","id":"MAL-2026-12288","aliases":["GHSA-9rfw-4796-p982"],"versions":["20.3.1"],"published":"2026-08-05T09:15:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twork-data-services-counterfree","id":"MAL-2026-12289","aliases":["GHSA-5g8h-2mx8-cxhm"],"versions":["20.1.3"],"published":"2026-08-05T09:15:13Z","modified":"2026-10-02T05:38:49Z"}
