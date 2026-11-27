@@ -413,6 +413,8 @@
 {"name":"auclean","id":"MAL-2026-16410","versions":["0.4.2","0.4.3","0.4.4"],"published":"2026-09-22T20:59:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"audio-separator-fork","id":"MAL-2024-9947","versions":["0.8.0","0.8.1","0.8.10","0.8.11","0.8.2","0.8.3","0.8.4","0.8.6","0.8.7","0.8.8","0.8.9"],"published":"2024-08-11T12:09:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"audiokit","id":"MAL-2026-18158","versions":["0.1.0"],"published":"2026-10-22T00:56:23Z","modified":"2026-10-22T02:11:22Z"}
+{"name":"audiostint","id":"MAL-2026-20715","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:38:37Z","modified":"2026-11-27T19:13:54Z"}
+{"name":"audiowharf","id":"MAL-2026-20716","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:55:23Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"audit-themis-i18n","id":"MAL-2024-12210","versions":["2.3.5"],"published":"2024-08-22T22:25:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"auohttp","id":"MAL-2026-38","versions":["3.13.3"],"published":"2026-01-04T18:49:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"aurafarmer","id":"MAL-2026-4741","versions":["0.3.0"],"published":"2026-05-19T21:52:37Z","modified":"2026-10-02T05:38:49Z"}
@@ -1655,6 +1657,7 @@
 {"name":"debbug","id":"MAL-2026-18116","versions":["1.0.0"],"published":"2026-10-20T23:01:11Z","modified":"2026-10-21T01:04:56Z"}
 {"name":"debug-toolbar","id":"MAL-2024-10239","versions":["0.0.1"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"decapod-common","id":"MAL-2026-13386","versions":["0.0.0","1.2.dev1","1.2.dev2"],"published":"2026-08-06T07:14:52Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"decodewhistle","id":"MAL-2026-20717","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:39:52Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"decompopt","id":"MAL-2024-10448","versions":["912.6"],"published":"2024-11-06T18:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"decoratoroperations","id":"MAL-2025-41658","versions":["0.0.3"],"published":"2025-08-28T07:10:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"decoris","id":"MAL-2026-14554","versions":["0.3.0","0.3.3"],"published":"2026-08-27T13:11:08Z","modified":"2026-10-02T05:38:49Z"}
@@ -9734,6 +9737,7 @@
 {"name":"sonic-config-engine","id":"MAL-2026-2180","versions":["99.0.0"],"published":"2026-03-25T05:04:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sonic-platform-common","id":"MAL-2026-2181","versions":["99.0.0"],"published":"2026-03-25T05:04:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sonic-yang-mgmt","id":"MAL-2026-2182","versions":["99.0.0"],"published":"2026-03-25T05:04:50Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"sonicspool","id":"MAL-2026-20718","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:37:29Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"soolana","id":"MAL-2023-2284","published":"2023-02-09T19:00:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"soopsocks","id":"MAL-2025-191872","versions":["0.1.0","0.1.1","0.1.2","0.1.3","0.2.0","0.2.1","0.2.2","0.2.3","0.2.4","0.2.5","0.2.6","0.2.7"],"published":"2025-09-26T16:20:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"sorex","id":"MAL-2025-191873","versions":["0.3.0","0.4.0","0.5.0","0.6.0","0.7.0","0.8.0","1.0.0","1.1.0","1.1.9"],"published":"2025-06-14T09:18:22Z","modified":"2026-10-02T05:38:49Z"}
@@ -9767,6 +9771,7 @@
 {"name":"speakbench","id":"MAL-2026-18166","versions":["0.1.0"],"published":"2026-10-22T00:56:57Z","modified":"2026-10-22T02:11:22Z"}
 {"name":"speaksocket","id":"MAL-2026-18167","versions":["0.1.0"],"published":"2026-10-22T00:29:19Z","modified":"2026-10-22T02:11:22Z"}
 {"name":"spectrova","id":"MAL-2026-19189","versions":["0.1.0"],"published":"2026-11-12T20:45:51Z","modified":"2026-11-13T02:13:55Z"}
+{"name":"speechenvoy","id":"MAL-2026-20719","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:36:47Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"speechprobe","id":"MAL-2026-18168","versions":["0.1.0"],"published":"2026-10-22T00:45:25Z","modified":"2026-10-22T02:11:22Z"}
 {"name":"speed-hashes","id":"MAL-2026-13607","versions":["0.1.0"],"published":"2026-08-07T11:56:15Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"speed-testing-nt","id":"MAL-2025-191874","versions":["0.2"],"published":"2025-10-31T00:13:41Z","modified":"2026-10-02T05:38:49Z"}
@@ -10339,6 +10344,7 @@
 {"name":"tomli-dzw","id":"MAL-2024-11729","versions":["1.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tommygtst","id":"MAL-2024-6162","versions":["0.1.0"],"published":"2024-06-25T13:43:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tomproxies","id":"MAL-2024-6163","versions":["1.0"],"published":"2024-06-25T13:43:47Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"toneloop","id":"MAL-2026-20720","versions":["0.1.0","0.2.0"],"published":"2026-11-27T17:35:45Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"tonemaptts","id":"MAL-2026-17918","versions":["0.1.0"],"published":"2026-10-17T17:06:12Z","modified":"2026-10-17T18:55:49Z"}
 {"name":"toneo","id":"MAL-2025-995","versions":["1.4.3"],"published":"2025-02-03T17:07:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tonetext","id":"MAL-2025-191906","versions":["0.1.1","0.2.1"],"published":"2025-03-12T22:30:33Z","modified":"2026-10-02T05:38:49Z"}
@@ -11609,6 +11615,7 @@
 {"name":"vision-service-python-client","id":"MAL-2026-2186","versions":["0.3.61"],"published":"2026-03-25T06:56:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vision-service-python-client-internal","id":"MAL-2026-2187","versions":["0.0.1","0.3.156"],"published":"2026-03-25T06:58:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vizplotlib","id":"MAL-2024-11745","versions":["1.0.3"],"published":"2024-10-03T15:11:09Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"vk-mlp-agent","id":"MAL-2026-20689","versions":["9999.0"],"published":"2026-11-27T10:57:39Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"vllm-plugins","id":"MAL-2026-844","versions":["99.99.99"],"published":"2026-02-10T19:19:17Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vmcandy","id":"MAL-2023-7869","published":"2023-02-23T23:48:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vmconnect","id":"MAL-2024-6195","versions":["1.1.7"],"published":"2024-06-25T13:44:01Z","modified":"2026-10-02T05:38:49Z"}
@@ -11660,6 +11667,7 @@
 {"name":"voxeval","id":"MAL-2026-17457","versions":["0.4.2","0.4.3","0.4.4","0.4.5"],"published":"2026-10-02T21:28:42Z","modified":"2026-10-04T04:01:54Z"}
 {"name":"voxgramasr","id":"MAL-2026-19191","versions":["0.1.0"],"published":"2026-11-12T20:45:25Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"voxilaratts","id":"MAL-2026-18150","versions":["0.1.0"],"published":"2026-10-21T23:04:23Z","modified":"2026-10-21T23:52:32Z"}
+{"name":"voxlane","id":"MAL-2026-20721","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T18:00:25Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"voxrelitts","id":"MAL-2026-19192","versions":["0.1.0"],"published":"2026-11-12T20:44:38Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"voxweaver","id":"MAL-2026-18176","versions":["0.1.0"],"published":"2026-10-22T00:30:04Z","modified":"2026-10-22T02:11:22Z"}
 {"name":"vper","id":"MAL-2023-2348","published":"2023-02-09T19:00:11Z","modified":"2026-10-02T05:38:49Z"}
@@ -11712,6 +11720,7 @@
 {"name":"watchitoring","id":"MAL-2025-3015","versions":["0.1.0","0.1.1"],"published":"2025-02-13T13:18:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wave-opensdk","id":"MAL-2024-12368","versions":["1.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wavforge","id":"MAL-2026-19193","versions":["0.1.0"],"published":"2026-11-12T20:49:48Z","modified":"2026-11-13T02:13:55Z"}
+{"name":"wavlathe","id":"MAL-2026-20722","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T18:01:05Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"waymo-waymax","id":"MAL-2026-6961","versions":["99.0.0"],"published":"2026-07-08T04:08:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wayspiritmcp-enconly","id":"MAL-2025-191924","versions":["0.1.0","0.1.1","0.1.2","0.1.3"],"published":"2025-11-05T21:21:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wayspiritmcp-ppa","id":"MAL-2025-191925","versions":["0.1.0","0.1.1"],"published":"2025-11-05T21:24:19Z","modified":"2026-10-02T05:38:49Z"}

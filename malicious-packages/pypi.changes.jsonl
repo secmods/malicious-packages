@@ -1,3 +1,12 @@
+{"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"audiostint","id":"MAL-2026-20715","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:38:37Z"}
+{"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"audiowharf","id":"MAL-2026-20716","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:55:23Z"}
+{"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"decodewhistle","id":"MAL-2026-20717","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:39:52Z"}
+{"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"sonicspool","id":"MAL-2026-20718","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:37:29Z"}
+{"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"speechenvoy","id":"MAL-2026-20719","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:36:47Z"}
+{"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"toneloop","id":"MAL-2026-20720","versions":["0.1.0","0.2.0"],"published":"2026-11-27T17:35:45Z"}
+{"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"vk-mlp-agent","id":"MAL-2026-20689","versions":["9999.0"],"published":"2026-11-27T10:57:39Z"}
+{"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"voxlane","id":"MAL-2026-20721","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T18:00:25Z"}
+{"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"wavlathe","id":"MAL-2026-20722","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T18:01:05Z"}
 {"op":"upsert","modified":"2026-11-27T09:12:17Z","name":"graphflux","id":"MAL-2026-20676","versions":["3.4.1","3.4.2"],"published":"2026-11-26T23:37:02Z"}
 {"op":"upsert","modified":"2026-11-27T00:08:38Z","name":"httpnex","id":"MAL-2026-20665","versions":["0.1.0","0.1.1"],"published":"2026-11-26T20:05:38Z"}
 {"op":"upsert","modified":"2026-11-26T15:55:05Z","name":"bloomcredit-python","id":"MAL-2026-20650","versions":["0.1.0","99.1.0","99.2.0","99.3.0"],"published":"2026-11-26T10:01:02Z"}

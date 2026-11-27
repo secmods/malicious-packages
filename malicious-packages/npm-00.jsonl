@@ -1211,7 +1211,7 @@
 {"name":"@angulra/core","id":"MAL-2026-17496","versions":["1.0.67"],"published":"2026-10-04T23:18:17Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"@angupar/core","id":"MAL-2026-17539","versions":["22.2.1"],"published":"2026-10-05T03:32:05Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"@anhackle/test","id":"MAL-2025-49394","published":"2025-11-09T00:17:09Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@animebails/baileys","id":"MAL-2026-18805","versions":["1.0.0","1.0.1","1.0.2","1.0.3"],"published":"2026-10-27T00:00:00Z","modified":"2026-11-10T00:56:01Z"}
+{"name":"@animebails/baileys","id":"MAL-2026-18805","aliases":["GHSA-2984-h5pw-9q5h"],"published":"2026-10-27T00:00:00Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"@anna-money/anna-web-lib","id":"MAL-2026-6600","aliases":["GHSA-f2cq-vvgf-2rrx"],"published":"2026-06-29T16:48:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@anngular/core","id":"MAL-2026-17540","versions":["22.2.1"],"published":"2026-10-05T03:32:14Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"@ans-exam/client","id":"MAL-2023-23","aliases":["GHSA-6w42-423f-8xqh"],"published":"2023-06-20T23:42:11Z","modified":"2026-10-02T05:38:49Z"}
@@ -4451,7 +4451,7 @@
 {"name":"@elektra-web/client","id":"MAL-2022-228","aliases":["GHSA-4w92-24m4-23cj"],"published":"2022-06-20T20:10:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@elementor-editor-github-actions/utils","id":"MAL-2025-4294","aliases":["GHSA-f55x-cwh7-4gqp","SNYK-JS-ELEMENTOREDITORGITHUBACTIONSUTILS-10245680"],"published":"2025-05-23T01:29:42Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@elfhkry/baileys","id":"MAL-2026-18824","versions":["8.0.11","8.0.12"],"published":"2026-10-27T00:00:00Z","modified":"2026-11-10T00:56:01Z"}
-{"name":"@elfhkry666/baileys","id":"MAL-2026-18825","versions":["0.3.20","0.3.21","0.3.22","0.3.23","0.3.24","0.3.25","0.3.26","0.3.27"],"published":"2026-10-27T00:00:00Z","modified":"2026-11-10T00:56:01Z"}
+{"name":"@elfhkry666/baileys","id":"MAL-2026-18825","aliases":["GHSA-hj86-h9x2-wvwf"],"published":"2026-10-27T00:00:00Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"@ellentorg/congenial-giggle","id":"MAL-2025-42476","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ellentorg/expedita-accusantium-aliquid","id":"MAL-2025-42477","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ellentorg/fugiat-ipsa-id","id":"MAL-2025-42478","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
@@ -6233,7 +6233,8 @@
 {"name":"@kindredext/fetlife-assets","id":"MAL-2022-382","aliases":["GHSA-v384-mw2g-9qf6"],"published":"2022-06-20T18:20:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kinggupong/baileys","id":"MAL-2026-1366","aliases":["GHSA-786q-6xgv-455x"],"published":"2026-03-12T05:13:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kinggupong/libsignal-node","id":"MAL-2026-1367","aliases":["GHSA-qjv5-rg93-2qhv"],"published":"2026-03-12T05:13:07Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@kingorwot/my-baileys","id":"MAL-2026-20292","versions":["2.0.0","3.0.0"],"published":"2026-11-20T04:55:06Z","modified":"2026-11-23T03:19:07Z"}
+{"name":"@kingorwot/libsignal-node","id":"MAL-2026-20711","aliases":["GHSA-rg47-rqcv-w935"],"published":"2026-11-27T15:45:53Z","modified":"2026-11-27T19:13:54Z"}
+{"name":"@kingorwot/my-baileys","id":"MAL-2026-20292","aliases":["GHSA-xf6c-v2mp-cw3j"],"published":"2026-11-20T04:55:06Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"@kingsaurus/libsignal-node","id":"MAL-2026-19962","aliases":["GHSA-3485-jcp3-4jh6"],"published":"2026-11-16T17:10:41Z","modified":"2026-11-16T20:42:45Z"}
 {"name":"@kite-js-tools/core","id":"MAL-2026-12319","versions":["1.0.0"],"published":"2026-08-05T13:04:58Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@kiukicom/sidebar","id":"MAL-2026-1023","aliases":["GHSA-7gh6-h93x-hcxc"],"published":"2026-02-24T16:56:48Z","modified":"2026-10-02T05:38:49Z"}
@@ -9184,6 +9185,7 @@
 {"name":"@nab-trade/mnt-prod","id":"MAL-2022-447","aliases":["GHSA-8c59-5gxc-8mfr"],"published":"2022-06-20T20:21:29Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@nagular/core","id":"MAL-2026-17499","versions":["1.0.67"],"published":"2026-10-03T06:47:32Z","modified":"2026-10-11T03:39:29Z"}
 {"name":"@nagular/router","id":"MAL-2026-17500","versions":["2.2.1"],"published":"2026-10-03T07:23:44Z","modified":"2026-10-11T03:39:29Z"}
+{"name":"@nakanoo/baileys","id":"MAL-2026-20712","aliases":["GHSA-hxgf-7384-6qp7"],"published":"2026-11-27T15:59:58Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"@nasddatax/common","id":"MAL-2026-12323","aliases":["GHSA-mx45-4vrr-4fgp"],"published":"2026-08-05T12:33:01Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@nasdtickets/common","id":"MAL-2026-12324","aliases":["GHSA-49j5-8rcw-8rh8"],"published":"2026-08-05T12:34:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@nationalgeographicsociety/ngsui-addons-react","id":"MAL-2025-3058","aliases":["GHSA-f6xr-2rm6-j76w","SNYK-JS-NATIONALGEOGRAPHICSOCIETYNGSUIADDONSREACT-9634266"],"published":"2025-04-02T05:11:11Z","modified":"2026-10-02T05:38:49Z"}
@@ -9322,6 +9324,7 @@
 {"name":"@nexthink/nxnavigation","id":"MAL-2022-473","aliases":["GHSA-fp4q-g58p-g4x5"],"published":"2022-10-19T23:50:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@nexthink/remote-action-widgets","id":"MAL-2022-474","aliases":["GHSA-v5jv-h5g3-x748"],"published":"2022-10-19T23:50:41Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@nexthink/waas","id":"MAL-2022-475","aliases":["GHSA-w55p-6w54-j3jm"],"published":"2022-10-19T23:50:41Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@nextlayers/nextcsskit","id":"MAL-2026-20690","aliases":["GHSA-5wm7-cf6f-cj9g"],"published":"2026-11-27T12:33:42Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"@nexustechpro/baileys","id":"MAL-2026-16104","aliases":["GHSA-8w6v-4xp9-rvrr"],"published":"2026-09-09T22:27:09Z","modified":"2026-10-13T22:01:50Z"}
 {"name":"@nf-addons/am-global-header","id":"MAL-2026-17154","versions":["9.9.10"],"published":"2026-09-24T13:16:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ng-cat/common","id":"MAL-2024-9442","versions":["9.99.9"],"published":"2024-10-21T08:36:33Z","modified":"2026-10-02T05:38:49Z"}
@@ -10309,6 +10312,7 @@
 {"name":"@pyme-web/ui-widget","id":"MAL-2026-3119","aliases":["GHSA-5x28-2ff3-64cj"],"published":"2026-04-27T17:46:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@pyme-web/web-api","id":"MAL-2026-3120","aliases":["GHSA-q9v2-86j4-4885"],"published":"2026-04-27T17:55:52Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@pypestream/floating-ui-dom","id":"MAL-2026-2030","aliases":["GHSA-5h9j-3cr5-f9xj"],"versions":["2.15.1"],"published":"2026-03-22T17:11:18Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@pyraio/cli-win32-x64","id":"MAL-2026-20696","aliases":["GHSA-4ppg-j997-wqrm"],"versions":["0.2.13"],"published":"2026-11-27T13:23:38Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"@qbr-runway/tokens","id":"MAL-2025-6907","versions":["100.99.99"],"published":"2025-08-14T19:16:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@qcsfe/common-lmap","id":"MAL-2022-538","aliases":["GHSA-hx8c-m6xc-c4m8"],"published":"2022-06-20T20:26:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@qcsfe/common-progressbar","id":"MAL-2022-539","aliases":["GHSA-66hr-mx4q-rq7h"],"published":"2022-06-20T20:26:31Z","modified":"2026-10-02T05:38:49Z"}
@@ -10403,7 +10407,7 @@
 {"name":"@ralkq5o9/npm-test-user","id":"MAL-2022-553","aliases":["GHSA-4783-g25c-6p56"],"published":"2022-06-20T20:15:19Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@rambler-help/shared","id":"MAL-2024-11278","versions":["0.1.99","0.10.99","0.11.99","0.12.99","0.13.99","0.14.99","0.15.99","0.2.99","0.3.99","0.4.99","0.5.99","0.6.99","0.7.99","0.8.99","0.9.99","1.99.99","10.99.99","11.99.99","12.99.99","13.99.99","14.99.99","15.99.99","2.99.99","3.99.99","4.99.99","5.99.99","6.99.99","7.99.99","8.99.99","9.99.99"],"published":"2024-12-08T21:59:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@ramp106/timetable","id":"MAL-2022-554","aliases":["GHSA-wpc7-76wm-x8m4"],"published":"2022-06-20T18:19:36Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"@randev404/baileys","id":"MAL-2026-18878","versions":["1.0.0"],"published":"2026-10-27T00:00:00Z","modified":"2026-11-10T00:56:01Z"}
+{"name":"@randev404/baileys","id":"MAL-2026-18878","aliases":["GHSA-ghh3-pr6h-wmpw"],"published":"2026-10-27T00:00:00Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"@ranstech/baileys","id":"MAL-2026-18879","versions":["6.1.0"],"published":"2026-10-27T00:00:00Z","modified":"2026-11-10T00:56:01Z"}
 {"name":"@ranstech/bails","id":"MAL-2026-18880","versions":["1.1.1","1.1.2","1.1.3","1.1.4","1.1.5","1.1.6","2.0.0"],"published":"2026-10-27T00:00:00Z","modified":"2026-11-10T00:56:01Z"}
 {"name":"@rappiinc/partner-core","id":"MAL-2023-8389","aliases":["GHSA-mh8v-xh39-5vp9"],"published":"2023-10-19T04:59:22Z","modified":"2026-10-02T05:38:49Z"}
@@ -10813,6 +10817,7 @@
 {"name":"@sellerly/sellzone-semrush2-header","id":"MAL-2025-9288","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@sellerly/sellzone-semrush2-header-footer","id":"MAL-2025-9289","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@sellerly/szn-atm","id":"MAL-2025-9292","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"@selorax/app-sdk","id":"MAL-2026-20713","aliases":["GHSA-cjhw-w6p8-f9x8"],"versions":["2.1.0"],"published":"2026-11-27T16:18:20Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"@semdash-kit/config","id":"MAL-2025-9316","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@semdash-kit/grid","id":"MAL-2025-9317","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"@semdash-kit/responsive","id":"MAL-2025-9318","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -20288,6 +20293,7 @@
 {"name":"adaptivecards-extras","id":"MAL-2025-6144","aliases":["GHSA-8wx8-w345-w28w","SNYK-JS-ADAPTIVECARDSEXTRAS-10875418"],"published":"2025-07-22T01:50:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"adaptivecards-extras-designer","id":"MAL-2022-846","aliases":["GHSA-7v9c-v9xx-p4wx"],"published":"2022-06-20T20:25:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"adawong","id":"MAL-2025-14066","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"adb-node","id":"MAL-2026-20700","aliases":["GHSA-v867-fcq6-9j7r"],"published":"2026-11-27T14:26:12Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"adblock-resources","id":"MAL-2025-328","aliases":["GHSA-463x-vr28-h4g2","SNYK-JS-ADBLOCKRESOURCES-8660177"],"published":"2025-01-22T16:30:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"adbputty","id":"MAL-2025-14067","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"adbuil","id":"MAL-2022-847","aliases":["GHSA-rx8p-686c-652r"],"published":"2022-06-20T20:25:33Z","modified":"2026-10-02T05:38:49Z"}
@@ -21649,6 +21655,7 @@
 {"name":"agenthub-ai","id":"MAL-2026-13615","versions":["0.20.1","0.20.2","0.20.3","0.20.4"],"published":"2026-08-07T16:34:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"agenthub-multiagent-mcp","id":"MAL-2026-13399","versions":["1.57.0"],"published":"2026-08-06T12:30:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"agentic-awesome-skills","id":"MAL-2026-18192","aliases":["GHSA-rgwm-3jj9-h563"],"versions":["18.10.0","18.11.0","18.12.0","18.13.0","18.14.0","18.15.0","18.9.0","19.0.0","19.0.1","19.1.0","19.10.1","19.11.0","19.12.0","19.12.1","19.13.0","19.14.0","19.15.0","19.2.0","19.3.0","19.4.0","19.5.0","19.6.0","19.7.0","19.8.0","19.9.0"],"published":"2026-10-22T18:34:45Z","modified":"2026-11-03T08:44:54Z"}
+{"name":"agentkpalive","id":"MAL-2026-20701","aliases":["GHSA-v8mr-2vmh-3xp3"],"published":"2026-11-27T14:47:33Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"agentmono","id":"MAL-2025-48912","aliases":["GHSA-v8mx-5pfj-w47c"],"published":"2025-10-28T01:23:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"agentrc-security-poc-policy","id":"MAL-2026-16005","versions":["1.0.0"],"published":"2026-09-06T18:13:46Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"agents-a365-runtime","id":"MAL-2026-3149","aliases":["GHSA-98v9-9pjp-6p9m"],"published":"2026-04-29T08:00:00Z","modified":"2026-10-02T05:38:49Z"}
@@ -29569,6 +29576,7 @@
 {"name":"atg-store-addons","id":"MAL-2025-4163","versions":["99.9.1"],"published":"2025-05-22T12:40:40Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"atg-superagent-retry-delay","id":"MAL-2024-9432","versions":["100.100.100"],"published":"2024-10-18T22:24:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"atgularjs","id":"MAL-2026-7212","aliases":["GHSA-7p7c-v4mm-3575"],"versions":["1.1.2","1.1.4","8.7.6"],"published":"2026-07-07T12:39:53Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"ath-gziphugefile","id":"MAL-2026-20702","aliases":["GHSA-pmxh-gmq3-3qj2"],"published":"2026-11-27T14:56:46Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"athenry","id":"MAL-2025-15004","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"athira","id":"MAL-2025-4466","aliases":["GHSA-4738-66f9-h6fw"],"published":"2025-05-27T05:25:18Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"athira-darwin-arm64","id":"MAL-2025-4467","aliases":["GHSA-x946-7xwc-v4qw"],"published":"2025-05-27T05:25:17Z","modified":"2026-10-02T05:38:49Z"}
@@ -31656,6 +31664,7 @@
 {"name":"axios-cookiesupport","id":"MAL-2024-10691","aliases":["GHSA-ch86-g8vm-mpmh"],"published":"2024-11-14T08:06:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"axios-css-minimizer-webpack-plugin-bulma-helios","id":"MAL-2025-139823","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"axios-dagda-rollup-plugin-dotenv-parse-variables","id":"MAL-2025-139824","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"axios-db-5","id":"MAL-2026-20703","aliases":["GHSA-5h25-mcw7-j573"],"published":"2026-11-27T14:44:33Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"axios-despina-karma-duplex","id":"MAL-2025-139825","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"axios-docusaurus-node-sass-html-webpack-plugin","id":"MAL-2025-139826","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"axios-electron-builder-module-css-loader","id":"MAL-2025-139827","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
@@ -31721,6 +31730,7 @@
 {"name":"axon-web","id":"MAL-2026-19222","versions":["12.0.0"],"published":"2026-11-13T03:51:42Z","modified":"2026-11-13T10:13:34Z"}
 {"name":"axp-api-middleware","id":"MAL-2024-1795","versions":["1.1.5"],"published":"2024-06-25T12:29:06Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"axp-base","id":"MAL-2022-1212","aliases":["GHSA-f9fv-j664-cr69"],"published":"2022-05-19T08:37:22Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"axp-data-manager-utils","id":"MAL-2026-20704","aliases":["GHSA-h3h2-wxpf-76gj"],"published":"2026-11-27T14:56:46Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"axp-product-ducks","id":"MAL-2024-9065","versions":["30.0.0"],"published":"2024-10-01T10:51:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"axp-shared-scripts","id":"MAL-2022-1213","aliases":["GHSA-v525-7xcm-7q6m"],"published":"2022-05-19T08:37:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"axp-utility-belt","id":"MAL-2022-1214","aliases":["GHSA-wx72-6f5f-vpg3"],"published":"2022-05-19T08:37:22Z","modified":"2026-10-02T05:38:49Z"}
@@ -35525,6 +35535,7 @@
 {"name":"bianyi-sanwangxing","id":"MAL-2025-43616","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"biaozhika","id":"MAL-2025-15659","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"biashuer","id":"MAL-2024-8743","aliases":["GHSA-jvf8-96jr-9ffw"],"published":"2024-09-04T09:05:34Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"biatec-avm-gas-station","id":"MAL-2026-20714","aliases":["GHSA-hppc-2rc4-mqpj"],"versions":["1.1.1","1.1.2"],"published":"2026-11-27T16:12:24Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"bibimbap-notthedevs","id":"MAL-2025-99963","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bic-seo","id":"MAL-2026-1995","versions":["2.0.3"],"published":"2026-03-20T11:41:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bichart","id":"MAL-2025-15660","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -36163,6 +36174,7 @@
 {"name":"bitconid-rpc","id":"MAL-2025-15757","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bitconijs-lib","id":"MAL-2025-15758","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bitcor-mnemonic","id":"MAL-2024-10607","aliases":["GHSA-4rjj-m89c-pj3h"],"published":"2024-11-12T12:58:06Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"bitcor-wallet","id":"MAL-2026-20691","aliases":["GHSA-v493-8g4w-frc3"],"published":"2026-11-27T12:47:12Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"bitcore-build-zcash","id":"MAL-2022-1587","aliases":["GHSA-8wpm-4gwr-pcxp"],"published":"2022-06-20T20:22:31Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bitcore-message-zen","id":"MAL-2025-3179","aliases":["GHSA-66pr-7cjx-9r75","SNYK-JS-BITCOREMESSAGEZEN-9674154"],"published":"2025-04-09T03:02:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bitcore-mnemic","id":"MAL-2024-10608","aliases":["GHSA-j74f-9pqg-jhc8"],"published":"2024-11-12T12:56:17Z","modified":"2026-10-02T05:38:49Z"}
@@ -39612,7 +39624,9 @@
 {"name":"bumpy_wildfowl-silentdev","id":"MAL-2025-100190","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bumpy_woodpecker_z3n","id":"MAL-2025-93450","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bumpy_xerinae_cyan-6","id":"MAL-2025-111709","published":"2025-11-11T07:47:12Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"bun-definitions","id":"MAL-2026-20697","aliases":["GHSA-8whg-q8h8-jc97"],"published":"2026-11-27T14:12:52Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"bun-plugin-httpfile","id":"MAL-2025-191079","aliases":["GHSA-h8qf-v6f9-q47h"],"versions":["0.1.1"],"published":"2025-11-24T22:55:40Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"bun-types-loader","id":"MAL-2026-20698","aliases":["GHSA-5h6f-8w4g-h62p"],"published":"2026-11-27T14:12:52Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"bundle-alert-runtime-private-bundle","id":"MAL-2025-185939","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bundle-cryp","id":"MAL-2025-170","aliases":["GHSA-hg2w-f2x7-xr4m"],"published":"2025-01-20T07:27:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"bundle-entry-points","id":"MAL-2026-20350","aliases":["GHSA-22c9-m33q-w29j"],"published":"2026-11-23T08:36:39Z","modified":"2026-11-26T15:55:05Z"}
@@ -47078,6 +47092,7 @@
 {"name":"cli-configs","id":"MAL-2025-17103","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cli-cordelia-chalk-redgiant","id":"MAL-2025-186163","published":"2025-11-13T03:23:14Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cli-cressida-tool-supercluster","id":"MAL-2025-17104","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"cli-cst-compression","id":"MAL-2026-20705","aliases":["GHSA-xf52-878c-q272"],"published":"2026-11-27T14:56:46Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"cli-ctor","id":"MAL-2024-9543","versions":["213.21.24","213.21.25"],"published":"2024-10-16T12:40:02Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cli-cypress-chai-geckodriver","id":"MAL-2025-140791","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cli-dactyl-restart-meteor","id":"MAL-2025-140792","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
@@ -47937,6 +47952,7 @@
 {"name":"coingecko-adapter","id":"MAL-2022-1981","aliases":["GHSA-xrg2-5hp2-r9jm"],"published":"2022-06-20T20:11:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"coingecko-price","id":"MAL-2023-1551","aliases":["SNYK-JS-COINGECKOPRICE-5819588"],"published":"2023-07-04T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"coingecko-prices","id":"MAL-2023-199","aliases":["GHSA-9g6r-6qj4-5j59","SNYK-JS-COINGECKOPRICES-5803118"],"published":"2023-07-14T19:08:08Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"coingeco","id":"MAL-2026-20692","aliases":["GHSA-43cg-hx85-45wq"],"published":"2026-11-27T12:49:57Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"coinlore-adapter","id":"MAL-2022-1982","aliases":["GHSA-3xx9-j4j2-j86r"],"published":"2022-06-20T20:11:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"coinmarketcap-adapter","id":"MAL-2022-1983","aliases":["GHSA-9966-2jpx-39hj"],"published":"2022-06-20T20:11:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"coinmarketcap-api","id":"MAL-2025-190948","aliases":["GHSA-3f5p-9hr6-r692"],"versions":["3.1.2","3.1.3"],"published":"2025-11-24T21:39:06Z","modified":"2026-10-02T05:38:49Z"}
@@ -49428,6 +49444,7 @@
 {"name":"component-modernizr","id":"MAL-2025-3572","aliases":["GHSA-4jpx-jxxv-w9w7"],"published":"2025-05-02T06:17:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"component-thumbnail","id":"MAL-2022-2145","aliases":["GHSA-p82h-rq9m-m2wq"],"published":"2022-06-20T20:19:08Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"components-design-system","id":"MAL-2026-1696","versions":["99.99.99"],"published":"2026-03-18T12:44:37Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"components-flexibility","id":"MAL-2026-20693","aliases":["GHSA-3f5q-5m4w-9c3p"],"published":"2026-11-27T13:06:00Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"compose-logger-stand","id":"MAL-2026-11267","aliases":["GHSA-9wv2-6h9j-773q"],"published":"2026-07-30T21:40:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"composed-react-app","id":"MAL-2024-11335","versions":["999.0.2","999.9.92"],"published":"2024-12-08T23:34:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"composer-bin-plugin","id":"MAL-2025-4979","aliases":["GHSA-m48j-f28w-vgmc"],"published":"2025-06-16T00:01:41Z","modified":"2026-10-02T05:38:49Z"}
@@ -51368,6 +51385,7 @@
 {"name":"cptalertbox","id":"MAL-2023-1148","aliases":["SNYK-JS-CPTALERTBOX-5876605"],"published":"2023-05-29T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cpu-instructions","id":"MAL-2025-190838","aliases":["GHSA-hq8x-3j28-4fcx"],"versions":["0.0.14"],"published":"2025-11-24T14:41:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cpufake","id":"MAL-2025-17652","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"cputil-node","id":"MAL-2026-20694","aliases":["GHSA-mj7v-vvf6-x2mw"],"published":"2026-11-27T13:02:34Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"cqbwogthvkuenakr","id":"MAL-2022-2224","aliases":["GHSA-5pr4-5r62-g6g3"],"published":"2022-07-11T21:03:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cquence","id":"MAL-2025-17653","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"cr-bot-common","id":"MAL-2026-16137","versions":["1.0.0"],"published":"2026-09-11T22:39:55Z","modified":"2026-10-02T05:38:49Z"}
@@ -62565,6 +62583,7 @@
 {"name":"dtcleaner","id":"MAL-2025-18949","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dtcp-module","id":"MAL-2025-5774","aliases":["GHSA-qw83-hfm3-6pp3","SNYK-JS-DTCPMODULE-10693374"],"published":"2025-07-10T22:32:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dtdl-parser","id":"MAL-2022-2599","aliases":["GHSA-hpxv-h674-w4jg"],"published":"2022-06-20T20:11:15Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"dtec-bail","id":"MAL-2026-20699","aliases":["GHSA-c7jw-r5j8-2jjw"],"published":"2026-11-27T14:01:21Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"dtemv","id":"MAL-2022-2600","aliases":["GHSA-25v6-wq9h-jjqf"],"published":"2022-08-19T03:55:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dtljayqkgwxrmvku","id":"MAL-2025-18950","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"dtmcsbhjevgqnxua","id":"MAL-2025-18951","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -78255,6 +78274,7 @@
 {"name":"frail_wasp_z3n","id":"MAL-2025-94595","published":"2025-11-11T05:18:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"frakaman","id":"MAL-2025-68412","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"frame-minter-contracts","id":"MAL-2025-3763","aliases":["GHSA-pc46-42hf-9xgh"],"published":"2025-05-12T05:59:13Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"frame-stream-codec-async","id":"MAL-2026-20706","aliases":["GHSA-ww99-r9fg-fpx9"],"published":"2026-11-27T14:56:46Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"framer-motion-ext","id":"MAL-2025-3685","aliases":["GHSA-3972-wpw3-vmx9"],"published":"2025-05-07T03:11:10Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"framer-motion-js","id":"MAL-2026-220","aliases":["GHSA-38xp-pcxg-58xm"],"published":"2026-01-12T02:02:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"framer-motionanimate","id":"MAL-2026-20067","aliases":["GHSA-8x7q-hxcj-jghm"],"published":"2026-11-17T14:28:32Z","modified":"2026-11-17T21:25:18Z"}
@@ -80287,6 +80307,7 @@
 {"name":"gapps-automation","id":"MAL-2023-1571","versions":["9.9.9"],"published":"2023-08-24T19:20:33Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gapuler","id":"MAL-2024-8855","aliases":["GHSA-gqx8-8r9h-5qgm"],"published":"2024-09-09T22:31:53Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"garage11-lib","id":"MAL-2025-21193","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"garaya-jiklop","id":"MAL-2026-20707","aliases":["GHSA-c267-hvq4-ghm8"],"published":"2026-11-27T14:56:46Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"garcefulfs","id":"MAL-2022-3274","aliases":["GHSA-x5xp-pmc2-x62h"],"published":"2022-08-19T03:55:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"garden-those-steam","id":"MAL-2025-44378","published":"2025-09-05T17:10:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"gardr-finn","id":"MAL-2025-48494","published":"2025-10-17T03:28:23Z","modified":"2026-10-02T05:38:49Z"}
@@ -81969,7 +81990,7 @@
 {"name":"git-cliff-win32-arm64","id":"MAL-2025-21452","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"git-cliff-win32-x64","id":"MAL-2025-21453","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"git-commit-message-convention","id":"MAL-2024-9461","aliases":["GHSA-6w4p-x5f7-fpgv"],"published":"2024-10-23T23:42:34Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"git-crt-creator","id":"MAL-2026-20604","versions":["1.0.2","1.0.3","10.13.0"],"published":"2026-11-25T15:43:40Z","modified":"2026-11-25T23:51:23Z"}
+{"name":"git-crt-creator","id":"MAL-2026-20604","aliases":["GHSA-4wjh-p34x-f93x"],"published":"2026-11-25T15:43:40Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"git-dependency-maker","id":"MAL-2022-3367","aliases":["GHSA-v6w5-p4qx-xwmw"],"published":"2022-06-20T07:27:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"git-en-boite-app","id":"MAL-2022-3368","aliases":["GHSA-77cc-83f9-pf7g"],"published":"2022-06-20T20:08:51Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"git-en-boite-core","id":"MAL-2022-3369","aliases":["GHSA-fc5x-h9wc-pww6"],"published":"2022-06-20T20:08:51Z","modified":"2026-10-02T05:38:49Z"}
@@ -81977,7 +81998,7 @@
 {"name":"git-en-boite-logging","id":"MAL-2026-17214","versions":["0.0.0"],"published":"2026-09-28T14:18:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"git-gatsby","id":"MAL-2022-3370","aliases":["GHSA-fph3-xfxq-q2gv"],"published":"2022-06-20T07:27:55Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"git-git-git","id":"MAL-2026-3504","aliases":["GHSA-w8x9-9886-9m73"],"versions":["1.0.10","1.0.11","1.0.12","1.0.8","1.0.9"],"published":"2026-05-12T00:58:29Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"git-iss-creator","id":"MAL-2026-20605","versions":["10.13.0"],"published":"2026-11-25T15:44:10Z","modified":"2026-11-25T23:51:23Z"}
+{"name":"git-iss-creator","id":"MAL-2026-20605","aliases":["GHSA-g947-3cf3-wv98"],"published":"2026-11-25T15:44:10Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"git-lg","id":"MAL-2025-21454","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"git-mirror-client","id":"MAL-2025-21455","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"git-ocr","id":"MAL-2025-21456","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -90666,7 +90687,7 @@
 {"name":"hihihiha","id":"MAL-2025-22431","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hiiiiiiiiiiiiiiiiiiiiii","id":"MAL-2024-2477","aliases":["GHSA-9p59-7r3f-vmmg"],"versions":["10.0.1"],"published":"2024-06-25T12:45:42Z","modified":"2026-11-25T15:04:40Z"}
 {"name":"hijack_publish","id":"MAL-2025-4937","aliases":["GHSA-qw24-j982-88r3"],"published":"2025-06-12T16:07:02Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"hijiko-parser","id":"MAL-2026-20550","versions":["1.0.0","1.0.1"],"published":"2026-11-25T06:05:48Z","modified":"2026-11-25T15:04:40Z"}
+{"name":"hijiko-parser","id":"MAL-2026-20550","aliases":["GHSA-3vmq-6cvv-qrm4"],"published":"2026-11-25T06:05:48Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"hijink","id":"MAL-2025-22432","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hilarious-amber-moth","id":"MAL-2025-68670","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hilarious-blush-woodpecker","id":"MAL-2025-68671","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
@@ -92497,6 +92518,7 @@
 {"name":"hustlejs","id":"MAL-2025-22808","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"husy","id":"MAL-2022-3726","aliases":["GHSA-m389-2rj4-xcxp"],"published":"2022-08-19T03:55:09Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hutpproxymiddleware","id":"MAL-2022-3727","aliases":["GHSA-w2jc-v598-3jrm"],"published":"2022-08-19T03:55:09Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"huyji-poli","id":"MAL-2026-20708","aliases":["GHSA-gf45-qjv4-hwgp"],"published":"2026-11-27T14:56:46Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"hvskzgtdmjqaoukx","id":"MAL-2022-3728","aliases":["GHSA-j2j5-q5vc-p3ww"],"published":"2022-07-11T21:58:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hw-affiliate-toast","id":"MAL-2025-22809","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hw-angular-validator","id":"MAL-2025-22810","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -92635,7 +92657,7 @@
 {"name":"hydrogeology-transform-crust-library","id":"MAL-2025-22849","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hyeonhau","id":"MAL-2025-68754","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hyiot-module","id":"MAL-2025-22850","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"hyjui-klopa","id":"MAL-2026-20606","versions":["1.0.0"],"published":"2026-11-25T15:43:57Z","modified":"2026-11-25T23:51:23Z"}
+{"name":"hyjui-klopa","id":"MAL-2026-20606","aliases":["GHSA-cvm9-wwgc-4g64"],"published":"2026-11-25T15:43:57Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"hypc","id":"MAL-2025-22851","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hyper-fullfacing","id":"MAL-2025-191397","aliases":["GHSA-mv92-7x3f-qm3c"],"versions":["1.0.3"],"published":"2025-11-25T00:16:49Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"hyper-kube-config","id":"MAL-2026-12392","aliases":["GHSA-pvc8-7whj-r3w4"],"published":"2026-08-05T13:01:07Z","modified":"2026-10-02T05:38:49Z"}
@@ -102680,7 +102702,7 @@
 {"name":"jigsaw_zfcc1_hc9s5_blossom","id":"MAL-2025-23801","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"jigsolver","id":"MAL-2025-23802","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"jiinfo","id":"MAL-2025-23803","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"jikaya-parser","id":"MAL-2026-20551","versions":["1.0.0","1.0.1"],"published":"2026-11-25T06:05:42Z","modified":"2026-11-25T15:04:40Z"}
+{"name":"jikaya-parser","id":"MAL-2026-20551","aliases":["GHSA-j3jq-w4rq-39hc"],"published":"2026-11-25T06:05:42Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"jillingme","id":"MAL-2025-23804","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"jima23-frame-print","id":"MAL-2025-23805","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"jimbooth","id":"MAL-2025-23806","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -105769,8 +105791,8 @@
 {"name":"jutsulepb-","id":"MAL-2023-545","aliases":["GHSA-3cx7-w998-6f27"],"published":"2023-04-18T01:40:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"juvare","id":"MAL-2025-3259","aliases":["GHSA-fhgw-ff7c-w9j4","SNYK-JS-JUVARE-9728234"],"published":"2025-04-17T04:15:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"juvoft","id":"MAL-2025-24125","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"juyip-parser-assets","id":"MAL-2026-20552","versions":["1.0.1"],"published":"2026-11-25T06:05:16Z","modified":"2026-11-25T15:04:40Z"}
-{"name":"juyip-parser-helper","id":"MAL-2026-20553","versions":["1.0.0","1.0.1","1.0.2","1.0.4"],"published":"2026-11-25T06:05:08Z","modified":"2026-11-25T15:04:40Z"}
+{"name":"juyip-parser-assets","id":"MAL-2026-20552","aliases":["GHSA-7g39-gpm9-88fr"],"published":"2026-11-25T06:05:16Z","modified":"2026-11-27T19:13:54Z"}
+{"name":"juyip-parser-helper","id":"MAL-2026-20553","aliases":["GHSA-qphm-3599-86qw"],"published":"2026-11-25T06:05:08Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"juytjwfgtrhefregfef","id":"MAL-2025-93","aliases":["GHSA-gfh2-57x7-73vv","SNYK-JS-JUYTJWFGTRHEFREGFEF-8622654"],"published":"2025-01-14T00:15:28Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"jvector-release","id":"MAL-2025-48695","published":"2025-10-26T19:03:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"jvgmepykdwfrqali","id":"MAL-2022-4087","aliases":["GHSA-4j53-39m9-4h73"],"published":"2022-07-11T22:02:42Z","modified":"2026-10-02T05:38:49Z"}
@@ -149190,6 +149212,7 @@
 {"name":"pdfgrabber","id":"MAL-2022-5262","aliases":["GHSA-xm27-qg6p-qmff"],"published":"2022-06-20T20:08:36Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pdfjs-dist-fourth","id":"MAL-2026-1257","versions":["10.0.33"],"published":"2026-03-05T22:15:57Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pdfjs-dist-v5","id":"MAL-2026-1216","versions":["100.25.0"],"published":"2026-03-03T08:21:23Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"pdfjs-fontmatrix-fixture-cb8043","id":"MAL-2026-20688","aliases":["GHSA-9g37-5cfx-467c"],"versions":["1.0.1"],"published":"2026-11-27T09:27:50Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"pdfjs2","id":"MAL-2024-2855","versions":["2.2.2","2.2.3","5.2.3"],"published":"2024-06-25T12:55:35Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pdfplumber","id":"MAL-2025-4386","aliases":["GHSA-m6qf-2387-55m3","SNYK-JS-PDFPLUMBER-10245790"],"published":"2025-05-23T02:04:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pdftodoc","id":"MAL-2025-2470","aliases":["GHSA-p29x-6hh6-cp7j"],"published":"2025-03-17T06:45:21Z","modified":"2026-10-02T05:38:49Z"}
@@ -153249,6 +153272,7 @@
 {"name":"postcss-yaml-lynx-build","id":"MAL-2025-146427","published":"2025-11-12T04:29:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"postcsscksnext","id":"MAL-2022-5425","aliases":["GHSA-cmpr-x58g-675v"],"published":"2022-08-19T03:55:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"postcssfvlgexugsfixes","id":"MAL-2022-5426","aliases":["GHSA-mv38-2h5c-9jm4"],"published":"2022-08-19T03:55:11Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"postcsskit","id":"MAL-2026-20695","aliases":["GHSA-7p33-vv46-x44w"],"published":"2026-11-27T12:34:17Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"postcssmipot","id":"MAL-2022-5427","aliases":["GHSA-h4qx-9fx2-w67p"],"published":"2022-08-19T03:55:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"postcsssafeparsear","id":"MAL-2022-5428","aliases":["GHSA-v959-8866-9mp4"],"published":"2022-08-19T03:55:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"postgreesqlhelper","id":"MAL-2026-16150","versions":["1.0.3"],"published":"2026-09-14T16:54:35Z","modified":"2026-10-02T05:38:49Z"}
@@ -153667,6 +153691,7 @@
 {"name":"preferred_viper_z3n","id":"MAL-2025-136259","published":"2025-11-11T22:56:38Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"prefetchalyzer","id":"MAL-2022-5445","aliases":["GHSA-w86q-q8wg-5m34"],"published":"2022-06-20T20:22:12Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"prefig","id":"MAL-2025-29611","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"prefix-script-engine-batch","id":"MAL-2026-20709","aliases":["GHSA-j7rv-3prh-jh5w"],"published":"2026-11-27T14:56:46Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"pregnant-indigo-leopard","id":"MAL-2025-69976","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pregnant-indigo-swallow","id":"MAL-2025-69977","published":"2025-11-11T00:41:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"pregnant_boar-tool","id":"MAL-2025-107198","published":"2025-11-11T07:44:04Z","modified":"2026-10-02T05:38:49Z"}
@@ -162260,6 +162285,7 @@
 {"name":"react-router-scroll-navar","id":"MAL-2025-5723","aliases":["GHSA-76rv-q3rf-xxc4"],"published":"2025-07-08T23:50:43Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"react-router2","id":"MAL-2025-31854","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"react-rps-boilerplate","id":"MAL-2024-8061","aliases":["GHSA-rm52-5586-qgg6"],"published":"2024-08-28T01:10:58Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"react-schedule-it","id":"MAL-2026-20710","aliases":["GHSA-jv9x-mr42-3p7w"],"published":"2026-11-27T14:26:12Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"react-scrambled-text","id":"MAL-2025-191415","aliases":["GHSA-wpc4-3h4p-fwj5"],"versions":["1.0.4","1.0.5"],"published":"2025-11-24T23:23:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"react-screen-reader-announce","id":"MAL-2023-734","aliases":["GHSA-8w4q-69hp-rrv4","SNYK-JS-REACTSCREENREADERANNOUNCE-3358801"],"published":"2023-03-15T02:00:32Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"react-script-log","id":"MAL-2025-2700","aliases":["GHSA-xw7x-f87x-g6f2"],"published":"2025-03-25T05:44:16Z","modified":"2026-10-02T05:38:49Z"}
@@ -195200,7 +195226,7 @@
 {"name":"tick-forge","id":"MAL-2026-13385","aliases":["GHSA-rjvw-v893-2f7g"],"published":"2026-08-05T13:16:27Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ticket-parser2","id":"MAL-2023-889","aliases":["GHSA-mqj9-f5g9-8x6c"],"published":"2023-01-30T10:11:59Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ticket-parser2-py3","id":"MAL-2023-890","aliases":["GHSA-3vvw-jvrv-pq7v"],"published":"2023-01-30T10:11:58Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"ticket-symbol-stream-native","id":"MAL-2026-20520","versions":["1.0.0"],"published":"2026-11-24T22:19:21Z","modified":"2026-11-25T04:39:05Z"}
+{"name":"ticket-symbol-stream-native","id":"MAL-2026-20520","aliases":["GHSA-52w4-xrp5-83xw"],"published":"2026-11-24T22:19:21Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"ticketcathayoct12","id":"MAL-2026-17939","aliases":["GHSA-g7mg-3h9r-c8h3"],"published":"2026-10-19T12:24:05Z","modified":"2026-10-19T15:57:19Z"}
 {"name":"tickets-tutorial","id":"MAL-2025-5733","aliases":["GHSA-45rp-7742-fwh5"],"published":"2025-07-08T23:58:23Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tickncook-robot","id":"MAL-2026-24","aliases":["GHSA-p52r-cmjv-v6mr"],"published":"2026-01-02T22:06:48Z","modified":"2026-10-02T05:38:49Z"}
@@ -199041,30 +199067,3 @@
 {"name":"twinkle-cascade-sqe614-project","id":"MAL-2025-37380","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twinmotion","id":"MAL-2023-1324","aliases":["SNYK-JS-TWINMOTION-3336071"],"versions":["99.1.1","99.1.2"],"published":"2023-04-29T10:30:21Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twisted-palace-the-royals-3-by-erin-watt-on-kindle-full-edition-","id":"MAL-2023-915","aliases":["GHSA-5cvr-hhqh-vhf4"],"published":"2023-05-10T13:24:33Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-core-ui","id":"MAL-2022-6697","aliases":["GHSA-fvvf-hj4q-5h8r"],"published":"2022-06-20T20:16:03Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-desktop-agent","id":"MAL-2022-6698","aliases":["GHSA-7r39-8jr7-j7fg"],"published":"2022-06-20T20:15:48Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-desktop-components","id":"MAL-2022-6699","aliases":["GHSA-5phh-v794-5gqv"],"published":"2022-06-20T20:16:08Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-desktop-ipc","id":"MAL-2022-6700","aliases":["GHSA-vw83-hq49-g74m"],"published":"2022-06-20T20:16:08Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-grunt-smartling-sdk","id":"MAL-2025-37381","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-i18n-utils","id":"MAL-2025-37382","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-integrations","id":"MAL-2022-6701","aliases":["GHSA-qmr2-5gqq-2cqc"],"published":"2022-06-20T20:16:08Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-intl-cli","id":"MAL-2022-6702","aliases":["GHSA-hxvq-h28m-p7x3"],"published":"2022-06-20T20:16:09Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-phoenix","id":"MAL-2022-6703","aliases":["GHSA-mr35-pqvh-frxg"],"published":"2022-06-20T20:16:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-recurly.js","id":"MAL-2022-6704","aliases":["GHSA-cw8j-xh9v-75m8"],"published":"2022-06-20T20:17:06Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-sandstorm","id":"MAL-2022-6705","aliases":["GHSA-5pcv-r4cc-6g3p"],"published":"2022-06-20T20:15:48Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-security","id":"MAL-2026-1416","aliases":["GHSA-gp4w-hqqj-mj8j"],"published":"2026-03-13T10:37:20Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-smartling-sdk","id":"MAL-2025-37383","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-styles","id":"MAL-2025-37384","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-twilight","id":"MAL-2022-6706","aliases":["GHSA-jwpf-hvgc-8795"],"published":"2022-06-20T20:17:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch-twilight-intl","id":"MAL-2026-1389","aliases":["GHSA-rch7-r7gr-cp84"],"published":"2026-03-13T05:37:47Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitch.dashboard-v2.core","id":"MAL-2026-1417","aliases":["GHSA-89fh-43jx-c785"],"published":"2026-03-13T10:37:20Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitrans","id":"MAL-2025-37385","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitter-api-v1","id":"MAL-2025-3922","aliases":["GHSA-x83h-8826-mgwq","SNYK-JS-TWITTERAPIV1-10177495"],"published":"2025-05-16T09:04:12Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitter-cldr-npm","id":"MAL-2025-1187","aliases":["GHSA-q93p-7x49-5m89"],"published":"2025-02-03T09:01:39Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitter-new","id":"MAL-2022-6707","aliases":["GHSA-9994-m884-9pfr"],"published":"2022-06-20T20:26:00Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitter-sc","id":"MAL-2025-2056","aliases":["GHSA-qr72-prvc-v8mr"],"published":"2025-03-03T07:44:47Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitter-webhook-boilerplate-node","id":"MAL-2022-6708","aliases":["GHSA-7v6x-6mrc-f7mq"],"published":"2022-06-20T20:22:05Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitterapis","id":"MAL-2025-3423","aliases":["SNYK-JS-TWITTERAPIS-9667370"],"versions":["10.1.0","10.1.1"],"published":"2025-04-23T16:04:01Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twitterstreamingdemo","id":"MAL-2022-6709","aliases":["GHSA-8rw9-g3fm-rrhp"],"published":"2022-06-20T20:21:56Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"twk-boilerplate-template","id":"MAL-2023-8694","versions":["1.0.1"],"published":"2023-12-14T14:47:12Z","modified":"2026-10-02T05:38:49Z"}
-{"name":"two-column-image-text-grid","id":"MAL-2024-7695","versions":["69.69.69"],"published":"2024-07-11T14:06:50Z","modified":"2026-10-02T05:38:49Z"}
