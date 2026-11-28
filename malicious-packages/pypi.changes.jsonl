@@ -1,3 +1,11 @@
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"audiorig","id":"MAL-2026-20724","versions":["0.2.1","0.2.2"],"published":"2026-11-27T19:39:02Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"minecho","id":"MAL-2026-20725","versions":["0.2.1","0.2.2","0.3.0"],"published":"2026-11-27T19:35:47Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"qwen-tts-cpu","id":"MAL-2026-20726","versions":["0.3.0"],"published":"2026-11-27T19:39:00Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"qwen-tts-runtime","id":"MAL-2026-20727","versions":["0.3.0"],"published":"2026-11-27T19:38:55Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"qwentts-gradio","id":"MAL-2026-20728","versions":["0.3.0"],"published":"2026-11-27T19:38:58Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"qwenvox-tts-3","id":"MAL-2026-20729","versions":["0.3.0"],"published":"2026-11-27T19:38:56Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"toneharbor","id":"MAL-2026-20730","versions":["0.2.1","0.2.2"],"published":"2026-11-27T19:39:04Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"waveferry","id":"MAL-2026-20731","versions":["0.2.1","0.2.2"],"published":"2026-11-27T19:39:05Z"}
 {"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"audiostint","id":"MAL-2026-20715","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:38:37Z"}
 {"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"audiowharf","id":"MAL-2026-20716","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:55:23Z"}
 {"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"decodewhistle","id":"MAL-2026-20717","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:39:52Z"}

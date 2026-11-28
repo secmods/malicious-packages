@@ -1,3 +1,15 @@
+{"name":"twilio-webchat-widget","id":"MAL-2025-5587","aliases":["GHSA-f84c-f5p6-h6w6"],"published":"2025-07-02T08:50:56Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twilio.github.io","id":"MAL-2025-1052","aliases":["GHSA-4prq-93xp-p5xw","SNYK-JS-TWILIOGITHUBIO-8689838"],"published":"2025-02-03T17:25:15Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twiliobox","id":"MAL-2026-10593","versions":["1.0.0"],"published":"2026-07-14T13:59:56Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twiliointernal-messaging-toolbox","id":"MAL-2026-10938","published":"2026-07-20T00:00:00Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twinbox","id":"MAL-2025-37376","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twine-rails","id":"MAL-2025-37377","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twine-to-yoto","id":"MAL-2025-37378","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twinit-cdk","id":"MAL-2022-6696","aliases":["GHSA-x44m-jx9r-94mv"],"published":"2022-06-20T20:16:07Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twinkle-abide-fit011-project","id":"MAL-2025-37379","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twinkle-cascade-sqe614-project","id":"MAL-2025-37380","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twinmotion","id":"MAL-2023-1324","aliases":["SNYK-JS-TWINMOTION-3336071"],"versions":["99.1.1","99.1.2"],"published":"2023-04-29T10:30:21Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"twisted-palace-the-royals-3-by-erin-watt-on-kindle-full-edition-","id":"MAL-2023-915","aliases":["GHSA-5cvr-hhqh-vhf4"],"published":"2023-05-10T13:24:33Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twitch-core-ui","id":"MAL-2022-6697","aliases":["GHSA-fvvf-hj4q-5h8r"],"published":"2022-06-20T20:16:03Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twitch-desktop-agent","id":"MAL-2022-6698","aliases":["GHSA-7r39-8jr7-j7fg"],"published":"2022-06-20T20:15:48Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"twitch-desktop-components","id":"MAL-2022-6699","aliases":["GHSA-5phh-v794-5gqv"],"published":"2022-06-20T20:16:08Z","modified":"2026-10-02T05:38:49Z"}
@@ -6746,6 +6758,7 @@
 {"name":"ve-loaer","id":"MAL-2022-6901","aliases":["GHSA-554g-m7v4-vr85"],"published":"2022-08-19T03:55:22Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ve-vores","id":"MAL-2025-4903","aliases":["GHSA-8m65-4fpp-8gr7"],"published":"2025-06-10T04:42:36Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"ve.zz","id":"MAL-2025-49243","published":"2025-10-30T17:38:57Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"ve.zz.vic","id":"MAL-2026-20740","aliases":["GHSA-7ggj-67wg-5j9h"],"published":"2026-11-27T22:40:19Z","modified":"2026-11-28T02:19:04Z"}
 {"name":"vecboy","id":"MAL-2025-38183","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vectorflow","id":"MAL-2025-1641","aliases":["GHSA-fpcp-h6jf-f345"],"published":"2025-02-28T15:57:44Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"vectorize-perf-alt","id":"MAL-2025-48768","published":"2025-10-26T19:03:27Z","modified":"2026-10-02T05:38:49Z"}
@@ -10581,6 +10594,8 @@
 {"name":"voteful","id":"MAL-2025-38617","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"votesapp","id":"MAL-2025-38618","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"voting-client-js","id":"MAL-2025-3775","aliases":["GHSA-p38c-qj3q-9jpw"],"published":"2025-05-12T05:59:13Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"vourfly-search","id":"MAL-2026-20741","aliases":["GHSA-7792-2fvq-9945"],"published":"2026-11-27T22:40:19Z","modified":"2026-11-28T02:19:04Z"}
+{"name":"vourfly-tele","id":"MAL-2026-20742","aliases":["GHSA-2j2v-j986-9rwv"],"published":"2026-11-27T22:40:19Z","modified":"2026-11-28T02:19:04Z"}
 {"name":"vow-got","id":"MAL-2024-3830","aliases":["SNYK-JS-VOWGOT-3326409"],"versions":["1.1.0","1.1.1","1.18.1","13.1.0"],"published":"2024-06-25T13:19:20Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"voyage_1vt5y_uyn8a_harmony","id":"MAL-2025-38620","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"voyage_c1jzt_rvz3z_giraffe","id":"MAL-2025-38621","published":"2025-08-14T18:52:04Z","modified":"2026-10-02T05:38:49Z"}

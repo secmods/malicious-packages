@@ -1,3 +1,17 @@
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"@jayhackpro/jayshield","id":"MAL-2026-20744","aliases":["GHSA-9r6j-mj8j-37g7"],"versions":["1.2.1"],"published":"2026-11-28T01:07:35Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"@veryflore/discord","id":"MAL-2026-20735","aliases":["GHSA-4pm6-4j84-374v"],"published":"2026-11-27T22:40:19Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"cvcpg-sear","id":"MAL-2026-20736","aliases":["GHSA-9fpx-2hv2-9q73"],"published":"2026-11-27T22:40:19Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"electric-bails","id":"MAL-2026-20732","aliases":["GHSA-x9w8-mh3x-qgxx"],"published":"2026-11-27T19:17:49Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"eth-expl","id":"MAL-2026-20723","aliases":["GHSA-3vvx-6qr4-p6hp"],"published":"2026-11-27T19:15:21Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"https-box","id":"MAL-2026-20733","aliases":["GHSA-qj7v-5hrv-x78g"],"published":"2026-11-27T21:11:10Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"itsa-jsext","id":"MAL-2026-20734","aliases":["GHSA-ghxr-rx67-45jh"],"versions":["2.0.3"],"published":"2026-11-27T21:47:53Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"line-vourfly","id":"MAL-2026-20737","aliases":["GHSA-j3v3-wqqc-7gh3"],"published":"2026-11-27T22:40:19Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"lint-entry","id":"MAL-2026-20738","aliases":["GHSA-9xqg-xw49-r74r"],"published":"2026-11-27T23:12:15Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"localedate","id":"MAL-2026-20743","aliases":["GHSA-hwxc-h2j7-h38q"],"published":"2026-11-27T23:17:37Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"npms-search","id":"MAL-2026-20739","aliases":["GHSA-jp87-5gv4-8vx4"],"published":"2026-11-27T22:40:19Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"ve.zz.vic","id":"MAL-2026-20740","aliases":["GHSA-7ggj-67wg-5j9h"],"published":"2026-11-27T22:40:19Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"vourfly-search","id":"MAL-2026-20741","aliases":["GHSA-7792-2fvq-9945"],"published":"2026-11-27T22:40:19Z"}
+{"op":"upsert","modified":"2026-11-28T02:19:04Z","name":"vourfly-tele","id":"MAL-2026-20742","aliases":["GHSA-2j2v-j986-9rwv"],"published":"2026-11-27T22:40:19Z"}
 {"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"@animebails/baileys","id":"MAL-2026-18805","aliases":["GHSA-2984-h5pw-9q5h"],"published":"2026-10-27T00:00:00Z"}
 {"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"@elfhkry666/baileys","id":"MAL-2026-18825","aliases":["GHSA-hj86-h9x2-wvwf"],"published":"2026-10-27T00:00:00Z"}
 {"op":"upsert","modified":"2026-11-27T19:13:54Z","name":"@kingorwot/libsignal-node","id":"MAL-2026-20711","aliases":["GHSA-rg47-rqcv-w935"],"published":"2026-11-27T15:45:53Z"}

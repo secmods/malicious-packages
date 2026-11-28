@@ -413,6 +413,7 @@
 {"name":"auclean","id":"MAL-2026-16410","versions":["0.4.2","0.4.3","0.4.4"],"published":"2026-09-22T20:59:00Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"audio-separator-fork","id":"MAL-2024-9947","versions":["0.8.0","0.8.1","0.8.10","0.8.11","0.8.2","0.8.3","0.8.4","0.8.6","0.8.7","0.8.8","0.8.9"],"published":"2024-08-11T12:09:25Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"audiokit","id":"MAL-2026-18158","versions":["0.1.0"],"published":"2026-10-22T00:56:23Z","modified":"2026-10-22T02:11:22Z"}
+{"name":"audiorig","id":"MAL-2026-20724","versions":["0.2.1","0.2.2"],"published":"2026-11-27T19:39:02Z","modified":"2026-11-28T02:19:04Z"}
 {"name":"audiostint","id":"MAL-2026-20715","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:38:37Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"audiowharf","id":"MAL-2026-20716","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T17:55:23Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"audit-themis-i18n","id":"MAL-2024-12210","versions":["2.3.5"],"published":"2024-08-22T22:25:03Z","modified":"2026-10-02T05:38:49Z"}
@@ -5364,6 +5365,7 @@
 {"name":"minead","id":"MAL-2023-4754","published":"2023-02-23T23:45:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"minecandy","id":"MAL-2023-4755","published":"2023-02-24T16:54:16Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"minecc","id":"MAL-2023-4756","published":"2023-02-24T16:51:01Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"minecho","id":"MAL-2026-20725","versions":["0.2.1","0.2.2","0.3.0"],"published":"2026-11-27T19:35:47Z","modified":"2026-11-28T02:19:04Z"}
 {"name":"minecontrol","id":"MAL-2023-4757","published":"2023-02-24T16:51:07Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"minecpu","id":"MAL-2023-4758","published":"2023-02-24T16:51:11Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"minecraft-utilities-api","id":"MAL-2024-5367","versions":["0.3.6","0.3.9","0.4.1","0.4.2"],"published":"2024-06-25T13:37:16Z","modified":"2026-10-02T05:38:49Z"}
@@ -7990,7 +7992,11 @@
 {"name":"quillonatts","id":"MAL-2026-18145","versions":["0.1.0"],"published":"2026-10-21T23:03:57Z","modified":"2026-10-21T23:52:32Z"}
 {"name":"quizdom","id":"MAL-2025-3208","versions":["0.1.0","0.2.0","0.3.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qwen-asr-pvt","id":"MAL-2026-10690","versions":["0.0.6"],"published":"2026-07-15T17:53:25Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"qwen-tts-cpu","id":"MAL-2026-20726","versions":["0.3.0"],"published":"2026-11-27T19:39:00Z","modified":"2026-11-28T02:19:04Z"}
+{"name":"qwen-tts-runtime","id":"MAL-2026-20727","versions":["0.3.0"],"published":"2026-11-27T19:38:55Z","modified":"2026-11-28T02:19:04Z"}
 {"name":"qwen3ttsui","id":"MAL-2026-19207","versions":["0.1.0"],"published":"2026-11-13T01:22:27Z","modified":"2026-11-13T10:13:34Z"}
+{"name":"qwentts-gradio","id":"MAL-2026-20728","versions":["0.3.0"],"published":"2026-11-27T19:38:58Z","modified":"2026-11-28T02:19:04Z"}
+{"name":"qwenvox-tts-3","id":"MAL-2026-20729","versions":["0.3.0"],"published":"2026-11-27T19:38:56Z","modified":"2026-11-28T02:19:04Z"}
 {"name":"qwery-core","id":"MAL-2026-1226","versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7"],"published":"2026-03-03T19:19:13Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qyrm-pipinject4","id":"MAL-2026-2016","versions":["1.0"],"published":"2026-03-21T15:46:26Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"qzc690382","id":"MAL-2026-18749","versions":["1.0.0"],"published":"2026-11-07T10:21:14Z","modified":"2026-11-07T14:28:41Z"}
@@ -10344,6 +10350,7 @@
 {"name":"tomli-dzw","id":"MAL-2024-11729","versions":["1.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tommygtst","id":"MAL-2024-6162","versions":["0.1.0"],"published":"2024-06-25T13:43:47Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"tomproxies","id":"MAL-2024-6163","versions":["1.0"],"published":"2024-06-25T13:43:47Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"toneharbor","id":"MAL-2026-20730","versions":["0.2.1","0.2.2"],"published":"2026-11-27T19:39:04Z","modified":"2026-11-28T02:19:04Z"}
 {"name":"toneloop","id":"MAL-2026-20720","versions":["0.1.0","0.2.0"],"published":"2026-11-27T17:35:45Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"tonemaptts","id":"MAL-2026-17918","versions":["0.1.0"],"published":"2026-10-17T17:06:12Z","modified":"2026-10-17T18:55:49Z"}
 {"name":"toneo","id":"MAL-2025-995","versions":["1.4.3"],"published":"2025-02-03T17:07:59Z","modified":"2026-10-02T05:38:49Z"}
@@ -11719,6 +11726,7 @@
 {"name":"wasig4321","id":"MAL-2025-2011","versions":["1.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"watchitoring","id":"MAL-2025-3015","versions":["0.1.0","0.1.1"],"published":"2025-02-13T13:18:05Z","modified":"2026-10-02T05:38:49Z"}
 {"name":"wave-opensdk","id":"MAL-2024-12368","versions":["1.0.0"],"published":"2024-07-26T16:53:30Z","modified":"2026-10-02T05:38:49Z"}
+{"name":"waveferry","id":"MAL-2026-20731","versions":["0.2.1","0.2.2"],"published":"2026-11-27T19:39:05Z","modified":"2026-11-28T02:19:04Z"}
 {"name":"wavforge","id":"MAL-2026-19193","versions":["0.1.0"],"published":"2026-11-12T20:49:48Z","modified":"2026-11-13T02:13:55Z"}
 {"name":"wavlathe","id":"MAL-2026-20722","versions":["0.1.0","0.2.0","0.2.1"],"published":"2026-11-27T18:01:05Z","modified":"2026-11-27T19:13:54Z"}
 {"name":"waymo-waymax","id":"MAL-2026-6961","versions":["99.0.0"],"published":"2026-07-08T04:08:07Z","modified":"2026-10-02T05:38:49Z"}
